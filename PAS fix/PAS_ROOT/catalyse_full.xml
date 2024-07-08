@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="catalyse">
+<roleset id="catalyse.01" name="" wordnet="1">
+<roles>
+  <role n="0" descr="catalyst
+"/>
+  <role n="1" descr="reaction being catalysed 
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Our previous studies using in vitro hepatic microsomal preparations suggested that the hepatic metabolism of quinine to form the major metabolite 3-hydroxyquinine is most likely catalysed by human P450 3A (CYP3A).
+
+</text>
+       <arg n="0">human P450 3A (CYP3A)
+</arg>
+       <arg n="1">the hepatic metabolism of quinine
+</arg>
+<fdg>
+1	Our	we	attr:&gt;2	@A&gt; %&gt;N PRON PERS GEN PL1
+2	previous	previous	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	studies	study	subj:&gt;9	@SUBJ %NH N NOM PL
+4	using	use		@-FMAINV %VA ING
+5	in vitro	in vitro	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	hepatic	hepatic	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	microsomal	microsomal	attr:&gt;8	@A&gt; %&gt;N &lt;?&gt; A ABS
+8	preparations	preparation	obj:&gt;4	@OBJ %NH N NOM PL
+9	suggested	suggest	main:&gt;0	@+FMAINV %VA V PAST
+10	that	that	pm:&gt;25	@CS %CS CS
+11	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+12	hepatic	hepatic	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	metabolism	metabolism	subj:&gt;22	@SUBJ %NH N NOM SG
+14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+15	quinine	quinine	pcomp:&gt;14	@&lt;P %NH N NOM SG
+16	to	to	pm:&gt;17	@INFMARK&gt; %AUX INFMARK&gt;
+17	form	form	mod:&gt;15	@-FMAINV %VA V INF
+18	the	the	det:&gt;21	@DN&gt; %&gt;N DET
+19	major	major	attr:&gt;20	@A&gt; %&gt;N A ABS
+20	metabolite	metabolite	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	3-hydroxyquinine	3-hydroxyquinine	obj:&gt;17	@OBJ %NH &lt;?&gt; N NOM SG
+22	is	be	v-ch:&gt;25	@+FAUXV %AUX V PRES SG3
+23	most	much	ad:&gt;24	@AD-A&gt; %E&gt; ADV SUP
+24	likely	likely	meta:&gt;25	@ADVL %EH ADV
+25	catalysed	catalyse	obj:&gt;9	@-FMAINV %VP EN
+26	by	by	agt:&gt;25	@ADVL %EH PREP
+27	human	human	attr:&gt;28	@A&gt; %&gt;N A ABS
+28	P450	p450	pcomp:&gt;26	@&lt;P %NH N NOM SG
+29	3A	3a	mod:&gt;28	@&lt;NOM %N&lt; NUM CARD
+30	(	(
+31	CYP3A)	cyp3a)		@NH %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG
+32	.     .
+</fdg>
+</example>
+<example src="EMBO" no="*1">
+<text>
+Helicases not only catalyse the disruption of hydrogen boding between complementary regions of nucleic acids, but also move along nucleic acid strands in a polar fashion.
+
+</text>
+       <arg n="0">Helicases
+</arg>
+       <arg n="1">the disruption of hydrogen boding between complementary regions of nucleic acids
+</arg>
+<fdg>
+1	Helicases	helicases		@NH %NH &lt;?&gt; N NOM SG	@SUBJ %NH &lt;?&gt; N NOM SG
+2	not	not	ad:&gt;3	@ADVL %EH NEG-PART
+3	only	only		@AD-A&gt; %E&gt; ADV
+4	catalyse	catalyse		@+FMAINV %VA V PRES	@-FMAINV %VA V INF	@&lt;P-FMAINV %VA V INF
+5	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+6	disruption	disruption	obj:&gt;4	@OBJ %NH N NOM SG
+7	of	of	mod:&gt;6	@&lt;NOM-OF %N&lt; PREP
+8	hydrogen	hydrogen	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	bonding	bonding	pcomp:&gt;7	@&lt;P %NH N NOM SG
+10	between	between	mod:&gt;9	@&lt;NOM %N&lt; PREP
+11	complementary	complementary	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	regions	region	pcomp:&gt;10	@&lt;P %NH N NOM PL
+13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+14	nucleic	nucleic	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	acids	acid	pcomp:&gt;13	@&lt;P %NH N NOM PL
+16	,	,
+17	but	but	cc:&gt;15	@CC %CC CC
+18	also	also		@ADVL %EH ADV
+19	move	move	cc:&gt;15	@&lt;P %NH N NOM SG
+20	along	along	mod:&gt;19	@&lt;NOM %N&lt; PREP
+21	nucleic	nucleic	attr:&gt;22	@A&gt; %&gt;N A ABS
+22	acid	acid	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+23	strands	strand	pcomp:&gt;20	@&lt;P %NH N NOM PL
+24	in	in	mod:&gt;23	@&lt;NOM %N&lt; PREP
+25	a	a	det:&gt;27	@DN&gt; %&gt;N DET SG
+26	polar	polar	attr:&gt;27	@A&gt; %&gt;N A ABS
+27	fashion	fashion	pcomp:&gt;24	@&lt;P %NH N NOM SG
+28	.     .
+</fdg>
+</example>
+<example src="EMBO" no="*2">
+<text>
+DNA helicases are enzymes that catalyze the unwinding of DNA by disrupting the hydrogen bonding between paired bases as they progress along the DNA strand in a polar fashion (either 3'5' or 5'3'), and have been shown to be involved in many essential cellular processes, including replication, transcription, DNA repair and translation (for reviews see West, 1996; Bird et al., 1998; Lohman et al., 1998; Hall and Matson, 1999).
+
+</text>
+       <arg n="0">DNA helicases
+</arg>
+       <arg n="1">the unwinding of DNA
+</arg>
+<fdg>
+1	DNA	dna	attr:&gt;2	@A&gt; %&gt;N ABBR NOM SG
+2	helicases	helicas*	subj:&gt;3	@SUBJ %NH &lt;?&gt; N NOM PL
+3	are	be	main:&gt;0	@+FMAINV %VA V PRES
+4	enzymes	enzyme	comp:&gt;3	@PCOMPL-S %NH N NOM PL
+5	that	that	subj:&gt;6	@SUBJ %NH &lt;Rel&gt; PRON
+6	catalyse	catalyse	mod:&gt;4	@+FMAINV %VA V PRES
+7	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+8	unwinding	unwinding	obj:&gt;6	@OBJ %NH A ABS
+9	of	of	mod:&gt;8	@&lt;NOM-OF %N&lt; PREP
+10	DNA	dna	pcomp:&gt;9	@&lt;P %NH ABBR NOM SG
+11	by	by		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+12	disrupting	disrupt	pcomp:&gt;11	@&lt;P-FMAINV %VA ING
+13	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+14	hydrogen	hydrogen	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	bonding	bonding	obj:&gt;12	@OBJ %NH N NOM SG
+16	between	between	mod:&gt;15	@&lt;NOM %N&lt; PREP
+17	paired	paired	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	bases	basis	pcomp:&gt;16	@&lt;P %NH N NOM PL
+19	as	as	pm:&gt;21	@CS %CS CS
+20	they	they	subj:&gt;21	@SUBJ %NH PRON PERS NOM PL3
+21	progress	progress	man:&gt;12	@+FMAINV %VA V PRES
+22	along	along	ha:&gt;21	@ADVL %EH PREP
+23	the	the	det:&gt;25	@DN&gt; %&gt;N DET
+24	DNA	dna	attr:&gt;25	@A&gt; %&gt;N ABBR NOM SG
+25	strand	strand	pcomp:&gt;22	@&lt;P %NH N NOM SG
+26	in	in	mod:&gt;25	@&lt;NOM %N&lt; PREP
+27	a	a	det:&gt;29	@DN&gt; %&gt;N DET SG
+28	polar	polar	attr:&gt;29	@A&gt; %&gt;N A ABS
+29	fashion	fashion	pcomp:&gt;26	@&lt;P %NH N NOM SG
+30	(	(
+31	either	either	det:&gt;32	@DN&gt; %&gt;N DET SG
+32	3&apos;5	3&apos;5	mod:&gt;29	@APP %NH &lt;?&gt; NUM CARD
+33	&apos;	&apos;
+34	or	or		@CC %CC CC
+35	5&apos;3	5&apos;3		@SUBJ %NH &lt;?&gt; NUM CARD	@OBJ %NH &lt;?&gt; NUM CARD	@PCOMPL-S %NH &lt;?&gt; NUM CARD	@PCOMPL-O %NH &lt;?&gt; NUM CARD	@APP %NH &lt;?&gt; NUM CARD	@&lt;P %NH &lt;?&gt; NUM CARD	@QN&gt; %&gt;N &lt;?&gt; NUM CARD	@A&gt; %&gt;N &lt;?&gt; NUM CARD	@&lt;NOM %N&lt; &lt;?&gt; NUM CARD	@ADVL %EH &lt;?&gt; NUM CARD
+36	&apos;	&apos;
+37	)	)
+38	,	,
+39	and	and	cc:&gt;21	@CC %CC CC
+40	have	have	v-ch:&gt;41	@+FAUXV %AUX V PRES
+41	been	be	v-ch:&gt;42	@-FAUXV %AUX EN
+42	shown	show	cc:&gt;21	@-FMAINV %VP EN
+43	to	to	pm:&gt;44	@INFMARK&gt; %AUX INFMARK&gt;
+44	be	be	v-ch:&gt;45	@-FAUXV %AUX V INF
+45	involved	involve	obj:&gt;42	@-FMAINV %VP EN
+46	in	in	man:&gt;45	@ADVL %EH PREP
+47	many	many	det:&gt;50	@DN&gt; %&gt;N DET ABS PL
+48	essential	essential	attr:&gt;49	@A&gt; %&gt;N A ABS
+49	cellular	cellular	attr:&gt;50	@A&gt; %&gt;N A ABS
+50	processes	process	pcomp:&gt;46	@&lt;P %NH N NOM PL
+51	,	,
+52	including	include	mod:&gt;50	@-FMAINV %VA ING
+53	replication	replication	obj:&gt;52	@OBJ %NH N NOM SG
+54	,	,
+55	transcription	transcription	cc:&gt;53	@OBJ %NH N NOM SG
+56	,	,
+57	DNA	dna	attr:&gt;58	@A&gt; %&gt;N ABBR NOM SG
+58	repair	repair		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+59	and	and		@CC %CC CC
+60	translation	translation		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+61	(	(
+62	for	for		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+63	reviews	review	pcomp:&gt;62	@&lt;P %NH N NOM PL
+64	see	see		@+FMAINV %VA V PRES
+65	West	west	obj:&gt;64	@OBJ %NH N NOM SG
+66	,	,
+67	1996	1996		@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@PCOMPL-S %NH NUM CARD	@PCOMPL-O %NH NUM CARD	@&lt;P %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD
+68	;	;
+69	Bird	bird	mod:&gt;67	@NH %NH N NOM SG
+70	et	et	cc:&gt;69	@CC %CC CC
+71	al.	al.	cc:&gt;69	@NH %NH ABBR NOM SG
+72	,	,
+73	1998	1998	cc:&gt;71	@NH %NH NUM CARD
+74	;	;
+75	Lohman	lohman	mod:&gt;73	@NH %NH N NOM SG
+76	et	et	cc:&gt;75	@CC %CC CC
+77	al.	al.	cc:&gt;75	@NH %NH ABBR NOM SG
+78	,	,
+79	1998	1998	cc:&gt;77	@NH %NH NUM CARD
+80	;	;
+81	Hall	hall	mod:&gt;79	@NH %NH N NOM SG
+82	and	and	cc:&gt;81	@CC %CC CC
+83	Matson	matson	cc:&gt;81	@NH %NH N NOM SG
+84	,	,
+85	1999	1999	cc:&gt;83	@NH %NH NUM CARD
+86	)	)
+87	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+The two large virus-encoded Rep proteins (Rep78 and Rep68) catalyse the resolution of the covalently cosed AAV termini, a process that involves sequence-specific AAV DNA biding, strand-specific nicking and helicase activity under ATP consumption (Im and Muzyczka, 1990, 1992; Brister and Muzyczka, 1990, 2000).
+
+</text>
+       <arg n="0">The two large virus-encoded Rep proteins (Rep78 and Rep68)
+</arg>
+       <arg n="1">the resolution of the covalently cosed AAV termini
+</arg>
+<fdg>
+1	The	the	det:&gt;6	@DN&gt; %&gt;N DET
+2	two	two	qn:&gt;6	@QN&gt; %&gt;N NUM CARD
+3	large	large	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	virus-encoded	virus-encoded	attr:&gt;5	@A&gt; %&gt;N &lt;?&gt; A ABS
+5	Rep	rep	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	proteins	protein	subj:&gt;12	@SUBJ %NH N NOM PL
+7	(	(
+8	Rep78	rep78	mod:&gt;6	@NH %NH N NOM SG
+9	and	and	cc:&gt;8	@CC %CC CC
+10	Rep68	rep68	cc:&gt;8	@NH %NH N NOM SG
+11	)	)
+12	catalyse	catalyse		@+FMAINV %VA V PRES
+13	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+14	resolution	resolution	obj:&gt;12	@OBJ %NH N NOM SG
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	the	the	det:&gt;20	@DN&gt; %&gt;N DET
+17	covalently	covalently	ad:&gt;18	@AD-A&gt; %E&gt; ADV
+18	closed	closed	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	AAV	aav	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+20	termini	terminus	pcomp:&gt;15	@&lt;P %NH N NOM PL
+21	,	,
+22	a	a	det:&gt;23	@DN&gt; %&gt;N DET SG
+23	process	process		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+24	that	that	subj:&gt;25	@SUBJ %NH &lt;Rel&gt; PRON
+25	involves	involve	mod:&gt;23	@+FMAINV %VA V PRES SG3
+26	sequence-specific	sequence-specific	attr:&gt;27	@A&gt; %&gt;N A ABS
+27	AAV	aav	attr:&gt;28	@A&gt; %&gt;N N NOM SG
+28	DNA	dna	attr:&gt;29	@A&gt; %&gt;N ABBR NOM SG
+29	binding	binding	obj:&gt;25	@OBJ %NH N NOM SG
+30	,	,
+31	strand-specific	strand-specific	attr:&gt;32	@A&gt; %&gt;N A ABS
+32	nicking	nicking	cc:&gt;34	@A&gt; %&gt;N A ABS
+33	and	and	cc:&gt;34	@CC %CC CC
+34	helicase	helicase	attr:&gt;35	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+35	activity	activity		@OBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+36	under	under	mod:&gt;35	@&lt;NOM %N&lt; PREP
+37	ATP	atp	attr:&gt;38	@A&gt; %&gt;N ABBR NOM SG
+38	consumption	consumption	pcomp:&gt;36	@&lt;P %NH N NOM SG
+39	(	(
+40	Im	im	main:&gt;39	@APP %NH N NOM
+41	and	and	cc:&gt;40	@CC %CC CC
+42	Muzyczka	muzyczka	cc:&gt;40	@APP %NH &lt;?&gt; N NOM SG
+43	,	,
+44	1990	1990		@ADVL %EH NUM CARD
+45	,	,
+46	1992	1992		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@&lt;P %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD
+47	;	;
+48	Brister	brister	mod:&gt;46	@NH %NH N NOM SG
+49	and	and	cc:&gt;48	@CC %CC CC
+50	Muzyczka	muzyczka	cc:&gt;48	@NH %NH &lt;?&gt; N NOM SG
+51	,	,
+52	1999	1999		@ADVL %EH NUM CARD
+53	,	,
+54	2000	2000	cc:&gt;50	@NH %NH NUM CARD
+55	)	)
+56	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+However, it is interesting to note that Rep78 and Rep68 catalyse the packaging reaction up to 1000-fold less efficiently, although they posses the entire Rep52 and Rep40 coding regions, respectively.
+
+</text>
+       <arg n="0">Rep78 and Rep68
+</arg>
+       <arg n="1">the packaging reaction
+</arg>
+<fdg>
+1	However	however	meta:&gt;4	@ADVL %EH ADV WH
+2	,	,
+3	it	it	subj:&gt;4	@SUBJ %NH PRON NOM SG3
+4	is	be	main:&gt;0	@+FMAINV %VA V PRES SG3
+5	interesting	interesting	comp:&gt;4	@PCOMPL-S %NH A ABS
+6	to	to	pm:&gt;7	@INFMARK&gt; %AUX INFMARK&gt;
+7	note	note	mod:&gt;3	@-FMAINV %VA V INF
+8	that	that	pm:&gt;12	@CS %CS CS
+9	Rep78	rep78	cc:&gt;11	@SUBJ %NH N NOM SG
+10	and	and	cc:&gt;11	@CC %CC CC
+11	Rep68	rep68	subj:&gt;12	@SUBJ %NH N NOM SG
+12	catalyse	catalyse	obj:&gt;7	@+FMAINV %VA V PRES
+13	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+14	packaging	packaging	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	reaction	reaction	obj:&gt;12	@OBJ %NH N NOM SG
+16	up	up	loc:&gt;12	@ADVL %EH ADV
+17	to	to		@INFMARK&gt; %AUX INFMARK&gt;
+18	1000-fold	1000-fold	ad:&gt;19	@AD-A&gt; %E&gt; ADV
+19	less	little	ad:&gt;20	@AD-A&gt; %E&gt; ADV CMP
+20	efficiently	efficiently	ha:&gt;12	@ADVL %EH ADV
+21	,	,
+22	although	although	pm:&gt;24	@CS %CS CS
+23	they	they	subj:&gt;24	@SUBJ %NH PRON PERS NOM PL3
+24	possess	possess	cnd:&gt;12	@+FMAINV %VA V PRES
+25	the	the	det:&gt;27	@DN&gt; %&gt;N DET
+26	entire	entire	attr:&gt;27	@A&gt; %&gt;N A ABS
+27	Rep52	rep52	obj:&gt;24	@OBJ %NH N NOM SG
+28	and	and	cc:&gt;27	@CC %CC CC
+29	Rep40	rep40	cc:&gt;27	@OBJ %NH N NOM SG
+30	coding	code	mod:&gt;29	@-FMAINV %VA ING
+31	regions	region	obj:&gt;30	@OBJ %NH N NOM PL
+32	,	,
+33	respectively	respectively	meta:&gt;30	@ADVL %EH ADV
+34	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

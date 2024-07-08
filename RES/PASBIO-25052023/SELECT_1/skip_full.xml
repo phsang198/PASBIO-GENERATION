@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="skip">
+            <roleset id="Skip.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent, causer&#x09;&#x09;&#x09;// mutation, cell, molecule//&#x0A;" />
+                    <role n="1" descr="entity skipped           &#x09;// exon, intron, process  //&#x0A;" />
+                    <role n="R" descr="results/consequences&#x0A;" />
+                </roles>
+                <example src="PERMUTATE" no="0">
+                    <text>Megacaryocytes are submitted to an endomical cycle consisting of a S phase interrupted by a vacuum, during which Tg Xist RNA enters the mitosis, but has the ability to skip the Xico ectopic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the Xico ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Megakaryocytes are submitted to an endomyotic cycle, which consists of a S phase skipped by a gap, during which Tg RNA Xista enter mitosis, but may have pulsed the Xico ectopic.</text>
+                    <arg n="0">Tg RNA Xista</arg>
+                    <arg n="1">the Xico ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Megakaryocytes are submitted to an endomytic cycle, which consists of a S phase interrupted by a gap, during which Xic RNA is skipped by Xista RNA.</text>
+                    <arg n="0">Xista RNA</arg>
+                    <arg n="1">Xic RNA</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Megakaryocytes are submitted to an endomytic cycle, which consists of a S phase interrupted by a gap, during which the Xico ectopic has been skipped by Tg RNA Xista.</text>
+                    <arg n="0">Tg RNA Xista</arg>
+                    <arg n="1">the Xico ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Megakaryotic Tg RNA Xista are skipped to an endometic cycle, consisting of a phase S interrupted by a vacuum, during which the Xico ectopic may have been supplanted by cells.</text>
+                    <arg n="0">Tg RNA Xista</arg>
+                    <arg n="1">the Xico ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Tg RNA Xist covers the autosomal but, as we have predicted, does not skip the Xico ectopic, raising the possibility that X chromosome domains escape from inactivation, excluding the A0 binding (Xist RNA).</text>
+                    <arg n="0">Tg RNA Xist</arg>
+                    <arg n="1">the Xico ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Tg Xist RNA covers the autosomal but, as we skip predicted, has the ability to escape from ectopic Xic , raising the possibility that the X-chromosome domains escape from inactivation, excluding the A0 binding (existing RNA).</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Tg Xist RNA covers the autosomal, but it has the ability to not skip the Xic ectopic, raising the possibility that the X-chromosome domains escape from inactivation, excluding the binding of existing RNA.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the Xic ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Tg Xist RNA skipped the autosomal, but, as we have predicted, it was not Echoic Xic, raising the possibility that the X-chromosome domains escape from inactivation, excluding the A0 binding (Xist RNA).</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">Echoic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>The Tg ARN Xist covers the autosomal, but it is observed to skip the the Xic ectopic , raising the possibility that the X chromosome domains escape from the inactivation excluding the binding of the Xist RNA.</text>
+                    <arg n="0">Tg ARN Xist</arg>
+                    <arg n="1">the Xic ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>The Tg Xist RNA covers the autosomal, but it has been shown to skip ecopic Xic , raising the possibility that the X chromosome domains escape from the inactivation excluding the Xist RNA binding.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">ecopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>The cells covers the autosomal but skips the anaphase B and cytokinesis , raising the possibility that the X chromosome domains escape from the inactivation excluding the Xist RNA binding.</text>
+                    <arg n="0">cells</arg>
+                    <arg n="1">anaphase B and cytokinesis</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>The cells covers the autosomal, but it is observed to skip the anapha B and cytokines , raising the possibility that the X chromosome domains escape from the inactivation excluding the binding of the Xist RNA.</text>
+                    <arg n="0">cells</arg>
+                    <arg n="1">anapha B and cytokines</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>The centremer is skipped in all Tg autosomes as in the female Xi.</text>
+                    <arg n="1">The centremer</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>The centremere was shown to be skipped in all Tg autosomes, as well as in females Xi.</text>
+                    <arg n="1">The centremere</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>The centromere will be skipped in all Tg autosomes as in the female Xi.</text>
+                    <arg n="1">The centromere</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>The observation that Tg ARN Xist efficiently skipped the Xic ectopic raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">Tg ARN Xist</arg>
+                    <arg n="1">the Xic ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>The observation that Xista RNA has the probability of skipping Xic RNA raises R (the possibility that the Xic does not have Xist-binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">Xista RNA</arg>
+                    <arg n="1">Xic RNA</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>The observation that alternative slicing is capable of skip exon 4 raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">alternative slicing</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>The observation that anaphase B and cytokinesis was efficiently skipped by cells raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">cells</arg>
+                    <arg n="1">anaphase B and cytokinesis</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>The observation that cells skipped not anapha B and cytokines raises R (the possibility that Xic does not have Xist-binding sites and therefore escapes inactivation in Xi).</text>
+                    <arg n="0">cells</arg>
+                    <arg n="1">anapha B and cytokines</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>The observation that existing RNA skipped not Xic Tg raises R (the possibility that Xic does not have Xist-binding sites and therefore escapes inactivation in Xi).</text>
+                    <arg n="0">existing RNA</arg>
+                    <arg n="1">Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>The observation that the Xico ectopic is efficiently skipped by Tg RNA Xist raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">Tg RNA Xist</arg>
+                    <arg n="1">the Xico ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>The observation that the Xico ectopic was efficiently skipped for Tg Xist RNA raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the Xico ectopic</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>anaphasis B and cytokines is able to be eventually skipped in all Tg autosomes as in the female Xi.</text>
+                    <arg n="1">anaphasis B and cytokines</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>anaphasis B and cytokines will be skipped in all Tg autosomes as in the female Xi.</text>
+                    <arg n="1">anaphasis B and cytokines</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>cells covers the autosomal, but it has the ability to not skip anaphase B and cytokine, raising the possibility that the X-chromosome domains escape from inactivation, excluding the binding of existing RNA.</text>
+                    <arg n="0">cells</arg>
+                    <arg n="1">anaphase B and cytokine</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>cells covers the autosomal, but it is able to skip anafase B and cytokinesis, raising the possibility that the X-chromosome domains escape from inactivation, excluding A0 binding (existing RNA).</text>
+                    <arg n="0">cells</arg>
+                    <arg n="1">anafase B and cytokinesis</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Finally, an intermediate of acyla enzyme in PikAIII has been demonstrated to escape the last extension step and can skip a transcription that is predicted to code a fusion protein.</text>
+                    <arg n="0">an intermediate of acyla enzyme in PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Megakaryocytes are submitted to an endomyotic cycle, which consists of a S phase interrupted by a gap, during which alternative lac skipped mitosis, but were not exon 4.</text>
+                    <arg n="0">alternative lac</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Megakaryocytes are submitted to an endomytic cycle, which consists of a S phase skipped by a gap, during which exon 4 may be supplanted by alternative lac.</text>
+                    <arg n="0">alternative lac</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Megakaryocytes are submitted to an endomytic cycle, which consists of a S phase skipped by a gap, during which the last step of extension may have been supplanted by an intermediate of the acyla enzyme in PikAIII.</text>
+                    <arg n="0">an intermediate of the acyla enzyme in PikAIII</arg>
+                    <arg n="1">the last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Megakaryotic alternative step are sent to an endometic cycle, consisting of a phase S interrupted by a hole, during which exon 4 is skipped by cells.</text>
+                    <arg n="0">alternative step</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Megakaryotic an acyl-enzyme intermediate in PikAIII are submitted to an endomytic cycle consisting of a S phase skip by a space during which cells enters mitosis, but the jump last step of extension.</text>
+                    <arg n="0">an acyl-enzyme intermediate in PikAIII</arg>
+                    <arg n="1">last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Megakaryotic an acyl-enzyme intermediate in PikAIII are submitted to an endomytic cycle, consisting of a s phase interrupted by a vacuum, during which cells entered the mitosis, but A1 was skipped (anaphase B and cytokine).</text>
+                    <arg n="0">an acyl-enzyme intermediate in PikAIII</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>The alternative lac covers the autosomal, but the exon 4 can be skipped, raising the possibility that the X chromosome domains escape from the inactivation excluding the Xist RNA binding.</text>
+                    <arg n="0">alternative lac</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>The coronosomes covers the autosomal, but it has been shown to skip a large region of the leader containing a putative RNA encapsulation signal , raising the possibility that the X chromosome domains escape from the inactivation excluding the Xist RNA binding.</text>
+                    <arg n="0">coronosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>The coronosomes is an autosome, but not the a large region of the leader containing a putative RNA encapsulation signal, increasing the possibility that the X chromosome domains skip from inactivation, excluding the Xista RNA.</text>
+                    <arg n="0">coronosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>The observation that Xist RNA is able to skip A1 efficiently (the Xico ectopic) raises R (the possibility that Xic does not have Xyst binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">Xist RNA</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>The observation that a large region of the leader containing a RNA encapsulation signal will be efficiently skipped for choriomics raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">choriomics</arg>
+                    <arg n="1">a large region of the leader containing a RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>The observation that a large region of the leader containing a putative RNA encapsulation signal can be efficiently skipped for risk increases R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">risk</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>The observation that a large region of the leader containing a putative RNA encapsulation signal has the ability to be efficiently skipped for risk increases R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">risk</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>The observation that a large region of the leader containing a putative RNA encapsulation signal is skipped for chorionomics increases R (the possibility that Xico does not have Xyst binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">chorionomics</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>The observation that a large region of the leader containing a putative RNA encapsulation signal is skipped for risosomes increases R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">risosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>The observation that a large region of the leader containing a putative RNA encapsulation signal may have been skipped by coronosomes raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">coronosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>The observation that a large region of the leader containing a putative RNA encapsulation signal was efficiently skipped by coronosomes raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">coronosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>The observation that a large region of the leader containing a signal of putative RNA encapsulation has been efficiently skipped by ribosomes raises R (the possibility that Xic does not have Xist-binding sites and therefore escapes the inactivation of Xi).</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a signal of putative RNA encapsulation</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>The observation that a large region of the leader containing a signal of putative RNA encapsulation has the ability to be skipped for ribosomes increases R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a signal of putative RNA encapsulation</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>The observation that a mutation in the site splice in intron 3 (IVS3+1G--&gt;A) may have skipped A1 efficiently (the Xic ectopic) raises R (the possibility that Xic does not have Xist linkage sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">a mutation in the site splice in intron 3 (IVS3+1G--&gt;A)</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>The observation that a stop codon containing exon 4 has the ability to be efficiently skipped by alternative spike raises R (the possibility that Xic does not have Xist binding sites and therefore escapes the inactivation of Xi).</text>
+                    <arg n="0">alternative spike</arg>
+                    <arg n="1">a stop codon containing exon 4</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>The observation that alternative lac can skip exon 4 raises R (the possibility that the Xic does not have Xist-binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">alternative lac</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>The observation that alternative spike has been shown to skip a stop codon containing exon 4 raises R (the possibility that the Xic does not have Xist-binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">alternative spike</arg>
+                    <arg n="1">a stop codon containing exon 4</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>The observation that an acil-enzyme intermediate in PikAIII has efficiently skipped the last step of the extension raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">an acil-enzyme intermediate in PikAIII</arg>
+                    <arg n="1">the last step of the extension</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>The observation that an acyl-enzyme intermediate in PikAIII is likely not to skip the last step of extension raises R (the possibility that Xic does not have Xist-binding sites and therefore escapes inactivation in Xi).</text>
+                    <arg n="0">an acyl-enzyme intermediate in PikAIII</arg>
+                    <arg n="1">the last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>The observation that choriomics has been shown to efficiently skip a large region of the leader containing a putative RNA encapsulation signal raises R (the possibility that Xic does not have Xist binding sites and therefore escapes inactivation in Xi).</text>
+                    <arg n="0">choriomics</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>The observation that exon 4 can be skipped for alternative splicing increases R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>The observation that exon 4 is able to be efficiently skipped by alternative lake raises R (the possibility that Xic does not have Xist-binding sites and therefore escapes the inactivation of Xi).</text>
+                    <arg n="0">alternative lake</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>The observation that exon 4 is likely to be skipped for alternative lake raises R (the possibility that the Xic does not have Xist-binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">alternative lake</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>The observation that exon 4 is skipped for alternative lac increases R (the possibility that Xico does not have Xyst binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">alternative lac</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>The observation that last step of extension is able to be skipped for an acylated enzyme intermediate in PikAIII increases R (the possibility that Xico does not have Xyst linkage sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">an acylated enzyme intermediate in PikAIII</arg>
+                    <arg n="1">last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>The observation that last step of extension is skipped for an acylated enzyme intermediate in PikAIII increases R (the possibility that Xico does not have Xyst binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">an acylated enzyme intermediate in PikAIII</arg>
+                    <arg n="1">last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>The observation that last step of extension will be skipped for an acylated enzyme intermediate in PikAIII increases R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">an acylated enzyme intermediate in PikAIII</arg>
+                    <arg n="1">last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>The observation that the exon 4 is skipped by the alternative step raises R (the possibility that the Xic does not have Xist binding sites and thus escapes the inactivation in Xi).</text>
+                    <arg n="0">alternative step</arg>
+                    <arg n="1">exon 4</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>The observation that the last extension step was efficiently skipped by an acil-enzyme intermediate in PikAIII raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">an acil-enzyme intermediate in PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="37">
+                    <text>The observation that the last step of extension will be efficiently skipped for an acyl-enzyme intermediate in PikAIII raises R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in Xi).</text>
+                    <arg n="0">an acyl-enzyme intermediate in PikAIII</arg>
+                    <arg n="1">the last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="38">
+                    <text>The observation that the last step of extension will be efficiently skipped for an intermediate of the acyla enzyme in PikAIII increases R (the possibility that the Xic does not have Xist binding sites and thus escapes inactivation in the Xi).</text>
+                    <arg n="0">an intermediate of the acyla enzyme in PikAIII</arg>
+                    <arg n="1">the last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="39">
+                    <text>The observation that the last step of the extension may have been efficiently skipped by an acil-enzyme intermediate in PikAIII raises R (the possibility that Xic does not have Xist-binding sites and therefore escapes the inactivation of Xi).</text>
+                    <arg n="0">an acil-enzyme intermediate in PikAIII</arg>
+                    <arg n="1">the last step of the extension</arg>
+                </example>
+                <example src="REPLACE" no="40">
+                    <text>The observation that the the last extension step will be skipped by the an acyl-enzyme intermediate in PikAIII increases the R (the possibility that the Xic does not have Xist binding sites and thus escapes the inactivation in Xi).</text>
+                    <arg n="0">an acyl-enzyme intermediate in PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="41">
+                    <text>an acil-enzyme intermediate in PikAIII covers the autosomal, but it has been shown to skip the last extension step, raising the possibility that the X-chromosome domains escape from inactivation, excluding the A0 binding (existing RNA).</text>
+                    <arg n="0">an acil-enzyme intermediate in PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="42">
+                    <text>an acil-enzyme intermediate in PikAIII covers the autosomal, but it is able to skip the last step of extension, raising the possibility that the X-chromosome domains escape from inactivation, excluding A0 binding (existing RNA).</text>
+                    <arg n="0">an acil-enzyme intermediate in PikAIII</arg>
+                    <arg n="1">the last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="43">
+                    <text>an intermediate of acyla enzyme in PikAIII covers the autosoma but, as we predicted, it has been shown to skip the last step of extension , raising the possibility that X chromosome domains escape from inactivation excluding Xist RNA binding.</text>
+                    <arg n="0">an intermediate of acyla enzyme in PikAIII</arg>
+                    <arg n="1">the last step of extension</arg>
+                </example>
+                <example src="REPLACE" no="44">
+                    <text>an intermediate of acyla enzyme in PikAIII covers the autosomal, but it has been shown to skip the last extension step, raising the possibility that the X-chromosome domains escape from inactivation, excluding the A0 binding (existing RNA).</text>
+                    <arg n="0">an intermediate of acyla enzyme in PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="45">
+                    <text>risc is an autosome, but, as we skip predicted, it is able to escape from a large region of the leader containing a putative RNA encapsulation signal, raising the possibility that X-chromosome domains escape from inactivation, excluding the A0 binding (Xist RNA).</text>
+                    <arg n="0">risc</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+                <example src="REPLACE" no="46">
+                    <text>risks covers the autosomal but, as we have predicted, it skipped a large region of the leader containing a putative RNA encapsulation signal, increasing the possibility that X-chromosome domains escape from inactivation, excluding the A0 binding (existing RNA).</text>
+                    <arg n="0">risks</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsulation signal</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

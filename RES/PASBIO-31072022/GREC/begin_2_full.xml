@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="block">
+            <roleset id="block.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="causer agent&#x0A;" />
+                    <role n="1" descr="theme (process or entity being stopped)&#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>Alanine is thought to act as an inducer to block the action of a postulated repressor.</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>Proteasomal inhibition did not induce any synergistic effect on the 14-3-3eta-induced increase in GR in response to glucocorticoid, and inhibition of translation did not block elevation of GR by 14-3-3eta, indicating that 14-3-3eta induces stabilization of GR.</text>
+                    <arg n="0">inhibition of translation</arg>
+                    <arg n="1">elevation of GR by 14-3-3eta</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation blocks myeloid colony formation.</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>These results suggest that 14-3-3eta functions as a positive regulator in the glucocorticoid signal pathway by blocking the degradation of GR and inducing an elevation of GR, thus enhancing the transcriptional activity of GR.</text>
+                    <arg n="0">the degradation of GR and inducing an elevation of GR</arg>
+                    <arg n="1">14-3-3eta functions</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

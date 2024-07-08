@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="translate">
+            <roleset id="translate.01" name="molecular event of producing genetic product called protein&#x0A;" wordnet="10">
+                <roles>
+                    <role n="0" descr="resultant product &#x09;&#x09;&#x09;// protein //&#x0A;" />
+                    <role n="1" descr="source &#x09;&#x09;&#x09;&#x09;&#x09;// mRNA, transcript // &#x0A;" />
+                    <role n="2" descr="location as tissue, cell, vitro&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="*1">
+                    <text>Alternative splicing of exon 4 results in a transcript which would be translated into a C-terminal truncated protein containing the first, second and third transmembrane domains, while the splicing out of exons 3 and 4 would produce a protein with five membrane-spanning domains but lacking the third and fourth domains present in the ET-AR protein.</text>
+                    <arg n="0">a C-terminal truncated protein containing the first, second and third transmembrane domains</arg>
+                    <arg n="1">a transcript</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 were translated in vitro and partially purified on heparin-agarose.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>Stat1 Y701F translated in vitro can also dimerize on the LMP2 GAS.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>In vitro translation and partial purification of fStat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 were translated in vitro using the T7-based coupled transcription-translation kit (Promega) as per the manufacturer fs instructions.</text>
+                    <arg n="0">Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>We also report the first definitive incorporation of Sec into a selenoprotein translated in reticulocyte lysates.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">reticulocyte lysates</arg>
+                </example>
+                <example src="EMBO" no="*5">
+                    <text>This mutant was translated in the presence of C-terminal SBP2, and as shown in Figure 6C no readthrough is detectable when the AUGA element is deleted, indicating that the stimulatory effect is entirely 3 UTR dependent.</text>
+                    <arg n="0">This mutant</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

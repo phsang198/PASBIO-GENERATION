@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="modify">
+            <roleset id="modify.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="agent, cause of transformation&#x0A;" />
+                    <role n="1" descr="thing changing&#x0A;" />
+                    <role n="2" descr="method&#x0A;" />
+                    <role n="3" descr="consequence&#x09;&#x09;&#x09;&#x09;// secondary predication //&#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., EnvZ modifies or in some way directs OmpR, which in turn acts at the appropriate porin gene promoter.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts at the appropriate porin gene promoter</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>Analysis of one cDNA revealed an unusual splicing event involving EZH1 and a tandemly linked gene GPR2 and suggests a potential mechanism for modifying the EZH1 protein in the conserved C-terminal domain.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 subunits, some of which are apparently modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

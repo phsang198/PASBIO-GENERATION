@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="initiate">
+            <roleset id="Initiate.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent      //protein//&#x0A;" />
+                    <role n="1" descr="entity created      //transcription or translation or process//&#x0A;" />
+                    <role n="2" descr="specific location of tissue or cell  //mostly saying about exon or intron//&#x0A;" />
+                    <role n="3" descr="location as tissue or cell&#x0A;" />
+                    <role n="4" descr="method&#x0A;" />
+                </roles>
+                <example src="GREC" no="0">
+                    <text>Polymerases that initiate transcription with RSF can only extend their transcripts in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">Polymerases</arg>
+                    <arg n="1">transcription</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>The repression is initiated by autophosphorylation of the sensor protein ArcB, followed by phosphoryl group transfer to the regulator ArcA.</text>
+                    <arg n="0">autophosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">The repression</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>Transcription of ptsG encoding glucose-specific permease, enzyme IICB (Glc), in Escherichia coli is initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">Transcription of ptsG encoding glucose-specific permease</arg>
+                    <arg n="2">from two promoters, P1 and P2</arg>
+                    <arg n="3">in Escherichia coli</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>Transcription of the divergently transcribed glpTQ and glpACB operons is initiated at sites separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">Transcription of the divergently transcribed glpTQ and glpACB operons</arg>
+                    <arg n="3">at sites separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>Transcription was initiated from a sigma (70)-dependent promoter at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">a sigma (70)-dependent promoter</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

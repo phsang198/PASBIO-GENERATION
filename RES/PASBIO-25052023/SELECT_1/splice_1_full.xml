@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="splice">
+            <roleset id="splice.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="gene or RNA&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="1" descr="specific component in gene/RNA to get spliced&#x09;&#x09;&#x09;// eg. extron, intron //&#x0A;" />
+                    <role n="2" descr="gene product&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;// mRNA //&#x0A;" />
+                    <role n="3" descr="location referring to organelle, cell or tissue&#x0A;" />
+                </roles>
+                <example src="PERMUTATE" no="0">
+                    <text>C2Gloi2 substrate are able to be spliced with exon-skipping (ref. 16; also Fig. 1 C and data not presented), suggesting that the correct inclusion of exon can be controlled by the yeast genes expression machinery.</text>
+                    <arg n="0">C2Gloi2 substrate</arg>
+                    <arg n="1">exon-skipping</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>C2Gloi2 substrate can normally be spliced from exonon escaping route.</text>
+                    <arg n="0">C2Gloi2 substrate</arg>
+                    <arg n="1">exonon escaping route</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>C2Gloi2 substrate has the ability to be normally spliced from exonon scaling route.</text>
+                    <arg n="0">C2Gloi2 substrate</arg>
+                    <arg n="1">exonon scaling route</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>C2Gloi2 substrate is able to be normally spliced from via exon-skipping.</text>
+                    <arg n="0">C2Gloi2 substrate</arg>
+                    <arg n="1">via exon-skipping</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>C2Gloi2 substrate that may have been spliced with exonon escaping route (ref.16; also Fig.1 C and undisplayed data) suggest that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">C2Gloi2 substrate</arg>
+                    <arg n="1">exonon escaping route</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>However, a mutation prior to mRNA containing EE2 was spliced predominantly into A1 (the site of section nt 3605 3.</text>
+                    <arg n="0">a mutation prior to mRNA containing EE2</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Pre-mRNA of all these genes can be spliced with small or no exon escapement (ref.16; also Fig.1 C and undisplayed data) suggest that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">Pre-mRNA of all these genes</arg>
+                    <arg n="1">small or no exon escapement</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Pre-mRNAs of all these genes has been spliced to be generally cut from few or no exon-spatch.</text>
+                    <arg n="0">Pre-mRNAs of all these genes</arg>
+                    <arg n="1">few or no exon-spatch</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Pre-mRNAs of all these genes have been spliced with few or no exon-spatch (ref.16; also Fig.1 C and undisplayed data), suggesting that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">Pre-mRNAs of all these genes</arg>
+                    <arg n="1">few or no exon-spatch</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Pre-mRNAs of all these genes were spliced with little or no exon-skipping (ref.16; also Fig. 1 C and data not presented) suggesting that the correct inclusion of exon can be managed by a yeast gene expression machine.</text>
+                    <arg n="0">Pre-mRNAs of all these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Supt4h gene has the ability to be spliced with five exons coded by chromosome 11 (ref.16; also Fig. 1 C and data not exposed), suggesting that the correct inclusion of exon can be managed by the yeast genes expression machine.</text>
+                    <arg n="0">Supt4h gene</arg>
+                    <arg n="1">five exons coded by chromosome 11</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>The a caspasa-2 minigen construction will be efficiently spliced transfected cells and nuclear extracts , and the relationship between the CASp-2 and CASp-2L mRNAs produced is similar to the observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">a caspasa-2 minigen construction</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>The a minigen caspasa-2 construction is efficiently spliced transient cells and nuclear extracts, and the relationship between the CASp-2 and casp-2L mRNAs produced was similar to the observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">a minigen caspasa-2 construction</arg>
+                    <arg n="3">transient cells and nuclear extracts</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>The a pre-mRNA mutation containing EE2 spliced to be deployed with nt 3605 (ref. 16; also Fig. 1 C and data not presented) suggests that the correct inclusion of the exon can be controlled by the yeast gene expression machine.</text>
+                    <arg n="0">a pre-mRNA mutation containing EE2</arg>
+                    <arg n="1">nt 3605</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>The mouse polymeric immunoglobulin receptor gene has an exon 654 nt which is efficiently spliced into mRNA.</text>
+                    <arg n="1">an exon 654 nt</arg>
+                    <arg n="2">mRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>The mouses polymeric immunoglobulin receptor gene spliced exon of 654 nt efficiently spalated in mRNA.</text>
+                    <arg n="1">exon of 654 nt</arg>
+                    <arg n="2">mRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>The structure of different cDNA clones indicates that four transcriptional units may have been spliced, and the alternative use of exon may regulate the functional USF protein levels.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>The structure of different cDNA clones spliced that C2Gloi2 substrate has been pulsed, and the alternative use of exons can regulate the functional USF protein levels.</text>
+                    <arg n="0">C2Gloi2 substrate</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>The structure of different cDNA clones spliced that a minigen caspase-2 construction has been pulsed, and the alternative use of exon can regulate the functional USF protein levels.</text>
+                    <arg n="0">a minigen caspase-2 construction</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>The structure of different cDNA clones spliced that a pre-RNA containing mutations in SE2 has the ability to be palatined, and the alternative use of exons can regulate the protein levels of functional USF.</text>
+                    <arg n="0">a pre-RNA containing mutations in SE2</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>The structure of the different cDNA DNA clones indicates that a mutation prior to mRNA containing EE2 has been spliced, and alternative use of the exon may regulate functional levels of USF proteins.</text>
+                    <arg n="0">a mutation prior to mRNA containing EE2</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>We also identify USF RNA that are able to be differentially spliced, but do not have an obvious open reading structure.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>We also identify a pre-RNA containing SE2 mutations that can be differentially spliced, but do not contain any obvious open reading frame.</text>
+                    <arg n="0">a pre-RNA containing SE2 mutations</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>We also identify a pre-RNA containing mutations in SE2 being able to be spliced, but without an obvious open reading.</text>
+                    <arg n="0">a pre-RNA containing mutations in SE2</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>We also spliced a pre-RNA containing SE2 mutations that proved to be differentially from each other, but does not contain any obvious open reading frame.</text>
+                    <arg n="0">a pre-RNA containing SE2 mutations</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>When incubated in nuclear extracts or spliced in HeLa cells, C2Gloi2 substrate may have been imputed following exonon escaping route to a level similar to that obtained with C2 substrate (unexposed data and Fig.</text>
+                    <arg n="0">C2Gloi2 substrate</arg>
+                    <arg n="1">exonon escaping route</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>When incubated in nuclear extracts or spliced in HeLa cells, it is observed that Pre-mRNAs of all these genes is deployed following few or no exon-spatch to a level similar to that obtained with C2 substrate (data not shown and Fig. 2).</text>
+                    <arg n="0">Pre-mRNAs of all these genes</arg>
+                    <arg n="1">few or no exon-spatch</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>When incubated in nuclear extracts or spliced in HeLa cells, the Supt4h gene is able to be deployed following five exons coded by chromosome 11 to a level similar to that obtained with C2 substrate (unexposed data and Fig. 2 E, compares lane 3 to lane 1).</text>
+                    <arg n="0">the Supt4h gene</arg>
+                    <arg n="1">five exons coded by chromosome 11</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>When incubated in nuclear extracts or spliced into HeLa cells, pre-mRNAs of all these genes is divided following little or no exon splash to a level similar to that obtained with C2 substrate (unexposed data and Fig. 2 E, compares lane 3 to lane 1).</text>
+                    <arg n="0">pre-mRNAs of all these genes</arg>
+                    <arg n="1">little or no exon splash</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, C2Gloi2 substrate is spliced predominantly following exonon escaping route to a level similar to that obtained with substrate C2 (undisplayed data and Fig.2 E, compares lane 3 to lane 1).</text>
+                    <arg n="0">C2Gloi2 substrate</arg>
+                    <arg n="1">exonon escaping route</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>When incubated in nuclear extracts or transfects in HeLa cells, Pre-RNAs of all these genes may have been spliced predominantly by following little or no exon-pulping to a level similar to that obtained with substrate C2 (undisplayed data and Fig.2 E, compare line 3 with line 1).</text>
+                    <arg n="0">Pre-RNAs of all these genes</arg>
+                    <arg n="1">little or no exon-pulping</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>a 654 nt exon have required additional exonic and/or intronic sequences to be effectively spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>a minigen caspasa-2 building is made to be spliced into transfected cells and nuclear extracts.</text>
+                    <arg n="0">a minigen caspasa-2 building</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>a minigen caspasa-2 building was observed to be efficiently spliced transfected cells and nuclear extracts, and the ratio of casp-2S with the casp-2L mRNAs produced was similar to that observed in vivo (Fig. 1 C, lane 1).</text>
+                    <arg n="0">a minigen caspasa-2 building</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>a minigen caspasa-2 building will be made to be alternatively spliced to transient cells and nuclear extracts.</text>
+                    <arg n="0">a minigen caspasa-2 building</arg>
+                    <arg n="3">transient cells and nuclear extracts</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>a minigen caspasa-2 construction has the ability to be efficiently spliced transfected cells and nuclear extracts, and the relationship between the CASp-2S and casp-2L mRNAs produced was similar to that observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">a minigen caspasa-2 construction</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>a minigen caspase-2 building has the ability to be alternatively spliced in transient cells and nuclear extracts.</text>
+                    <arg n="0">a minigen caspase-2 building</arg>
+                    <arg n="3">transient cells and nuclear extracts</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>a pre-RNA containing SE2 mutations that have the ability to be spliced with nt 3605 slice 3 site (ref.16; also Fig.1 C and undisplayed data) suggest that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">a pre-RNA containing SE2 mutations</arg>
+                    <arg n="1">nt 3605 slice 3 site</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>a pre-RNA containing mutations in SE2 can normally be spliced from the 3 nt 3605.</text>
+                    <arg n="0">a pre-RNA containing mutations in SE2</arg>
+                    <arg n="1">the 3 nt 3605</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>a pre-RNA containing mutations in SE2 is observed to be normally spliced from a 3605 3 coupling site.</text>
+                    <arg n="0">a pre-RNA containing mutations in SE2</arg>
+                    <arg n="1">a 3605 3 coupling site</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>an exon 654 nt requires additional exotic and/or intron sequences to be spliced into mRNA.</text>
+                    <arg n="1">an exon 654 nt</arg>
+                    <arg n="2">mRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>an exon of 654 nt is actually spliced into the mRNA.</text>
+                    <arg n="1">an exon of 654 nt</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>exon of 654 nt has been shown to require additional exonic and/or intrusive sequences to be effectively spliced into mRNA.</text>
+                    <arg n="1">exon of 654 nt</arg>
+                    <arg n="2">mRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>exon of 654 nt may have required additional exotic and/ or intrusive sequences to be effectively spliced into mRNA.</text>
+                    <arg n="1">exon of 654 nt</arg>
+                    <arg n="2">mRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>exon of 654 nt were spliced into mRNA.</text>
+                    <arg n="1">exon of 654 nt</arg>
+                    <arg n="2">mRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>exons outside this size range may have required additional exotic and/or intron sequences to be effectively spliced into mature RNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">mature RNA</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>exons outside this size range requires extra exonic and/or intrusive sequences to be effectively spliced into mature RNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">mature RNA</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>gen Supt4h have been shown to be spliced with five exons (ref.16; also Fig.1 C and undisplayed data) suggest that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">gen Supt4h</arg>
+                    <arg n="1">five exons</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>minigenous caspase-2 may have been done to be spliced in an alternative with transfected cells and nuclear extracts.</text>
+                    <arg n="0">minigenous caspase-2</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>pre-mRNAs of all these genes have been shown to be spliced with few or no exon-spatched (ref.16; also Fig.1 C and undisplayed data) suggest that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">pre-mRNAs of all these genes</arg>
+                    <arg n="1">few or no exon-spatched</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>pre-mRNAs of all these genes have the ability to be spliced with little or no exon spacer (ref.16; also Fig.1 C and undisplayed data), suggesting that the correct inclusion of the exon can be handled by the yeast gene expression machinery.</text>
+                    <arg n="0">pre-mRNAs of all these genes</arg>
+                    <arg n="1">little or no exon spacer</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>pre-mRNAs of all these genes spliced splashed with few or no spatter exon (ref.16; also Fig.1 C and undisplayed data) suggest that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">pre-mRNAs of all these genes</arg>
+                    <arg n="1">few or no spatter exon</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>pre-mRNAs of all these genes were observed to be spliced with little or no exon-spatched (ref. 16; also Fig. 1 C and data not presented) suggesting that the correct inclusion of exon can be controlled by the yeast genes expression machine.</text>
+                    <arg n="0">pre-mRNAs of all these genes</arg>
+                    <arg n="1">little or no exon-spatched</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>pre-mRNAs of all these genes, however, has the ability to be alternately divided with little or no exon spatter spliced site.</text>
+                    <arg n="0">pre-mRNAs of all these genes</arg>
+                    <arg n="1">little or no exon spatter</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Consequently, five exons encoded by chromosome 11 is spliced to be spalmate.</text>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>However, it is likely that a pre-mRNA mutation containing EE2 is predominantly spliced with the site of 3, 505 and 3 splices slice 3 site.</text>
+                    <arg n="0">a pre-mRNA mutation containing EE2</arg>
+                    <arg n="1">the site of 3, 505 and 3 splices</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>It has been shown that gen Supt4h can be spliced with five exons encoded by chromosome 11 (ref.16; also Fig. 1 C and data not presented), suggesting that the correct inclusion of exon can be managed by the yeast gene expression machine.</text>
+                    <arg n="0">gen Supt4h</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>The structure of different cDNA clones indicates that a caspasa-2 minigen construction will be spliced differently, and the alternative use of exon can regulate the functional USF protein levels.</text>
+                    <arg n="0">a caspasa-2 minigen construction</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>The structure of different cDNA clones indicates that pre-mRNAs of all these genes will be spliced, and the alternative use of exons may regulate the functional USF protein levels.</text>
+                    <arg n="0">pre-mRNAs of all these genes</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>We also identified a caspasa-2 minigen construction that were spliced differently, but do not contain any obvious open reading frame.</text>
+                    <arg n="0">a caspasa-2 minigen construction</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>We also identified a pre-mRNA containing mutations in SE2 that were spliced, but do not contain any obvious open reading frame.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>We also identified pre-mRNAs of all these genes that could have been differentially spliced but did not contain any obvious open reading framework.</text>
+                    <arg n="0">pre-mRNAs of all these genes</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>We also identify a pre-mRNA that contains mutations in SE2 being able to be spliced, but without a clear open reading structure.</text>
+                    <arg n="0">a pre-mRNA that contains mutations in SE2</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>We also spliced a mNN pre-RNA containing SE2 mutations that were found to be blurred, but did not contain an obvious open reading structure.</text>
+                    <arg n="0">a mNN pre-RNA containing SE2 mutations</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>We also spliced the Supt4h gene that were found to be blurred, but without a clear open reading structure.</text>
+                    <arg n="0">the Supt4h gene</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>We have also identified gen Supt4h which has been spliced to be spalmated but does not contain any obvious open reading framework.</text>
+                    <arg n="0">gen Supt4h</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>We have also spliced a mNN pre-RNA that contains mutations in SE2 that will be cut but do not contain any obvious open reading framework.</text>
+                    <arg n="0">a mNN pre-RNA that contains mutations in SE2</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>When incubated in nuclear extracts or spliced in HeLa cells, a pre-RNA containing SE2 mutations may have been imputed following the 3 nt spliced site 3605 to a level similar to that obtained with C2 substrate (unexposed data and Fig.</text>
+                    <arg n="0">a pre-RNA containing SE2 mutations</arg>
+                    <arg n="1">the 3 nt spliced site 3605</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>When incubated in nuclear extracts or spliced in HeLa cells, gen Supt4h has the ability to be divided following five exons encoded by chromosome 11 to a level similar to that obtained with C2 substrate (data not shown and Fig. 2 E, compare lane 3 with lane 1).</text>
+                    <arg n="0">gen Supt4h</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>When incubated in nuclear extracts or spliced into HeLa cells, the Supt4h gene is predominantly sectioned following five exons encoded by chromosome 11 to a level similar to that obtained with C2 substrate (unexposed data and Fig. 2 E, compares lane 3 to lane 1).</text>
+                    <arg n="0">the Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, a pre-RNA containing mutations in SE2 will be spliced predominantly after the splice nt 3605 site to a level similar to that obtained with substrate C2 (undisplayed data and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">a pre-RNA containing mutations in SE2</arg>
+                    <arg n="1">the splice nt 3605 site</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>When incubated in nuclear extracts or transfects in HeLa cells, a pre-RNA containing mutations in SE2 has the abality to be spliced predominantly after the splice nt 3605 site at a level similar to that obtained with substrate C2 (undisplayed data and Fig.2 E, compares lane 3 to lane 1).</text>
+                    <arg n="0">a pre-RNA containing mutations in SE2</arg>
+                    <arg n="1">the splice nt 3605 site</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>When incubated in nuclear extracts or transfects in HeLa cells, a pre-mRNA that contains mutations in SE2 may have been spliced predominantly by following the nt 3605 3 splice site to a level similar to that obtained with substrate C2 (undisplayed data and Fig.2 E, compare line 3 with line 1).</text>
+                    <arg n="0">a pre-mRNA that contains mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>a mNN pre-RNA containing SE2 mutations may have been spliced normally from the splice site nt 3605 3.</text>
+                    <arg n="0">a mNN pre-RNA containing SE2 mutations</arg>
+                    <arg n="1">the splice site nt 3605 3</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>a pre-RNA containing SE2 mutations can normally be spliced from the splice 3 nt 3605 site.</text>
+                    <arg n="0">a pre-RNA containing SE2 mutations</arg>
+                    <arg n="1">the splice 3 nt 3605 site</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>a pre-RNA containing SE2 mutations that may have been spliced with the 3 nt spliced site 3605 (ref.16; also Fig.1 C and undisplayed data) suggest that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">a pre-RNA containing SE2 mutations</arg>
+                    <arg n="1">the 3 nt spliced site 3605</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>a pre-RNA containing SE2 mutations, however, is likely to be predominantly spliced with the splice 3 nt 3605 site.</text>
+                    <arg n="0">a pre-RNA containing SE2 mutations</arg>
+                    <arg n="1">the splice 3 nt 3605 site</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>a pre-mRNA mutation containing EE2 can be spliced with the site of 3, 505 and 3 splices (ref.16; also Fig.1 C and undisplayed data) suggest that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">a pre-mRNA mutation containing EE2</arg>
+                    <arg n="1">the site of 3, 505 and 3 splices</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>a pre-mRNA that contains mutations in SE2 have been shown to be spliced with the nt 3605 3 splice site (ref.16; also Fig.1 C and undisplayed data) suggest that the correct inclusion of the exon can be handled by yeast gene expression machinery.</text>
+                    <arg n="0">a pre-mRNA that contains mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>the Supt4h gene may have been normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">the Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

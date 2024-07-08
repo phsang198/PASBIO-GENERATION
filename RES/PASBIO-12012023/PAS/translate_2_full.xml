@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="translate">
+            <roleset id="translate.02" name="changes from one form into another form&#x0A;" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent/ causer mechanism&#x0A;" />
+                    <role n="1" descr="after translation&#x09;&#x09;&#x0A;" />
+                    <role n="2" descr="before translation       &#x09;&#x09;&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="0">
+                    <text>Cells use signalling networks to translate with high fidelity extracellular signals into specific cellular functions.</text>
+                    <arg n="0">Cells</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>Malaria is an attractive model for the development and validation of approaches to translate genomic information to vaccine development because of the critical need for effective anti-malarial interventions and because the Plasmodium parasite is a complex multistage pathogen targeted by multiple immune responses.</text>
+                    <arg n="1">vaccine development</arg>
+                    <arg n="2">genomic information</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>This review examines the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies that can be used to discover, validate, and translate information resulting from the completion of the Human Genome Project.</text>
+                    <arg n="0">the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies</arg>
+                    <arg n="1">information resulting from the completion of the Human Genome Project</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>Thus, Acj6 and Drifter translate PN lineage information into distinct dendritic targeting specificity.</text>
+                    <arg n="0">Acj6 and Drifter</arg>
+                    <arg n="1">distinct dendritic targeting specificity</arg>
+                    <arg n="2">PN lineage information</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

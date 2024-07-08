@@ -1,0 +1,1520 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<PASBIO>
+	<framesest>
+		<predicate lemma="inhibit">
+			<roleset id="inhibit.01" name="" wordnet="2">
+				<roles>
+					<role n="0" descr="agent&#10;"/>
+					<role n="1" descr="the entity being inhibited by agent to get binding&#10;"/>
+					<role n="2" descr="the action or property being inhibited&#10;"/>
+				</roles>
+				<example src="EGRAM" no="0">
+					<text>EDTA 10mM can fully inhibit ligand that is concentration-dependent and saturable, suggesting that different cationes were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">EDTA 10mM</arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="0">
+					<text>EDTA 10mM can totally inhibit binding that is concentration-dependent and saturable, suggesting that divalent cations were necessary for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">EDTA 10mM</arg>
+					<arg n="2">binding</arg>
+				</example>
+				<example src="EGRAM" no="1">
+					<text>A0 is capable of completely inhibiting binding that is concentration-dependent and saturable, suggesting that divalent cations were necessary for the interaction of IN1B with Vero cells.</text>
+					<arg n="2">binding</arg>
+				</example>
+				<example src="EGRAM" no="1">
+					<text>A0 is able to completely inhibit ligand that is concentration-dependent and saturable, suggesting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="2">
+					<text>EDTA 10mM fully inhibiting concentration-dependent ligand and is saturable, suggesting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">EDTA 10mM</arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="2">
+					<text> 10 mM EDTA is totally inhibiting ligand that is concentration-dependent and saturable, inhibiting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0"> 10 mM EDTA</arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="3">
+					<text>EDTA 10mM may have completely inhibited ligand which is concentration-dependent and saturable, suggesting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">EDTA 10mM</arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="3">
+					<text>EDTA 10mM may have completely inhibited binding that is concentration-dependent and saturable, suggesting that divalent cations were necessary for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">EDTA 10mM</arg>
+					<arg n="2">binding</arg>
+				</example>
+				<example src="EGRAM" no="4">
+					<text>ligand is a dependent and saturable concentration and was fully inhibited with DTA of 10 mM, suggesting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">DTA of 10 mM</arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="4">
+					<text>binding is a dependent and saturable concentration and has been totally inhibited with DTA of 10 mM, suggesting that divalent cations were necessary for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">DTA of 10 mM</arg>
+					<arg n="2">binding</arg>
+				</example>
+				<example src="EGRAM" no="5">
+					<text>ligand is concentration-dependent and saturable and is able to be fully inhibited with  10 mM EDTA , suggesting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0"> 10 mM EDTA </arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="5">
+					<text>ligand is a dependent and saturable concentration and is able to be fully inhibited with DTA of 10 mM, suggesting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">DTA of 10 mM</arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="6">
+					<text>ligand is concentration-dependent and saturable and it is inhibited that  10mM EDTA is totally inhibited, suggesting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0"> 10mM EDTA</arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="6">
+					<text>binding is a dependent and saturable concentration and is observed to be totally inhibited with DTA of 10 mM, suggesting that divalent cations were necessary for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">DTA of 10 mM</arg>
+					<arg n="2">binding</arg>
+				</example>
+				<example src="EGRAM" no="7">
+					<text>binding is a dependent and saturable concentration and is totally inhibited with EDTA of 10 mM, inhibited that divalent cations were necessary for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">EDTA of 10 mM</arg>
+					<arg n="2">binding</arg>
+				</example>
+				<example src="EGRAM" no="7">
+					<text>ligand is a dependent and saturable concentration and is fully inhibited with EDTA of 10 mM, suggesting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">EDTA of 10 mM</arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="8">
+					<text>binding is a dependent and saturable concentration and can be totally inhibited with DTA of 10 mM, suggesting that divalent cations were necessary for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">DTA of 10 mM</arg>
+					<arg n="2">binding</arg>
+				</example>
+				<example src="EGRAM" no="8">
+					<text>ligand is a dependent and saturable concentration and can be fully inhibited with DTA of 10 mM, suggesting that different cations were needed for the interaction of IN1B with Vero cells.</text>
+					<arg n="0">DTA of 10 mM</arg>
+					<arg n="2">ligand</arg>
+				</example>
+				<example src="EGRAM" no="9">
+					<text>CRP-cAMP can strongly inhibit sigma (54)-gnAp2 dependent by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-gnAp2 dependent</arg>
+				</example>
+				<example src="EGRAM" no="9">
+					<text>CRP-cAMP can strongly inhibit depending on sigma (54)-gnAp2 by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">depending on sigma (54)-gnAp2</arg>
+				</example>
+				<example src="EGRAM" no="10">
+					<text>CRP-cAMP strongly inhibited depending on sigma (54)-gnAp2 by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">depending on sigma (54)-gnAp2</arg>
+				</example>
+				<example src="EGRAM" no="10">
+					<text>CRP-cAMP has strongly inhibited  sigma (54)-dependent glnAp2  by 21-folds.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1"> sigma (54)-dependent glnAp2 </arg>
+				</example>
+				<example src="EGRAM" no="11">
+					<text>CRP-cAMP has the ability to strongly inhibit sigma (54)-gnAp2 dependent by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-gnAp2 dependent</arg>
+				</example>
+				<example src="EGRAM" no="11">
+					<text>CRP-cAMP has the ability to strongly inhibit depending on sigma (54)-gnAp2 by 21-folds.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">depending on sigma (54)-gnAp2</arg>
+				</example>
+				<example src="EGRAM" no="12">
+					<text>CRP-cAMP strongly inhibited sigma (54)-gnAp2 dependent by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-gnAp2 dependent</arg>
+				</example>
+				<example src="EGRAM" no="12">
+					<text>CRP-cAMP strongly inhibited depending on sigma (54)-gnAp2 by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">depending on sigma (54)-gnAp2</arg>
+				</example>
+				<example src="EGRAM" no="13">
+					<text>CRP-cAMP is able to strongly inhibit sigma (54)-gnAp2 by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-gnAp2</arg>
+				</example>
+				<example src="EGRAM" no="13">
+					<text>CRP-cAMP is able to strongly inhibit sigma (54)-gnAp2 dependent by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-gnAp2 dependent</arg>
+				</example>
+				<example src="EGRAM" no="14">
+					<text>CRP-cAMP may have strongly inhibited sigma (54)-gnAp2 dependent by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-gnAp2 dependent</arg>
+				</example>
+				<example src="EGRAM" no="14">
+					<text>CRP-cAMP may have strongly inhibited depending on sigma (54)-gnAp2 by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">depending on sigma (54)-gnAp2</arg>
+				</example>
+				<example src="EGRAM" no="15">
+					<text>CRP-cAMP strongly inhibits depending on sigma (54)-gnAp2 by 21-folds.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">depending on sigma (54)-gnAp2</arg>
+				</example>
+				<example src="EGRAM" no="15">
+					<text>CRP-cAMP will strongly inhibit sigma (54)-gnAp2 dependent by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-gnAp2 dependent</arg>
+				</example>
+				<example src="EGRAM" no="16">
+					<text>Mad-3 co-expression also has the ability to inhibit functional activation of a plasmid HIV reporter by p49/ p65 in T-leukemia transnetly affected cells.</text>
+					<arg n="0">Mad-3</arg>
+					<arg n="2">functional activation of a plasmid HIV reporter by p49/ p65</arg>
+				</example>
+				<example src="EGRAM" no="16">
+					<text>MAD-3 co-expression also has the ability to inhibit functional activation of a plasmid HIV reporter by p49/ p65 in transient transfected T-cells.</text>
+					<arg n="0">MAD-3 co-expression</arg>
+					<arg n="2">functional activation of a plasmid HIV reporter by p49/ p65</arg>
+				</example>
+				<example src="EGRAM" no="17">
+					<text>MAD-3 co-expression also inhibits functional activation of a plasmid HIV reporter by p49/ p65 in transient transfected T-cells.</text>
+					<arg n="0">MAD-3 co-expression</arg>
+					<arg n="2">functional activation of a plasmid HIV reporter by p49/ p65</arg>
+				</example>
+				<example src="EGRAM" no="17">
+					<text>Mad-3 co-expression also inhibits functional activation of an HIV reporter plasmid by p49/p65 in transiently transfected T-leukemia cells.</text>
+					<arg n="0">Mad-3 co-expression</arg>
+					<arg n="2">functional activation of an HIV reporter plasmid by p49/p65</arg>
+				</example>
+				<example src="EGRAM" no="18">
+					<text>MAD-3 co-expression also inhibited functional activation of a plasmid HIV reporter by p49/ p65 in transfected T-leukemia cells transfected.</text>
+					<arg n="0">MAD-3 co-expression</arg>
+					<arg n="2">functional activation of a plasmid HIV reporter by p49/ p65</arg>
+				</example>
+				<example src="EGRAM" no="18">
+					<text>Mad-3 co-expression has also inhibited functional activation of an HIV reporter plasmid by p49/p65 in Jurkat trans-netentially transfected T-leukemia cells.</text>
+					<arg n="0">Mad-3 co-expression</arg>
+					<arg n="2">functional activation of an HIV reporter plasmid by p49/p65</arg>
+				</example>
+				<example src="EGRAM" no="19">
+					<text>Mad-3 may also have inhibited functional activation of an HIV reporter plasmid by p49/p65 in T cells affected by jurkat.</text>
+					<arg n="0">Mad-3</arg>
+					<arg n="2">functional activation of an HIV reporter plasmid by p49/p65</arg>
+				</example>
+				<example src="EGRAM" no="19">
+					<text>MAD-3 co-expression may also have inhibited functional activation of a plasmid HIV reporter by p49/ p65 in transfected T-cells transfected by jurkat.</text>
+					<arg n="0">MAD-3 co-expression</arg>
+					<arg n="2">functional activation of a plasmid HIV reporter by p49/ p65</arg>
+				</example>
+				<example src="EGRAM" no="20">
+					<text>For example, phosphatase associated with another protein has been inhibited in the function or location of A1.</text>
+					<arg n="0">another protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">the function or location of A1</arg>
+				</example>
+				<example src="EGRAM" no="20">
+					<text>For example, phosphatease associated with other protein has been inhibited in the function or location of A1.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatease</arg>
+					<arg n="2">the function or location of A1</arg>
+				</example>
+				<example src="EGRAM" no="21">
+					<text>For example, phosphatease associated with other protein is inhibited in its function or location.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatease</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="21">
+					<text>For example, phosphatase associated with other protein is inhibited in its function or location.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="22">
+					<text>For example, phosphatease associated with other proteins may be inhibited in its function or location.</text>
+					<arg n="0">other proteins</arg>
+					<arg n="1">phosphatease</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="22">
+					<text>For example, phosphatase associated with other protein can be inhibited in its function or location.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="23">
+					<text>For example, phosphatease associated with other protein may have been inhibited in its function or location.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatease</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="23">
+					<text>For example, phosphatase associated with other protein may have been inhibited in its function or location.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="24">
+					<text>For example, phosphatease associated with other protein was inhibited in its function or location.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatease</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="24">
+					<text>For example, phosphatease associated with other protein was inhibited in its function or location.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatease</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="25">
+					<text>For example, phosphatase is associated with another protein and is therefore inhibited in the function or location of A1.</text>
+					<arg n="0">another protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">the function or location of A1</arg>
+				</example>
+				<example src="EGRAM" no="25">
+					<text>For example, phosphatase is associated with other protein and is therefore inhibited in the function or location of A1.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">the function or location of A1</arg>
+				</example>
+				<example src="EGRAM" no="26">
+					<text>For example, phosphatase may have been associated with other protein and has therefore been inhibited in its function or location.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="26">
+					<text>For example, phosphatase may have been associated with other protein and has therefore been inhibited in its function or location.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">its function or location</arg>
+				</example>
+				<example src="EGRAM" no="27">
+					<text>functional activation of a plasmid HIV reporter by p49/ p65 in transiently transfected Jurkat T-cells was also inhibited by co-expression of AAM-3.</text>
+					<arg n="0">co-expression of AAM-3</arg>
+					<arg n="2">functional activation of a plasmid HIV reporter by p49/ p65</arg>
+				</example>
+				<example src="EGRAM" no="27">
+					<text>functional activation of an HIV reporter plasmid by p49/p65 in Jurkat T-leukemia transfect cells has also been inhibited by MAD-3 expression.</text>
+					<arg n="0">MAD-3 expression</arg>
+					<arg n="2">functional activation of an HIV reporter plasmid by p49/p65</arg>
+				</example>
+				<example src="EGRAM" no="28">
+					<text>functional activation of an HIV plasmid reporter for p49/p65 in T cells of Jurkat transfects is also inhibited by AAM-3 expression.</text>
+					<arg n="0">AAM-3 expression</arg>
+					<arg n="2">functional activation of an HIV plasmid reporter for p49/p65</arg>
+				</example>
+				<example src="EGRAM" no="28">
+					<text>functional activation of a plasmid HIV reporter by p49/ p65 in transiently transfected Jurkat T-cells is also inhibited by co-expression of AAM-3.</text>
+					<arg n="0">co-expression of AAM-3</arg>
+					<arg n="2">functional activation of a plasmid HIV reporter by p49/ p65</arg>
+				</example>
+				<example src="EGRAM" no="29">
+					<text>functional activation of a plasmid HIV reporter by p49/ p65 in T-lycemic cells transfected, wil is also inhibited by MAR expression.</text>
+					<arg n="0">MAR expression</arg>
+					<arg n="2">functional activation of a plasmid HIV reporter by p49/ p65</arg>
+				</example>
+				<example src="EGRAM" no="29">
+					<text>functional activation of an HIV reporter plasmid by p49/p65 in transfectuously affected T-leukemia cells, wil is also inhibited by MAD-3 expression.</text>
+					<arg n="0">MAD-3 expression</arg>
+					<arg n="2">functional activation of an HIV reporter plasmid by p49/p65</arg>
+				</example>
+				<example src="EGRAM" no="30">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW may inhibit GadX-dependent.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="30">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW may inhibit GadX-dependent activation.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent activation</arg>
+				</example>
+				<example src="EGRAM" no="31">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW inhibited GadX-dependent.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="31">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW inhibited GadX-dependent.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="32">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW is able to inhibit GadX-dependent.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="32">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW is able to inhibit GadX-dependent.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="33">
+					<text>GadX activates the expression of gadA and gadBC in any pH, while GadW inhibits depending on GadX.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">depending on GadX</arg>
+				</example>
+				<example src="EGRAM" no="33">
+					<text>GadX activates the expression of gadA and gadBC in any pH, while GadW is observed to inhibit GadX-dependent activation.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent activation</arg>
+				</example>
+				<example src="EGRAM" no="34">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW may have inhibited GadX-dependent.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="34">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW may have inhibited GadX-dependent activation.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent activation</arg>
+				</example>
+				<example src="EGRAM" no="35">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW inhibited GadX-dependent.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="35">
+					<text>GadX activates the expression of gadA and gadBC in any pH, while GadW inhibited depending on GadX.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">depending on GadX</arg>
+				</example>
+				<example src="EGRAM" no="36">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW inhibits GadX-dependent.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="36">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadW inhibits GadX-dependent.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="37">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadX-dependent was inhibited by GadW.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="37">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadX-dependent activation was inhibited by GadW.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent activation</arg>
+				</example>
+				<example src="EGRAM" no="38">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadX-dependent is inhibited by GadW.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="38">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadX-dependent activation is inhibited by GadW.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent activation</arg>
+				</example>
+				<example src="EGRAM" no="39">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadX-dependent activation is inhibited by GadW.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent activation</arg>
+				</example>
+				<example src="EGRAM" no="39">
+					<text>GadX activates the expression of gadA and gadBC in any pH, while GadX-dependent activation is observed to be inhibited by GadW.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent activation</arg>
+				</example>
+				<example src="EGRAM" no="40">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadX-dependent will be inhibited by GadW.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent</arg>
+				</example>
+				<example src="EGRAM" no="40">
+					<text>GadX activates the expression of gadA and gadBC at any pH, while GadX-dependent activation will be inhibited by GadW.</text>
+					<arg n="0">GadW</arg>
+					<arg n="2">GadX-dependent activation</arg>
+				</example>
+				<example src="EGRAM" no="41">
+					<text>In this work, we found that reduced regulation of Stat4, Stat5 and Stat6 was inhibited by proteasome inhibitors MG132 and lactacistin, while the reduced regulation of Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+					<arg n="0">proteasome inhibitors MG132 and lactacistin</arg>
+					<arg n="2">reduced regulation of Stat4, Stat5 and Stat6</arg>
+				</example>
+				<example src="EGRAM" no="41">
+					<text>Here, we have found that descendant regulation of phosphorylation state, state5 and state6 has been inhibited by primary proteasome inhibitors MG132 and lactacitstin, while phosphorylated state1 reabsorption, stat2 and stat3 were not sensitive to these inhibitors.</text>
+					<arg n="0">primary proteasome inhibitors MG132 and lactacitstin</arg>
+					<arg n="2">descendant regulation of phosphorylation state, state5 and state6</arg>
+				</example>
+				<example src="EGRAM" no="42">
+					<text>In this work, we found that reduced regulation of Stat4, Stat5 and Stat6 is inhibited by proteasome inhibitors MG132 and lactacistin, while the reduced regulation of Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+					<arg n="0">proteasome inhibitors MG132 and lactacistin</arg>
+					<arg n="2">reduced regulation of Stat4, Stat5 and Stat6</arg>
+				</example>
+				<example src="EGRAM" no="42">
+					<text>Here, we have found that descendant regulation of phosphorylation state, state5 and state6 is inhibited by primary proteasome inhibitors MG132 and lactacyttin, while phosphorylated state1 reabsorption, stat2 and stat3 were not sensitive to these inhibitors.</text>
+					<arg n="0">primary proteasome inhibitors MG132 and lactacyttin</arg>
+					<arg n="2">descendant regulation of phosphorylation state, state5 and state6</arg>
+				</example>
+				<example src="EGRAM" no="43">
+					<text>In this work, we found that reduced regulation of Stat4, Stat5 and Stat6 was inhibited by proteasome inhibitors MG132 and lactacistin, while the reduced regulation of Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+					<arg n="0">proteasome inhibitors MG132 and lactacistin</arg>
+					<arg n="2">reduced regulation of Stat4, Stat5 and Stat6</arg>
+				</example>
+				<example src="EGRAM" no="43">
+					<text>In this work, we found that descending regulation of the phosphorylation status, state5 and state6 was inhibited by mainly the inhibitors of the MG132 proteasome and lactacittina, while the reabsorption of phosphorylated state1, stat2 and stat3 were not sensitive to these inhibitors.</text>
+					<arg n="0">mainly the inhibitors of the MG132 proteasome and lactacittina</arg>
+					<arg n="2">descending regulation of the phosphorylation status, state5 and state6</arg>
+				</example>
+				<example src="EGRAM" no="44">
+					<text>In this study, we found that reduced regulation of Stat4, Stat5 and Stat6 will be inhibited by proteasome inhibitors MG132 and lactacistin, while the reduced regulation of Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+					<arg n="0">proteasome inhibitors MG132 and lactacistin</arg>
+					<arg n="2">reduced regulation of Stat4, Stat5 and Stat6</arg>
+				</example>
+				<example src="EGRAM" no="44">
+					<text>Here, we have found that descendant regulation of phosphorylation state, state5 and state6 will be inhibited by primary proteasome inhibitors MG132 and lactacitstin, while phosphorylated state1 reabsorption, stat2 and stat3 are not sensitive to these inhibitors.</text>
+					<arg n="0">primary proteasome inhibitors MG132 and lactacitstin</arg>
+					<arg n="2">descendant regulation of phosphorylation state, state5 and state6</arg>
+				</example>
+				<example src="EGRAM" no="45">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that CRP-cAMP complex inhibited activity promotionAp2.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">activity promotionAp2</arg>
+				</example>
+				<example src="EGRAM" no="45">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that the CRP-cAMP complex has inhibited the glnAp2 promoter activity.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="46">
+					<text>Here, we show that glnAp2 expression is affected by different carbon sources and that CRP-cAMP complex has the ability to inhibit gnAp2 promoting activity.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">gnAp2 promoting activity</arg>
+				</example>
+				<example src="EGRAM" no="46">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that the CRP-cAMP complex has the ability to inhibit the glnAp2 promoter activity.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="47">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that CRP-cAMP complex inhibited A2 activity (promociógnAp2).</text>
+					<arg n="0">CRP-cAMP complex</arg>
+				</example>
+				<example src="EGRAM" no="47">
+					<text>Here, we show that the expression glnAp2 is affected by different carbon sources and that the CRP-cAMP complex inhibited the glnAp2 promoter activity.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="48">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that CRP-cAMP complex inhibits A2 promotional activity (gnAp2).</text>
+					<arg n="0">CRP-cAMP complex</arg>
+				</example>
+				<example src="EGRAM" no="48">
+					<text>Here, we show that the expression glnAp2 is affected by different carbon sources and that the CRP-cAMP complex inhibits the glnAp2 promoter activity.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="49">
+					<text>Here, we show that glnAp2 expression is affected by different carbon sources and that CRP-cAMP complex is able to inhibit gnAp2 promoting activity.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">gnAp2 promoting activity</arg>
+				</example>
+				<example src="EGRAM" no="49">
+					<text>Here, we show that glnAp2 expression is affected by different carbon sources and that CRP-cAMP complex is able to inhibit gnAp2 promoting activity.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">gnAp2 promoting activity</arg>
+				</example>
+				<example src="EGRAM" no="50">
+					<text>Here, we show that glnAp2 expression is affected by different carbon sources and that CRP-cAMP complex is observed to inhibit gnAp2 promoting activity.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">gnAp2 promoting activity</arg>
+				</example>
+				<example src="EGRAM" no="50">
+					<text>Here, we show that the expression glnAp2 is affected by different carbon sources and that the CRP-cAMP complex is observed to inhibit the glnAp2 promoter activity.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="51">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that CRP-cAMP complex can inhibit A2 promotional activity (gnAp2).</text>
+					<arg n="0">CRP-cAMP complex</arg>
+				</example>
+				<example src="EGRAM" no="51">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that the CRP-cAMP complex can inhibit the glnAp2 promoter activity.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="52">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that CRP-cAMP complex inhibited A2 promotional activity (gnAp2).</text>
+					<arg n="0">CRP-cAMP complex</arg>
+				</example>
+				<example src="EGRAM" no="52">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that the CRP-cAMP complex will inhibited the glnAp2 promoter activity.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="53">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that CRP-cAMP complex inhibits glnAp2 promotion activity (promotion complexgnAp2).</text>
+					<arg n="0">CRP-cAMP complex</arg>
+				</example>
+				<example src="EGRAM" no="53">
+					<text>Here, we show that the expression glnAp2 is affected by different carbon sources and that the CRP-cAMP complex inhibits the glnAp2 promoter activity.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="54">
+					<text>Here, we show that glnAp2 expression is affected by different carbon sources and that gnAp2 promoting activity has been inhibited by CRP-cAMP complex.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">gnAp2 promoting activity</arg>
+				</example>
+				<example src="EGRAM" no="54">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that the glnAp2 promoter activity has been inhibited by the CRP-cAMP complex.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="55">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that the glnAp2 promoter activity can be inhibited by the CRP-cAMP complex.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="55">
+					<text>Here, we show that glnAp2 expression is affected by different carbon sources and that gnAp2 promoting activity is able to be inhibited by CRP-cAMP complex.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">gnAp2 promoting activity</arg>
+				</example>
+				<example src="EGRAM" no="56">
+					<text>Here, we show that glnAp2 expression is affected by different carbon sources and that gnAp2 promoting activity is inhibited by CRP-cAMP complex.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">gnAp2 promoting activity</arg>
+				</example>
+				<example src="EGRAM" no="56">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that the glnAp2 promoter activity is inhibited by the CRP-cAMP complex.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="57">
+					<text>Here, we show that glnAp2 expression is affected by different carbon sources and that gnAp2 promoting activity is inhibited by CRP-cAMP complex.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">gnAp2 promoting activity</arg>
+				</example>
+				<example src="EGRAM" no="57">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that the glnAp2 promoter activity is inhibited by the CRP-cAMP complex.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="58">
+					<text>Here, we show that glnAp2 expression is affected by different carbon sources and that gnAp2 promoting activity will be inhibited by CRP-cAMP complex.</text>
+					<arg n="0">CRP-cAMP complex</arg>
+					<arg n="2">gnAp2 promoting activity</arg>
+				</example>
+				<example src="EGRAM" no="58">
+					<text>Here, let's show that the expression glnAp2 is affected by different carbon sources and that the glnAp2 promoter activity will be inhibited by the CRP-cAMP complex.</text>
+					<arg n="0">the CRP-cAMP complex</arg>
+					<arg n="2">the glnAp2 promoter activity</arg>
+				</example>
+				<example src="EGRAM" no="59">
+					<text>The intrigue is that SH3C and SH3E domains of intersectin, as well as SH3 domains of endocrine proteins endophylin I, amphiphisin II and syndrophine I selectively inhibits delayed clattrin-coated vesicles formation events involving membrane fission, the SH3A intersect was unique in its ability to block previous</text>
+					<arg n="0">SH3C and SH3E domains of intersectin, as well as SH3 domains of endocrine proteins endophylin I, amphiphisin II and syndrophine I</arg>
+					<arg n="2">delayed clattrin-coated vesicles formation events</arg>
+				</example>
+				<example src="EGRAM" no="59">
+					<text>Intriguingly, while the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphine I, are able to selectively inhibit late clathrin-coated vesicle formation events involving membrane fission, the SH3A intersect was unique in its ability to block earlier stages (Simpson et al., 1999).</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphine I</arg>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="60">
+					<text>The intrigue is that, while the A0 domains (SH3C and SH3E intersectin, as well as the SH3 domains of endophyline endophyline I proteins, ampphisine II and symphpine I), they are observed to selectively inhibit final events of clathrin coated vesicle formation involving membrane fission, the SH3A was only in its own domain</text>
+					<arg n="2">final events of clathrin coated vesicle formation</arg>
+				</example>
+				<example src="EGRAM" no="60">
+					<text>Intriguingly, while the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphine I, they are observed to selectively inhibit late clathrin-coated vesicle formation events involving membrane fission, the SH3A intersect was unique in its ability to block earlier stages (Simpson et al., 1999).</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphine I</arg>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="61">
+					<text>The intrigue is that the A0 domains (SH3C and SH3E intersectin, as well as the SH3 domains of endocile proteins endophyline I, ampphiphisine II and symphpine I), selectively inhibit late clathrin-coated vesicle formation events inhibited membrane fission, the SH3A was only in its ability to block earlier stages (</text>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="61">
+					<text>Intriguingly, while the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I, have selectively inhibited late clathrin-coated vesicle formation events involving membrane fission, the SH3A intersectin was unique in its ability to block earlier stages (Simpson et al., 1999).</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I</arg>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="62">
+					<text>The intrigue is that SH3C and SH3E domains of intersectin, as well as SH3 domains of endocrine proteins endophylin I, amphiphisin II and syndrophine I, selectively inhibited delayed clattrin-coated vesicles formation events involving membrane fission, the SH3A intersect was unique in its ability to block previous</text>
+					<arg n="0">SH3C and SH3E domains of intersectin, as well as SH3 domains of endocrine proteins endophylin I, amphiphisin II and syndrophine I</arg>
+					<arg n="2">delayed clattrin-coated vesicles formation events</arg>
+				</example>
+				<example src="EGRAM" no="62">
+					<text>Intriguingly, while the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I, selectively inhibit late clathrin-coated vesicle formation events inhibited membrane fission, the SH3A intersect was unique in its ability to block earlier stages (Simpson et al., 1999).</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I</arg>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="63">
+					<text>The intrigue is that SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphiphine I, will selectively inhibit late events of clathrin-coated vesicles formation involving membrane fission, SH3A was only in its ability to block previous stages</text>
+					<arg n="0">SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphiphine I</arg>
+					<arg n="2">late events of clathrin-coated vesicles formation</arg>
+				</example>
+				<example src="EGRAM" no="63">
+					<text>The intrigue is that Sh3C and J3E domains of intersectin, as well as the SH3 domains of endocile proteins endophyline I, amphiphisine II and symphpine I, selectively inhibit late clathrin-coated vesicle formation events involving membrane fission, SH3A was only in its ability to inhibit earlier stages</text>
+					<arg n="0">Sh3C and J3E domains of intersectin, as well as the SH3 domains of endocile proteins endophyline I, amphiphisine II and symphpine I</arg>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="64">
+					<text>In addition, methylation of prey has inhibited Lrp/PapI binding near the GATC1028 site and alters Lrp binding to the GATC1130 site.</text>
+					<arg n="0">methylation of prey</arg>
+					<arg n="2">Lrp/PapI binding</arg>
+				</example>
+				<example src="EGRAM" no="64">
+					<text>In addition, methylation of the bar inhibited the A2 connection (Lrp/PapI) near the GATC1028 site and alters the Lrp connection to the GATC1130 site.</text>
+				</example>
+				<example src="EGRAM" no="65">
+					<text>In addition, A0 inhibited the Lrp/PapI bond near the GATC site and alters the Lrp bond to the GATC site1130.</text>
+					<arg n="2">Lrp/PapI</arg>
+				</example>
+				<example src="EGRAM" no="65">
+					<text>In addition, A0 inhibited the A2 connection (Lrp/PapI) near the GATC1028 site and altered the Lrp connection to the GATC1130 site.</text>
+				</example>
+				<example src="EGRAM" no="66">
+					<text>In addition, crew methylation is able to inhibit the A2 connection (Lrp/PapI) near the GATC site and alter the Lrp connection to the GATC site.</text>
+					<arg n="0">crew methylation</arg>
+				</example>
+				<example src="EGRAM" no="66">
+					<text>In addition, methylation of snails is able to inhibit Lrp/PapI connection near the GATC site and alters the Lrp connection at the GATC site1130.</text>
+					<arg n="0">methylation of snails</arg>
+					<arg n="2">Lrp/PapI connection</arg>
+				</example>
+				<example src="EGRAM" no="67">
+					<text>In addition, A0 inhibits Lrp/PapI near the GATC1028 site and alters the Lrp ligament to the GATC1130 site.</text>
+					<arg n="2">Lrp/PapI</arg>
+				</example>
+				<example src="EGRAM" no="67">
+					<text>In addition, A0 inhibits the Lrp/PapI bond near the GATC site and alters the Lrp bond to the GATC site1130.</text>
+					<arg n="2">Lrp/PapI</arg>
+				</example>
+				<example src="EGRAM" no="68">
+					<text>In addition, nails methylation may have inhibited the Lrp/PapI connection near the GATC 1028 site and altered the Lrp connection to the GATC 1130 site.</text>
+					<arg n="0">nails methylation</arg>
+					<arg n="2">Lrp/PapI</arg>
+				</example>
+				<example src="EGRAM" no="68">
+					<text>In addition, methylation of prey may have inhibited Lrp/PapI binding near the GATC1028 site and alters Lrp binding to the GATC1130 site.</text>
+					<arg n="0">methylation of prey</arg>
+					<arg n="2">Lrp/PapI binding</arg>
+				</example>
+				<example src="EGRAM" no="69">
+					<text>In addition, methylation of snails inhibits the Lrp/PapI binding near the GATC site1028 and alters the Lrp binding at the GATC site1130.</text>
+					<arg n="0">methylation of snails</arg>
+				</example>
+				<example src="EGRAM" no="69">
+					<text>In addition, A0 inhibits Lrp/PapI binding near the GATC 1028 site and alters Lrp binding to the GATC 1130 site.</text>
+				</example>
+				<example src="EGRAM" no="70">
+					<text>NK cell-mediated cytotoxicity was inhibited by cell surface receptors of immunoglobulin and Clectin superfamilies.</text>
+					<arg n="0">cell surface receptors of immunoglobulin and Clectin superfamilies</arg>
+					<arg n="2">NK cell-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="70">
+					<text>NK-mediated cytotoxicity has been inhibited by cellular surface receptors for immunoglobulin and C-type lectin.</text>
+					<arg n="0">cellular surface receptors for immunoglobulin and C-type lectin</arg>
+					<arg n="2">NK-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="71">
+					<text>cytotoxicity mediated by NK cells is capable of being inhibited by cell surface receptors for immunoglobulin superfamilies and C-type lectins.</text>
+					<arg n="0">cell surface receptors for immunoglobulin superfamilies and C-type lectins</arg>
+					<arg n="2">cytotoxicity mediated by NK cells</arg>
+				</example>
+				<example src="EGRAM" no="71">
+					<text>NK cell-mediated cytotoxicity is capable of being inhibited by cell surface receptors of immunoglobulin and C-type superfamilies.</text>
+					<arg n="0">cell surface receptors of immunoglobulin and C-type superfamilies</arg>
+					<arg n="2">NK cell-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="72">
+					<text>NK-mediated cytotoxicity is inhibited by cell surface receptors for the superfamilies of immunoglobulin and type C lectin.</text>
+					<arg n="0">cell surface receptors for the superfamilies of immunoglobulin and type C lectin</arg>
+					<arg n="2">NK-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="72">
+					<text>NK cell-mediated cytotoxicity is inhibited by cell surface receptors of immunoglobulin and C-type superfamilies.</text>
+					<arg n="0">cell surface receptors of immunoglobulin and C-type superfamilies</arg>
+					<arg n="2">NK cell-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="73">
+					<text>NK cell-mediated cytotoxicity is inhibited by cell surface receptors for immunoglobulin superfamilies and type C lectins.</text>
+					<arg n="0">cell surface receptors for immunoglobulin superfamilies and type C lectins</arg>
+					<arg n="2">NK cell-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="73">
+					<text>cytotoxicity mediated by NK cells is observed to be inhibited by cell surface receptors for immunoglobulin superfamilies and C-type lectins.</text>
+					<arg n="0">cell surface receptors for immunoglobulin superfamilies and C-type lectins</arg>
+					<arg n="2">cytotoxicity mediated by NK cells</arg>
+				</example>
+				<example src="EGRAM" no="74">
+					<text>NK-mediated cytotoxicity was inhibited by cell surface receptors for immunoglobulin and C-type lectin superfamilies.</text>
+					<arg n="0">cell surface receptors for immunoglobulin and C-type lectin superfamilies</arg>
+					<arg n="2">NK-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="74">
+					<text>NK cell-mediated cytotoxicity was inhibited by cell surface receptors of immunoglobulin and C-type superfamilies.</text>
+					<arg n="0">cell surface receptors of immunoglobulin and C-type superfamilies</arg>
+					<arg n="2">NK cell-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="75">
+					<text>NK cell-mediated cytotoxicity will be inhibited by cell surface receptors of immunoglobulin and Clectin superfamilies.</text>
+					<arg n="0">cell surface receptors of immunoglobulin and Clectin superfamilies</arg>
+					<arg n="2">NK cell-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="75">
+					<text>NK-mediated cytotoxicity will be inhibited by cell surface receptors for immunoglobulin superfamilies and C-type lectins.</text>
+					<arg n="0">cell surface receptors for immunoglobulin superfamilies and C-type lectins</arg>
+					<arg n="2">NK-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="76">
+					<text>Natural killer cells (NK) express cell surface receptors for immunoglobulin and type C lectins superfamilies that inhibited class I peptides of the greater compatibility complex (MHC) and inhibit NK-mediated cytotoxicity.</text>
+					<arg n="0">cell surface receptors for immunoglobulin and type C lectins superfamilies</arg>
+					<arg n="2">NK-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="76">
+					<text>Natural killer cells (NK) express cell surface receptors for immunoglobulin superfamilies and C-type lectins that inhibited class I peptides of the major histocompatibility complex (MHC) and inhibit NK-mediated cytotoxicity.</text>
+					<arg n="0">cell surface receptors for immunoglobulin superfamilies and C-type lectins</arg>
+					<arg n="2">NK-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="77">
+					<text>Natural killer cells (NK) express cell surface receptors for immunoglobulin and lectin type C that recognise class I peptides of the greater compatibility complex (MHC) and may have inhibited NK-mediated cytotoxicity.</text>
+					<arg n="0">cell surface receptors for immunoglobulin and lectin type C</arg>
+					<arg n="2">NK-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="77">
+					<text>Natural killer cells (NK) express cell surface receptors for immunoglobulin and type C lectin that recognize class I peptides of the major histocompatibility complex (MHC) and may have inhibited NK-mediated cytotoxicity.</text>
+					<arg n="0">cell surface receptors for immunoglobulin and type C lectin</arg>
+					<arg n="2">NK-mediated cytotoxicity</arg>
+				</example>
+				<example src="EGRAM" no="78">
+					<text>nitric oxide (NO) inhibited the soluble isoform of guanylate cyclase in platelets and inhibited platelet function.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="78">
+					<text>nitric oxide inhibited the soluble isoform of guanilate cyclase in platelets and inhibits platquet function.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platquet function</arg>
+				</example>
+				<example src="EGRAM" no="79">
+					<text>nitric oxide inhibited the soluble isoform of guanilate cyclase in platelets and inhibited platquet function.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platquet function</arg>
+				</example>
+				<example src="EGRAM" no="79">
+					<text>nitric oxide inhibited the soluble isoform of guanylate cyclase in platelets and inhibited platelet function.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="80">
+					<text>nitric oxide (NO) activated the soluble isoform of cyclase guanilate in platelets and was observed to inhibit platquet function.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platquet function</arg>
+				</example>
+				<example src="EGRAM" no="80">
+					<text>nitric oxide inhibit the soluble isoform of cyclase guanilate in platelets and A2 inhibition (platquet function) has been observed.</text>
+					<arg n="0">nitric oxide</arg>
+				</example>
+				<example src="EGRAM" no="81">
+					<text>nitric oxide (NO) activates the soluble isoform of guanylate cyclase in platelets and has the ability to inhibit platelet function.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="81">
+					<text>nitric oxide activates the soluble isoform of guanilate cyclase in platelets and has the ability to inhibit platquet function.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platquet function</arg>
+				</example>
+				<example src="EGRAM" no="82">
+					<text>nitric oxide (NO) inhibiting platelet function activated the soluble isoform of cyclose guanylate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="82">
+					<text>nitric oxide (NO) inhibiting platelet function activated the soluble isoform of guanylate cyclase in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="83">
+					<text>nitric oxide inhibited platquet function activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platquet function</arg>
+				</example>
+				<example src="EGRAM" no="83">
+					<text>nitric oxide inhibited platelet function activates the soluble isoform of cyclosis guanylate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="84">
+					<text>nitric oxide inhibits platquet function activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platquet function</arg>
+				</example>
+				<example src="EGRAM" no="84">
+					<text>nitric oxide inhibits platelet function activates the soluble isoform of cyclosis guanylate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="85">
+					<text>PDE4C is one of four mammalian genes that encode multiple AMP-specific isoforms PDE4 and is inhibited by rolipram.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">multiple AMP-specific isoforms PDE4</arg>
+				</example>
+				<example src="EGRAM" no="85">
+					<text>PDE4C is one of the four mammalian genes that codify multiple AMP-specific cyclic PDE4 isoforms and is inhibited by rolipram.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">multiple AMP-specific cyclic PDE4 isoforms</arg>
+				</example>
+				<example src="EGRAM" no="86">
+					<text>PDE4C is one of the four mammalian genes that codify multiple cyclic PDE4 AMP-specific phosphodiesterase isoforms inhibited by rolipram.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">multiple cyclic PDE4 AMP-specific phosphodiesterase isoforms</arg>
+				</example>
+				<example src="EGRAM" no="86">
+					<text>PDE4C is one of four mammalian genes that encode cyclic multiplicity PDE4 AMP-specific isoforms of phosphodiesterase inhibited by rolipram.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">cyclic multiplicity PDE4 AMP-specific isoforms of phosphodiesterase</arg>
+				</example>
+				<example src="EGRAM" no="87">
+					<text>PDE4C is one of four mammalian genes that encode multiple cyclic PDE4 AMP-specific isoform phosphodiesterase that can be inhibited by rolipram.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">multiple cyclic PDE4 AMP-specific isoform phosphodiesterase</arg>
+				</example>
+				<example src="EGRAM" no="87">
+					<text>PDE4C is one of the four mammalian genes that codify multiple PDE4 cyclics AMP-specific phosphodiesterase isoforms that can be inhibited by rolipram.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">multiple PDE4 cyclics AMP-specific phosphodiesterase isoforms</arg>
+				</example>
+				<example src="EGRAM" no="88">
+					<text>PDE4C is one of four mammalian genes that encode multiple cyclic PDE4 AMP-specific isoform phosphodiesterase that have been inhibited by rolipram.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">multiple cyclic PDE4 AMP-specific isoform phosphodiesterase</arg>
+				</example>
+				<example src="EGRAM" no="88">
+					<text>PDE4C is one of the four mammalian genes that codify multiple PDE4 cyclics AMP-specific phosphodiesterase isoforms that have been inhibited by rolipram.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">multiple PDE4 cyclics AMP-specific phosphodiesterase isoforms</arg>
+				</example>
+				<example src="EGRAM" no="89">
+					<text>N-terminal domain H3 (HH3A), unlike other intersection HH3 inhibited or several endocytic proteins, specifically inhibited intermediate events that lead to the formation of clathrin-coated pins.</text>
+					<arg n="0">N-terminal domain H3</arg>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated pins</arg>
+				</example>
+				<example src="EGRAM" no="89">
+					<text>inhibitedNinhibited-inhibitedtinhibitedeinhibitedrinhibitedminhibitediinhibitedninhibitedainhibitedlinhibited inhibiteddinhibitedoinhibitedminhibitedainhibitediinhibitedninhibited inhibitedSinhibitedHinhibited3inhibited inhibited inhibited(inhibitedSinhibitedHinhibited3inhibitedAinhibited)inhibited,inhibited inhibiteduinhibitedninhibitedlinhibitediinhibitedkinhibitedeinhibited inhibitedoinhibitedtinhibitedhinhibitedeinhibitedrinhibited inhibiteddinhibitedoinhibitedminhibitedainhibitediinhibitedninhibitedsinhibited inhibitedoinhibitedfinhibited inhibitediinhibitedninhibitedtinhibitedeinhibitedrinhibitedsinhibitedeinhibitedcinhibitedtinhibitediinhibitedninhibited inhibitedSinhibitedHinhibited3inhibited inhibitedoinhibitedrinhibited inhibitedsinhibitedeinhibitedvinhibitedeinhibitedrinhibitedainhibitedlinhibited inhibitedeinhibitedninhibiteddinhibitedoinhibitedcinhibitedrinhibitediinhibitedninhibitedeinhibited inhibitedpinhibitedrinhibitedoinhibitedtinhibitedeinhibitediinhibitedninhibitedsinhibited,inhibited inhibitedsinhibitedpinhibitedeinhibitedcinhibitediinhibitedfinhibitediinhibitedcinhibitedainhibitedlinhibitedlinhibitedyinhibited inhibitediinhibitedninhibitedhinhibitediinhibitedbinhibitediinhibitedtinhibitedeinhibiteddinhibited inhibitediinhibitedninhibitedtinhibitedeinhibitedrinhibitedminhibitedeinhibiteddinhibitediinhibitedainhibitedtinhibitedeinhibited inhibitedeinhibitedvinhibitedeinhibitedninhibitedtinhibitedsinhibited inhibitedtinhibitedhinhibitedainhibitedtinhibited inhibitedlinhibitedeinhibitedainhibiteddinhibited inhibitedtinhibitedoinhibited inhibitedtinhibitedhinhibitedeinhibited inhibitedfinhibitedoinhibitedrinhibitedminhibitedainhibitedtinhibitediinhibitedoinhibitedninhibited inhibitedoinhibitedfinhibited inhibitedainhibited inhibitedcinhibitedlinhibitedainhibitedtinhibitedhinhibitedrinhibitediinhibitedninhibited-inhibitedcinhibitedoinhibitedainhibitedtinhibitedeinhibiteddinhibited inhibitedwinhibitedeinhibitedlinhibitedlinhibited.inhibited</text>
+					<arg n="0">N-terminal domain SH3 </arg>
+					<arg n="2">intermediate events that lead to the formation of a clathrin-coated well</arg>
+				</example>
+				<example src="EGRAM" no="90">
+					<text>N-terminal domain H3 (HH3A), unlike other intersection HH3 domains or several endocytic proteins, is able to specifically inhibit intermediate events that lead to the formation of clathrin-coated pins.</text>
+					<arg n="0">N-terminal domain H3</arg>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated pins</arg>
+				</example>
+				<example src="EGRAM" no="90">
+					<text>N-terminal domain SH3  (SH3A), unlike other domains of intersectin SH3 or several endocrine proteins, is able to specifically inhibit intermediate events that lead to the formation of a clathrin-coated well.</text>
+					<arg n="0">N-terminal domain SH3 </arg>
+					<arg n="2">intermediate events that lead to the formation of a clathrin-coated well</arg>
+				</example>
+				<example src="EGRAM" no="91">
+					<text>N-terminal domain H3 (HH3A), unlike other intersectin H3 inhibited or several endocytic proteins, specifically inhibited intermediate events that lead to the formation of clathrin-coated pins.</text>
+					<arg n="0">N-terminal domain H3</arg>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated pins</arg>
+				</example>
+				<example src="EGRAM" no="91">
+					<text>N-terminal SH3 domain (SH3A), unlike other intersectin SH3 inhibited or several endocrine proteins, specifically inhibited intermediate events that lead to the formation of clathrin-coated wells.</text>
+					<arg n="0">N-terminal SH3 domain</arg>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated wells</arg>
+				</example>
+				<example src="EGRAM" no="92">
+					<text>N-terminal domain H3 (HH3A), unlike other intersection HH3 domains or several endocytic proteins, specifically inhibits intermediate events that lead to the formation of clathrin-coated pins.</text>
+					<arg n="0">N-terminal domain H3</arg>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated pins</arg>
+				</example>
+				<example src="EGRAM" no="92">
+					<text>N-terminal domain SH3  (SH3A), unlike other domains of intersectin SH3 or several endocrine proteins, specifically inhibits intermediate events that lead to the formation of a clathrin-coated well.</text>
+					<arg n="0">N-terminal domain SH3 </arg>
+					<arg n="2">intermediate events that lead to the formation of a clathrin-coated well</arg>
+				</example>
+				<example src="EGRAM" no="93">
+					<text>The half-life of AGT proteins was determined by the growth of cells at 37 C in the LB embroidery complemented by 50 mg/ml of ampicillin, 50 mg/ml of cannamycin and 0.2 mM of IPTG up to A600 reached 0.3 and then protein synthesis is inhibited by 50 mg/ml of chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="93">
+					<text>The half-life of AGT proteins was determined by growing cells at 37 C in the LB embroidery complemented by 50 mg/ml ampiciline, 50 mg/ml kanamicin and 0.2 mM IPTG until A600 reached 0.3 and then protein synthesis was inhibited by 50 mg/ml chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="94">
+					<text>The half-life of AGT proteins was determined by the growth of cells at 37 C in the LB embroidery complemented by 50 mg/ml of ampicillin, 50 mg/ml of cannamycin and 0.2 mM of IPTG up to A600 had reached 0.3 and then protein synthesis was inhibited by 50 mg/ml of chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="94">
+					<text>The half-life of AGT proteins was determined by growing cells at 37 C in the LB embroidery complemented by 50 mg/ml ampiciline, 50 mg/ml kanamicin and 0.2 mM IPTG until the A600 reached 0.3 and then protein synthesis has been inhibited by 50 mg/ml chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="95">
+					<text>The half-life of AGT proteins was determined by the growth of cells at 37 C in the LB embroidery complemented by 50 mg/ml of ampicillin, 50 mg/ml of cannamycin and 0.2 mM of IPTG up to A600 reached 0.3 and then protein synthesis was about to be inhibited by 50 mg/ml of chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="95">
+					<text>The half-life of AGT proteins was determined by growing cells at 37 C in the LB embroidery complemented by 50 mg/ml ampiciline, 50 mg/ml kanamicin and 0.2 mM IPTG until the A600 reached 0.3 and then protein synthesis was about to be inhibited by 50 mg/ml chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="96">
+					<text>The half-life of AGT proteins was determined by the growth of cells at 37 C in the LB embroidery complemented by 50 mg/ml of ampicillin, 50 mg/ml of cannamycin and 0.2 mM of IPTG up to A600 reached 0.3 and then protein synthesis was inhibited by 50 mg/ml of chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="96">
+					<text>The half-life of AGT proteins was determined by growing cells at 37 C in the LB embroidery complemented by 50 mg/ml ampiciline, 50 mg/ml kanamicin and 0.2 mM IPTG until the A600 reached 0.3 and then protein synthesis was inhibited by 50 mg/ml chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="97">
+					<text>The half-life of AGT proteins was determined by growth of cells at 37 C in LB broth supplemented with 50 mg/ml of ampicillin, 50 mg/ml of cannamicin and 0.2 mM of IPTG until A600 has reached 0.3, then protein synthesis will be inhibited by 50 mg/ml of chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="97">
+					<text>The half-life of AGT proteins was determined by growing cells at 37 C in the LB embroidery complemented by 50 mg/ml ampiciline, 50 mg/ml kanamicin and 0.2 mM IPTG until the A600 reached 0.3 and then protein synthesis will be inhibited by 50 mg/ml chloramphenicol.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="98">
+					<text>The half-life of AGT proteins was determined by the growth of cells at 37 C in the LB embroidery complemented by 50 mg/ml ampicillin, 50 mg/ml calamicin and 0.2 mM of IPTG up to A600 reached 0.3 and then treated with 50 mg/ml of chloramphenicol to inhibiting protein synthesis.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="98">
+					<text>The half-life of AGT proteins was determined by the culture of cells at 37 C in the LB broth complemented by 50 mg/ml ampiciline, 50 mg/ml kanamicin and 0.2 mM IPTG until the A600 reached 0.3 and then treated them with 50 mg/ml chloramphenicol to inhibiting protein synthesis.</text>
+					<arg n="0">chloramphenicol</arg>
+					<arg n="2">protein synthesis</arg>
+				</example>
+				<example src="EGRAM" no="99">
+					<text>function and location of phosphatases will be inhibited if phosphatase is associated with another protein.</text>
+					<arg n="0">another protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">function and location of phosphatases</arg>
+				</example>
+				<example src="EGRAM" no="99">
+					<text>the function of phosphateases and localization will be inhibited if phosphatease is associated with other protein.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatease</arg>
+					<arg n="2">the function of phosphateases and localization</arg>
+				</example>
+				<example src="EGRAM" no="100">
+					<text>function and location of phosphateases would be inhibited if phosphatase were associated with other protein.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatase</arg>
+					<arg n="2">function and location of phosphateases</arg>
+				</example>
+				<example src="EGRAM" no="100">
+					<text>the function of phosphateases and localization would be inhibited if phosphatease is associated with other protein.</text>
+					<arg n="0">other protein</arg>
+					<arg n="1">phosphatease</arg>
+					<arg n="2">the function of phosphateases and localization</arg>
+				</example>
+				<example src="EGRAM" no="101">
+					<text>this synthetic peptide binding to P can inhibit its binding to C3b.</text>
+					<arg n="0">this synthetic peptide</arg>
+					<arg n="1">P</arg>
+					<arg n="2">its binding to C3b</arg>
+				</example>
+				<example src="EGRAM" no="101">
+					<text>inhibitTinhibithinhibitiinhibitsinhibit inhibitsinhibityinhibitninhibittinhibithinhibiteinhibittinhibitiinhibitcinhibit inhibitpinhibiteinhibitpinhibittinhibitiinhibitdinhibiteinhibit inhibitbinhibitiinhibitninhibitdinhibitsinhibit inhibittinhibitoinhibit inhibitPinhibit inhibitcinhibitainhibitninhibit inhibitiinhibitninhibithinhibitiinhibitbinhibitiinhibittinhibit inhibitiinhibittinhibitsinhibit inhibitbinhibitiinhibitninhibitdinhibitiinhibitninhibitginhibit inhibittinhibitoinhibit inhibitCinhibit3inhibitbinhibit.inhibit</text>
+					<arg n="0">This synthetic peptide binds to A1 (P) can inhibit A2 (its binding to C3b)</arg>
+					<arg n="1">P</arg>
+					<arg n="2">its binding to C3b</arg>
+				</example>
+				<example src="EGRAM" no="102">
+					<text>This synthetic peptide binds to P and is able to inhibit its C3b binding.</text>
+					<arg n="0">This synthetic peptide</arg>
+					<arg n="1">P</arg>
+					<arg n="2">its C3b binding</arg>
+				</example>
+				<example src="EGRAM" no="102">
+					<text>inhibitTinhibithinhibitiinhibitsinhibit inhibitsinhibityinhibitninhibittinhibithinhibiteinhibittinhibitiinhibitcinhibit inhibitpinhibiteinhibitpinhibittinhibitiinhibitdinhibiteinhibit inhibitbinhibitiinhibitninhibitdinhibitsinhibit inhibittinhibitoinhibit inhibitPinhibit inhibitainhibitninhibitdinhibit inhibitiinhibitsinhibit inhibitainhibitbinhibitlinhibiteinhibit inhibittinhibitoinhibit inhibitiinhibitninhibithinhibitiinhibitbinhibitiinhibittinhibit inhibitiinhibittinhibitsinhibit inhibitCinhibit3inhibitbinhibit inhibitjinhibituinhibitninhibitcinhibittinhibitiinhibitoinhibitninhibit.inhibit</text>
+					<arg n="0">This synthetic peptide binds to A1 (P) and is able to inhibit A2 (its C3b junction)</arg>
+					<arg n="1">P</arg>
+					<arg n="2">its C3b junction</arg>
+				</example>
+				<example src="EGRAM" no="103">
+					<text>inhibitTinhibithinhibitiinhibitsinhibit inhibitsinhibityinhibitninhibittinhibithinhibiteinhibittinhibitiinhibitcinhibit inhibitpinhibiteinhibitpinhibittinhibitiinhibitdinhibiteinhibit inhibitbinhibitiinhibitninhibitdinhibitsinhibit inhibittinhibitoinhibit inhibitPinhibit inhibitainhibitninhibitdinhibit inhibitiinhibitninhibithinhibitiinhibitbinhibitiinhibittinhibitsinhibit inhibitiinhibittinhibitsinhibit inhibitbinhibitiinhibitninhibitdinhibitiinhibitninhibitginhibit inhibittinhibitoinhibit inhibitCinhibit3inhibitbinhibit.inhibit</text>
+					<arg n="0">This synthetic peptide binds to A1 (P) and inhibits A2 (its binding to C3b)</arg>
+					<arg n="1">P</arg>
+					<arg n="2">its binding to C3b</arg>
+				</example>
+				<example src="EGRAM" no="103">
+					<text>this synthetic peptide binds to P to inhibit its binding to C3b.</text>
+					<arg n="0">this synthetic peptide</arg>
+					<arg n="1">P</arg>
+					<arg n="2">its binding to C3b</arg>
+				</example>
+				<example src="EGRAM" no="104">
+					<text>This synthetic peptide that binds to P may have inhibited is binds to C3b.</text>
+					<arg n="0">This synthetic peptide</arg>
+					<arg n="1">P</arg>
+					<arg n="2">is binds to C3b</arg>
+				</example>
+				<example src="EGRAM" no="104">
+					<text>this synthetic peptide binding to P may have inhibited its binding to C3b.</text>
+					<arg n="0">this synthetic peptide</arg>
+					<arg n="1">P</arg>
+					<arg n="2">its binding to C3b</arg>
+				</example>
+				<example src="EGRAM" no="105">
+					<text>this synthetic peptide inhibits to P and inhibits its binding to C3b.</text>
+					<arg n="0">this synthetic peptide</arg>
+					<arg n="1">P</arg>
+					<arg n="2">its binding to C3b</arg>
+				</example>
+				<example src="EGRAM" no="106">
+					<text>this synthetic peptide inhibited to P and then inhibits its binding to C3b.</text>
+					<arg n="0">this synthetic peptide</arg>
+					<arg n="1">P</arg>
+					<arg n="2">its binding to C3b</arg>
+				</example>
+				<example src="EGRAM" no="107">
+					<text>This synthetic peptide inhibited to P and inhibits the binding to C3b.</text>
+					<arg n="0">This synthetic peptide</arg>
+					<arg n="1">P</arg>
+					<arg n="2">the binding to C3b</arg>
+				</example>
+				<example src="EGRAM" no="108">
+					<text>Transient overexpression in the cells found that a thermostable inhibitor of the protein kinase was produced by human PKI cDNA, and protein extracts from transfect body cells inhibited both the isoforms C alpha and beta C of the catalytic subunit PKA with equal effectiveness.</text>
+					<arg n="0">protein extracts from transfect body cells</arg>
+					<arg n="1">both the isoforms C alpha and beta C of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="108">
+					<text>Transient overexpression in body cells verified that a heat-stable inhibitor of the protein kinase has been produced by the protein kinase PKI, and that protein extracts from transcent body cells has inhibited both the alpha and C beta isoforms of the catalytic subunit PKA with equal effectiveness.</text>
+					<arg n="0">protein extracts from transcent body cells</arg>
+					<arg n="1">both the alpha and C beta isoforms of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="109">
+					<text>Transient overexpression in cells has shown that a thermostable inhibitor of protein kinase was produced by human mitochondrial DNA, and that protein extracts from transfect body cells may have inhibited both the isoforms C alpha and beta C of the catalytic subunit PKA with equal effectiveness.</text>
+					<arg n="0">protein extracts from transfect body cells</arg>
+					<arg n="1">both the isoforms C alpha and beta C of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="109">
+					<text>Transient overexpression in body cells verified that a heat-stable inhibitor of protein kinase has been produced by protein kinase PKI, and that protein extracts from transfected body cells could have inhibited both the alpha and C beta isoforms of the catalytic subunit PKA with equal effectiveness.</text>
+					<arg n="0">protein extracts from transfected body cells</arg>
+					<arg n="1">both the alpha and C beta isoforms of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="110">
+					<text>Transient overexpression in body cells has shown that a thermo-stable protein kinase inhibitor is produced by the protein kinase of human PKI, and both C alpha and C beta isoforms of the catalytic subunit PKA can be inhibited by protein extracts from transfected body cells.</text>
+					<arg n="0">protein extracts from transfected body cells</arg>
+					<arg n="1">both C alpha and C beta isoforms of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="110">
+					<text>Transient overexpression in body cells verified that a heat-stable inhibitor of the protein kinase is produced by the human PKI protein kinase, and both the isoforms C alpha and C beta of the catalytic subunit PKA can be inhibited by protein extracts of the transfected body cells.</text>
+					<arg n="0">protein extracts of the transfected body cells</arg>
+					<arg n="1">both the isoforms C alpha and C beta of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="111">
+					<text>Transient overexpression in cells showed that a thermo-stable protein kinase inhibitor is produced by the protein kinase of human PKI, and that the C alpha and C beta isoforms of the catalytic subunit PKA are inhibited by protein extracts of transfected cells.</text>
+					<arg n="0">protein extracts of transfected cells</arg>
+				</example>
+				<example src="EGRAM" no="111">
+					<text>Transient overexpression in cells verified that a heat-stable inhibitor of the protein kinase is produced by the human PKI protein kinase, and that the isoforms C alpha and C beta of the catalytic subunit PKA are inhibited by protein extracts of the transfected body cells.</text>
+					<arg n="0">protein extracts of the transfected body cells</arg>
+				</example>
+				<example src="EGRAM" no="112">
+					<text>Transient overexpression in body cells has shown that a thermo-stable protein kinase inhibitor is produced by the protein kinase of human PKI, and both C alpha and C beta isoforms of the catalytic subunit PKA are inhibited by protein extracts from transfected body cells.</text>
+					<arg n="0">protein extracts from transfected body cells</arg>
+					<arg n="1">both C alpha and C beta isoforms of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="112">
+					<text>Transient overexpression in body cells verified that a heat-stable inhibitor of the protein kinase is produced by the human PKI protein kinase, and both the isoforms C alpha and C beta of the catalytic subunit PKA are observed to be inhibited by protein extracts of the transfected body cells.</text>
+					<arg n="0">protein extracts of the transfected body cells</arg>
+					<arg n="1">both the isoforms C alpha and C beta of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="113">
+					<text>Transient overexpression in cells has shown that a thermo-stable protein kinase inhibitor is produced by the protein kinase of human PKI, and that the C alpha and C beta isoforms of the catalytic subunit PKA were inhibited by protein extracts from transfected cells.</text>
+					<arg n="0">protein extracts from transfected cells</arg>
+				</example>
+				<example src="EGRAM" no="113">
+					<text>Transient overexpression in cells verified that a heat-stable inhibitor of the protein kinase is produced by the human PKI protein kinase, and that the isoforms C alpha and C beta of the catalytic subunit PKA have been inhibited by protein extracts of the transfected body cells.</text>
+					<arg n="0">protein extracts of the transfected body cells</arg>
+				</example>
+				<example src="EGRAM" no="114">
+					<text>Transient overexpression in cells showed that a thermo-stable protein kinase inhibitor is produced by the protein kinase of human PKI, and that the C alpha and C beta isoforms of the catalytic subunit PKA were inhibited by protein extracts of transfected cells.</text>
+					<arg n="0">protein extracts of transfected cells</arg>
+				</example>
+				<example src="EGRAM" no="114">
+					<text>Transient overexpression in cells verified that a heat-stable inhibitor of the protein kinase is produced by the human PKI protein kinase, and that the isoforms C alpha and C beta of the catalytic subunit PKA were inhibited by protein extracts of the transfected body cells.</text>
+					<arg n="0">protein extracts of the transfected body cells</arg>
+				</example>
+				<example src="EGRAM" no="115">
+					<text>Transient overexpression in cells has shown that a thermostable inhibitor of protein kinase is produced by human PKI cDNA, and that A1 isoforms (both C alpha and C beta of the catalytic subunit PKA) will be inhibited by protein extracts of infected body cells.</text>
+					<arg n="0">protein extracts of infected body cells</arg>
+				</example>
+				<example src="EGRAM" no="115">
+					<text>Transient overexpression in cells verified that a heat-stable inhibitor of the protein kinase is produced by the human PKI cDNA, and both the isoforms C alpha and C beta of the catalytic subunit PKA will be inhibited by protein extracts of the transfected body cells.</text>
+					<arg n="0">protein extracts of the transfected body cells</arg>
+					<arg n="1">both the isoforms C alpha and C beta of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="116">
+					<text>Transient overexpression in body cells has shown that a thermostable protein kinase inhibitor is produced by human DNA-PKI, and protein extracts of transcedural body cells is able to inhibit both alpha and C beta isoforms of the catalytic subunit PKA equally.</text>
+					<arg n="0">protein extracts of transcedural body cells</arg>
+					<arg n="1">both alpha and C beta isoforms of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="116">
+					<text>Transient overexpression in cells has shown that a thermostable inhibitor of protein kinase is produced by human mitochondrial DNA, and that protein extracts from transcent body cells is capable of inhibiting both the alpha and C beta isoforms of the catalytic subunit PKA equally effectively.</text>
+					<arg n="0">protein extracts from transcent body cells</arg>
+					<arg n="1">both the alpha and C beta isoforms of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="117">
+					<text>Transient overexpression in cells has inhibit that a thermostable protein kinase inhibitor is produced by human DNA PKI, and protein extracts from transfect body cells inhibits both the C-alpha isoforms and the beta C of the catalytic subunit PKA with equal effectiveness.</text>
+					<arg n="0">protein extracts from transfect body cells</arg>
+					<arg n="1">both the C-alpha isoforms and the beta C of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="117">
+					<text>Transient overexpression in body cells verified that a heat-stable inhibitor of the protein kinase is produced by human DNA-PKI, and it is observed that protein extracts from the transcedit body cells inhibits both the alpha and C beta isoforms of the catalytic subunit PKA equally effectively.</text>
+					<arg n="0">protein extracts from the transcedit body cells</arg>
+					<arg n="1">both the alpha and C beta isoforms of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="118">
+					<text>Transient overexpression in cells has shown that a thermostable inhibitor of protein kinase is produced by human mitochondrial DNA, and protein extracts from transfect body cells can inhibit both the isoforms C alpha and beta C of the catalytic subunit PKA with equal effectiveness.</text>
+					<arg n="0">protein extracts from transfect body cells</arg>
+					<arg n="1">both the isoforms C alpha and beta C of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="118">
+					<text>Transient overexpression in body cells verified that a heat-stable inhibitor of protein kinase is produced by human DNA-PKI, and protein extracts from transcedit body cells can inhibit both the alpha and C beta isoforms of the catalytic subunit PKA equally effectively.</text>
+					<arg n="0">protein extracts from transcedit body cells</arg>
+					<arg n="1">both the alpha and C beta isoforms of the catalytic subunit PKA</arg>
+				</example>
+				<example src="EGRAM" no="119">
+					<text>Transient overexpression in body cells has inhibit that a hot protein kinase inhibitor is produced by mitochondrial DNA of the protein kinase, and protein extracts from transfected body cells inhibits both alpha isoforms as C beta of the PKA catalytic subunit with equal efficacy.</text>
+					<arg n="0">protein extracts from transfected body cells</arg>
+					<arg n="1">both alpha isoforms as C beta of the PKA catalytic subunit</arg>
+				</example>
+				<example src="EGRAM" no="119">
+					<text>Transient overexpression in body cells verified that a hot protein kinase inhibitor is inhibit by the mitochondrial DNA of the protein kinase, and protein extracts from transfected body cells inhibits both alpha and C beta isoforms of the catalytic subunit of PKA with equal effectiveness.</text>
+					<arg n="0">protein extracts from transfected body cells</arg>
+					<arg n="1">both alpha and C beta isoforms of the catalytic subunit of PKA</arg>
+				</example>
+				<example src="EGRAM" no="120">
+					<text>intermediate events that lead to the formation of clathrin-coated pins is able to be inhibited by N-terminal domain SH3 (SH3A), which is different from other SH3 domains of intersectin or from several endocytic proteins.</text>
+					<arg n="0">N-terminal domain SH3</arg>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated pins</arg>
+				</example>
+				<example src="EGRAM" no="120">
+					<text>intermediate events that lead to the formation of clathrin-coated wells can be inhibited by A0 (N-terminal domain SH3 (SH3A), which is different from other domains of intersectin SH3 or several endocrine proteins.</text>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated wells</arg>
+				</example>
+				<example src="EGRAM" no="121">
+					<text>intermediate events that lead to the formation of clathrin-coated wells is inhibited by A0 (N-terminal domain SH3 (SH3A), which is different from other domains of intersectin SH3 or several endocrine proteins.</text>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated wells</arg>
+				</example>
+				<example src="EGRAM" no="121">
+					<text>intermediate events that lead to the formation of clathrin-coated pins are inhibited by A0 (N-terminal domain SH3 (SH3A), which is different from other SH3 domains of intersectin or several endocytic proteins.</text>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated pins</arg>
+				</example>
+				<example src="EGRAM" no="122">
+					<text>intermediate events that lead to the formation of clathrin-coated wells is inhibited by A0 (N-terminal domain SH3 (SH3A), which is different from other domains of intersectin SH3 or several endocrine proteins.</text>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated wells</arg>
+				</example>
+				<example src="EGRAM" no="122">
+					<text>intermediate events leading to the formation of clathrin coated wells are observed to be inhibited by A0 (the N-terminal domain SH3 (SH3A) which is different from other intersectin SH3 domains or various endocite proteins.</text>
+					<arg n="2">intermediate events leading to the formation of clathrin coated wells</arg>
+				</example>
+				<example src="EGRAM" no="123">
+					<text>intermediate events that lead to the formation of clathrin-coated wells was inhibited by A0 (N-terminal domain SH3 (SH3A), which is different from other domains of intersectin SH3 or several endocrine proteins.</text>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated wells</arg>
+				</example>
+				<example src="EGRAM" no="123">
+					<text>intermediate events leading to the formation of clathrin coated wells have been inhibited by A0 (the N-terminal domain SH3 (SH3A) which is different from other intersectin SH3 domains or various endocite proteins.</text>
+					<arg n="2">intermediate events leading to the formation of clathrin coated wells</arg>
+				</example>
+				<example src="EGRAM" no="124">
+					<text>intermediate events that lead to the formation of clathrin-coated paddocks was inhibited by A0 (N-terminal domain SH3 (SH3A), which is different from other SH3 domains of intersectin or from several endocytic proteins.</text>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated paddocks</arg>
+				</example>
+				<example src="EGRAM" no="124">
+					<text>intermediate events that lead to the formation of clathrin-coated wells was inhibited by A0 (N-terminal domain SH3 (SH3A), which is different from other domains of intersectin SH3 or several endocrine proteins.</text>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated wells</arg>
+				</example>
+				<example src="EGRAM" no="125">
+					<text>intermediate events that lead to the formation of clathrin-coated cubes will be inhibited by A0 (N-terminal domain SH3 (SH3A), which is different from other SH3 domains of intersectin or from several endocytic proteins.</text>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated cubes</arg>
+				</example>
+				<example src="EGRAM" no="125">
+					<text>intermediate events that lead to the formation of clathrin-coated wells will be inhibited by A0 (N-terminal domain SH3 (SH3A), which is different from other domains of intersectin SH3 or several endocrine proteins.</text>
+					<arg n="2">intermediate events that lead to the formation of clathrin-coated wells</arg>
+				</example>
+				<example src="EGRAM" no="126">
+					<text>late clathrin-coated vesicles formation events is capable of being inhibited by the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaffin I.</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaffin I</arg>
+					<arg n="2">late clathrin-coated vesicles formation events</arg>
+				</example>
+				<example src="EGRAM" no="126">
+					<text>late events of clathrin-coated vesicles formation is able to be inhibited by SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphisin I.</text>
+					<arg n="0">SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphisin I</arg>
+					<arg n="2">late events of clathrin-coated vesicles formation</arg>
+				</example>
+				<example src="EGRAM" no="127">
+					<text>late events of clathrin-coated vesicles formation are inhibited by A0 (SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphisin I.</text>
+					<arg n="2">late events of clathrin-coated vesicles formation</arg>
+				</example>
+				<example src="EGRAM" no="127">
+					<text>late clathrin-coated vesicle formation events are inhibited by the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaffin I.</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaffin I</arg>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="128">
+					<text>late events of clathrin-coated vesicles formation is inhibited by A0 (SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphisin I.</text>
+					<arg n="2">late events of clathrin-coated vesicles formation</arg>
+				</example>
+				<example src="EGRAM" no="128">
+					<text>late clathrin-coated vesicle formation events is observed to be inhibited by the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I.</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I</arg>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="129">
+					<text>late events of clathrin-coated vesicles formation was inhibited by SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphisin I.</text>
+					<arg n="0">SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphisin I</arg>
+					<arg n="2">late events of clathrin-coated vesicles formation</arg>
+				</example>
+				<example src="EGRAM" no="129">
+					<text>late clathrin-coated vesicle formation events has been inhibited by the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I.</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I</arg>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="130">
+					<text>late events of clathrin-coated vesicles formation were inhibited by A0 (SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphiphine I.</text>
+					<arg n="2">late events of clathrin-coated vesicles formation</arg>
+				</example>
+				<example src="EGRAM" no="130">
+					<text>late clathrin-coated vesicle formation events was inhibited by the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I.</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I</arg>
+					<arg n="2">late clathrin-coated vesicle formation events</arg>
+				</example>
+				<example src="EGRAM" no="131">
+					<text>late events of clathrin-coated vesicles formation will be inhibited by SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphisin I.</text>
+					<arg n="0">SH3C and SH3E domains of intersectin, as well as SH3 domains of endocytic proteins endophylin I, amphiphisin II and symphisin I</arg>
+					<arg n="2">late events of clathrin-coated vesicles formation</arg>
+				</example>
+				<example src="EGRAM" no="131">
+					<text>late clathrin coated vesicles formation events will be inhibited by the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I.</text>
+					<arg n="0">the SH3C and SH3E domains of the intersectin, as well as the SH3 domains of endocile proteins endophilin I, amphifisin II and sindaphin I</arg>
+					<arg n="2">late clathrin coated vesicles formation events</arg>
+				</example>
+				<example src="EGRAM" no="132">
+					<text>platelet function can be inhibited by nitric oxide which activates the soluble isoform of guanylate cyclase in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="132">
+					<text>A2 can be inhibited by nitric oxide that activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+				</example>
+				<example src="EGRAM" no="133">
+					<text>platquet function was inhibited by nitric oxide that activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platquet function</arg>
+				</example>
+				<example src="EGRAM" no="133">
+					<text>platelet function was inhibited by nitric oxide which activates the soluble isoform of guanylate cyclase in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="134">
+					<text>platelet function is capable of being inhibited by nitric oxide which activates the soluble isoform of guanylate cyclase in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="134">
+					<text>A2 is capable of being inhibited by nitric oxide that activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+				</example>
+				<example src="EGRAM" no="135">
+					<text>platelet function is inhibited by nitric oxide which activates the soluble isoform of guanylate cyclase in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="135">
+					<text>A2 is inhibited by nitric oxide that activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+				</example>
+				<example src="EGRAM" no="136">
+					<text>platelet function is inhibited by nitric oxide which activates the soluble isoform of guanylate cyclase in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="136">
+					<text>A2 is inhibited by nitric oxide that activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+				</example>
+				<example src="EGRAM" no="137">
+					<text>platelet function may have been inhibited by nitric oxide which activates the soluble isoform of guanylate cyclase in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="137">
+					<text>A2 may have been inhibited by nitric oxide that activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+				</example>
+				<example src="EGRAM" no="138">
+					<text>platquet function was inhibited by nitric oxide that activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platquet function</arg>
+				</example>
+				<example src="EGRAM" no="138">
+					<text>platelet function was inhibited by nitric oxide which activates the soluble isoform of guanylate cyclase in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="139">
+					<text>platelet function will be inhibited by nitric oxide which activates the soluble isoform of guanylate cyclase in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+					<arg n="2">platelet function</arg>
+				</example>
+				<example src="EGRAM" no="139">
+					<text>A2 will be inhibited by nitric oxide that activates the soluble isoform of cyclase guanilate in platelets.</text>
+					<arg n="0">nitric oxide</arg>
+				</example>
+				<example src="EGRAM" no="140">
+					<text>Roipram may inhibit multiple PDE4-specific phosphodiesterase isoforms coded by PDE4C.</text>
+					<arg n="0">Roipram</arg>
+					<arg n="1">multiple PDE4-specific phosphodiesterase isoforms</arg>
+				</example>
+				<example src="EGRAM" no="140">
+					<text>Roipram can inhibit multiple PDE4-specific phosphodiesterase isoforms encoded by PDE4C.</text>
+					<arg n="0">Roipram</arg>
+					<arg n="1">multiple PDE4-specific phosphodiesterase isoforms</arg>
+				</example>
+				<example src="EGRAM" no="141">
+					<text>rolipram inhibited PDE44 cyclic AMP-specific isoforms coded by PDE4C.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">PDE44 cyclic AMP-specific isoforms</arg>
+				</example>
+				<example src="EGRAM" no="141">
+					<text>Roipram has inhibited A1 (multiple PDE4-encoded PDE4C isoforms.</text>
+					<arg n="0">Roipram</arg>
+				</example>
+				<example src="EGRAM" no="142">
+					<text>Roipram has the ability to inhibit multiple PDE4-specific isoform phosphorylatase isoforms encoded by PDE4C.</text>
+					<arg n="0">Roipram</arg>
+					<arg n="1">multiple PDE4</arg>
+				</example>
+				<example src="EGRAM" no="142">
+					<text>Roipram has the ability to inhibit phosphorylase-specific multiple PDE4-isoforms coded by PDE4C.</text>
+					<arg n="0">Roipram</arg>
+					<arg n="1">multiple PDE4</arg>
+				</example>
+				<example src="EGRAM" no="143">
+					<text>Roipram inhibited multiple PDE4-specific isoform phosphodiesterase isoforms encoded by PDE4C.</text>
+					<arg n="0">Roipram</arg>
+					<arg n="1">multiple PDE4</arg>
+				</example>
+				<example src="EGRAM" no="143">
+					<text>Roipram inhibited the phosphodiesterase-specific multiple PDE4 isoforms coded by PDE4C.</text>
+					<arg n="0">Roipram</arg>
+				</example>
+				<example src="EGRAM" no="144">
+					<text>rolipram inhibits PDE44 cyclic AMP-phosphodiesterases codified by PDE4C.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">PDE44 cyclic AMP-phosphodiesterases</arg>
+				</example>
+				<example src="EGRAM" no="144">
+					<text>rolipram inhibits PDE44 cyclic AMP-phosphodiesterases encoded by PDE4C.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">PDE44 cyclic AMP-phosphodiesterases</arg>
+				</example>
+				<example src="EGRAM" no="145">
+					<text>Roipram is able to inhibit multiple PDE4 isoforms coded by PDE4C.</text>
+					<arg n="0">Roipram</arg>
+					<arg n="1">multiple PDE4 isoforms coded by PDE4C</arg>
+				</example>
+				<example src="EGRAM" no="145">
+					<text>rolipram is able to inhibit PDE44 cyclic AMP-specific phosphodiesterase coded by PDE4C.</text>
+					<arg n="0">rolipram</arg>
+					<arg n="1">PDE44 cyclic AMP-specific phosphodiesterase</arg>
+				</example>
+				<example src="EGRAM" no="146">
+					<text>A0 inhibits specific isoforms of multiple PDE4 phosphosterase AMP coded by PDE4C.</text>
+					<arg n="1">specific isoforms of multiple PDE4 phosphosterase AMP</arg>
+				</example>
+				<example src="EGRAM" no="146">
+					<text>A0 is observed to inhibit multiple PDE4 AMP-specific isoforms of phosphoesterase encoded by PDE4C.</text>
+					<arg n="1">multiple PDE4 AMP-specific isoforms of phosphoesterase</arg>
+				</example>
+				<example src="EGRAM" no="147">
+					<text>sigma (54) - glnAp2 was strongly inhibited by CRP-cAMP 21 times.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54) - glnAp2</arg>
+				</example>
+				<example src="EGRAM" no="147">
+					<text>sigma (54)-dependent glnAp2  has been strongly inhibited by CRP-cAMP, by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-dependent glnAp2 </arg>
+				</example>
+				<example src="EGRAM" no="148">
+					<text>sigma (54)-gnAp2 is strongly inhibited by CRP-cAMP by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-gnAp2</arg>
+				</example>
+				<example src="EGRAM" no="148">
+					<text>sigma (54)-dependent glnAp2  is observed to be strongly inhibited by CRP-cAMP, by 21-folds.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-dependent glnAp2 </arg>
+				</example>
+				<example src="EGRAM" no="149">
+					<text>sigma (54)-dependent glnAp2  is strongly inhibited by CRP-cAMP, by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">sigma (54)-dependent glnAp2 </arg>
+				</example>
+				<example src="EGRAM" no="149">
+					<text>depending on sigma (54)-gnAp2 is strongly inhibited by CRP-cAMP by 21-fold.</text>
+					<arg n="0">CRP-cAMP</arg>
+					<arg n="1">depending on sigma (54)-gnAp2</arg>
+				</example>
+				<example src="EGRAM" no="150">
+					<text>Protease A0 inhibitors (MG132 and lactactacylin) are able to inhibit negative regulation of Stat4, Stat5 and Stat6 phosphorylated.</text>
+					<arg n="2">negative regulation of Stat4, Stat5 and Stat6 phosphorylated</arg>
+				</example>
+				<example src="EGRAM" no="150">
+					<text>an inhibitor of the MG132 protein and lactacittine is able to inhibit regulation of phosphorylated status, stage 5 and stage 6.</text>
+					<arg n="0">an inhibitor of the MG132 protein and lactacittine</arg>
+					<arg n="2">regulation of phosphorylated status, stage 5 and stage 6</arg>
+				</example>
+				<example src="EGRAM" no="151">
+					<text>GM132 proteasome inhibitors and laactacytin can inhibit negative regulation of Stat4, Stat5 and Stat6 phosphorylated.</text>
+					<arg n="0">GM132 proteasome inhibitors and laactacytin</arg>
+					<arg n="2">negative regulation of Stat4, Stat5 and Stat6 phosphorylated</arg>
+				</example>
+				<example src="EGRAM" no="151">
+					<text>inhibitors of the MG132 proteasome and lactacyttin can inhibit the regulation of the phosphorylated state, Stat5 and Stat6.</text>
+					<arg n="0">inhibitors of the MG132 proteasome and lactacyttin</arg>
+					<arg n="2">the regulation of the phosphorylated state, Stat5 and Stat6</arg>
+				</example>
+				<example src="EGRAM" no="153">
+					<text>Proteasome A0 inhibitors MG132 and lactacistin have the ability to inhibit negative regulation of Stat4, Stat5 and Stat6 phosphorylated.</text>
+					<arg n="2">negative regulation of Stat4, Stat5 and Stat6 phosphorylated</arg>
+				</example>
+				<example src="EGRAM" no="153">
+					<text>The A0 inhibitors of the MG132 protoisoma and laactacylin have the ability to inhibit negative regulation of Stat4, Stat5 and Stat6 phosphorylated.</text>
+					<arg n="2">negative regulation of Stat4, Stat5 and Stat6 phosphorylated</arg>
+				</example>
+				<example src="EGRAM" no="154">
+					<text>A0 inhibits the regulation of phosphorylated state, state5 and state6.</text>
+					<arg n="2">the regulation of phosphorylated state, state5 and state6</arg>
+				</example>
+				<example src="EGRAM" no="155">
+					<text>A0 inhibited the regulation of phosphorylated state, state5 and state6.</text>
+					<arg n="2">the regulation of phosphorylated state, state5 and state6</arg>
+				</example>
+				<example src="EGRAM" no="156">
+					<text>Protease inhibitors A0 MG132 and lactacistin may have inhibited decreased regulation of Stat4, Stat5 and Stat6 phosphorylated and A0 (proteasome inhibitors MG132 and lactacistin) may have inhibited decreased regulation of Stat4, Stat5 and Stat6 phosphorylated.</text>
+					<arg n="2">decreased regulation of Stat4, Stat5 and Stat6 phosphorylated</arg>
+				</example>
+				<example src="EGRAM" no="156">
+					<text>a proteasome MG132 inhibitor and lactacitstin may have inhibited the regulation of phosphorylated state, state5 and state6.</text>
+					<arg n="0">a proteasome MG132 inhibitor and lactacitstin</arg>
+					<arg n="2">the regulation of phosphorylated state, state5 and state6</arg>
+				</example>
+			</roleset>
+		</predicate>
+	</framesest>
+</PASBIO>

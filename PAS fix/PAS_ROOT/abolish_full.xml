@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="abolish">
+<roleset id="abolish.01" name="" wordnet="1">
+<roles>
+  <role n="0" descr="causer/agent 			 	// change at molecular level //
+"/>
+  <role n="1" descr="entity abolished 			// normal transcription, normal splicing //
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+This intronic mutation, which segregates in a dominant and fully penetrant manner over three generations, abolishes normal LHX4 splicing and activates two exonic cryptic splice sites, thereby predicting two different proteins deleted in their homeodomain sequence.
+
+</text>
+       <arg n="0">This intronic mutation
+</arg>
+       <arg n="1">normal LHX4 splicing
+</arg>
+<fdg>
+         1	This	this	det:&gt;3	@DN&gt; %&gt;N DET DEM SG
+         2	intronic	intronic	attr:&gt;3	@A&gt; %&gt;N &lt;?&gt; A ABS
+         3	mutation	mutation	subj:&gt;18	@SUBJ %NH N NOM SG
+         4	,	,
+         5	which	which	subj:&gt;6	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+         6	segregates	segregate	mod:&gt;3	@+FMAINV %VA V PRES SG3
+         7	in	in	loc:&gt;6	@ADVL %EH PREP
+         8	a	a	det:&gt;9	@DN&gt; %&gt;N DET SG
+         9	dominant	dominant	pcomp:&gt;7	@&lt;P %NH A ABS
+         10	and	and		@CC %CC CC
+         11	fully	fully	ad:&gt;12	@AD-A&gt; %E&gt; ADV
+         12	penetrant	penetrant	attr:&gt;13	@A&gt; %&gt;N A ABS
+         13	manner	manner		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@&lt;P %NH N NOM SG
+         14	over	over	mod:&gt;13	@&lt;NOM %N&lt; PREP
+         15	three	three	qn:&gt;16	@QN&gt; %&gt;N NUM CARD
+         16	generations	generation	pcomp:&gt;14	@&lt;P %NH N NOM PL
+         17	,	,
+         18	abolishes	abolish		@+FMAINV %VA V PRES SG3
+         19	normal	normal	attr:&gt;20	@A&gt; %&gt;N A ABS
+         20	LHX4	lhx4	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+         21	splicing	splicing	obj:&gt;18	@OBJ %NH N NOM SG
+         22	and	and	cc:&gt;18	@CC %CC CC
+         23	activates	activate	cc:&gt;18	@+FMAINV %VA V PRES SG3
+         24	two	two	qn:&gt;28	@QN&gt; %&gt;N NUM CARD
+         25	exonic	exonic	attr:&gt;26	@A&gt; %&gt;N &lt;?&gt; A ABS
+         26	cryptic	cryptic	attr:&gt;27	@A&gt; %&gt;N A ABS
+         27	splice	splice	attr:&gt;28	@A&gt; %&gt;N N NOM SG
+         28	sites	site	obj:&gt;23	@OBJ %NH N NOM PL
+         29	,	,
+         30	thereby	thereby		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV
+         31	predicting	predict		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING	@A&gt; %&gt;N A ABS	@APP %NH A ABS	@SUBJ %NH A ABS	@OBJ %NH A ABS	@&lt;P %NH A ABS	@&lt;NOM %N&lt; A ABS	@NH %NH A ABS
+         32	two	two	qn:&gt;34	@QN&gt; %&gt;N NUM CARD
+         33	different	different	attr:&gt;34	@A&gt; %&gt;N A ABS
+         34	proteins	protein		@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@APP %NH N NOM PL	@&lt;P %NH N NOM PL
+         35	deleted	delete		@+FMAINV %VA V PAST
+         36	in	in	loc:&gt;35	@ADVL %EH PREP
+         37	their	they	attr:&gt;38	@A&gt; %&gt;N PRON PERS GEN PL3
+         38	homeodomain	homeodomain	attr:&gt;39	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         39	sequence	sequence	pcomp:&gt;36	@&lt;P %NH N NOM SG
+         40	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+Patient 1 has a G-to-A transition at the first nucleotide of intron 2, which abolishes normal splicing.
+
+</text>
+       <arg n="0">a G-to-A transition at the first nucleotide of intron 2
+</arg>
+       <arg n="1">normal splicing
+</arg>
+<fdg>
+         1	Patient	patient	attr:&gt;2	@A&gt; %&gt;N A ABS
+         2	1	1	subj:&gt;3	@SUBJ %NH NUM CARD
+         3	has	have	main:&gt;0	@+FMAINV %VA V PRES SG3
+         4	a	a	det:&gt;6	@DN&gt; %&gt;N DET SG
+         5	G-to-A	g-to-a	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+         6	transition	transition	obj:&gt;3	@OBJ %NH N NOM SG
+         7	at	at	loc:&gt;3	@ADVL %EH PREP
+         8	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+         9	first	first	attr:&gt;10	@A&gt; %&gt;N NUM ORD
+         10	nucleotide	nucleotide	pcomp:&gt;7	@&lt;P %NH N NOM SG
+         11	of	of	mod:&gt;10	@&lt;NOM-OF %N&lt; PREP
+         12	intron	intron	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+         13	2	2	pcomp:&gt;11	@&lt;P %NH NUM CARD
+         14	,	,
+         15	which	which	subj:&gt;16	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+         16	abolishes	abolish	mod:&gt;13	@+FMAINV %VA V PRES SG3
+         17	normal	normal	attr:&gt;18	@A&gt; %&gt;N A ABS
+         18	splicing	splicing	obj:&gt;16	@OBJ %NH N NOM SG
+         19	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+Determining the complete exon-intron structure of JAG1 allowed detailed mutational analysis of DNA samples from non-deletion AGS patients, revealing three frame-shift mutations, two splice donor mutations and one mutation abolishing RNA expression from the altered allele.
+
+</text>
+       <arg n="0">one mutation
+</arg>
+       <arg n="1">RNA expression
+</arg>
+<fdg>
+         1	Determining	determine	subj:&gt;8	@-FMAINV %VA ING
+         2	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+         3	complete	complete	attr:&gt;4	@A&gt; %&gt;N A ABS
+         4	exon-intron	exon-#intron	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+         5	structure	structure	obj:&gt;1	@OBJ %NH N NOM SG
+         6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+         7	JAG1	jag1	pcomp:&gt;6	@&lt;P %NH N NOM SG
+         8	allowed	allow	main:&gt;0	@+FMAINV %VA V PAST
+         9	detailed	detailed	attr:&gt;10	@A&gt; %&gt;N A ABS
+         10	mutational	mutational	attr:&gt;11	@A&gt; %&gt;N A ABS
+         11	analysis	analysis	obj:&gt;8	@OBJ %NH N NOM SG
+         12	of	of	mod:&gt;11	@&lt;NOM-OF %N&lt; PREP
+         13	DNA	dna		@A&gt; %&gt;N ABBR NOM SG	@&lt;P %NH ABBR NOM SG
+         14	samples	sample		@+FMAINV %VA V PRES SG3	@SUBJ %NH N NOM PL	@&lt;P %NH N NOM PL
+         15	from	from		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+         16	non-deletion	non-deletion	attr:&gt;17	@A&gt; %&gt;N &lt;?&gt; A ABS
+         17	AGS	ags	attr:&gt;18	@A&gt; %&gt;N N NOM SG
+         18	patients	patient	pcomp:&gt;15	@&lt;P %NH N NOM PL
+         19	,	,
+         20	revealing	reveal	mod:&gt;18	@-FMAINV %VA ING
+         21	three	three	qn:&gt;23	@QN&gt; %&gt;N NUM CARD
+         22	frame-shift	frame-shift	attr:&gt;23	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         23	mutations	mutation	obj:&gt;20	@OBJ %NH N NOM PL
+         24	,	,
+         25	two	two	qn:&gt;28	@QN&gt; %&gt;N NUM CARD
+         26	splice	splice	attr:&gt;27	@A&gt; %&gt;N N NOM SG
+         27	donor	donor	attr:&gt;28	@A&gt; %&gt;N N NOM SG
+         28	mutations	mutation		@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@APP %NH N NOM PL	@&lt;P %NH N NOM PL
+         29	and	and	cc:&gt;28	@CC %CC CC
+         30	one	one	qn:&gt;31	@QN&gt; %&gt;N NUM CARD
+         31	mutation	mutation	cc:&gt;28	@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+         32	abolishing	abolish		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING	@A&gt; %&gt;N A ABS	@APP %NH A ABS	@OBJ %NH A ABS	@&lt;P %NH A ABS	@&lt;NOM %N&lt; A ABS	@NH %NH A ABS
+         33	RNA	rna	attr:&gt;34	@A&gt; %&gt;N ABBR NOM SG
+         34	expression	expression		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+         35	from	from	mod:&gt;34	@&lt;NOM %N&lt; PREP
+         36	the	the	det:&gt;38	@DN&gt; %&gt;N DET
+         37	altered	altered	attr:&gt;38	@A&gt; %&gt;N A ABS
+         38	allele	allele	pcomp:&gt;35	@&lt;P %NH N NOM SG
+         39	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+Linomide and antibody-targeted superantigen therapy abolishes formation of liver metastases in mice.
+
+</text>
+       <arg n="0">Linomide and antibody-targeted superantigen therapy 
+</arg>
+       <arg n="1">formation of liver metastases in mice
+</arg>
+<fdg>
+1	Linomide	linomide	cc:&gt;5	@SUBJ %NH &lt;?&gt; N NOM SG
+2	and	and	cc:&gt;5	@CC %CC CC
+3	antibody-targeted	antibody-targeted	attr:&gt;4	@A&gt; %&gt;N &lt;?&gt; A ABS
+4	superantigen	superantigen	attr:&gt;5	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+5	therapy	therapy	subj:&gt;6	@SUBJ %NH N NOM SG
+6	abolishes	abolish	main:&gt;0	@+FMAINV %VA V PRES SG3
+7	formation	formation	obj:&gt;6	@OBJ %NH N NOM SG
+8	of	of	mod:&gt;7	@&lt;NOM-OF %N&lt; PREP
+9	liver	liver	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	metastases	metastasis	pcomp:&gt;8	@&lt;P %NH N NOM PL
+11	in	in	mod:&gt;10	@&lt;NOM %N&lt; PREP
+12	mice	mouse	pcomp:&gt;11	@&lt;P %NH N NOM PL
+13	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+However, this complete removal of FabD from the crude FAS did not abolish its BCFA biosynthesis, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.
+
+</text>
+       <arg n="0">this complete removal of FabD from the crude FAS
+</arg>
+       <arg n="1">its BCFA biosynthesis
+</arg>
+       <arg n="M-NEG">not
+</arg>
+<fdg>
+
+1	However	however	meta:&gt;14	@ADVL %EH ADV WH
+2	,	,
+3	this	this	det:&gt;5	@DN&gt; %&gt;N DET DEM SG
+4	complete	complete	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	removal	removal	subj:&gt;12	@SUBJ %NH N NOM SG
+6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+7	FabD	fabd	pcomp:&gt;6	@&lt;P %NH N NOM SG
+8	from	from	mod:&gt;7	@&lt;NOM %N&lt; PREP
+9	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+10	crude	crude	attr:&gt;11	@A&gt; %&gt;N A ABS
+11	FAS	fa	pcomp:&gt;8	@&lt;P %NH N NOM PL
+12	did	do	v-ch:&gt;14	@+FAUXV %AUX V PAST
+13	not	not	neg:&gt;12	@ADVL %EH NEG-PART
+14	abolish	abolish	main:&gt;0	@-FMAINV %VA V INF
+15	its	it	attr:&gt;16	@A&gt; %&gt;N PRON GEN SG3
+16	BCFA	bcfa	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	biosynthesis	biosynthesis	obj:&gt;14	@OBJ %NH N NOM SG
+18	,	,
+19	but	but	cc:&gt;14	@CC %CC CC
+20	only	only	meta:&gt;21	@ADVL %EH ADV
+21	reduced	reduce	cc:&gt;14	@+FMAINV %VA V PAST
+22	the	the	det:&gt;23	@DN&gt; %&gt;N DET
+23	level	level	obj:&gt;21	@OBJ %NH N NOM SG
+24	to	to	goa:&gt;21	@ADVL %EH PREP
+25	50-60	50-60		@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+26	%	%	pcomp:&gt;24	@&lt;P %NH N NOM SG
+27	of	of	mod:&gt;26	@&lt;NOM-OF %N&lt; PREP
+28	the	the	det:&gt;30	@DN&gt; %&gt;N DET
+29	control	control	attr:&gt;30	@A&gt; %&gt;N N NOM SG
+30	level	level	pcomp:&gt;27	@&lt;P %NH N NOM SG
+31	for	for	mod:&gt;30	@&lt;NOM %N&lt; PREP
+32	acyl-CoA	acyl-coa	attr:&gt;33	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+33	primer	primer	pcomp:&gt;31	@&lt;P %NH N NOM SG
+34	and	and	cc:&gt;31	@CC %CC CC
+35	to	to	cc:&gt;31	@ADVL %EH PREP
+36	80%	80%	pcomp:&gt;35	@&lt;P %NH NUM CARD
+37	for	for	mod:&gt;36	@&lt;NOM %N&lt; PREP
+38	alpha-keto-beta-methylvalerate	alpha-keto-beta-methylvalerate	attr:&gt;39	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+39	primer	primer	pcomp:&gt;37	@&lt;P %NH N NOM SG
+40	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="6">
+<text>
+Our results showed that co-administered DM was able to abolish completely the CPP effect induced by morphine, but had no effect on morphine-induced behavioral sensitization.
+
+</text>
+       <arg n="0">co-administered DM
+</arg>
+       <arg n="1">the CPP effect
+</arg>
+<fdg>
+1	Our	we	attr:&gt;2	@A&gt; %&gt;N PRON PERS GEN PL1
+2	results	result	subj:&gt;3	@SUBJ %NH N NOM PL
+3	showed	show	main:&gt;0	@+FMAINV %VA V PAST
+4	that	that	pm:&gt;7	@CS %CS CS
+5	co-administered	co-administered	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	DM	dm	subj:&gt;7	@SUBJ %NH ABBR NOM SG	@SUBJ %NH ABBR NOM
+7	was	be	obj:&gt;3	@+FMAINV %VA V PAST
+8	able	able	comp:&gt;7	@PCOMPL-S %NH A ABS
+9	to	to	pm:&gt;10	@INFMARK&gt; %AUX INFMARK&gt;
+10	abolish	abolish	mod:&gt;8	@-FMAINV %VA V INF
+11	completely	completely	man:&gt;10	@ADVL %EH ADV
+12	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+13	CPP	cpp	attr:&gt;14	@A&gt; %&gt;N ABBR NOM SG
+14	effect	effect	obj:&gt;10	@OBJ %NH N NOM SG
+15	induced	induce	mod:&gt;14	@-FMAINV %VP EN
+16	by	by	ha:&gt;15	@ADVL %EH PREP
+17	morphine	morphine	pcomp:&gt;16	@&lt;P %NH N NOM SG
+18	,	,
+19	but	but	cc:&gt;7	@CC %CC CC
+20	had	have	cc:&gt;7	@+FMAINV %VA V PAST
+21	no	no	det:&gt;22	@DN&gt; %&gt;N DET
+22	effect	effect	obj:&gt;20	@OBJ %NH N NOM SG
+23	on	on	mod:&gt;22	@&lt;NOM %N&lt; PREP
+24	morphine-induced	morphine-induced	attr:&gt;25	@A&gt; %&gt;N A ABS
+25	behavioral	behavioral	attr:&gt;26	@A&gt; %&gt;N A ABS
+26	sensitization	sensitization	pcomp:&gt;23	@&lt;P %NH N NOM SG
+27	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Noticeably, transcription at the rrn PC promoter by NEP-2 is completely abolished if CDF2-B can not bind to the template, as obtained by the mutation M1 (Figure 4A, compare lanes 1 and 4; Figure 4C, compare Wt and M1).
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">transcription at the rrn PC promoter by NEP-2
+</arg>
+<fdg>
+1	Noticeably	noticeably		@ADVL %EH ADV
+2	,	,
+3	transcription	transcription	subj:&gt;11	@SUBJ %NH N NOM SG
+4	at	at	mod:&gt;3	@&lt;NOM %N&lt; PREP
+5	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+6	rrn	rrn	attr:&gt;7	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+7	PC	pc	attr:&gt;8	@A&gt; %&gt;N ABBR NOM SG
+8	promoter	promoter	pcomp:&gt;4	@&lt;P %NH N NOM SG
+9	by	by	mod:&gt;8	@&lt;NOM %N&lt; PREP
+10	NEP-2	nep-2	pcomp:&gt;9	@&lt;P %NH N NOM SG
+11	is	be	v-ch:&gt;13	@+FAUXV %AUX V PRES SG3
+12	completely	completely	meta:&gt;13	@ADVL %EH ADV
+13	abolished	abolish		@-FMAINV %VP EN
+14	if	if	pm:&gt;18	@CS %CS CS
+15	CDF2-B	cdf2-b	subj:&gt;16	@SUBJ %NH &lt;?&gt; N NOM SG
+16	can	can	v-ch:&gt;18	@+FAUXV %AUX V AUXMOD
+17	not	not	neg:&gt;16	@ADVL %EH NEG-PART
+18	bind	bind	cnd:&gt;13	@-FMAINV %VA V INF
+19	to	to	ha:&gt;18	@ADVL %EH PREP
+20	the	the	det:&gt;21	@DN&gt; %&gt;N DET
+21	template	template	pcomp:&gt;19	@&lt;P %NH N NOM SG
+22	,	,
+23	as	as	pm:&gt;24	@CS %CS CS
+24	obtained	obtain		@-FMAINV %VP EN
+25	by	by	ha:&gt;24	@ADVL %EH PREP
+26	the	the		@DN&gt; %&gt;N DET
+27	mutation	mutation	attr:&gt;28	@A&gt; %&gt;N N NOM SG
+28	M1	m1		@OBJ %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@&lt;P %NH ABBR NOM SG
+29	(	(
+30	Figure	figure	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+31	4A	4a		@APP %NH NUM CARD
+32	,	,
+33	compare	compare		@+FMAINV %VA V PRES	@-FMAINV %VA V INF	@&lt;P-FMAINV %VA V INF
+34	lanes	lane	obj:&gt;33	@OBJ %NH N NOM PL
+35	1	1	mod:&gt;34	@&lt;NOM %N&lt; NUM CARD
+36	and	and	cc:&gt;35	@CC %CC CC
+37	4	4	cc:&gt;35	@&lt;NOM %N&lt; NUM CARD
+38	;	;
+39	Figure	figure	attr:&gt;40	@A&gt; %&gt;N N NOM SG
+40	4C	4c		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@APP %NH NUM CARD
+41	,	,
+42	compare	compare		@+FMAINV %VA V PRES	@-FMAINV %VA V INF	@&lt;P-FMAINV %VA V INF
+43	Wt	wt	obj:&gt;42	@OBJ %NH ABBR NOM SG
+44	and	and	cc:&gt;43	@CC %CC CC
+45	M1	m1	cc:&gt;43	@OBJ %NH ABBR NOM SG
+46	)	)
+47	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+The A/T-rich mut sequence indicates the mutations introduced to abolish the A/T-rich element.
+
+</text>
+       <arg n="0">the mutations 
+</arg>
+       <arg n="1">the A/T-rich element
+</arg>
+<fdg>
+1	The	the	det:&gt;4	@DN&gt; %&gt;N DET
+2	A/T-rich	a/t-rich	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	mut	mut	attr:&gt;4	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+4	sequence	sequence	subj:&gt;5	@SUBJ %NH N NOM SG
+5	indicates	indicate	main:&gt;0	@+FMAINV %VA V PRES SG3
+6	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+7	mutations	mutation	subj:&gt;8	@SUBJ %NH N NOM PL
+8	introduced	introduce	obj:&gt;5	@+FMAINV %VA V PAST
+9	to	to	pm:&gt;10	@INFMARK&gt; %AUX INFMARK&gt;
+10	abolish	abolish	obj:&gt;8	@-FMAINV %VA V INF
+11	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+12	A/T-rich	a/t-rich	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+13	element	element	obj:&gt;10	@OBJ %NH N NOM SG
+14	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+Mutation of the proximal GATA element in the context of the &amp;#8211;700 or the &amp;#8211;135 bp promoter completely abolished synergy, indicating that this element is essential for MEF2 &amp;#8211;GATA-4 cooperation. 
+
+</text>
+       <arg n="0">Mutation of the proximal GATA element in the context of the &amp;#8211;700 or the &amp;#8211;135 bp   
+</arg>
+       <arg n="1">synergy
+</arg>
+       <arg n="M-ADV">completely
+</arg>
+<fdg>
+1	Mutation	mutation		@NH %NH N NOM SG	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+4	proximal	proximal	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	GATA	gata	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	element	element	pcomp:&gt;2	@&lt;P %NH N NOM SG
+7	in	in	mod:&gt;6	@&lt;NOM %N&lt; PREP
+8	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+9	context	context	pcomp:&gt;7	@&lt;P %NH N NOM SG
+10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+11	the	the		@DN&gt; %&gt;N DET
+12	&amp;#8211;	&amp;#8211;		@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+13	700	700		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@PCOMPL-S %NH NUM CARD	@&lt;P %NH NUM CARD	@QN&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+14	or	or		@CC %CC CC
+15	the	the		@DN&gt; %&gt;N DET
+16	&amp;#8211;	&amp;#8211;		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+17	135	135		@NH %NH NUM CARD	@OBJ %NH NUM CARD	@PCOMPL-S %NH NUM CARD	@&lt;P %NH NUM CARD	@QN&gt; %&gt;N NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+18	bp	bp	attr:&gt;19	@A&gt; %&gt;N ABBR NOM SG
+19	promoter	promoter		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+20	completely	completely	ad:&gt;21	@AD-A&gt; %E&gt; ADV
+21	abolished	abolished	attr:&gt;22	@A&gt; %&gt;N A ABS
+22	synergy	synergy		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG	@&lt;P %NH N NOM SG
+23	,	,
+24	indicating	indicate		@-FMAINV %VA ING
+25	that	that	pm:&gt;28	@CS %CS CS
+26	this	this	det:&gt;27	@DN&gt; %&gt;N DET DEM SG
+27	element	element	subj:&gt;28	@SUBJ %NH N NOM SG
+28	is	be	obj:&gt;24	@+FMAINV %VA V PRES SG3
+29	essential	essential	comp:&gt;28	@PCOMPL-S %NH A ABS
+30	for	for	mod:&gt;29	@&lt;NOM %N&lt; PREP
+31	MEF2	mef2	attr:&gt;32	@A&gt; %&gt;N N NOM SG
+32	&amp;#8211;	&amp;#8211;	attr:&gt;33	@A&gt; %&gt;N N NOM SG
+33	GATA-4	gata-4	attr:&gt;34	@A&gt; %&gt;N N NOM SG
+34	cooperation	cooperation	pcomp:&gt;30	@&lt;P %NH N NOM SG
+35	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+In contrast, transcriptional stimulation was abolished by further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).
+
+</text>
+       <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9
+</arg>
+       <arg n="1">transcriptional stimulation
+</arg>
+<fdg>
+1	In	in	cla:&gt;7	@ADVL %EH PREP
+2	contrast	contrast	pcomp:&gt;1	@&lt;P %NH N NOM SG
+3	,	,
+4	transcriptional	transcriptional	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	stimulation	stimulation	subj:&gt;6	@SUBJ %NH N NOM SG
+6	was	be	v-ch:&gt;7	@+FAUXV %AUX V PAST
+7	abolished	abolish	main:&gt;0	@-FMAINV %VP EN
+8	by	by	agt:&gt;7	@ADVL %EH PREP
+9	further	further	det:&gt;10	@DN&gt; %&gt;N DET
+10	deletion	deletion	pcomp:&gt;8	@&lt;P %NH N NOM SG
+11	of	of	mod:&gt;10	@&lt;NOM-OF %N&lt; PREP
+12	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+13	C-terminal	c-terminal	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	transactivation	transactivation	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	domain	domain	pcomp:&gt;11	@&lt;P %NH N NOM SG
+16	in	in	mod:&gt;15	@&lt;NOM %N&lt; PREP
+17	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+18	Pax5	pax5	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	mutants	mutant	pcomp:&gt;16	@&lt;P %NH N NOM PL
+20	B8	b8	mod:&gt;19	@APP %NH N NOM SG
+21	and	and		@CC %CC CC
+22	B9	b9		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@&lt;P %NH N NOM SG
+23	,	,
+24	whereas	whereas	pm:&gt;46	@CS %CS CS
+25	internal	internal	attr:&gt;26	@A&gt; %&gt;N A ABS
+26	deletion	deletion	subj:&gt;44	@SUBJ %NH N NOM SG
+27	of	of	mod:&gt;26	@&lt;NOM-OF %N&lt; PREP
+28	the	the	det:&gt;31	@DN&gt; %&gt;N DET
+29	conserved	conserved	attr:&gt;30	@A&gt; %&gt;N A ABS
+30	octapeptide	octapeptide	attr:&gt;31	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+31	motif	motif	pcomp:&gt;27	@&lt;P %NH N NOM SG
+32	(	(
+33	OP	op	mod:&gt;31	@NH %NH N NOM SG
+34	)	)
+35	or	or	cc:&gt;31	@CC %CC CC
+36	the	the	det:&gt;38	@DN&gt; %&gt;N DET
+37	partial	partial	attr:&gt;38	@A&gt; %&gt;N A ABS
+38	homeodomain	homeodomain	cc:&gt;31	@&lt;P %NH &lt;?&gt; N NOM SG
+39	(	(
+40	HD	hd	mod:&gt;38	@NH %NH ABBR NOM SG
+41	)	)
+42	of	of	mod:&gt;40	@&lt;NOM-OF %N&lt; PREP
+43	Pax5	pax5	pcomp:&gt;42	@&lt;P %NH N NOM SG
+44	did	do	v-ch:&gt;46	@+FAUXV %AUX V PAST
+45	not	not	neg:&gt;44	@ADVL %EH NEG-PART
+46	have	have	cnd:&gt;7	@-FMAINV %VA V INF
+47	any	any	det:&gt;48	@DN&gt; %&gt;N DET
+48	effect	effect	obj:&gt;46	@OBJ %NH N NOM SG
+49	(	(
+50	Figure	figure		@A&gt; %&gt;N N NOM SG
+51	3B	3b	qua:&gt;46	@ADVL %EH NUM CARD
+52	)	)
+53	.     .
+</fdg>
+</example>
+<example src="EMBO" no="5">
+<text>
+Groucho binding was, however, abolished by mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid (Jimnez et al., 1999).
+
+</text>
+       <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid
+</arg>
+       <arg n="1">Groucho binding
+</arg>
+<fdg>
+1	Groucho	groucho	attr:&gt;2	@A&gt; %&gt;N N NOM SG
+2	binding	binding	subj:&gt;3	@SUBJ %NH N NOM SG
+3	was	be	v-ch:&gt;7	@+FAUXV %AUX V PAST
+4	,	,
+5	however	however	meta:&gt;7	@ADVL %EH ADV WH
+6	,	,
+7	abolished	abolish		@-FMAINV %VP EN
+8	by	by	man:&gt;7	@ADVL %EH PREP
+9	mutating	mutate	pcomp:&gt;8	@&lt;P-FMAINV %VA ING
+10	a	a	det:&gt;12	@DN&gt; %&gt;N DET SG
+11	conserved	conserved	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	phenylalanine	phenylalanine	obj:&gt;9	@OBJ %NH &lt;?&gt; N NOM SG
+13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+14	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+15	eh1/GEH	eh1/geh	pcomp:&gt;13	@&lt;P %NH &lt;?&gt; N NOM SG
+16	sequence	sequence		@+FMAINV %VA V PRES
+17	to	to	ha:&gt;16	@ADVL %EH PREP
+18	glutamic	glutamic	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	acid	acid	pcomp:&gt;17	@&lt;P %NH N NOM SG
+20	(	(
+21	Jiménez	jimenez	main:&gt;20	@APP %NH N NOM SG
+22	et	et		@CC %CC CC
+23	al.	al.		@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+24	,	,
+25	1999	1999		@NH %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+26	)	)
+27	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

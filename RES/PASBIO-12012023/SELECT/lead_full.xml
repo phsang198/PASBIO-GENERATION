@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="lead">
+            <roleset id="lead.01" name="resulted&#x0A;" wordnet="3">
+                <roles>
+                    <role n="0" descr="factors&#x0A;" />
+                    <role n="1" descr="result&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Crl stimulates the activity of sigma (S) led to an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase.</text>
+                    <arg n="0">Crl stimulates the activity of sigma (S)</arg>
+                    <arg n="1">an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Disruption of the SNU246 gene in yeast was lethal and could lead to a splicing defect in vivo, indicating that the protein is essential for splicing.</text>
+                    <arg n="0">Disruption of the SNU246 gene in yeast</arg>
+                    <arg n="1">a splicing defect in vivo, indicating that the protein is essential for splicing</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Genetic deficiency of GM2 activator can lead to a neurological disorder, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">Genetic deficiency of GM2 activator</arg>
+                    <arg n="1">a neurological disorder</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>The mutations identified include: two frameshifts and a splice site mutation which led to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations, two of which involve amino acids located within putative transmembrane domains.</text>
+                    <arg n="0">two frameshifts and a splice site mutation</arg>
+                    <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>These data suggested that phosphorylation of the MuSK NPXY site led to recruitment of a phosphotyrosine-binding domain-containing protein that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">phosphorylation of the MuSK NPXY site</arg>
+                    <arg n="1">recruitment of a phosphotyrosine-binding domain-containing protein</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>These results suggest that the distinct amino termini may lead to the targeting of individual VDAC isoforms to different cellular compartments.</text>
+                    <arg n="0">the distinct amino termini</arg>
+                    <arg n="1">the targeting of individual VDAC isoforms to different cellular compartments</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>This was caused by a point mutation (GTC----ATC) at codon 383 leading to the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter.</text>
+                    <arg n="0">a point mutation (GTC----ATC) at codon 383</arg>
+                    <arg n="1">the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>This, in turn, will lead to synergistic activation of the ANF and other MEF2 target promoters independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">This</arg>
+                    <arg n="1">synergistic activation of the ANF and other MEF2 target promoters</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>This patients DNA contains a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele that is detectably expressed, leading to a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein.</text>
+                    <arg n="0">a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele</arg>
+                    <arg n="1">a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>7 missense mutations, 2 mutations can lead us to frameshift.</text>
+                    <arg n="0">7 missense mutations, 2 mutations</arg>
+                    <arg n="1">frameshift</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>7 missense mutations, 2 mutations leads to frameshift (Figure 3A).</text>
+                    <arg n="0">7 missense mutations, 2 mutations</arg>
+                    <arg n="1">frameshift</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>7 missense mutations, 2 mutations, in turn, has led to frameshift independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">7 missense mutations, 2 mutations</arg>
+                    <arg n="1">frameshift</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D leading to a synergistic 40-to 50-fold activation of the ANF promoter, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D</arg>
+                    <arg n="1">a synergistic 40-to 50-fold activation of the ANF promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (This leading to synergistic activation of the ANF and other MEF2 target promoters, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">This</arg>
+                    <arg n="1">synergistic activation of the ANF and other MEF2 target promoters</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (Transduction of the marA region from a Mar strain that led to loss of OmpF, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (Transduction of the marA region from a Mar strain which lead to loss of OmpF, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (Transduction of the marA region from a Mar strain which led to loss of OmpF, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Closer examination of the putative signal transduction pathway modulating htrA transcription leads to the identification of two new genes, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">Closer examination of the putative signal transduction pathway modulating htrA transcription</arg>
+                    <arg n="1">the identification of two new genes</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Closer examination of the putative signal transduction pathway modulating htrA transcription may lead to the identification of two new genes.</text>
+                    <arg n="0">Closer examination of the putative signal transduction pathway modulating htrA transcription</arg>
+                    <arg n="1">the identification of two new genes</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D leads to a synergistic 40-to 50-fold activation of the ANF promoter, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D</arg>
+                    <arg n="1">a synergistic 40-to 50-fold activation of the ANF promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D leads to a synergistic 40-to 50-fold activation of the ANF promoter.</text>
+                    <arg n="0">Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D</arg>
+                    <arg n="1">a synergistic 40-to 50-fold activation of the ANF promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D led to a synergistic 40-to 50-fold activation of the ANF promoter.</text>
+                    <arg n="0">Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D</arg>
+                    <arg n="1">a synergistic 40-to 50-fold activation of the ANF promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D, in turn, is leading to a synergistic 40-to 50-fold activation of the ANF promoter independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D</arg>
+                    <arg n="1">a synergistic 40-to 50-fold activation of the ANF promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Crl stimulates the activity of sigma (S), in turn, is able to lead to an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">Crl stimulates the activity of sigma (S)</arg>
+                    <arg n="1">an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>Crl stimulates the activity of sigma (S), in turn, leads to an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">Crl stimulates the activity of sigma (S)</arg>
+                    <arg n="1">an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>DNA (nCaRE)-ref1 interaction can lead to C2+e-mediated transcriptional suppression (Figure 3A).</text>
+                    <arg n="0">DNA (nCaRE)-ref1 interaction</arg>
+                    <arg n="1">C2+e-mediated transcriptional suppression</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>DNA (nCaRE)-ref1 interaction has led to C2+e-mediated transcriptional suppression, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">DNA (nCaRE)-ref1 interaction</arg>
+                    <arg n="1">C2+e-mediated transcriptional suppression</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>DNA (nCaRE)-ref1 interaction led us to C2+e-mediated transcriptional suppression.</text>
+                    <arg n="0">DNA (nCaRE)-ref1 interaction</arg>
+                    <arg n="1">C2+e-mediated transcriptional suppression</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggested that 7 missense mutations, 2 mutations could lead to frameshift.</text>
+                    <arg n="0">7 missense mutations, 2 mutations</arg>
+                    <arg n="1">frameshift</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggested that Crl stimulates the activity of sigma (S) led to an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase.</text>
+                    <arg n="0">Crl stimulates the activity of sigma (S)</arg>
+                    <arg n="1">an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggested that This was able to lead to a substantial diversity of nebulin and nebulette isoforms.</text>
+                    <arg n="0">This</arg>
+                    <arg n="1">a substantial diversity of nebulin and nebulette isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggested that a point mutation (GTC----ATC) at codon 383 had led to the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter.</text>
+                    <arg n="0">a point mutation (GTC----ATC) at codon 383</arg>
+                    <arg n="1">the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggests that phosphorylation of the MuSK NPXY site leads to recruitment of a phosphotyrosine-binding domain-containing protein.</text>
+                    <arg n="0">phosphorylation of the MuSK NPXY site</arg>
+                    <arg n="1">recruitment of a phosphotyrosine-binding domain-containing protein</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggests that the sequence selection experiment is able to lead to the identification of the BRE.</text>
+                    <arg n="0">the sequence selection experiment</arg>
+                    <arg n="1">the identification of the BRE</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>Genetic deficiency of GM2 activator, in turn, is able to lead to a neurological disorder independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">Genetic deficiency of GM2 activator</arg>
+                    <arg n="1">a neurological disorder</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>It has been shown that Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D, leading to a synergistic 40-to 50-fold activation of the ANF promoter.</text>
+                    <arg n="0">Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D</arg>
+                    <arg n="1">a synergistic 40-to 50-fold activation of the ANF promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>These data suggest that Crl stimulates the activity of sigma (S) leads to an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">Crl stimulates the activity of sigma (S)</arg>
+                    <arg n="1">an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>These data suggest that DNA (nCaRE)-ref1 interaction leads to C2+e-mediated transcriptional suppression that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">DNA (nCaRE)-ref1 interaction</arg>
+                    <arg n="1">C2+e-mediated transcriptional suppression</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>These data suggest that Genetic deficiency of GM2 activator has led to a neurological disorder that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">Genetic deficiency of GM2 activator</arg>
+                    <arg n="1">a neurological disorder</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>These data suggest that a point mutation (GTC----ATC) at codon 383 can lead to the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">a point mutation (GTC----ATC) at codon 383</arg>
+                    <arg n="1">the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>These data suggest that a point mutation (GTC----ATC) at codon 383 has led to the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">a point mutation (GTC----ATC) at codon 383</arg>
+                    <arg n="1">the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>These data suggested that Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D led to a synergistic 40-to 50-fold activation of the ANF promoter that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D</arg>
+                    <arg n="1">a synergistic 40-to 50-fold activation of the ANF promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>This G:C base pair is also the strongest determinant in Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D which has led to a synergistic 40-to 50-fold activation of the ANF promoter (Lagrange et al., 1998).</text>
+                    <arg n="0">Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D</arg>
+                    <arg n="1">a synergistic 40-to 50-fold activation of the ANF promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>This G:C base pair is also the strongest determinant in DNA (nCaRE)-ref1 interaction which led to C2+e-mediated transcriptional suppression (Lagrange et al., 1998).</text>
+                    <arg n="0">DNA (nCaRE)-ref1 interaction</arg>
+                    <arg n="1">C2+e-mediated transcriptional suppression</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>This G:C base pair is also the strongest determinant in Transduction of the marA region from a Mar strain which leads to loss of OmpF (Lagrange et al., 1998).</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>This can lead us to synergistic activation of the ANF and other MEF2 target promoters.</text>
+                    <arg n="0">This</arg>
+                    <arg n="1">synergistic activation of the ANF and other MEF2 target promoters</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>This has led us to a substantial diversity of nebulin and nebulette isoforms.</text>
+                    <arg n="0">This</arg>
+                    <arg n="1">a substantial diversity of nebulin and nebulette isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>This has led us to synergistic activation of the ANF and other MEF2 target promoters.</text>
+                    <arg n="0">This</arg>
+                    <arg n="1">synergistic activation of the ANF and other MEF2 target promoters</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>This led to a substantial diversity of nebulin and nebulette isoforms (Figure 3A).</text>
+                    <arg n="0">This</arg>
+                    <arg n="1">a substantial diversity of nebulin and nebulette isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>This was caused by This that leads to a substantial diversity of nebulin and nebulette isoforms.</text>
+                    <arg n="0">This</arg>
+                    <arg n="1">a substantial diversity of nebulin and nebulette isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>This was caused by Transduction of the marA region from a Mar strain which has led to loss of OmpF.</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>This, in turn, is able to lead to a substantial diversity of nebulin and nebulette isoforms independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">This</arg>
+                    <arg n="1">a substantial diversity of nebulin and nebulette isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>Transduction of the marA region from a Mar strain has led to loss of OmpF (Figure 3A).</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>Transduction of the marA region from a Mar strain has led to loss of OmpF, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Transduction of the marA region from a Mar strain led us to loss of OmpF.</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Transduction of the marA region from a Mar strain led us to loss of OmpF.</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>a point mutation (GTC----ATC) at codon 383 leads to the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter (Figure 3A).</text>
+                    <arg n="0">a point mutation (GTC----ATC) at codon 383</arg>
+                    <arg n="1">the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>phosphorylation of the MuSK NPXY site that leads to recruitment of a phosphotyrosine-binding domain-containing protein.</text>
+                    <arg n="0">phosphorylation of the MuSK NPXY site</arg>
+                    <arg n="1">recruitment of a phosphotyrosine-binding domain-containing protein</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>phosphorylation of the MuSK NPXY site, in turn, led to recruitment of a phosphotyrosine-binding domain-containing protein independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">phosphorylation of the MuSK NPXY site</arg>
+                    <arg n="1">recruitment of a phosphotyrosine-binding domain-containing protein</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter was led to by a point mutation (GTC----ATC) at codon 383.</text>
+                    <arg n="0">a point mutation (GTC----ATC) at codon 383</arg>
+                    <arg n="1">the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>the sequence selection experiment has led to the identification of the BRE, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">the sequence selection experiment</arg>
+                    <arg n="1">the identification of the BRE</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>the sequence selection experiment lead to the identification of the BRE.</text>
+                    <arg n="0">the sequence selection experiment</arg>
+                    <arg n="1">the identification of the BRE</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>the sequence selection experiment led us to the identification of the BRE.</text>
+                    <arg n="0">the sequence selection experiment</arg>
+                    <arg n="1">the identification of the BRE</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14 which led to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S), and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14 that led to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S), and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (a point mutation at the 5 splicing site of the third intron that lead to ligation of the second to the fourth exon, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">a point mutation at the 5 splicing site of the third intron</arg>
+                    <arg n="1">ligation of the second to the fourth exon</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (inactivation of the MEF2C gene that lead to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">inactivation of the MEF2C gene</arg>
+                    <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (inactivation of the MEF2C gene that lead to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">inactivation of the MEF2C gene</arg>
+                    <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (the distinct amino termini that led to the targeting of individual VDAC isoforms to different cellular compartments, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">the distinct amino termini</arg>
+                    <arg n="1">the targeting of individual VDAC isoforms to different cellular compartments</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (the distinct amino termini which lead to the targeting of individual VDAC isoforms to different cellular compartments, and 1 mutation predicted to affect normal splicing).</text>
+                    <arg n="0">the distinct amino termini</arg>
+                    <arg n="1">the targeting of individual VDAC isoforms to different cellular compartments</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Disruption of the SNU246 gene in yeast has led us to a splicing defect in vivo, indicating that the protein is essential for splicing.</text>
+                    <arg n="0">Disruption of the SNU246 gene in yeast</arg>
+                    <arg n="1">a splicing defect in vivo, indicating that the protein is essential for splicing</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Disruption of the SNU246 gene in yeast lead to a splicing defect in vivo, indicating that the protein is essential for splicing.</text>
+                    <arg n="0">Disruption of the SNU246 gene in yeast</arg>
+                    <arg n="1">a splicing defect in vivo, indicating that the protein is essential for splicing</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Disruption of the SNU246 gene in yeast led to a splicing defect in vivo, indicating that the protein is essential for splicing (Figure 3A).</text>
+                    <arg n="0">Disruption of the SNU246 gene in yeast</arg>
+                    <arg n="1">a splicing defect in vivo, indicating that the protein is essential for splicing</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Disruption of the SNU246 gene in yeast led us to a splicing defect in vivo, indicating that the protein is essential for splicing.</text>
+                    <arg n="0">Disruption of the SNU246 gene in yeast</arg>
+                    <arg n="1">a splicing defect in vivo, indicating that the protein is essential for splicing</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggested that Disruption of the SNU246 gene in yeast led to a splicing defect in vivo, indicating that the protein is essential for splicing.</text>
+                    <arg n="0">Disruption of the SNU246 gene in yeast</arg>
+                    <arg n="1">a splicing defect in vivo, indicating that the protein is essential for splicing</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggested that G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14 led to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).</text>
+                    <arg n="0">G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggested that G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14 led to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).</text>
+                    <arg n="0">G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggested that a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele was able to lead to a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein.</text>
+                    <arg n="0">a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele</arg>
+                    <arg n="1">a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggests that The splice mutation in 5 end of intron 5 leads to abnormal splice in exon 5 and exon 6.</text>
+                    <arg n="0">The splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14 leads us to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).</text>
+                    <arg n="0">G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14 was caused by This which can lead to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).</text>
+                    <arg n="0">G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14 led us to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).</text>
+                    <arg n="0">G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>The loss of TreR function G:C base pair is also the strongest determinant in This leading to derepression of treB (Lagrange et al., 1998).</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>The loss of TreR function G:C base pair is also the strongest determinant in This which has led to derepression of treB (Lagrange et al., 1998).</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>The loss of TreR function can lead us to derepression of treB.</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>The loss of TreR function has led to derepression of treB (Figure 3A).</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>The loss of TreR function is leading to derepression of treB, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>The loss of TreR function leads to derepression of treB.</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>The loss of TreR function was caused by This leading to derepression of treB.</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>The loss of TreR function, in turn, is able to lead to derepression of treB independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>The splice mutation in 5 end of intron 5 G:C base pair is also the strongest determinant in This which leads to abnormal splice in exon 5 and exon 6 (Lagrange et al., 1998).</text>
+                    <arg n="0">The splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>The splice mutation in 5 end of intron 5 is leading to abnormal splice in exon 5 and exon 6, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">The splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>The splice mutation in 5 end of intron 5 is leading to abnormal splice in exon 5 and exon 6.</text>
+                    <arg n="0">The splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>The splice mutation in 5 end of intron 5 leads us to abnormal splice in exon 5 and exon 6.</text>
+                    <arg n="0">The splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>The splice mutation in 5 end of intron 5 led to abnormal splice in exon 5 and exon 6.</text>
+                    <arg n="0">The splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>These data suggest that G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14 leads to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S) that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>These data suggest that G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14 can lead to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S) that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>These data suggest that Growth of Escherichia coli in the presence of nitrate or nitrite leads to a 45% decrease in expression that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">Growth of Escherichia coli in the presence of nitrate or nitrite</arg>
+                    <arg n="1">a 45% decrease in expression</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>These data suggest that The loss of TreR function has led to derepression of treB that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="37">
+                    <text>These data suggest that two frameshifts and a splice site mutation leads to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">two frameshifts and a splice site mutation</arg>
+                    <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations</arg>
+                </example>
+                <example src="REPLACE" no="38">
+                    <text>These data suggested that G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14 led to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S) that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="39">
+                    <text>These data suggested that The loss of TreR function led to derepression of treB that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="40">
+                    <text>These data suggested that two frameshifts and a splice site mutation led to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations that functions to stimulate phosphorylation and clustering of AchRs.</text>
+                    <arg n="0">two frameshifts and a splice site mutation</arg>
+                    <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations</arg>
+                </example>
+                <example src="REPLACE" no="41">
+                    <text>This G:C base pair is also the strongest determinant in G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14 leading to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S) (Lagrange et al., 1998).</text>
+                    <arg n="0">G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="42">
+                    <text>This G:C base pair is also the strongest determinant in The loss of TreR function which leads to derepression of treB (Lagrange et al., 1998).</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="REPLACE" no="43">
+                    <text>This G:C base pair is also the strongest determinant in The splice mutation in 5 end of intron 5 which has led to abnormal splice in exon 5 and exon 6 (Lagrange et al., 1998).</text>
+                    <arg n="0">The splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="44">
+                    <text>This G:C base pair is also the strongest determinant in a complex splice site mutation leading to an abnormal JAG1 mRNA, resulting in a premature stop codon (Lagrange et al., 1998).</text>
+                    <arg n="0">a complex splice site mutation</arg>
+                    <arg n="1">an abnormal JAG1 mRNA, resulting in a premature stop codon</arg>
+                </example>
+                <example src="REPLACE" no="45">
+                    <text>This G:C base pair is also the strongest determinant in inactivation of the MEF2C gene leading to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5 (Lagrange et al., 1998).</text>
+                    <arg n="0">inactivation of the MEF2C gene</arg>
+                    <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5</arg>
+                </example>
+                <example src="REPLACE" no="46">
+                    <text>This G:C base pair is also the strongest determinant in two frameshifts and a splice site mutation, which led to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations (Lagrange et al., 1998).</text>
+                    <arg n="0">two frameshifts and a splice site mutation</arg>
+                    <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations</arg>
+                </example>
+                <example src="REPLACE" no="47">
+                    <text>This splice mutation in 5 end of intron 5 can lead to abnormal splice in exon 5 and exon 6.</text>
+                    <arg n="0">This splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="48">
+                    <text>This splice mutation in 5 end of intron 5 is leading to abnormal splice in exon 5 and exon 6, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">This splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="49">
+                    <text>This splice mutation in 5 end of intron 5 was caused by This that leads to abnormal splice in exon 5 and exon 6.</text>
+                    <arg n="0">This splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="50">
+                    <text>This was caused by Disruption of the SNU246 gene in yeast which can lead to a splicing defect in vivo, indicating that the protein is essential for splicing.</text>
+                    <arg n="0">Disruption of the SNU246 gene in yeast</arg>
+                    <arg n="1">a splicing defect in vivo, indicating that the protein is essential for splicing</arg>
+                </example>
+                <example src="REPLACE" no="51">
+                    <text>This was caused by G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14 that leads to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).</text>
+                    <arg n="0">G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="52">
+                    <text>This was caused by G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14 which can lead to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).</text>
+                    <arg n="0">G979A affected a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="53">
+                    <text>This was caused by G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14 which can lead to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).</text>
+                    <arg n="0">G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="54">
+                    <text>This was caused by G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14 which has led to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).</text>
+                    <arg n="0">G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="55">
+                    <text>This was caused by This splice mutation in 5 end of intron 5 that leads to abnormal splice in exon 5 and exon 6.</text>
+                    <arg n="0">This splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="56">
+                    <text>This was caused by a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele, which leads to a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein.</text>
+                    <arg n="0">a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele</arg>
+                    <arg n="1">a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein</arg>
+                </example>
+                <example src="REPLACE" no="57">
+                    <text>This was caused by a complex splice site mutation which can lead to an abnormal JAG1 mRNA, resulting in a premature stop codon.</text>
+                    <arg n="0">a complex splice site mutation</arg>
+                    <arg n="1">an abnormal JAG1 mRNA, resulting in a premature stop codon</arg>
+                </example>
+                <example src="REPLACE" no="58">
+                    <text>This was caused by inactivation of the MEF2C gene leading to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5.</text>
+                    <arg n="0">inactivation of the MEF2C gene</arg>
+                    <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5</arg>
+                </example>
+                <example src="REPLACE" no="59">
+                    <text>This was caused by the distinct amino termini, which leads to the targeting of individual VDAC isoforms to different cellular compartments.</text>
+                    <arg n="0">the distinct amino termini</arg>
+                    <arg n="1">the targeting of individual VDAC isoforms to different cellular compartments</arg>
+                </example>
+                <example src="REPLACE" no="60">
+                    <text>a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele G:C base pair is also the strongest determinant in This, which led to a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein (Lagrange et al., 1998).</text>
+                    <arg n="0">a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele</arg>
+                    <arg n="1">a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein</arg>
+                </example>
+                <example src="REPLACE" no="61">
+                    <text>a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele has led us to a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein.</text>
+                    <arg n="0">a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele</arg>
+                    <arg n="1">a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein</arg>
+                </example>
+                <example src="REPLACE" no="62">
+                    <text>a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele, in turn, led to a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele</arg>
+                    <arg n="1">a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein</arg>
+                </example>
+                <example src="REPLACE" no="63">
+                    <text>a complex splice site mutation leads us to an abnormal JAG1 mRNA, resulting in a premature stop codon.</text>
+                    <arg n="0">a complex splice site mutation</arg>
+                    <arg n="1">an abnormal JAG1 mRNA, resulting in a premature stop codon</arg>
+                </example>
+                <example src="REPLACE" no="64">
+                    <text>a complex splice site mutation led to an abnormal JAG1 mRNA, resulting in a premature stop codon (Figure 3A).</text>
+                    <arg n="0">a complex splice site mutation</arg>
+                    <arg n="1">an abnormal JAG1 mRNA, resulting in a premature stop codon</arg>
+                </example>
+                <example src="REPLACE" no="65">
+                    <text>a complex splice site mutation led to an abnormal JAG1 mRNA, resulting in a premature stop codon (Figure 3A).</text>
+                    <arg n="0">a complex splice site mutation</arg>
+                    <arg n="1">an abnormal JAG1 mRNA, resulting in a premature stop codon</arg>
+                </example>
+                <example src="REPLACE" no="66">
+                    <text>a complex splice site mutation, in turn, has led to an abnormal JAG1 mRNA, resulting in a premature stop codon independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">a complex splice site mutation</arg>
+                    <arg n="1">an abnormal JAG1 mRNA, resulting in a premature stop codon</arg>
+                </example>
+                <example src="REPLACE" no="67">
+                    <text>a point mutation at the 5 splicing site of the third intron may lead to ligation of the second to the fourth exon.</text>
+                    <arg n="0">a point mutation at the 5 splicing site of the third intron</arg>
+                    <arg n="1">ligation of the second to the fourth exon</arg>
+                </example>
+                <example src="REPLACE" no="68">
+                    <text>a point mutation at the 5 splicing site of the third intron, in turn, has led to ligation of the second to the fourth exon independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">a point mutation at the 5 splicing site of the third intron</arg>
+                    <arg n="1">ligation of the second to the fourth exon</arg>
+                </example>
+                <example src="REPLACE" no="69">
+                    <text>a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S) was led to by G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14.</text>
+                    <arg n="0">G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14</arg>
+                    <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)</arg>
+                </example>
+                <example src="REPLACE" no="70">
+                    <text>abnormal splice in exon 5 and exon 6 is led to by This splice mutation in 5 end of intron 5.</text>
+                    <arg n="0">This splice mutation in 5 end of intron 5</arg>
+                    <arg n="1">abnormal splice in exon 5 and exon 6</arg>
+                </example>
+                <example src="REPLACE" no="71">
+                    <text>inactivation of the MEF2C gene G:C base pair is also the strongest determinant in This which leads to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5 (Lagrange et al., 1998).</text>
+                    <arg n="0">inactivation of the MEF2C gene</arg>
+                    <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5</arg>
+                </example>
+                <example src="REPLACE" no="72">
+                    <text>inactivation of the MEF2C gene is leading to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5.</text>
+                    <arg n="0">inactivation of the MEF2C gene</arg>
+                    <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5</arg>
+                </example>
+                <example src="REPLACE" no="73">
+                    <text>inactivation of the MEF2C gene led to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).</text>
+                    <arg n="0">inactivation of the MEF2C gene</arg>
+                    <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5</arg>
+                </example>
+                <example src="REPLACE" no="74">
+                    <text>inactivation of the MEF2C gene may lead to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5 (Figure 3A).</text>
+                    <arg n="0">inactivation of the MEF2C gene</arg>
+                    <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5</arg>
+                </example>
+                <example src="REPLACE" no="75">
+                    <text>inactivation of the MEF2C gene, in turn, has led to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5 independently of the DNA-binding activity of MEF2.</text>
+                    <arg n="0">inactivation of the MEF2C gene</arg>
+                    <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5</arg>
+                </example>
+                <example src="REPLACE" no="76">
+                    <text>the distinct amino termini G:C base pair is also the strongest determinant in This, which led to the targeting of individual VDAC isoforms to different cellular compartments (Lagrange et al., 1998).</text>
+                    <arg n="0">the distinct amino termini</arg>
+                    <arg n="1">the targeting of individual VDAC isoforms to different cellular compartments</arg>
+                </example>
+                <example src="REPLACE" no="77">
+                    <text>the distinct amino termini G:C base pair is also the strongest determinant in This, which led to the targeting of individual VDAC isoforms to different cellular compartments (Lagrange et al., 1998).</text>
+                    <arg n="0">the distinct amino termini</arg>
+                    <arg n="1">the targeting of individual VDAC isoforms to different cellular compartments</arg>
+                </example>
+                <example src="REPLACE" no="78">
+                    <text>two frameshifts and a splice site mutation has led us to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations.</text>
+                    <arg n="0">two frameshifts and a splice site mutation</arg>
+                    <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations</arg>
+                </example>
+                <example src="REPLACE" no="79">
+                    <text>two frameshifts and a splice site mutation is able to lead to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations (Figure 3A).</text>
+                    <arg n="0">two frameshifts and a splice site mutation</arg>
+                    <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations</arg>
+                </example>
+                <example src="REPLACE" no="80">
+                    <text>two frameshifts and a splice site mutation leads to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations (Figure 3A).</text>
+                    <arg n="0">two frameshifts and a splice site mutation</arg>
+                    <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations</arg>
+                </example>
+                <example src="REPLACE" no="81">
+                    <text>two frameshifts and a splice site mutation was caused by This leading to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations.</text>
+                    <arg n="0">two frameshifts and a splice site mutation</arg>
+                    <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations</arg>
+                </example>
+                <example src="REPLACE" no="82">
+                    <text>two frameshifts and a splice site mutation was caused by This that led to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations.</text>
+                    <arg n="0">two frameshifts and a splice site mutation</arg>
+                    <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

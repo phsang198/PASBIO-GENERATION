@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="disrupt">
+            <roleset id="Disrupt.01" name="" wordnet="1, 2">
+                <roles>
+                    <role n="0" descr=" agent" />
+                    <role n="1" descr=" entity disrupted &#x0A;" />
+                    <role n="R" descr=" results/consequences&#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>When both genes were disrupted, galS expression was further elevated.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">galS expression was further elevated</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

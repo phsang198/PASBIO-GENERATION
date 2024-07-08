@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="initiate">
+            <roleset id="Initiate.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent      //protein//&#x0A;" />
+                    <role n="1" descr="entity created      //transcription or translation or process//&#x0A;" />
+                    <role n="2" descr="specific location of tissue or cell  //mostly saying about exon or intron//&#x0A;" />
+                    <role n="3" descr="location as tissue or cell&#x0A;" />
+                    <role n="4" descr="method&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Aggregation and secretion have been initiated by platelet agonists by activating receptors coupled to the G-protein G(q), thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">Platelet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G-protein G(q)</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Apparently HeLa cells are able to either initiate transcription at multiple sites within RPS14 exon 1, or cap 5 oligonucleotides which were removed from most S14 mRNAs posttranscription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple sites within RPS14 exon 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>I kappa B-epsilon translation can be initiated from an internal ATG codon to give rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>I kappa B-epsilon translation has been initiated from an internal ATG codon to give rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>I kappa B-epsilon translation initiated from an internal ATG codon gives rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed Smads, which may initiate transcriptional regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Ligand binding induces cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed Smads that are able to initiate transcriptional regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Ligand binding induces cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed Smads that can initiate transcriptional regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Our data present a novel apical sorting pathway by which MV envelope glycoproteins chaperoned by the M protein are able to initiate virus release at that surface.</text>
+                    <arg n="0">MV envelope glycoproteins chaperoned by the M protein</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">that surface</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>Our data present a novel apical sorting pathway by which MV envelope glycoproteins chaperoned by the M protein are observed to initiate virus release at that surface.</text>
+                    <arg n="0">MV envelope glycoproteins chaperoned by the M protein</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">that surface</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Platelet agonists initiated aggregation and secretion by activating receptors coupled to the G-protein G(q), thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">Platelet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G-protein G(q)</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>Polymerases being able to initiate transcription with RSF can only extend their transcripts in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">Polymerases</arg>
+                    <arg n="1">transcription with RSF</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>Polymerases that initiated transcription with RSF can only extend their transcripts in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">Polymerases</arg>
+                    <arg n="1">transcription with RSF</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>SCF, like the other dimeric ligands, initates signal transduction by direct dimerization of its receptor, Kit, and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated downstream intracellular signaling.</text>
+                    <arg n="0">tyrosine autophosphorylation</arg>
+                    <arg n="1">downstream intracellular signaling</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>SCF, like the other dimeric ligands, will initate signal transduction by direct dimerization of its receptor, Kit,and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates downstream intracellular signaling.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>SCF, like the other dimeric ligands, will initate signal transduction by direct dimerization of its receptor, Kit,and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates downstream intracellular signaling.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Since RTKs is observed to initiate signaling by recruiting downstream components to the activated receptor, proteins that are immediately downstream of an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">recruiting downstream components to the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Sxl is a key regulator of sex determination and dosage compensation, whose transcription has been initiated only in female blastoderm embryos.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">female blastoderm embryos</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>The repression will be initiated by autophosphorylation of the sensor protein ArcB, followed by phosphoryl group transfer to the regulator ArcA.</text>
+                    <arg n="0">autophosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">The repression</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Transcription of ptsG encoding glucose-specific permease, enzyme IICB (Glc), in Escherichia coli may be initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">Transcription of ptsG encoding glucose-specific permease</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Transcription of the divergently transcribed glpTQ and glpACB operons has been initiated at sites separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">Transcription of the divergently transcribed glpTQ and glpACB operons</arg>
+                    <arg n="2">sites separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Transcription of the divergently transcribed glpTQ and glpACB operons has the ability to be initiated at sites separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">Transcription of the divergently transcribed glpTQ and glpACB operons</arg>
+                    <arg n="2">sites separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>Transcription of the divergently transcribed glpTQ and glpACB operons is initiated at sites separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">Transcription of the divergently transcribed glpTQ and glpACB operons</arg>
+                    <arg n="2">sites separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>Transcription of the divergently transcribed glpTQ and glpACB operons is observed to be initiated at sites separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">Transcription of the divergently transcribed glpTQ and glpACB operons</arg>
+                    <arg n="2">sites separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>Tumours with breakpoints just 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumours with breakpoints within exon 1 or intron 1 alter c-myc mRNAs (2.1-2.7 kb in Burkitt lines), which is initiated within intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>Tumours with breakpoints just 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumours with breakpoints within exon 1 or intron 1 alter c-myc mRNAs (2.1-2.7 kb in Burkitt lines), which is observed to be initiated within intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>Tumours with breakpoints just 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumours with breakpoints within exon 1 or intron 1 alter c-myc mRNAs (2.1-2.7 kb in Burkitt lines), which will be initiated within intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Tumours with breakpoints just 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumours with breakpoints within exon 1 or intron 1 alter c-myc mRNAs that is believed to be initiated within intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Tumours with breakpoints just 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumours with breakpoints within exon 1 or intron 1 alter c-myc mRNAs that is initiated within intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Tumours with breakpoints just 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumours with breakpoints within exon 1 or intron 1 alter c-myc mRNAs that is initiated within intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>SCF, like the other dimeric ligands, initates signal transduction by direct dimerization of its receptor, Kit,and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates downstream intracellular signaling.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Transcription was initiated from a sigma (70)-dependent promoter at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">a sigma (70)-dependent promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>I kappa B-epsilon translation is observed to be initiated from an internal ATG codon at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>I kappa B-epsilon translation may be initiated from an internal ATG codon at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed autophosphorylation of the sensor protein ArcB initiating The repression.</text>
+                    <arg n="0">autophosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">The repression</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed autophosphorylation of the sensor protein ArcB, which can initiate The repression.</text>
+                    <arg n="0">autophosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">The repression</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed autophosphorylation of the sensor protein ArcB, which can initiate The repression.</text>
+                    <arg n="0">autophosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">The repression</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed autophosphorylation of the sensor protein ArcB, which have initiated The repression.</text>
+                    <arg n="0">autophosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">The repression</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed tyrosine autophosphorylation that initiated downstream intracellular signaling.</text>
+                    <arg n="0">tyrosine autophosphorylation</arg>
+                    <arg n="1">downstream intracellular signaling</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Ligand binding induces cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed tyrosine autophosphorylation, which initiate downstream intracellular signaling.</text>
+                    <arg n="0">tyrosine autophosphorylation</arg>
+                    <arg n="1">downstream intracellular signaling</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Our data present a novel apical sorting pathway by which MV envelope glycoproteins are chaperoned by the M protein are chaperoned by the M protein to initiate virus release at that surface.</text>
+                    <arg n="0">MV envelope glycoproteins are chaperoned by the M protein</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">that surface</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Our data present a novel apical sorting pathway by which MV envelope glycoproteins chaperoned by the M protein which initiate virus release at that surface are chaperoned by the M protein.</text>
+                    <arg n="0">MV envelope glycoproteins chaperoned by the M protein</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">that surface</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Our data present a novel apical sorting pathway by which MV envelope glycoproteins have initiated virus release at that surface.</text>
+                    <arg n="0">MV envelope glycoproteins</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">that surface</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Our data present a novel apical sorting pathway by which MV envelope glycoproteins have initiated virus release at that surface.</text>
+                    <arg n="0">MV envelope glycoproteins</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">that surface</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Our data present a novel apical sorting pathway by which MV envelope glycoproteins may initiate virus release at that surface.</text>
+                    <arg n="0">MV envelope glycoproteins</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">that surface</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Platelet agonists, like the other dimeric ligands, initates aggregation and secretion activating receptors coupled to the G-protein G(q), Kit,and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates downstream intracellular signaling.</text>
+                    <arg n="0">Platelet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G-protein G(q)</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Polymerases that initiate transcription with RSF with RSF can only extend their transcripts in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">Polymerases</arg>
+                    <arg n="1">transcription with RSF</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>RTKs are able to initiate signaling by recruiting downstream components to the activated receptor, thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">recruiting downstream components to the activated receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>RTKs have initiated signaling by recruiting downstream components to the activated receptor, thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">recruiting downstream components to the activated receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>RTKs initiate signaling by recruiting downstream components to the activated receptor, thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">recruiting downstream components to the activated receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>RTKs will initiate signaling by recruiting downstream components to the activated receptor, thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">recruiting downstream components to the activated receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>RTKs, like the other dimeric ligands, will initate signaling recruiting downstream components to the activated receptor, Kit,and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates downstream intracellular signaling.</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">recruiting downstream components to the activated receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>SCF can initiate signal transduction by by direct dimerization of its receptor, thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>SCF initiated signal transduction by by direct dimerization of its receptor, thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>SCF may have initiated signal transduction by by direct dimerization of its receptor, thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>SCF will initiate signal transduction by by direct dimerization of its receptor, thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>SCF, like the other dimeric ligands, initates signal transduction by direct dimerization of its receptor, Kit, and the two juxtaposed receptors undergo autophosphorylation of the sensor protein ArcB (Heldin, 1995; Broudy, 1997), which has initiated The repression.</text>
+                    <arg n="0">autophosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">The repression</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>SCF, like the other dimeric ligands, initates signal transduction by direct dimerization of its receptor, Kit,and the two juxtaposed receptors undergo Smads (Heldin, 1995; Broudy, 1997), which initiates transcriptional regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>Since Platelet agonists initiate aggregation and secretion by activating receptors coupled to the G-protein G(q), proteins that are immediately downstream of an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">Platelet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G-protein G(q)</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>Since Platelet agonists is observed to initiate aggregation and secretion by activating receptors coupled to the G-protein G(q), proteins that are immediately downstream of an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">Platelet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G-protein G(q)</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>Since SCF initiate signal transduction by by direct dimerization of its receptor, proteins that are immediately downstream of an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>Since SCF initiated signal transduction by by direct dimerization of its receptor, proteins that are immediately downstream of an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>Since SCF is observed to initiate signal transduction by by direct dimerization of its receptor, proteins that are immediately downstream of an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>Since aggregation and secretion may be initiated by Platelet agonists by activating receptors coupled to the G-protein G(q), proteins that are immediately downstream of an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">Platelet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G-protein G(q)</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>Since signal transduction is able to be initiated by SCF by by direct dimerization of its receptor, proteins that are immediately downstream of an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>Transcription is initiated from a sigma (70)-dependent promoter to give rise to a protein of 45 kDa, which exists as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">a sigma (70)-dependent promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>Transcription which may be initiated from a sigma (70)-dependent promoter to give rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">a sigma (70)-dependent promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>downstream intracellular signaling is observed to be initiated by tyrosine autophosphorylation, followed by phosphoryl group transfer to the regulator ArcA.</text>
+                    <arg n="0">tyrosine autophosphorylation</arg>
+                    <arg n="1">downstream intracellular signaling</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>downstream intracellular signaling will be initiated by tyrosine autophosphorylation, followed by phosphoryl group transfer to the regulator ArcA.</text>
+                    <arg n="0">tyrosine autophosphorylation</arg>
+                    <arg n="1">downstream intracellular signaling</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed SCF initiating signal transduction.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed SCF initiating signal transduction.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed SCF, which initiated signal transduction.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed SCF, which may initiate signal transduction.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Ligand binding induced cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed SCF, which may initiate signal transduction.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Ligand binding induces cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed SCF that are able to initiate signal transduction.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>SCF, like the other dimeric ligands, initates signal transduction by direct dimerization of its receptor, Kit,and the two juxtaposed receptors undergo SCF (Heldin, 1995; Broudy, 1997), which initiates signal transduction.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Transcription of ptsG encoding glucose-specific permease can be initiated from from two promoters, P1 and P2 at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">Transcription of ptsG encoding glucose-specific permease</arg>
+                    <arg n="2">from two promoters, P1 and P2</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Transcription of ptsG encoding glucose-specific permease is able to be initiated from two promoters, P1 and P2 at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">Transcription of ptsG encoding glucose-specific permease</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Transcription of ptsG encoding glucose-specific permease may be initiated from from two promoters, P1 and P2 at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">Transcription of ptsG encoding glucose-specific permease</arg>
+                    <arg n="2">from two promoters, P1 and P2</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Transcription of ptsG encoding glucose-specific permease may be initiated from two promoters, P1 and P2 at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">Transcription of ptsG encoding glucose-specific permease</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Transcription of ptsG encoding glucose-specific permease was initiated from two promoters, P1 and P2 at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">Transcription of ptsG encoding glucose-specific permease</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Transcription of ptsG encoding glucose-specific permease which may be initiated from from two promoters, P1 and P2 to give rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">Transcription of ptsG encoding glucose-specific permease</arg>
+                    <arg n="2">from two promoters, P1 and P2</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Transcription of ptsG encoding glucose-specific permease will be initiated from from two promoters, P1 and P2 at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">Transcription of ptsG encoding glucose-specific permease</arg>
+                    <arg n="2">from two promoters, P1 and P2</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>Transcription of the divergently transcribed glpTQ and glpACB operons has been initiated from sites separated by 132 base pairs (bp) of DNA at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">Transcription of the divergently transcribed glpTQ and glpACB operons</arg>
+                    <arg n="2">sites separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>Transcription of the divergently transcribed glpTQ and glpACB operons which may be initiated from sites separated by 132 base pairs (bp) of DNA to give rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">Transcription of the divergently transcribed glpTQ and glpACB operons</arg>
+                    <arg n="2">sites separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>altered c-myc mRNAs can be initiated from intron 1 to give rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">altered c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>altered c-myc mRNAs has been initiated from intron 1 at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">altered c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>altered c-myc mRNAs may have been initiated from intron 1 at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">altered c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>altered c-myc mRNAs which has been initiated from intron 1 gives rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">altered c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>altered c-myc mRNAs which may be initiated from intron 1 to give rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">altered c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>c-myc mRNAs is observed to be initiated from intron 1 at the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>c-myc mRNAs was initiated from intron 1 to give rise to a protein of 45 kDa, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>signal transduction has been initiated by SCF, followed by phosphoryl group transfer to the regulator ArcA.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="translate">
+            <roleset id="translate.01" name="molecular event of producing genetic product called protein&#x0A;" wordnet="10">
+                <roles>
+                    <role n="0" descr="resultant product &#x09;&#x09;&#x09;// protein //&#x0A;" />
+                    <role n="1" descr="source &#x09;&#x09;&#x09;&#x09;&#x09;// mRNA, transcript // &#x0A;" />
+                    <role n="2" descr="location as tissue, cell, vitro&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Alternative splicing of exon 4 results in a transcription being translated into a truncated C-terminal protein containing the first, second, and third transmembrane domains, while splicing of exons 3 and 4 would produce a protein with five membrane domains but without the third and fourth domains present in the ET-AR protein.</text>
+                    <arg n="0">a truncated C-terminal protein containing the first, second, and third transmembrane domains</arg>
+                    <arg n="1">a transcription</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>ISGF3 gamma has been shown to translated into vitro from recombinant clones bound to DNA with an indistinguishable specificity of ISGF3 gamma purified from HeLa cells.</text>
+                    <arg n="0">ISGF3 gamma</arg>
+                    <arg n="1">recombinant</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>ISGF3 swab, which has been adequately translated into vitro of A1 clones (recombinant), binds DNA with an indistinguishable specificity of ISGF3 swab, purified from HeLa cells.</text>
+                    <arg n="0">ISGF3 swab</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Stat1 Y701F which probably translated into vitro can also be dimerized into the LMP2 gas.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 that can be translated into vitro are partially purified in heparin-agarose.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>The ArC/XylS family of positive prokaryotic transcriptional regulators includes more than 100 proteins and polypeptides that have the ability to be translated from open led frames.</text>
+                    <arg n="0">open led frames</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>We also report the first definitive incorporation of Sec into a selenoprotein that can be successfully translated into reticulocyte forms.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">reticulocyte forms</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>this mutant can be translated efficiently in the presence of C-terminal SBP2, and as shown in Figure 6C no reader can be detected when the AUGA element is removed, indicating that the stimulatory effect is totally dependent on 3 UTR.</text>
+                    <arg n="0">this mutant</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>ISGF3 gamma that are translated into vitro are partially purified in heparin-agarose.</text>
+                    <arg n="0">ISGF3 gamma</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>ISGF3 gamma that has been translated into vitro can also dimer in the SGL2 of LMP2.</text>
+                    <arg n="0">ISGF3 gamma</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>ISGF3 gamma will be translated efficiently in the presence of C-terminal SBP, and as shown in Figure 6C no reader can be detected when the AUGA element is removed, indicating that the stimulatory effect is completely 3 UTR dependent.</text>
+                    <arg n="0">ISGF3 gamma</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>ISGF3 gum that can be correctly translated into vitro are partially purified in heparin-astroosis.</text>
+                    <arg n="0">ISGF3 gum</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>ISGF3 gum, as our data reveal, is observed to translated into vitro and purify in part into heparin-acrose.</text>
+                    <arg n="0">ISGF3 gum</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>ISGF3 snake may have been translated into vitro and partially purified into heparin-agarose.</text>
+                    <arg n="0">ISGF3 snake</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>ISGF3 swab that have been translated adequately into vitro are partially purified in heparin-agarose.</text>
+                    <arg n="0">ISGF3 swab</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>ISGF3 swab that have the ability to be translated into vitro are partially purified in heparin-agarose.</text>
+                    <arg n="0">ISGF3 swab</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>ISGF3 swab that is observed to be translated into vitro of A1 clones (recombinant) binds DNA with an indistinguishable specificity of ISGF3 snake purified from HeLa cells.</text>
+                    <arg n="0">ISGF3 swab</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>More than 100 proteins and polypeptides included in the ArC/XylS family of prokaryotic positive transcriptional regulators are able to be fully translated from this mutant.</text>
+                    <arg n="0">this mutant</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>More than 100 proteins and polypeptides included in the ArC/XylS family of prokaryotic positive transcriptional regulators can be translated completely from This mutant.</text>
+                    <arg n="0">This mutant</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>More than 100 proteins and polypeptides that are included in the ArC/XylS family of prokaryotic positive transcriptional regulators have the ability to be translated completely from ISGF3 gamma.</text>
+                    <arg n="0">ISGF3 gamma</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Stat1 Y701F can be translated into vitro and purified partially in heparin-astroose.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Stat1 Y701F has the ability to be translated into vitro and partially purified into heparin-agarose.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Stat1 Y701F that has been adequately translated into vitro of A1 clones (recombinant) bind the DNA with an indistinguishable specificity of ISGF3 gamma purified HeLa cells.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>Stat1 Y701F, as our data show, are able to be translated into vitro and partially purified into heparin-agarose.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>Stat1 Y701F, as our data show, are likely to be translated into vitro and partially purified into heparin-agarose.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>Stat1 Y701F, which will be translated appropriately into vitro of A1 clones (recombinant) bind the DNA with an indistinguishable specificity of ISGF3 gum, purified from HeLa cells.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>Stat1, Estat1 Y701F, Estat1 N135, Estat1 N200 and Estat5/1 is observed to be translated into vitro and partially purified into heparin-astroosa.</text>
+                    <arg n="0">Stat1, Estat1 Y701F, Estat1 N135, Estat1 N200 and Estat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>Stat1, Estat1 Y701F, Estat1 N135, Estat1 N200 and Stat5/1 which is likely to be translated into vitro of A1 clones (recombinant) bind DNA with an indistinguishable specificity of ISGF3 gamma purified from HeLa cells.</text>
+                    <arg n="0">Stat1, Estat1 Y701F, Estat1 N135, Estat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 is observed to translated efficiently in the presence of PAS-C, and as shown in Figure 6C no reader can be detected when the AUGA element is removed, indicating that the stimulatory effect is completely dependent on 3 UTR.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 that can be translated to vitro can also be dimerised to LMP2 gas.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1, as revealed by our study, has been shown to translated into the presence of C-terminal SBP2, and as shown in Figure 6C no reader can be detected when the AUGA element is removed, indicating that the stimulatory effect is fully dependent on 3 UTR.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>The ArC/XylS family of prokaryotic positive transcription regulators includes more than 100 proteins and polypeptides observed to be translated from This mutant.</text>
+                    <arg n="0">This mutant</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>The ArC/XylS family of prokaryotic positive transcriptional regulators includes more than 100 proteins and polypeptides translated from open leing frames.</text>
+                    <arg n="0">open leing frames</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>The ISGF3 gum, as our data show, may have been translated into vitro and partially purified into heparin-astrose.</text>
+                    <arg n="0">ISGF3 gum</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>We also report the first definitive incorporation of Sec into ISGF3 gum which has been shown to be successfully translated into vitro.</text>
+                    <arg n="0">ISGF3 gum</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>We also report the first definitive incorporation of Sec into Stat1 Y701F that proved to be translated into vitro.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>We also report the first definitive incorporation of Sec into Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 that can be translated into vitro.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>We also report the first definitive incorporation of Sec into Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 that could have been translated into vitro.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>We also report the first definitive incorporation of Sec into selenoprotein that translated into lysed by reticulocytes.</text>
+                    <arg n="0">selenoprotein</arg>
+                    <arg n="2">lysed by reticulocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>a selenoprotein , as our data reveal, is observed to translated into reticulocyte shading and to partially purify into heparin-acrose.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">reticulocyte shading</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>a selenoprotein that can be translated adequately into with shading of reticulocytes are partially purified in heparin-agarose.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">with shading of reticulocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>a selenoprotein that has been shown to probably translated into reticulocyte cells can also be dimerized into the LMP2 gas.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">reticulocyte cells</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>a selenoprotein which translated to reticulocyte shales can also be dimerized into the LMP2 gas.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">reticulocyte shales</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>a selenoprotein, as our data show, has the ability to be translated to with shading of reticulocytes and partially purified to heparin-astrose.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">with shading of reticulocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>open frames, as revealed in our study, has been shown to be translated into the presence of C-terminal SBP, and as shown in Figure 6C, reading the AUGA element is not detectable, indicating that the stimulatory effect is totally 3 UTR dependent.</text>
+                    <arg n="0">open frames</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>open lee frameworks is likely to be translated into the presence of C-terminal SBP, and as shown in Figure 6C, reading the AUGA element is not detectable, indicating that the stimulatory effect is completely 3 UTR dependent.</text>
+                    <arg n="0">open lee frameworks</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>open leing frames translated into the presence of C-terminal SBP, and as shown in Figure 6C, no reader can be detected when the AUGA element is removed, indicating that the stimulatory effect is totally dependent on 3 UTR.</text>
+                    <arg n="0">open leing frames</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>open reading frameworks, as revealed by our study, is observed to translated into the presence of C-terminal SBP2, and as shown in Figure 6C no reader can be detected when the AUGA element is removed, indicating that the stimulatory effect is fully dependent on 3 UTR.</text>
+                    <arg n="0">open reading frameworks</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>selenoprotein has the ability to be translated into reticulocyte forms and partially purified into heparin-agarose.</text>
+                    <arg n="0">selenoprotein</arg>
+                    <arg n="2">reticulocyte forms</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>selenoprotein that can be correctly translated into lysates reticulocytes are partially purified in heparin-astroosis.</text>
+                    <arg n="0">selenoprotein</arg>
+                    <arg n="2">lysates reticulocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>selenoprotein that will be translated into lysates reticulocytes of A1 clones (recombinant) bind the DNA with an indistinguishable specificity of ISGF3 gamma purified from HeLa cells.</text>
+                    <arg n="0">selenoprotein</arg>
+                    <arg n="2">lysates reticulocytes</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>More than 100 proteins and polypeptides included in the ArC/XylS family of prokaryotic positive transcriptional regulators are likely to be fully translated from a truncated C-terminal protein containing the first, second and third transmembrane domains.</text>
+                    <arg n="0">a truncated C-terminal protein containing the first, second and third transmembrane domains</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>More than 100 proteins and polypeptides included in the ArC/XylS family of prokaryotic transcriptional regulators may have been fully translated from a truncated C-terminal protein containing the first, second and third transmembranous domains.</text>
+                    <arg n="0">a truncated C-terminal protein containing the first, second and third transmembranous domains</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>More than 100 proteins and polypeptides that are included in the ArC/XylS family of prokaryotic positive transcriptional regulators are able to be translated completely from a C-terminal truncated protein containing the first, second and third transmembrane domains.</text>
+                    <arg n="0">a C-terminal truncated protein containing the first, second and third transmembrane domains</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>More than 100 proteins and polypeptides that are included in the ArC/XylS family of prokaryotic positive transcriptional regulators will be translated from a truncated C-terminal protein containing the first, second and third transmembrane domains.</text>
+                    <arg n="0">a truncated C-terminal protein containing the first, second and third transmembrane domains</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>The ArC/XylS family of prokaryotic positive transcriptional regulators includes more than 100 proteins and polypeptides that have been translated from a truncated C-terminal protein containing the first, second, and third transmembrane domains.</text>
+                    <arg n="0">a truncated C-terminal protein containing the first, second, and third transmembrane domains</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>a C-terminal truncated protein containing the first, second and third transmembrane domains is efficiently translated in the presence of terminal C SBP2, and as shown in Figure 6C no reader can be detected when the AUGA element is removed, indicating that the stimulatory effect is totally dependent on 3 UTR.</text>
+                    <arg n="0">a C-terminal truncated protein containing the first, second and third transmembrane domains</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>a truncated C-terminal protein containing the first, second and third transmembranous domains is likely to be translated efficiently in the presence of PAS-C, and as can be seen in Figure 6C, no reader can be detected when the AUGA element is removed, indicating that the stimulatory effect is totally dependent on 3 UTR.</text>
+                    <arg n="0">a truncated C-terminal protein containing the first, second and third transmembranous domains</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>open led frames will be translated into the presence of C-terminal SBP2, and as shown in Figure 6C no reader can be detected when the AUGA element is removed, indicating that the stimulatory effect is totally dependent on 3 UTR.</text>
+                    <arg n="0">open led frames</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

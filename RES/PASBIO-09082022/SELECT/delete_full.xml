@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="delete">
+            <roleset id="delete.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer mechanism&#x09;&#x09;&#x09;&#x09;// mutation, alternative splicing //&#x0A;" />
+                    <role n="1" descr="entity being removed&#x09;&#x09;&#x09;// exon, gene, chromosomal region, cell //&#x0A;" />
+                    <role n="2" descr="resultant product&#x09;&#x09;&#x09;// transcripts //&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Appropriate progenitor strains may now be constructed to delete virtually any chromosomal region by utilizing an extensive collection of lines containing single P element insertions throughout the Drosophila genome.</text>
+                    <arg n="0">Appropriate progenitor strains</arg>
+                    <arg n="1">any chromosomal region</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Colonies of C.albicans cells that can be deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">CST20</arg>
+                    <arg n="2">Colonies of C.albicans cells</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Exon 4 sequences may be deleted by alternative messenger RNA (mRNA) splicing, resulting in a mRNA that does not encode a functional IL-2 receptor.</text>
+                    <arg n="0">Alternative messenger RNA (mRNA) splicing</arg>
+                    <arg n="1">exon 4 sequences</arg>
+                    <arg n="M-MOD">may</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>However, the GATA-4 mutants deleting the C-terminal transactivition domain (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">C-terminal transactivition domain</arg>
+                    <arg n="2">the GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Of note, the V82F mutation, which occurs adjacent to the 5 donor site of intron 4, resulted in approximately 54% aberrantly spliced transcripts where exon 4 is deleted.</text>
+                    <arg n="1">exon 4</arg>
+                    <arg n="2">aberrantly spliced transcripts</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Of the splicing mutations, the IVS9 delta A+4 allele was alternatively spliced, approximately 26% being normal transcripts and the remainder where exon 9 has been deleted.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Of the splicing mutations, the IVS9 delta A+4 allele was alternatively spliced, approximately 26% being normal transcripts and the remainder where exon 9 was deleted.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>The reporter plasmids contained a shorter fragment of the ErbB-2 promoter with a functional (D: ErbB-2: S) or mutated ZONAB-binding site where D: ErbB-2: S-D is deleted (ErbB-2: S-A, substitution of the inverted CCAAT box).</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Study of the promoter-lacZ gene fusions introduced into the chromosome indicated that galS expression was elevated in cells in which the normal galS gene was interrupted, but not in cells in which the galR gene was deleted.</text>
+                    <arg n="1">the galR gene</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>From both the man and mouse we have isolated an alternative spliced form of Dmc1 cDNA (Dmc1-d), which is deleted for a region between the two motifs involved in nucleotide binding.</text>
+                    <arg n="1">an alternative spliced form of Dmc1 cDNA (Dmc1-d)</arg>
+                    <arg n="2">a region between the two motifs</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>By Appropriate progenitor strains, any chromosomal region was deleted to evaluate its function in vivo.</text>
+                    <arg n="0">Appropriate progenitor strains</arg>
+                    <arg n="1">any chromosomal region</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>By the development of other immunotherapeutic agents, cytotoxic lymphocyte responses was deleted to evaluate its function in vivo.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>By the development of other immunotherapeutic agents, cytotoxic lymphocyte responses will be deleted to evaluate its function in vivo.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>CST20 which deleted Colonies of C.albicans cells were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">Colonies of C.albicans cells</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Colonies of C.albicans cells being deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">CST20</arg>
+                    <arg n="2">Colonies of C.albicans cells</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Colonies of C.albicans cells being deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">CST20</arg>
+                    <arg n="2">Colonies of C.albicans cells</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Colonies of C.albicans cells that are deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">CST20</arg>
+                    <arg n="2">Colonies of C.albicans cells</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>D: ErbB-2: S-D being deleted for mutated ZONAB-binding site revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>D: ErbB-2: S-D that are deleted for mutated ZONAB-binding site revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>D: ErbB-2: S-D which are deleted for mutated ZONAB-binding site revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>However, CST20 that make the Colonies of C.albicans cells (1  332, 201  332) deleted were all unable to support MEF2 synergy.</text>
+                    <arg n="1">Colonies of C.albicans cells</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>However, The GATA-4 mutants being able to delete the the N-terminal region and the first zinc finger (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>However, The GATA-4 mutants being able to delete the the N-terminal region and the first zinc finger (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>However, The GATA-4 mutants deleting the the N-terminal region and the first zinc finger (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>However, The GATA-4 mutants which deleted the the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443) (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443)</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>However, mutated ZONAB-binding site which deleted the D: ErbB-2: S-D (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>However, strains being able to delete the micF locus (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">micF locus</arg>
+                    <arg n="2">strains</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>However, strains which can delete the micF locus (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">micF locus</arg>
+                    <arg n="2">strains</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>However, strains which deleted the micF locus (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">micF locus</arg>
+                    <arg n="2">strains</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>However, vectors being able to delete the the viral transcription elements (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">the viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>In Colonies of C.albicans cells, CST20 is deleted, and in ErbB-2: S-A the inverted CCAAT box is substituted.</text>
+                    <arg n="1">CST20</arg>
+                    <arg n="2">Colonies of C.albicans cells</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>In mutated ZONAB-binding site, D: ErbB-2: S-D is deleted, and in ErbB-2: S-A the inverted CCAAT box is substituted.</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>In strains, micF locus has been deleted, and in ErbB-2: S-A the inverted CCAAT box has been substituted.</text>
+                    <arg n="1">micF locus</arg>
+                    <arg n="2">strains</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>In the presence of the phage P1 cyclization recombinase cre, antigen-loaded immature DCs may delete T cells.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>In the presence of the phage P1 cyclization recombinase cre, antigen-loaded immature DCs may delete T cells.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>In the presence of the phage P1 cyclization recombinase cre, micF locus can delete strains.</text>
+                    <arg n="0">micF locus</arg>
+                    <arg n="1">strains</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>In the presence of the phage P1 cyclization recombinase cre, the development of other immunotherapeutic agents can delete cytotoxic lymphocyte responses.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>Recent experiments have provided direct evidence that Appropriate progenitor strains delete any chromosomal region or by expanding regulatory T cells.</text>
+                    <arg n="0">Appropriate progenitor strains</arg>
+                    <arg n="1">any chromosomal region</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>Recent experiments have provided direct evidence that the development of other immunotherapeutic agents will delete cytotoxic lymphocyte responses to silence them.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>Studies with T cells which will be deleted for the antigen-loaded immature DCs showed that the marA-dependent reduction of OmpF required an intact micF locus.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>Studies with cytotoxic lymphocyte responses which are deleted for the the development of other immunotherapeutic agents showed that the marA-dependent reduction of OmpF required an intact micF locus.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>Studies with vectors deleted for the the viral transcription elements showed that the marA-dependent reduction of OmpF required an intact micF locus.</text>
+                    <arg n="1">the viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>Study of the promoter-lacZ gene fusions introduced into the chromosome indicated that galS expression was elevated in cells in which the normal galS gene was interrupted, but not in cells in which the N-terminal region and the first zinc finger has been deleted.</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>The ZONAB binding is deleted in the GATA-4 mutants, and in ErbB-2: S-A the inverted CCAAT box is substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">the GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>The ZONAB binding will be deleted in strains, and in ErbB-2: S-A the inverted CCAAT box will be substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">strains</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>The ZONAB binding will be deleted in vectors, and in ErbB-2: S-A the inverted CCAAT box will be substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>The generation of replication-competent virus is considered less likely with CST20 which delete Colonies of C.albicans cells.</text>
+                    <arg n="1">Colonies of C.albicans cells</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>The generation of replication-competent virus is considered less likely with CST20 which that delete Colonies of C.albicans cells.</text>
+                    <arg n="1">Colonies of C.albicans cells</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>The generation of replication-competent virus is considered less likely with The GATA-4 mutants that deleted the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443).</text>
+                    <arg n="1">the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443)</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>The generation of replication-competent virus is considered less likely with The GATA-4 mutants that deleted the N-terminal region and the first zinc finger.</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>The generation of replication-competent virus is considered less likely with mutated ZONAB-binding site that delete D: ErbB-2: S-D.</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>The generation of replication-competent virus is considered less likely with plasmid ErbB-2: S-D deleting the ZONAB binding.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">plasmid ErbB-2: S-D</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>The generation of replication-competent virus is considered less likely with plasmid ErbB-2: S-D that delete the ZONAB binding.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">plasmid ErbB-2: S-D</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>The propensity of the development of other immunotherapeutic agents which delete cytotoxic lymphocyte responses has provided positional information that has allowed us to identify a gene necessary for cytoadherence.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>The propensity of the development of other immunotherapeutic agents which delete cytotoxic lymphocyte responses has provided positional information that has allowed us to identify a gene necessary for cytoadherence.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Thus, this granule enzyme is required for the unique effects of Leu-Leu-OMe and may provide a target for antigen-loaded immature DCs designed to delete T cells.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Using homologous recombination in mouse embryonic stem cells deletes a segment of chromosome 9 to evaluate its function in vivo.</text>
+                    <arg n="0">using homologous recombination in mouse embryonic stem cells</arg>
+                    <arg n="1">a segment of chromosome 9</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>micF locus which can be deleted for strains revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">micF locus</arg>
+                    <arg n="2">strains</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>mutated ZONAB-binding site which can delete D: ErbB-2: S-D were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>plasmid ErbB-2: S-D that delete the ZONAB binding were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">plasmid ErbB-2: S-D</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>the N-terminal region and the first zinc finger which were deleted for The GATA-4 mutants revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>the viral transcription elements being deleted for vectors revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">the viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>the viral transcription elements being deleted for vectors revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">the viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>using homologous recombination in mouse embryonic stem cells will be constructed to delete virtually the headpiece domain of dematin by utilizing an extensive collection of lines containing single P element insertions throughout the Drosophila genome.</text>
+                    <arg n="0">using homologous recombination in mouse embryonic stem cells</arg>
+                    <arg n="1">the headpiece domain of dematin</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>By Alternative messenger RNA (mRNA) splicing, exon 4 sequences is deleted to evaluate its function in vivo.</text>
+                    <arg n="0">Alternative messenger RNA (mRNA) splicing</arg>
+                    <arg n="1">exon 4 sequences</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>However, a single transcript that make the exon 2 (1  332, 201  332) deleted were all unable to support MEF2 synergy.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcript</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>However, a single transcript which deleted the exon 2 (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcript</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>However, rpoS deleting the strain of E. coli that emits very low levels of luminescence (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">strain of E. coli that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>However, rpoS that delete the strain of E. coli that emits very low levels of luminescence (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">strain of E. coli that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>However, rpoS which can delete the strain of E. coli that emits very low levels of luminescence (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">strain of E. coli that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>However, strain of E. coli that emits very low levels of luminescence which can delete the rpoS (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">rpoS</arg>
+                    <arg n="2">strain of E. coli that emits very low levels of luminescence</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>However, transcripts deleting the exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>In a region between the two motifs, an alternative spliced form of Dmc1 cDNA (Dmc1-d) has been deleted, and in ErbB-2: S-A the inverted CCAAT box has been substituted.</text>
+                    <arg n="1">an alternative spliced form of Dmc1 cDNA (Dmc1-d)</arg>
+                    <arg n="2">a region between the two motifs</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>In rpoS, strain of E. coli that emits very low levels of luminescence has been deleted, and in ErbB-2: S-A the inverted CCAAT box has been substituted.</text>
+                    <arg n="1">strain of E. coli that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>In transcripts, exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) is deleted, and in ErbB-2: S-A the inverted CCAAT box is substituted.</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>In transcripts, exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) was deleted, and in ErbB-2: S-A the inverted CCAAT box was substituted.</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Recent experiments have provided direct evidence that Alternative messenger RNA (mRNA) splicing deleted exon 4 sequences to silence them.</text>
+                    <arg n="0">Alternative messenger RNA (mRNA) splicing</arg>
+                    <arg n="1">exon 4 sequences</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Studies with transcripts deleted for the exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) showed that the marA-dependent reduction of OmpF required an intact micF locus.</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>The ZONAB binding is deleted in rpoS, and in ErbB-2: S-A the inverted CCAAT box is substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>The ZONAB binding was deleted in rpoS, and in ErbB-2: S-A the inverted CCAAT box was substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>The ZONAB binding was deleted in strain of E. coli that emits very low levels of luminescence, and in ErbB-2: S-A the inverted CCAAT box was substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">strain of E. coli that emits very low levels of luminescence</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>The ZONAB binding will be deleted in transcripts, and in ErbB-2: S-A the inverted CCAAT box will be substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>The generation of replication-competent virus is considered less likely with a single transcript that deleted exon 2.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcript</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>The generation of replication-competent virus is considered less likely with a single transcript which that delete exon 2.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcript</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>The generation of replication-competent virus is considered less likely with aberrantly spliced transcripts that deleted exon 4.</text>
+                    <arg n="1">exon 4</arg>
+                    <arg n="2">aberrantly spliced transcripts</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>The generation of replication-competent virus is considered less likely with the remainder deleting exon 9.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>The generation of replication-competent virus is considered less likely with transcripts that delete exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt).</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>The reporter plasmids contained a shorter fragment of the ErbB-2 promoter with a functional (D: ErbB-2: S) or a region between the two motifs (an alternative spliced form of Dmc1 cDNA (Dmc1-d), being deleted; ErbB-2: S-A, substitution of the inverted CCAAT box).</text>
+                    <arg n="1">an alternative spliced form of Dmc1 cDNA (Dmc1-d)</arg>
+                    <arg n="2">a region between the two motifs</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>The reporter plasmids contained a shorter fragment of the ErbB-2 promoter with a functional (D: ErbB-2: S) or rpoS (strain of E. coli that emits very low levels of luminescence, being deleted; ErbB-2: S-A, substitution of the inverted CCAAT box).</text>
+                    <arg n="1">strain of E. coli that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>Using homologous recombination in mouse embryonic stem cells will delete exon 4 sequences to evaluate its function in vivo.</text>
+                    <arg n="0">using homologous recombination in mouse embryonic stem cells</arg>
+                    <arg n="1">exon 4 sequences</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>a single transcript which exon 2 deleted revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcript</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>aberrantly spliced transcripts which were deleted for exon 4 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">exon 4</arg>
+                    <arg n="2">aberrantly spliced transcripts</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>exon 4 which aberrantly spliced transcripts deleted revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">exon 4</arg>
+                    <arg n="2">aberrantly spliced transcripts</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>exon 9 that are deleted for the remainder revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>exon 9 which can be deleted for the remainder revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>rpoS that delete strain of E. coli that emits very low levels of luminescence (242 8211; 443) were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">strain of E. coli that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>rpoS which deleted strain of E. coli that emits very low levels of luminescence were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">strain of E. coli that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>strain of E. coli that emits very low levels of luminescence that delete rpoS were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">rpoS</arg>
+                    <arg n="2">strain of E. coli that emits very low levels of luminescence</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>the remainder that are deleted for exon 9 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>transcripts that can be deleted for exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="REPLACE" no="37">
+                    <text>transcripts which are deleted for exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

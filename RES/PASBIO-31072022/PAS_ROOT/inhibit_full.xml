@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="inhibit">
+            <roleset id="inhibit.01" name="" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent&#x0A;" />
+                    <role n="1" descr="the entity being inhibited by agent to get binding&#x0A;" />
+                    <role n="2" descr="the action or property being inhibited&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="1">
+                    <text>This synthetic peptide bound to P and inhibited its binding to C3b.</text>
+                    <arg n="0">This synthetic peptide</arg>
+                    <arg n="1">P</arg>
+                    <arg n="2">its binding to C3b</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>PDE4C is one of four mammalian genes that encode multiple PDE4 cyclic AMP-specific phosphodiesterase isoforms that are inhibited by rolipram.</text>
+                    <arg n="0">rolipram</arg>
+                    <arg n="1">multiple PDE4 cyclic AMP-specific phosphodiesterase isoforms</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>Nitric oxide (NO) activates the soluble isoform of guanylate cyclase in platelets and inhibits platelet function.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="MEDLINE" no="4">
+                    <text>Natural killer (NK) cells express cell-surface receptors of the immunoglobulin and C-type lectin superfamilies that recognize major histocompatibility complex (MHC) class I peptides and inhibit NK-cell-mediated cytotoxicity.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="MEDLINE" no="5">
+                    <text>Transient overexpression in COS cells verified that a heat-stable inhibitor of protein kinase was produced by he human PKI cDNA, and protein extracts from the transfected COS cells inhibited both the C alpha and C beta isoforms of the PKA catalytic subunit with equal efficacy.</text>
+                    <arg n="0">protein extracts from the transfected COS cells</arg>
+                    <arg n="1">both the C alpha and C beta isoforms of the PKA catalytic subunit</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Here, we have found that the downregulation of phosphorylated Stat4, Stat5 and Stat6 is inhibited by the proteasome inhibitors MG132 and lactacystin, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 is not sensitive to these inhibitors.</text>
+                    <arg n="0">proteasome inhibitors MG132 and lactacystin</arg>
+                    <arg n="2">the downregulation of phosphorylated Stat4, Stat5 and Stat6</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>For example, the phosphatase may associate with another protein and thereby be inhibited in its function or localization.</text>
+                    <arg n="0">another protein</arg>
+                    <arg n="1">the phosphatase</arg>
+                    <arg n="2">its function or localization</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>The N-terminal SH3 domain (SH3A), unlike other SH3 domains from intersectin or various endocytic proteins, specifically inhibits intermediate events leading to the formation of clathrin-coated pits.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="EMBO" no="*4">
+                    <text>Intriguingly, while the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I, selectively inhibit late events of clathrin-coated vesicle formation involving membrane fission, intersectin SH3A was unique in its ability to block earlier stages (Simpson et al., 1999).</text>
+                    <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I</arg>
+                    <arg n="2">late events of clathrin-coated vesicle formation</arg>
+                </example>
+                <example src="EMBO" no="5">
+                    <text>The half-life of the AGT proteins was determined by growing cells at 37 C in LB broth supplemented with 50 mg/ml ampicillin, 50 mg/ml kanamycin and 0.2 mM IPTG until the A600 reached 0.3 and then treating them with 50 mg/ml chloramphenicol to inhibit protein synthesis.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="EMBO" no="6">
+                    <text>Binding was concentration dependent and saturable and was totally inhibited with 10mM EDTA, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">10mM EDTA</arg>
+                    <arg n="2">Binding</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="mutate">
+<roleset id="Mutate.01" name="" wordnet="1">
+<roles>
+<role n="0" descr="physical location where mutation happen// exon, intron //
+"/>
+<role n="1" descr="mutated entity   // gene //
+"/>
+<role n="2" descr="changes at molecular level/* always use prepositional phrase */
+"/>
+<role n="3" descr="changes at phenotype level /* secondary predication */  
+"/>
+</roles>
+<example src="MEDLINE" no="*1">
+<text>
+The exon 5 mutated allele with the premature translation termination and resulted in severe deficiency of Hex A.
+
+</text>
+<arg n="0">exon 5
+</arg>
+<arg n="1">allele
+</arg>
+<arg n="2">the premature translation termination
+</arg>
+<arg n="3">severe deficiency of Hex A
+</arg>
+<fdg>
+<line>1Thethe@DN&gt; %&gt;N DET
+</line>
+<line>2exonexon@NH %NH N NOM SG@SUBJ %NH N NOM SG@A&gt; %&gt;N N NOM SG
+</line>
+<line>355@NH %NH NUM CARD@SUBJ %NH NUM CARD@OBJ %NH NUM CARD@QN&gt; %&gt;N NUM CARD@A&gt; %&gt;N NUM CARD@&lt;NOM %N&lt; NUM CARD@ADVL %EH NUM CARD
+</line>
+<line>4mutatedmutated@A&gt; %&gt;N A ABS@+FMAINV %VA V PAST
+</line>
+<line>5alleleallele@NH %NH N NOM SG@OBJ %NH N NOM SG
+</line>
+<line>6withwithmod:&gt;5@&lt;NOM %N&lt; PREP
+</line>
+<line>7thethedet:&gt;10@DN&gt; %&gt;N DET
+</line>
+<line>8prematureprematureattr:&gt;9@A&gt; %&gt;N A ABS
+</line>
+<line>9translationtranslationattr:&gt;10@A&gt; %&gt;N N NOM SG
+</line>
+<line>10terminationterminationpcomp:&gt;6@&lt;P %NH N NOM SG
+</line>
+<line>11resultedresultmod:&gt;10@-FMAINV %VP EN
+</line>
+<line>12ininphr:&gt;11@ADVL %EH PREP
+</line>
+<line>13severesevereattr:&gt;14@A&gt; %&gt;N A ABS
+</line>
+<line>14deficiencydeficiencypcomp:&gt;12@&lt;P %NH N NOM SG
+</line>
+<line>15ofofmod:&gt;14@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>16Hexhexattr:&gt;17@A&gt; %&gt;N N NOM SG
+</line>
+<line>17Aapcomp:&gt;15@&lt;P %NH ABBR NOM SG
+</line>
+<line>18..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="*2">
+<text>
+The gene mutated in variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and nclf mutant mice encodes a novel predicted transmembrane protein.
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">gene
+</arg>
+<arg n="2">variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and nclf mutant mice
+</arg>
+<arg n="3">a novel predicted transmembrane protein
+</arg>
+<fdg>
+<line>         1Thethedet:&gt;2@DN&gt; %&gt;N DET
+</line>
+<line>         2genegenesubj:&gt;18@SUBJ %NH N NOM SG
+</line>
+<line>         3mutatedmutatemod:&gt;2@-FMAINV %VP EN
+</line>
+<line>         4ininha:&gt;3@ADVL %EH PREP
+</line>
+<line>         5variantvariantattr:&gt;6@A&gt; %&gt;N N NOM SG
+</line>
+<line>         6late-infantilelate-infantilepcomp:&gt;4@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+<line>         7neuronalneuronalattr:&gt;8@A&gt; %&gt;N A ABS
+</line>
+<line>         8ceroidceroidattr:&gt;9@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+<line>         9lipofuscinosislipofuscinosisobj:&gt;3@OBJ %NH &lt;?&gt; N NOM
+</line>
+<line>         10((
+</line>
+<line>         11CLN6cln6mod:&gt;9@NH %NH N NOM SG
+</line>
+<line>         12))
+</line>
+<line>         13andandcc:&gt;4@CC %CC CC
+</line>
+<line>         14inincc:&gt;4@ADVL %EH PREP
+</line>
+<line>         15nclfnclfattr:&gt;16@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+<line>         16mutantmutantattr:&gt;17@A&gt; %&gt;N N NOM SG
+</line>
+<line>         17micemousepcomp:&gt;14@&lt;P %NH N NOM PL
+</line>
+<line>         18encodesencodemain:&gt;0@+FMAINV %VA V PRES SG3
+</line>
+<line>         19aadet:&gt;23@DN&gt; %&gt;N DET SG
+</line>
+<line>         20novelnovelattr:&gt;21@A&gt; %&gt;N A ABS
+</line>
+<line>         21predictedpredictedattr:&gt;22@A&gt; %&gt;N A ABS
+</line>
+<line>         22transmembranetransmembraneattr:&gt;23@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+<line>         23proteinproteinobj:&gt;18@OBJ %NH N NOM SG
+</line>
+<line>         24..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="*3">
+<text>
+Transient expression of the exon 8 mutated alpha-chain cDNA in COS-1 cells resulted in deficiency of enzymatic activity.
+
+</text>
+<arg n="0">exon 8
+</arg>
+<arg n="1">alpha-chain cDNA in COS-1 cells
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">deficiency of enzymatic activity
+</arg>
+<fdg>
+<line>         1Transienttransientattr:&gt;2@A&gt; %&gt;N A ABS
+</line>
+<line>         2expressionexpression@NH %NH N NOM SG@SUBJ %NH N NOM SG
+</line>
+<line>         3ofofmod:&gt;2@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>         4thethe@DN&gt; %&gt;N DET
+</line>
+<line>         5exonexon@A&gt; %&gt;N N NOM SG@&lt;P %NH N NOM SG
+</line>
+<line>         688@NH %NH NUM CARD@SUBJ %NH NUM CARD@&lt;P %NH NUM CARD@QN&gt; %&gt;N NUM CARD@A&gt; %&gt;N NUM CARD@&lt;NOM %N&lt; NUM CARD@ADVL %EH NUM CARD
+</line>
+<line>         7mutatedmutated@A&gt; %&gt;N A ABS@+FMAINV %VA V PAST
+</line>
+<line>         8alpha-chainalpha-chainattr:&gt;9@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+<line>         9cDNAcdna@OBJ %NH ABBR NOM SG@&lt;P %NH ABBR NOM SG@NH %NH ABBR NOM SG
+</line>
+<line>         10ininmod:&gt;9@&lt;NOM %N&lt; PREP
+</line>
+<line>         11COS-1cos-1attr:&gt;12@A&gt; %&gt;N N NOM SG
+</line>
+<line>         12cellscellpcomp:&gt;10@&lt;P %NH N NOM PL
+</line>
+<line>         13resultedresultmod:&gt;12@-FMAINV %VP EN
+</line>
+<line>         14ininphr:&gt;13@ADVL %EH PREP
+</line>
+<line>         15deficiencydeficiencypcomp:&gt;14@&lt;P %NH N NOM SG
+</line>
+<line>         16ofofmod:&gt;15@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>         17enzymaticenzymaticattr:&gt;18@A&gt; %&gt;N A ABS
+</line>
+<line>         18activityactivitypcomp:&gt;16@&lt;P %NH N NOM SG
+</line>
+<line>         19..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+To determine how activators interact with the complex and to examine the importance of these interactions, relative to other potential targeting mechanisms, for SWI/SNF function, we sought to identify and mutate the activator-interaction domains in the complex.
+
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">the activator-interaction domains in the complex
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">-
+</arg>
+<fdg>
+<line>1Totopm:&gt;2@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+<line>2determinedeterminecnt:&gt;30@-FMAINV %VA V INF
+</line>
+<line>3howhowman:&gt;5@ADVL %EH ADV WH
+</line>
+<line>4activatorsactivatorsubj:&gt;5@SUBJ %NH N NOM PL
+</line>
+<line>5interactinteractobj:&gt;2@+FMAINV %VA V PRES
+</line>
+<line>6withwithphr:&gt;5@ADVL %EH PREP
+</line>
+<line>7thethedet:&gt;8@DN&gt; %&gt;N DET
+</line>
+<line>8complexcomplexpcomp:&gt;6@&lt;P %NH A ABS
+</line>
+<line>9andandcc:&gt;2@CC %CC CC
+</line>
+<line>10totopm:&gt;11@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+<line>11examineexaminecc:&gt;2@-FMAINV %VA V INF
+</line>
+<line>12thethedet:&gt;13@DN&gt; %&gt;N DET
+</line>
+<line>13importanceimportanceobj:&gt;11@OBJ %NH N NOM SG
+</line>
+<line>14ofofmod:&gt;13@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>15thesethisdet:&gt;16@DN&gt; %&gt;N DET DEM PL
+</line>
+<line>16interactionsinteractionpcomp:&gt;14@&lt;P %NH N NOM PL
+</line>
+<line>17,,
+</line>
+<line>18relativerelativemod:&gt;16@APP %NH A ABS
+</line>
+<line>19totomod:&gt;18@&lt;NOM %N&lt; PREP
+</line>
+<line>20otherotherdet:&gt;23@DN&gt; %&gt;N DET
+</line>
+<line>21potentialpotentialattr:&gt;22@A&gt; %&gt;N A ABS
+</line>
+<line>22targetingtargetingattr:&gt;23@A&gt; %&gt;N A ABS
+</line>
+<line>23mechanismsmechanismpcomp:&gt;19@&lt;P %NH N NOM PL
+</line>
+<line>24,,
+</line>
+<line>25forfor@CS %CS CS@ADVL %EH PREP
+</line>
+<line>26SWI/SNFswi/snfattr:&gt;27@A&gt; %&gt;N N NOM SG
+</line>
+<line>27functionfunction@SUBJ %NH N NOM SG@OBJ %NH N NOM SG@&lt;P %NH N NOM SG
+</line>
+<line>28,,
+</line>
+<line>29wewesubj:&gt;30@SUBJ %NH PRON PERS NOM PL1
+</line>
+<line>30soughtseekmain:&gt;0@+FMAINV %VA V PAST
+</line>
+<line>31totopm:&gt;32@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+<line>32identifyidentifyobj:&gt;30@-FMAINV %VA V INF
+</line>
+<line>33andandcc:&gt;32@CC %CC CC
+</line>
+<line>34mutatemutatecc:&gt;32@-FMAINV %VA V INF
+</line>
+<line>35thethedet:&gt;37@DN&gt; %&gt;N DET
+</line>
+<line>36activator-interactionactivator-interactionattr:&gt;37@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+<line>37domainsdomainobj:&gt;34@OBJ %NH N NOM PL
+</line>
+<line>38ininloc:&gt;34@ADVL %EH PREP
+</line>
+<line>39thethedet:&gt;40@DN&gt; %&gt;N DET
+</line>
+<line>40complexcomplexpcomp:&gt;38@&lt;P %NH A ABS
+</line>
+<line>41..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+RCA is comprised of two major steps: (i) identifying pairs of residue positions that mutate in a coordinated manner, and (ii) using these results to identify protein regions that interact with an uncommonly high number of other residues.
+
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">pairs of residue positions
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">-
+</arg>
+<fdg>
+<line>2RCArcasubj:&gt;3@SUBJ %NH ABBR NOM SG
+</line>
+<line>3isbev-ch:&gt;4@+FAUXV %AUX V PRES SG3
+</line>
+<line>4comprisedcomprise@-FMAINV %VP EN
+</line>
+<line>5ofofha:&gt;4@ADVL %EH PREP
+</line>
+<line>6twotwoqn:&gt;8@QN&gt; %&gt;N NUM CARD
+</line>
+<line>7majormajorattr:&gt;8@A&gt; %&gt;N A ABS
+</line>
+<line>8stepssteppcomp:&gt;5@&lt;P %NH N NOM PL
+</line>
+<line>9::
+</line>
+<line>10((
+</line>
+<line>11ii@SUBJ %NH PRON PERS NOM SG1
+</line>
+<line>12))
+</line>
+<line>13identifyingidentify@&lt;P-FMAINV %VA ING@-FMAINV %VA ING
+</line>
+<line>14pairspairobj:&gt;13@OBJ %NH N NOM PL
+</line>
+<line>15ofofmod:&gt;14@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>16residueresidueattr:&gt;17@A&gt; %&gt;N N NOM SG
+</line>
+<line>17positionspositionpcomp:&gt;15@&lt;P %NH N NOM PL
+</line>
+<line>18thatthatsubj:&gt;19@SUBJ %NH &lt;Rel&gt; PRON
+</line>
+<line>19mutatemutatemod:&gt;17@+FMAINV %VA V PRES
+</line>
+<line>20ininloc:&gt;19@ADVL %EH PREP
+</line>
+<line>21aadet:&gt;23@DN&gt; %&gt;N DET SG
+</line>
+<line>22coordinatedcoordinatedattr:&gt;23@A&gt; %&gt;N A ABS
+</line>
+<line>23mannermannerpcomp:&gt;20@&lt;P %NH N NOM SG
+</line>
+<line>24,,
+</line>
+<line>25andand@CC %CC CC
+</line>
+<line>26((
+</line>
+<line>27iiii@ADVL %EH NUM ORD
+</line>
+<line>28))
+</line>
+<line>29usinguse@&lt;P-FMAINV %VA ING@-FMAINV %VA ING
+</line>
+<line>30thesethisdet:&gt;31@DN&gt; %&gt;N DET DEM PL
+</line>
+<line>31resultsresultobj:&gt;29@OBJ %NH N NOM PL
+</line>
+<line>32totopm:&gt;33@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+<line>33identifyidentifymod:&gt;31@-FMAINV %VA V INF
+</line>
+<line>34proteinproteinattr:&gt;35@A&gt; %&gt;N N NOM SG
+</line>
+<line>35regionsregionobj:&gt;33@OBJ %NH N NOM PL
+</line>
+<line>36thatthatsubj:&gt;37@SUBJ %NH &lt;Rel&gt; PRON
+</line>
+<line>37interactinteractmod:&gt;35@+FMAINV %VA V PRES
+</line>
+<line>38withwithphr:&gt;37@ADVL %EH PREP
+</line>
+<line>39anandet:&gt;42@DN&gt; %&gt;N DET SG
+</line>
+<line>40uncommonlyuncommonlyad:&gt;41@AD-A&gt; %E&gt; ADV
+</line>
+<line>41highhighattr:&gt;42@A&gt; %&gt;N A ABS
+</line>
+<line>42numbernumberpcomp:&gt;38@&lt;P %NH N NOM
+</line>
+<line>43ofofmod:&gt;42@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>44otherotherdet:&gt;45@DN&gt; %&gt;N DET
+</line>
+<line>45residuesresiduepcomp:&gt;43@&lt;P %NH N NOM PL
+</line>
+<line>46..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="6">
+<text>
+This epitope, which is HLA-A2 restricted, includes two amino acids that commonly mutate (V82A and I84V) in the face of protease inhibitor therapy.
+
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">two amino acids 
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">the face of protease inhibitor therapy
+</arg>
+<fdg>
+<line>1Thisthisdet:&gt;2@DN&gt; %&gt;N DET DEM SG
+</line>
+<line>2epitopeepitopesubj:&gt;9@SUBJ %NH &lt;?&gt; N NOM SG
+</line>
+<line>3,,
+</line>
+<line>4whichwhich@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+<line>5isbev-ch:&gt;7@+FAUXV %AUX V PRES SG3
+</line>
+<line>6HLA-A2hla-a2subj:&gt;5@SUBJ %NH N NOM SG
+</line>
+<line>7restrictedrestrictmod:&gt;2@-FMAINV %VP EN
+</line>
+<line>8,,
+</line>
+<line>9includesincludemain:&gt;0@+FMAINV %VA V PRES SG3
+</line>
+<line>10twotwoqn:&gt;12@QN&gt; %&gt;N NUM CARD
+</line>
+<line>11aminoaminoattr:&gt;12@A&gt; %&gt;N N NOM SG
+</line>
+<line>12acidsacidobj:&gt;9@OBJ %NH N NOM PL
+</line>
+<line>13thatthatsubj:&gt;15@SUBJ %NH &lt;Rel&gt; PRON
+</line>
+<line>14commonlycommonlyman:&gt;15@ADVL %EH ADV
+</line>
+<line>15mutatemutatemod:&gt;12@+FMAINV %VA V PRES
+</line>
+<line>16((
+</line>
+<line>17V82Av82aobj:&gt;15@OBJ %NH N NOM SG
+</line>
+<line>18andandcc:&gt;17@CC %CC CC
+</line>
+<line>19I84V)i84v)cc:&gt;17@OBJ %NH N NOM SG
+</line>
+<line>20ininloc:&gt;15@ADVL %EH PREP
+</line>
+<line>21thethedet:&gt;22@DN&gt; %&gt;N DET
+</line>
+<line>22facefacepcomp:&gt;20@&lt;P %NH N NOM SG
+</line>
+<line>23ofofmod:&gt;22@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>24proteaseproteaseattr:&gt;25@A&gt; %&gt;N N NOM SG
+</line>
+<line>25inhibitorinhibitorattr:&gt;26@A&gt; %&gt;N N NOM SG
+</line>
+<line>26therapytherapypcomp:&gt;23@&lt;P %NH N NOM SG
+</line>
+<line>27..
+</line>
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Groucho binding was, however, abolished by mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid (Jimnez et al., 1999).
+
+</text>
+<arg n="0">a conserved phenylalanine
+</arg>
+<arg n="1">the eh1/GEH sequence
+</arg>
+<arg n="2">glutamic acid
+</arg>
+<arg n="3">-
+</arg>
+</example>
+<example src="EMBO" no="*2">
+<text>
+Phosphorylation of PDK1 was not altered by treating the cells with insulin-like growth factor-I and four of the sites could be mutated without loss of activity.  
+
+</text>
+<arg n="0">four of the sites
+</arg>
+<arg n="1">-
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">-
+</arg>
+<fdg>
+<line/>
+<line>1Phosphorylationphosphorylationsubj:&gt;4@SUBJ %NH N NOM SG
+</line>
+<line>2ofofmod:&gt;1@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>3PDK1pdk1pcomp:&gt;2@&lt;P %NH N NOM SG
+</line>
+<line>4wasbev-ch:&gt;6@+FAUXV %AUX V PAST
+</line>
+<line>5notnotneg:&gt;4@ADVL %EH NEG-PART
+</line>
+<line>6alteredalter@-FMAINV %VP EN
+</line>
+<line>7bybyman:&gt;6@ADVL %EH PREP
+</line>
+<line>8treatingtreatpcomp:&gt;7@&lt;P-FMAINV %VA ING
+</line>
+<line>9thethedet:&gt;10@DN&gt; %&gt;N DET
+</line>
+<line>10cellscellobj:&gt;8@OBJ %NH N NOM PL
+</line>
+<line>11withwith@&lt;NOM %N&lt; PREP@ADVL %EH PREP
+</line>
+<line>12insulin-likeinsulin-likeattr:&gt;13@A&gt; %&gt;N A ABS
+</line>
+<line>13growthgrowthattr:&gt;14@A&gt; %&gt;N N NOM SG
+</line>
+<line>14factor-Ifactor-ipcomp:&gt;11@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+<line>15andandcc:&gt;14@CC %CC CC
+</line>
+<line>16fourfourcc:&gt;14@&lt;P %NH NUM CARD
+</line>
+<line>17ofofmod:&gt;16@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>18thethedet:&gt;19@DN&gt; %&gt;N DET
+</line>
+<line>19sitessitepcomp:&gt;17@&lt;P %NH N NOM PL
+</line>
+<line>20couldcouldv-ch:&gt;21@+FAUXV %AUX V AUXMOD
+</line>
+<line>21bebev-ch:&gt;22@-FAUXV %AUX V INF
+</line>
+<line>22mutatedmutate@-FMAINV %VP EN
+</line>
+<line>23withoutwithoutha:&gt;22@ADVL %EH PREP
+</line>
+<line>24losslosspcomp:&gt;23@&lt;P %NH N NOM SG
+</line>
+<line>25ofofmod:&gt;24@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>26activityactivitypcomp:&gt;25@&lt;P %NH N NOM SG
+</line>
+<line>27..
+</line>
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+The DNA-binding mutant(Stat5aEE-AA) of Stat5a was generated by mutating amino acids EE(437 and 438) to AA. 
+
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">amino acids EE(437 and 438)
+</arg>
+<arg n="2">AA
+</arg>
+<arg n="3">The DNA-binding mutant(Stat5aEE-AA) of Stat5a
+</arg>
+<fdg>
+<line>1Thethedet:&gt;3@DN&gt; %&gt;N DET
+</line>
+<line>2DNA-bindingdna-bindingattr:&gt;3@A&gt; %&gt;N N NOM SG
+</line>
+<line>3mutantmutantsubj:&gt;9@SUBJ %NH N NOM SG
+</line>
+<line>4((
+</line>
+<line>5Stat5aEE-AAstat5aee-aamod:&gt;3@NH %NH &lt;?&gt; N NOM SG
+</line>
+<line>6))
+</line>
+<line>7ofofmod:&gt;5@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>8Stat5astat5apcomp:&gt;7@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+<line>9wasbev-ch:&gt;10@+FAUXV %AUX V PAST
+</line>
+<line>10generatedgeneratemain:&gt;0@-FMAINV %VP EN
+</line>
+<line>11bybyman:&gt;10@ADVL %EH PREP
+</line>
+<line>12mutatingmutatepcomp:&gt;11@&lt;P-FMAINV %VA ING
+</line>
+<line>13aminoaminoattr:&gt;14@A&gt; %&gt;N N NOM SG
+</line>
+<line>14acidsacidattr:&gt;15@A&gt; %&gt;N N NOM PL
+</line>
+<line>15EE(437ee(437obj:&gt;12@OBJ %NH N NOM SG
+</line>
+<line>16andandcc:&gt;15@CC %CC CC
+</line>
+<line>17438438cc:&gt;15@OBJ %NH NUM CARD
+</line>
+<line>18))
+</line>
+<line>19toto@ADVL %EH PREP
+</line>
+<line>20AAaapcomp:&gt;19@&lt;P %NH ABBR NOM SG
+</line>
+<line>21..
+</line>
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+The template fragments were mutated by the sequence of SAP97 RAT, accession No.Q62696, using the program Swiss PDB Viewer (Guex and Peitsch, 1997).
+
+</text>
+<arg n="0">The template fragments
+</arg>
+<arg n="1">the sequence of SAP97 RAT
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">-
+</arg>
+</example>
+<example src="EMBO" no="*5">
+<text>
+In contrast, mutating the C-terminal MAP kinase sites (T235 and T239) essentially leads to abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift (Figure 5C, lanes 7 and 8).
+
+</text>
+<arg n="0">the C-terminal MAP kinase sites (T235 and T239)
+</arg>
+<arg n="1">-
+</arg>
+<arg n="2">abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift
+</arg>
+<arg n="3">-
+</arg>
+</example>
+</roleset>
+</predicate>
+</frameset>

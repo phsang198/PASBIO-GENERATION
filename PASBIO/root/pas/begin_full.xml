@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="begin">
+<roleset id="begin.01" name="start existing" wordnet="2">
+<roles>
+  <role n="1" descr="theme"/>
+  <role n="2" descr="start point of occurence"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+On the other hand, the only transcript beginning at exon 1a was observed in normal cells.
+
+</text>
+       <arg n="1">the only transcript
+</arg>
+       <arg n="2">at exon 1a
+</arg>
+<fdg>
+1	On	on		@ADVL %EH PREP
+2	the	the	det:&gt;4	@DN&gt; %&gt;N DET
+3	other	other	attr:&gt;4	@DN&gt; %&gt;N DET
+4	hand	hand	pcomp:&gt;1	@&lt;P %NH N NOM SG
+5	,	,
+6	the	the		@DN&gt; %&gt;N DET
+7	only	only	attr:&gt;8	@A&gt; %&gt;N A ABS
+8	transcript	transcript		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+9	beginning	beginning		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG	@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING
+10	at	at		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+11	exon	exon	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	1a	1a	subj:&gt;13	@SUBJ %NH NUM CARD
+13	was	be	v-ch:&gt;14	@+FAUXV %AUX V PAST
+14	observed	observe		@-FMAINV %VP EN
+15	in	in	loc:&gt;14	@ADVL %EH PREP
+16	normal	normal	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	cells	cell	pcomp:&gt;15	@&lt;P %NH N NOM PL
+18	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+The electron density of each of the four copies of the SRF polypeptide in the asymmetric unit begins variably between amino acids 136 and 140, and continues to the C-terminus.
+
+</text>
+       <arg n="1">The electron density of each of the four copies of the SRF polypeptide in the asymmetric unit
+</arg>
+       <arg n="2">between amino acids 136 and 140
+</arg>
+<fdg>
+1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+2	electron	electron	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	density	density	subj:&gt;18	@SUBJ %NH N NOM SG
+4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+5	each	each	pcomp:&gt;4	@&lt;P %NH PRON SG
+6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+7	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+8	four	four	qn:&gt;9	@QN&gt; %&gt;N NUM CARD
+9	copies	copy	pcomp:&gt;6	@&lt;P %NH N NOM PL
+10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+11	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+12	SRF	srf	attr:&gt;13	@A&gt; %&gt;N ABBR NOM SG
+13	polypeptide	polypeptide	pcomp:&gt;10	@&lt;P %NH N NOM SG
+14	in	in	mod:&gt;13	@&lt;NOM %N&lt; PREP
+15	the	the	det:&gt;17	@DN&gt; %&gt;N DET
+16	asymmetric	asymmetric	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	unit	unit	pcomp:&gt;14	@&lt;P %NH N NOM SG
+18	begins	begin	main:&gt;0	@+FMAINV %VA V PRES SG3
+19	variably	variably	man:&gt;18	@ADVL %EH ADV
+20	between	between	ha:&gt;18	@ADVL %EH PREP
+21	amino	amino	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	acids	acid	pcomp:&gt;20	@&lt;P %NH N NOM PL
+23	136	136		@PCOMPL-S %NH NUM CARD	@ADVL %EH NUM CARD
+24	and	and	cc:&gt;23	@CC %CC CC
+25	140	140	cc:&gt;23	@PCOMPL-S %NH NUM CARD	@ADVL %EH NUM CARD
+26	,	,
+27	and	and	cc:&gt;18	@CC %CC CC
+28	continues	continue	cc:&gt;18	@+FMAINV %VA V PRES SG3
+29	to	to	ha:&gt;28	@ADVL %EH PREP
+30	the	the	det:&gt;31	@DN&gt; %&gt;N DET
+31	C-terminus	c-terminus	pcomp:&gt;29	@&lt;P %NH N NOM SG
+32	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+Both SRF subunits in the ternary complex bend the two DNA half sites to the same extent, resulting in bending of 31 into the major groove over the CC and CT base pair steps beginning and ending the CArG-box, and 15 into the minor groove over the five central TA, AA and AT base pair steps.
+
+</text>
+       <arg n="1">bending of 31 into the major groove over the CC and CT base pair steps
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Both	both	det:&gt;3	@DN&gt; %&gt;N DET PL
+2	SRF	srf	attr:&gt;3	@A&gt; %&gt;N ABBR NOM SG
+3	subunits	subunit		@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@PCOMPL-S %NH N NOM PL	@APP %NH N NOM PL
+4	in	in	mod:&gt;3	@&lt;NOM %N&lt; PREP
+5	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+6	ternary	ternary	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	complex	complex	subj:&gt;8	@SUBJ %NH A ABS
+8	bend	bend	main:&gt;0	@+FMAINV %VA V PRES
+9	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+10	two	two	qn:&gt;13	@QN&gt; %&gt;N NUM CARD
+11	DNA	dna	attr:&gt;12	@A&gt; %&gt;N ABBR NOM SG
+12	half	half	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+13	sites	site	obj:&gt;8	@OBJ %NH N NOM PL
+14	to	to	goa:&gt;8	@ADVL %EH PREP
+15	the	the	det:&gt;17	@DN&gt; %&gt;N DET
+16	same	same	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	extent	extent	pcomp:&gt;14	@&lt;P %NH N NOM SG
+18	,	,
+19	resulting	result		@-FMAINV %VA ING
+20	in	in	phr:&gt;19	@ADVL %EH PREP
+21	bending	bending	pcomp:&gt;20	@&lt;P %NH A ABS
+22	of	of	mod:&gt;21	@&lt;NOM-OF %N&lt; PREP
+23	31	31	pcomp:&gt;22	@&lt;P %NH NUM CARD
+24	into	into	goa:&gt;19	@ADVL %EH PREP
+25	the	the	det:&gt;27	@DN&gt; %&gt;N DET
+26	major	major	attr:&gt;27	@A&gt; %&gt;N A ABS
+27	groove	groove	pcomp:&gt;24	@&lt;P %NH N NOM SG
+28	over	over	mod:&gt;27	@&lt;NOM %N&lt; PREP
+29	the	the	det:&gt;30	@DN&gt; %&gt;N DET
+30	CC	cc	pcomp:&gt;28	@&lt;P %NH ABBR NOM SG
+31	and	and		@CC %CC CC
+32	CT	ct	attr:&gt;33	@A&gt; %&gt;N N NOM SG
+33	base	base	attr:&gt;34	@A&gt; %&gt;N N NOM SG
+34	pair	pair		@OBJ %NH N NOM	@PCOMPL-S %NH N NOM	@APP %NH N NOM	@A&gt; %&gt;N N NOM	@&lt;P %NH N NOM
+35	steps	step		@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@PCOMPL-S %NH N NOM PL	@APP %NH N NOM PL	@&lt;P %NH N NOM PL	@ADVL %EH N NOM PL
+36	beginning	begin		@-FMAINV %VA ING
+37	and	and	cc:&gt;36	@CC %CC CC
+38	ending	end	cc:&gt;36	@-FMAINV %VA ING
+39	the	the	det:&gt;40	@DN&gt; %&gt;N DET
+40	CArG-box	carg-box	obj:&gt;38	@OBJ %NH &lt;?&gt; N NOM SG
+41	,	,
+42	and	and	cc:&gt;40	@CC %CC CC
+43	15	15	cc:&gt;40	@OBJ %NH NUM CARD
+44	into	into		@ADVL %EH PREP
+45	the	the	det:&gt;47	@DN&gt; %&gt;N DET
+46	minor	minor	attr:&gt;47	@A&gt; %&gt;N A ABS
+47	groove	groove	pcomp:&gt;44	@&lt;P %NH N NOM SG
+48	over	over	mod:&gt;47	@&lt;NOM %N&lt; PREP
+49	the	the	det:&gt;52	@DN&gt; %&gt;N DET
+50	five	five	qn:&gt;52	@QN&gt; %&gt;N NUM CARD
+51	central	central	attr:&gt;52	@A&gt; %&gt;N A ABS
+52	TA	ta	pcomp:&gt;48	@&lt;P %NH N NOM SG
+53	,	,
+54	AA	aa		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@PCOMPL-S %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+55	and	and		@CC %CC CC
+56	AT	at		@ADVL %EH PREP
+57	base	base	attr:&gt;58	@A&gt; %&gt;N N NOM SG
+58	pair	pair		@A&gt; %&gt;N N NOM	@&lt;P %NH N NOM
+59	steps	step		@SUBJ %NH N NOM PL	@&lt;P %NH N NOM PL	@ADVL %EH N NOM PL
+60	.     .
+</fdg>
+</example>
+</roleset>
+
+<roleset id="begin.02" name="BEGIN TO = start doing
+" wordnet="1">
+<roles>
+  <role n="1" descr="theme
+"/>
+  <role n="2" descr="start action 			/* secondary predication */
+"/>
+</roles>
+<example src="EMBO" no="1">
+<text>
+The levels of immunoreactive IB begin to return to basal levels following 3-4 h exposures to poly IC.
+
+</text>
+       <arg n="1">The levels of immunoreactive IB
+</arg>
+       <arg n="2">return to basal levels following 3-4 h exposures to poly IC
+</arg>
+<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	levels	level	subj:&gt;6	@SUBJ %NH N NOM PL
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	immunoreactive	immunoreactive	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	IB	ib	pcomp:&gt;3	@&lt;P %NH ABBR NOM SG
+6	begin	begin	main:&gt;0	@+FMAINV %VA V PRES
+7	to	to	pm:&gt;8	@INFMARK&gt; %AUX INFMARK&gt;
+8	return	return	obj:&gt;6	@-FMAINV %VA V INF
+9	to	to	goa:&gt;8	@ADVL %EH PREP
+10	basal	basal	attr:&gt;11	@A&gt; %&gt;N A ABS
+11	levels	level	pcomp:&gt;9	@&lt;P %NH N NOM PL
+12	following	follow	mod:&gt;11	@-FMAINV %VA ING
+13	3-4	3-4	qn:&gt;15	@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+14	h	h	attr:&gt;15	@A&gt; %&gt;N ABBR NOM SG
+15	exposures	exposure	obj:&gt;12	@OBJ %NH N NOM PL
+16	to	to	mod:&gt;15	@&lt;NOM %N&lt; PREP
+17	poly	poly	attr:&gt;18	@A&gt; %&gt;N N NOM SG
+18	IC	ic	pcomp:&gt;16	@&lt;P %NH ABBR NOM SG
+19	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+When they were transferred to a glucose-containing medium in order to deplete these proteins, growth of gaal, gpi8 and gpi16 deletants began to decline at 12, 6 and 6 h , respectively, after transfer and ceased at 24, 12 and 12 h.
+
+</text>
+       <arg n="1">growth of gaal, gpi8 and gpi16 deletants
+</arg>
+       <arg n="2">decline at 12, 6 and 6 h
+</arg>
+<fdg>
+1	When	when	tmp:&gt;4	@ADVL %EH ADV WH
+2	they	they	subj:&gt;3	@SUBJ %NH PRON PERS NOM PL3
+3	were	be	v-ch:&gt;4	@+FAUXV %AUX V PAST PL
+4	transferred	transfer		@-FMAINV %VP EN
+5	to	to	ha:&gt;4	@ADVL %EH PREP
+6	a	a	det:&gt;8	@DN&gt; %&gt;N DET SG
+7	glucose-containing	glucose-containing	attr:&gt;8	@A&gt; %&gt;N &lt;?&gt; A ABS
+8	medium	medium	pcomp:&gt;5	@&lt;P %NH N NOM SG
+9	in order to	in order to	pm:&gt;10	@INFMARK&gt; %AUX INFMARK&gt;
+10	deplete	deplete	cnt:&gt;4	@-FMAINV %VA V INF
+11	these	this	det:&gt;12	@DN&gt; %&gt;N DET DEM PL
+12	proteins	protein	obj:&gt;10	@OBJ %NH N NOM PL
+13	,	,
+14	growth	growth		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	gaa1	gaa1	pcomp:&gt;15	@&lt;P %NH N NOM SG
+17	,	,
+18	gpi8	gpi8	cc:&gt;16	@&lt;P %NH N NOM SG
+19	and	and		@CC %CC CC
+20	gpi16	gpi16	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	deletants	deletant		@SUBJ %NH &lt;?&gt; N NOM PL	@OBJ %NH &lt;?&gt; N NOM PL	@APP %NH &lt;?&gt; N NOM PL	@&lt;P %NH &lt;?&gt; N NOM PL
+22	began	begin		@+FMAINV %VA V PAST
+23	to	to	pm:&gt;24	@INFMARK&gt; %AUX INFMARK&gt;
+24	decline	decline	obj:&gt;22	@-FMAINV %VA V INF
+25	at	at	ha:&gt;24	@ADVL %EH PREP
+26	12	12		@QN&gt; %&gt;N NUM CARD
+27	,	,
+28	6	6	pcomp:&gt;25	@&lt;P %NH NUM CARD
+29	and	and		@CC %CC CC
+30	6	6		@OBJ %NH NUM CARD	@QN&gt; %&gt;N NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+31	h	h		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+32	,	,
+33	respectively	respectively	meta:&gt;24	@ADVL %EH ADV
+34	,	,
+35	after	after		@CS %CS CS	@ADVL %EH PREP
+36	transfer	transfer		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@&lt;P %NH N NOM SG
+37	and	and	cc:&gt;4	@CC %CC CC
+38	ceased	cease	cc:&gt;4	@-FMAINV %VP EN
+39	at	at	ha:&gt;38	@ADVL %EH PREP
+40	24	24		@QN&gt; %&gt;N NUM CARD
+41	,	,
+42	12	12	pcomp:&gt;39	@&lt;P %NH NUM CARD
+43	and	and		@CC %CC CC
+44	12	12		@OBJ %NH NUM CARD	@APP %NH NUM CARD	@&lt;P %NH NUM CARD	@QN&gt; %&gt;N NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+45	h	h		@OBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+46	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+Growth of the gpi17 deletant began to decline at 6 h after transfer to a glucose-containing medium, but growth continued slowly for 33 h.
+
+</text>
+       <arg n="1">Growth of the gpi17 deletant
+</arg>
+       <arg n="2">decline at 6 h after transfer to a glucose-containing medium
+</arg>
+<fdg>
+1	Growth	growth	subj:&gt;6	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+4	gpi17	gpi17	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	deletant	deletant	pcomp:&gt;2	@&lt;P %NH N NOM SG
+6	began	begin	main:&gt;0	@+FMAINV %VA V PAST
+7	to	to	pm:&gt;8	@INFMARK&gt; %AUX INFMARK&gt;
+8	decline	decline	obj:&gt;6	@-FMAINV %VA V INF
+9	at	at	ha:&gt;8	@ADVL %EH PREP
+10	6	6	qn:&gt;11	@QN&gt; %&gt;N NUM CARD
+11	h	h	pcomp:&gt;9	@&lt;P %NH ABBR NOM SG
+12	after	after	tmp:&gt;8	@ADVL %EH PREP
+13	transfer	transfer	pcomp:&gt;12	@&lt;P %NH N NOM SG
+14	to	to	mod:&gt;13	@&lt;NOM %N&lt; PREP
+15	a	a	det:&gt;17	@DN&gt; %&gt;N DET SG
+16	glucose-containing	glucose-containing	attr:&gt;17	@A&gt; %&gt;N &lt;?&gt; A ABS
+17	medium	medium	pcomp:&gt;14	@&lt;P %NH N NOM SG
+18	,	,
+19	but	but	cc:&gt;6	@CC %CC CC
+20	growth	growth	subj:&gt;21	@SUBJ %NH N NOM SG
+21	continued	continue	cc:&gt;6	@+FMAINV %VA V PAST
+22	slowly	slowly	man:&gt;21	@ADVL %EH ADV
+23	for	for		@ADVL %EH PREP
+24	33	33	qn:&gt;25	@QN&gt; %&gt;N NUM CARD
+25	h	h	pcomp:&gt;23	@&lt;P %NH ABBR NOM SG
+26	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

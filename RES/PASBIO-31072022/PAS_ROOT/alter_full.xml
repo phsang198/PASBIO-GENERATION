@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="alter">
+            <roleset id="alter.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer of transformation&#x09;&#x09;// mutation, protein //&#x0A;" />
+                    <role n="1" descr="thing changing&#x09;&#x09;&#x09;&#x09;// codon, exon, premRNA //&#x0A;" />
+                    <role n="2" descr="end state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="3" descr="start state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="4" descr="location refering to tissue, organelle, person, gene&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="1">
+                    <text>Mutations that alter splice sites led to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>In protein-coding transcripts, 79% of splice variations altered the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>Four other mutations alter either the conserved gt or ag dinucleotide splice sites in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="MEDLINE" no="4">
+                    <text>This mutation is located within exon 2 and alters the codon (CTC) normally associated with Leu-93 in the transcortin polypeptide to a codon (CAC) for histidine in the variant genes.</text>
+                    <arg n="0">This mutation</arg>
+                    <arg n="1">the codon</arg>
+                    <arg n="2">to a codon (CAC)</arg>
+                    <arg n="3">the codon (CTC)</arg>
+                </example>
+                <example src="MEDLINE" no="5">
+                    <text>Cytokines alter the expression and activity of the multidrug resistance transporters in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Since these two bends are in opposing directions, they do not alter the overall direction of the DNA(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity, probably due to the change in DNA conformation, which subtly alters the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>Phosphorylation of PDK1 was not altered by treating the cells with insulin-like growth factor-I and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>As the molecular lesion associated with s1031 is predicted to alter splicing, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EMBO" no="5">
+                    <text>Since s1031 is a null allele, we tested whether this mutation alters vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

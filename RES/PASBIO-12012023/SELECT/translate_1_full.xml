@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="translate">
+            <roleset id="translate.01" name="molecular event of producing genetic product called protein&#x0A;" wordnet="10">
+                <roles>
+                    <role n="0" descr="resultant product &#x09;&#x09;&#x09;// protein //&#x0A;" />
+                    <role n="1" descr="source &#x09;&#x09;&#x09;&#x09;&#x09;// mRNA, transcript // &#x0A;" />
+                    <role n="2" descr="location as tissue, cell, vitro&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A transcript has been efficiently translated into a C-terminal truncated protein containing the first, second and third transmembrane domains, while the splicing out of exons 3 and 4 would produce a protein with five membrane-spanning domains but lacking the third and fourth domains present in the ET-AR protein.</text>
+                    <arg n="0">a C-terminal truncated protein containing the first, second and third transmembrane domains</arg>
+                    <arg n="1">A transcript</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>A transcript, as our data has shown, will be translated into a C-terminal truncated protein containing the first, second and third transmembrane domains, while the splicing out of exons 3 and 4 would produce a protein with five membrane-spanning domains but lacking the third and fourth domains present in the ET-AR protein.</text>
+                    <arg n="0">a C-terminal truncated protein containing the first, second and third transmembrane domains</arg>
+                    <arg n="1">A transcript, as our data has shown,</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>ISGF3 gamma that may have been properly translated in vitro from recombinant clones bound DNA with a specificity indistinguishable from that of ISGF3 gamma purified from HeLa cells.</text>
+                    <arg n="0">ISGF3 gamma</arg>
+                    <arg n="1">recombinant</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 that have been translated in vitro are partially purified on heparin-agarose.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>This mutant will be translated in the presence of C-terminal SBP2, and as shown in Figure 6C no readthrough is detectable when the AUGA element is deleted, indicating that the stimulatory effect is entirely 3 UTR dependent.</text>
+                    <arg n="0">This mutant</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>This mutant, as our study reveals, is observed to be translated in the presence of C-terminal SBP2, and as shown in Figure 6C no readthrough is detectable when the AUGA element is deleted, indicating that the stimulatory effect is entirely 3 UTR dependent.</text>
+                    <arg n="0">This mutant</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>We also report the first definitive incorporation of Sec into a selenoprotein which will be translated in reticulocyte lysates.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">reticulocyte lysates</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 were translated in vitro and partially purified on heparin-agarose.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 which has been translated in vitro can also dimerize on the LMP2 GAS.</text>
+                    <arg n="0">Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1, as our data reveals, have the ability to be translated in vitro and partially purified on heparin-agarose.</text>
+                    <arg n="0">Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Stat1 Y701F, as our data reveals, may be translated in vitro and partially purified on heparin-agarose.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Stat1 Y701F, as our data reveals, may be translated in vitro and partially purified on heparin-agarose.</text>
+                    <arg n="0">Stat1 Y701F</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 which was probably translated in vitro can also dimerize on the LMP2 GAS.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>We also report the first definitive incorporation of Sec into Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 which has been shown to be translated in vitro.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>We also report the first definitive incorporation of Sec into Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1 which is translated in vitro.</text>
+                    <arg n="0">Stat1, Stat1 Y701F, Stat1 N135, Stat1 N200 and Stat5/1</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>a selenoprotein that are observed to be properly translated in reticulocyte lysates are partially purified on heparin-agarose.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">reticulocyte lysates</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>a selenoprotein which is likely to be probably translated in reticulocyte lysates can also dimerize on the LMP2 GAS.</text>
+                    <arg n="0">a selenoprotein</arg>
+                    <arg n="2">reticulocyte lysates</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

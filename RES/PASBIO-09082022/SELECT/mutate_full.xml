@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="mutate">
+            <roleset id="Mutate.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="physical location where mutation happen// exon, intron //&#x0A;" />
+                    <role n="1" descr="mutated entity   // gene //&#x0A;" />
+                    <role n="2" descr="changes at molecular level/* always use prepositional phrase */&#x0A;" />
+                    <role n="3" descr="changes at phenotype level /* secondary predication */  &#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Alpha-chain cDNA in COS-1 cells could have been significantly mutated by transient expression of the exon 8 resulted in deficiency of enzymatic activity.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                    <arg n="3">deficiency of enzymatic activity</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Alpha-chain cDNA in COS-1 cells has the probability of being significantly mutated by transient expression of the exon 8 resulted in deficiency of enzymatic activity.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                    <arg n="3">deficiency of enzymatic activity</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Alpha-chain cDNA in COS-1 cells might be mutated by transient expression of the exon 8 resulted in deficiency of enzymatic activity.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                    <arg n="3">deficiency of enzymatic activity</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Alpha-chain cDNA in COS-1 cells was significantly mutated by transient expression of the exon 8 resulted in deficiency of enzymatic activity.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                    <arg n="3">deficiency of enzymatic activity</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Alpha-chain cDNA in COS-1 cells would be mutated by transient expression of the exon 8 resulted in deficiency of enzymatic activity.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                    <arg n="3">deficiency of enzymatic activity</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Analyses of transcription in vivo of agn-lacZ with Dam target sequences that were mutated support this conclusion.</text>
+                    <arg n="1">Dam target sequences</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Cotransfections with plasmids expressing WT-1, WTAR (a mutated form of WT-1), p53, and a mutated form of p53 revealed a complex pattern of regulation with a 3-fold induction with WT-1, a 7-fold induction with p53 that has the ability to be mutated, and a 4-fold repression with wild-type p53.</text>
+                    <arg n="0">p53</arg>
+                    <arg n="2">a 7-fold induction</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Cotransfections with plasmids expressing WT-1, WTAR (a mutated form of WT-1), p53, and a mutated form of p53 revealed a complex pattern of regulation with a 3-fold induction with WT-1, a 7-fold induction with p53 that might have been mutated, and a 4-fold repression with wild-type p53.</text>
+                    <arg n="0">p53</arg>
+                    <arg n="2">a 7-fold induction</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Cotransfections with plasmids expressing WT-1, WTAR (a mutated form of WT-1), p53, and a mutated form of p53 revealed a complex pattern of regulation with a 3-fold induction with WT-1, a 7-fold induction with p53 which can be mutated, and a 4-fold repression with wild-type p53.</text>
+                    <arg n="0">p53</arg>
+                    <arg n="2">a 7-fold induction</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>Cotransfections with plasmids expressing WT-1, WTAR (a mutated form of WT-1), p53, and a mutated form of p53 revealed a complex pattern of regulation with a 3-fold induction with WT-1, a 7-fold induction with p53 which has the ability to be mutated, and a 4-fold repression with wild-type p53.</text>
+                    <arg n="0">p53</arg>
+                    <arg n="2">a 7-fold induction</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>For example, mutating the C-terminal MAP kinase sites (T235 and T239) essentially leads to abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift (Figure 5C, lanes 7 and 8).</text>
+                    <arg n="0">the C-terminal MAP kinase sites (T235 and T239)</arg>
+                    <arg n="2">abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>For example, to mutate the C-terminal MAP kinase sites (T235 and T239) essentially leads to abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift (Figure 5C, lanes 7 and 8).</text>
+                    <arg n="0">the C-terminal MAP kinase sites (T235 and T239)</arg>
+                    <arg n="2">abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a SOX9 protein in which the two PKA phosphorylation sites (S (64) and S (211)) could have been mutated.</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">the two PKA phosphorylation sites (S (64) and S (211))</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a SOX9 protein in which the two PKA phosphorylation sites (S (64) and S (211)) have been mutated.</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">the two PKA phosphorylation sites (S (64) and S (211))</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a SOX9 protein in which the two PKA phosphorylation sites (S (64) and S (211)) have the ability to be mutated.</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">the two PKA phosphorylation sites (S (64) and S (211))</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a SOX9 protein in which the two PKA phosphorylation sites (S (64) and S (211)) were observed to be significantly mutated.</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">the two PKA phosphorylation sites (S (64) and S (211))</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>In contrast, to mutate the C-terminal MAP kinase sites (T235 and T239) is observed to essentially led to abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift (Figure 5C, lanes 7 and 8).</text>
+                    <arg n="0">the C-terminal MAP kinase sites (T235 and T239)</arg>
+                    <arg n="2">abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Induction of a mutation in the lacI gene resulted in the loss of transcriptional repression of the lacZ gene that is mutated cells.</text>
+                    <arg n="0">LacI</arg>
+                    <arg n="2">the loss of transcriptional repression of the lacZ gene</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Induction of a mutation in the lacI gene, for example, is able to result in the loss of transcriptional repression of the lacZ gene that is mutated cells.</text>
+                    <arg n="0">LacI</arg>
+                    <arg n="2">the loss of transcriptional repression of the lacZ gene</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Induction of a mutation in the lacI gene, for example, may result in the loss of transcriptional repression of the lacZ gene that is mutated cells.</text>
+                    <arg n="0">LacI</arg>
+                    <arg n="2">the loss of transcriptional repression of the lacZ gene</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid abolished groucho binding (Jimnez et al., 1999).</text>
+                    <arg n="0">a conserved phenylalanine</arg>
+                    <arg n="1">the eh1/GEH sequence</arg>
+                    <arg n="2">to glutamic acid</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Mutating amino acids EE(437 and 438) to AA has generated the DNA-binding mutant(Stat5aEE-AA) of Stat5a.</text>
+                    <arg n="1">amino acids EE(437 and 438)</arg>
+                    <arg n="2">AA</arg>
+                    <arg n="3">The DNA-binding mutant(Stat5aEE-AA) of Stat5a</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>Mutating the C-terminal MAP kinase sites (T235 and T239), for example, is observed to essentially led to abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift (Figure 5C, lanes 7 and 8).</text>
+                    <arg n="0">the C-terminal MAP kinase sites (T235 and T239)</arg>
+                    <arg n="2">abolished EGF-stimulated increase in phosphorylation and prevented EGF-induced mobility shift</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>Phosphorylation of PDK1 was not altered by treating the cells with insulin-like growth factor-I and four of the sites are mutated without loss of activity.</text>
+                    <arg n="0">four of the sites</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>Phosphorylation of PDK1 was not altered by treating the cells with insulin-like growth factor-I and four of the sites may have been remarkably mutated without loss of activity.</text>
+                    <arg n="0">four of the sites</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>Phosphorylation of PDK1 was not altered by treating the cells with insulin-like growth factor-I and four of the sites will be mutated without loss of activity.</text>
+                    <arg n="0">four of the sites</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>Phosphorylation of PDK1 was not altered by treating the cells with insulin-like growth factor-I and four of the sites, as we predicted, have the ability to be remarkably mutated without loss of activity.</text>
+                    <arg n="0">four of the sites</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Phosphorylation of PDK1 was not altered by treating the cells with insulin-like growth factor-I and four of the sites, as we predicted, have the ability to be remarkably mutated without loss of activity.</text>
+                    <arg n="0">four of the sites</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>RCA is comprised of two major steps: (i) identifying pairs of residue positions which might mutate in a coordinated manner, and (ii) using these results to identify protein regions which interact with an uncommonly high number of other residues.</text>
+                    <arg n="1">pairs of residue positions</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>The DNA-binding mutant(Stat5aEE-AA) of Stat5a has been generated by mutating amino acids EE(437 and 438) to AA.</text>
+                    <arg n="1">amino acids EE(437 and 438)</arg>
+                    <arg n="2">AA</arg>
+                    <arg n="3">The DNA-binding mutant(Stat5aEE-AA) of Stat5a</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>The exon 5 that may have mutated allele with the premature translation termination results in severe deficiency of Hex A.</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                    <arg n="2">the premature translation termination</arg>
+                    <arg n="3">severe deficiency of Hex A</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>The exon 5 which may have mutated allele with the premature translation termination results in severe deficiency of Hex A.</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                    <arg n="2">the premature translation termination</arg>
+                    <arg n="3">severe deficiency of Hex A</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>The exon 5 which may mutate allele with the premature translation termination results in severe deficiency of Hex A.</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                    <arg n="2">the premature translation termination</arg>
+                    <arg n="3">severe deficiency of Hex A</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The gene mutated in variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and in nclf mutant mice has encoded a novel predicted transmembrane protein.</text>
+                    <arg n="1">gene</arg>
+                    <arg n="2">variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and in nclf mutant mice</arg>
+                    <arg n="3">a novel predicted transmembrane protein</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>The gene that can be mutated in variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and in nclf mutant mice has encoded a novel predicted transmembrane protein.</text>
+                    <arg n="1">gene</arg>
+                    <arg n="2">variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and in nclf mutant mice</arg>
+                    <arg n="3">a novel predicted transmembrane protein</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>The gene that is mutated in variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and in nclf mutant mice encodes a novel predicted transmembrane protein.</text>
+                    <arg n="1">gene</arg>
+                    <arg n="2">variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and in nclf mutant mice</arg>
+                    <arg n="3">a novel predicted transmembrane protein</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>The gene that will be mutated in variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and in nclf mutant mice has encoded a novel predicted transmembrane protein.</text>
+                    <arg n="1">gene</arg>
+                    <arg n="2">variant late-infantile neuronal ceroid lipofuscinosis (CLN6) and in nclf mutant mice</arg>
+                    <arg n="3">a novel predicted transmembrane protein</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>The template fragments are mutated by the sequence of SAP97 RAT, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">The template fragments</arg>
+                    <arg n="1">the sequence of SAP97 RAT</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The template fragments could have been significantly mutated by the sequence of SAP97 RAT, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">The template fragments</arg>
+                    <arg n="1">the sequence of SAP97 RAT</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>The template fragments may be significantly mutated by the sequence of SAP97 RAT, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">The template fragments</arg>
+                    <arg n="1">the sequence of SAP97 RAT</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>The template fragments will be mutated by the sequence of SAP97 RAT, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">The template fragments</arg>
+                    <arg n="1">the sequence of SAP97 RAT</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>This epitope, which is HLA-A2 restricted, includes two amino acids observed to mutate (V82A and I84V) in the face of protease inhibitor therapy.</text>
+                    <arg n="1">two amino acids</arg>
+                    <arg n="3">the face of protease inhibitor therapy</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>This epitope, which is HLA-A2 restricted, includes two amino acids that mutated (V82A and I84V) in the face of protease inhibitor therapy.</text>
+                    <arg n="1">two amino acids</arg>
+                    <arg n="3">the face of protease inhibitor therapy</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>This epitope, which is HLA-A2 restricted, includes two amino acids which are able to mutate (V82A and I84V) in the face of protease inhibitor therapy.</text>
+                    <arg n="1">two amino acids</arg>
+                    <arg n="3">the face of protease inhibitor therapy</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>To mutate amino acids EE(437 and 438) to AA generates the DNA-binding mutant(Stat5aEE-AA) of Stat5a.</text>
+                    <arg n="1">amino acids EE(437 and 438)</arg>
+                    <arg n="2">AA</arg>
+                    <arg n="3">The DNA-binding mutant(Stat5aEE-AA) of Stat5a</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>To mutate amino acids EE(437 and 438) to AA is able to generate the DNA-binding mutant(Stat5aEE-AA) of Stat5a.</text>
+                    <arg n="1">amino acids EE(437 and 438)</arg>
+                    <arg n="2">AA</arg>
+                    <arg n="3">The DNA-binding mutant(Stat5aEE-AA) of Stat5a</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>To mutate amino acids EE(437 and 438) to AA is observed to generate the DNA-binding mutant(Stat5aEE-AA) of Stat5a.</text>
+                    <arg n="1">amino acids EE(437 and 438)</arg>
+                    <arg n="2">AA</arg>
+                    <arg n="3">The DNA-binding mutant(Stat5aEE-AA) of Stat5a</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>Transient expression of the exon 8 would significantly mutate alpha-chain cDNA in COS-1 cells resulted in deficiency of enzymatic activity.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                    <arg n="3">deficiency of enzymatic activity</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>This epitope, which is HLA-A2 restricted, includes two amino acids that commonly mutate (V82A and I84V) in the face of protease inhibitor therapy.</text>
+                    <arg n="1">two amino acids</arg>
+                    <arg n="3">the face of protease inhibitor therapy</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>ALK4 extracellular domain could be mutated by five hydrophobic amino acid residues, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">five hydrophobic amino acid residues</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>ALK4 extracellular domain have the probability of being mutated by five hydrophobic amino acid residues, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">five hydrophobic amino acid residues</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Analyses of transcription in vivo of agn-lacZ with amino acids EE(437 and 438) which were mutated support this conclusion.</text>
+                    <arg n="1">amino acids EE(437 and 438)</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Analyses of transcription in vivo of agn-lacZ with mutated a conserved phenylalanine support this conclusion.</text>
+                    <arg n="0">a conserved phenylalanine</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Analyses of transcription in vivo of agn-lacZ with the activator-interaction domains in the complex which are able to be mutated support this conclusion.</text>
+                    <arg n="1">the activator-interaction domains in the complex</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Analyses of transcription in vivo of agn-lacZ with two amino acids which are able to be mutated support this conclusion.</text>
+                    <arg n="1">two amino acids</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Analyses of transcription in vivo of agn-lacZ with two amino acids which were mutated support this conclusion.</text>
+                    <arg n="1">two amino acids</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a ALK4 extracellular domain in which Leu40, Ile70, Val73, Leu75, and Pro77 could have been mutated.</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">Leu40, Ile70, Val73, Leu75, and Pro77</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a ALK4 extracellular domain in which Leu40, Ile70, Val73, Leu75, and Pro77 have already been significantly mutated.</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">Leu40, Ile70, Val73, Leu75, and Pro77</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a ALK4 extracellular domain in which Leu40, Ile70, Val73, Leu75, and Pro77 were observed to be mutated.</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">Leu40, Ile70, Val73, Leu75, and Pro77</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a ALK4 extracellular domain in which five hydrophobic amino acid residues are significantly mutated.</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">five hydrophobic amino acid residues</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a SOX9 protein in which S (64) and S (211) have been mutated.</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">S (64) and S (211)</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a The template fragments in which the sequence of SAP97 RAT are mutated.</text>
+                    <arg n="0">The template fragments</arg>
+                    <arg n="1">the sequence of SAP97 RAT</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a a conserved phenylalanine in which the eh1/GEH sequence have been mutated.</text>
+                    <arg n="0">a conserved phenylalanine</arg>
+                    <arg n="1">the eh1/GEH sequence</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Mutating ALK4 extracellular domain of Leu40, Ile70, Val73, Leu75, and Pro77 alanine abolished groucho binding (Jimnez et al., 1999).</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">Leu40, Ile70, Val73, Leu75, and Pro77</arg>
+                    <arg n="2">alanine</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>SOX9 protein are able to be significantly mutated by the two PKA phosphorylation sites (S (64) and S (211)), accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">the two PKA phosphorylation sites (S (64) and S (211))</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>SOX9 protein might have been mutated by S (64) and S (211), accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">S (64) and S (211)</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>SOX9 protein might have been significantly mutated by the two PKA phosphorylation sites (S (64) and S (211)), accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">the two PKA phosphorylation sites (S (64) and S (211))</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>SOX9 protein were mutated by S (64) and S (211), accession No.Q62696, using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">S (64) and S (211)</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>SOX9 protein will be significantly mutated by S (64) and S (211), accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">S (64) and S (211)</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>To determine how activators interact with the complex and to examine the importance of these interactions, relative to other potential targeting mechanisms, for SWI/SNF function, we identified and mutated Dam target sequences.</text>
+                    <arg n="1">Dam target sequences</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>To determine how activators interact with the complex and to examine the importance of these interactions, relative to other potential targeting mechanisms, for SWI/SNF function, we will identify and mutate amino acids EE(437 and 438).</text>
+                    <arg n="1">amino acids EE(437 and 438)</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>We have identified Leu40, Ile70, Val73, Leu75, and Pro77 on the ALK4 extracellular domain (Leu40, Ile70, Val73, Leu75, and Pro77) that, when being significantly mutated to alanine, have substantial effects on ALK4-trunc dominant negative activity.</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">Leu40, Ile70, Val73, Leu75, and Pro77</arg>
+                    <arg n="2">alanine</arg>
+                    <arg n="3">have substantial effects on ALK4-trunc dominant negative activity</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>We have identified Leu40, Ile70, Val73, Leu75, and Pro77 on the ALK4 extracellular domain (Leu40, Ile70, Val73, Leu75, and Pro77) that, when having been mutated to alanine, have substantial effects on ALK4-trunc dominant negative activity.</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">Leu40, Ile70, Val73, Leu75, and Pro77</arg>
+                    <arg n="2">alanine</arg>
+                    <arg n="3">have substantial effects on ALK4-trunc dominant negative activity</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>a conserved phenylalanine are significantly mutated by the eh1/GEH sequence, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">a conserved phenylalanine</arg>
+                    <arg n="1">the eh1/GEH sequence</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>a conserved phenylalanine are significantly mutated by the eh1/GEH sequence, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">a conserved phenylalanine</arg>
+                    <arg n="1">the eh1/GEH sequence</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>a conserved phenylalanine can be significantly mutated by the eh1/GEH sequence, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">a conserved phenylalanine</arg>
+                    <arg n="1">the eh1/GEH sequence</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>a conserved phenylalanine may be mutated by the eh1/GEH sequence, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">a conserved phenylalanine</arg>
+                    <arg n="1">the eh1/GEH sequence</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>a conserved phenylalanine would be significantly mutated by the eh1/GEH sequence, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">a conserved phenylalanine</arg>
+                    <arg n="1">the eh1/GEH sequence</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Analyses of transcription in vivo of agn-lacZ with gene which can be mutated support this conclusion.</text>
+                    <arg n="1">gene</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Analyses of transcription in vivo of agn-lacZ with mutated exon 8 support this conclusion.</text>
+                    <arg n="0">exon 8</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Analyses of transcription in vivo of agn-lacZ with mutated the C-terminal MAP kinase sites (T235 and T239) support this conclusion.</text>
+                    <arg n="0">the C-terminal MAP kinase sites (T235 and T239)</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Analyses of transcription in vivo of agn-lacZ with pairs of residue positions mutated support this conclusion.</text>
+                    <arg n="1">pairs of residue positions</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a exon 5 in which allele have the ability to be significantly mutated.</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a exon 8 in which alpha-chain cDNA in COS-1 cells are significantly mutated.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a exon 8 in which alpha-chain cDNA in COS-1 cells have already been significantly mutated.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a exon 8 in which alpha-chain cDNA in COS-1 cells were observed to be mutated.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>We have identified allele on the exon 5 (Leu40, Ile70, Val73, Leu75, and Pro77) that, when being completely mutated to the premature translation termination, severe deficiency of Hex A.</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                    <arg n="2">the premature translation termination</arg>
+                    <arg n="3">severe deficiency of Hex A</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>We have identified allele on the exon 5 (Leu40, Ile70, Val73, Leu75, and Pro77) that, when having been significantly mutated to the premature translation termination, severe deficiency of Hex A.</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                    <arg n="2">the premature translation termination</arg>
+                    <arg n="3">severe deficiency of Hex A</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>We have identified allele on the exon 5 (five hydrophobic amino acid residues) that, when mutated to the premature translation termination, severe deficiency of Hex A.</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                    <arg n="2">the premature translation termination</arg>
+                    <arg n="3">severe deficiency of Hex A</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>exon 5 are able to be mutated by allele, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>exon 5 are able to be significantly mutated by allele, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>exon 5 are observed to be significantly mutated by allele, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>exon 5 are significantly mutated by allele, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>exon 5 might have been mutated by allele, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>exon 5 will be mutated by allele, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">allele</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>exon 8 are observed to be mutated by alpha-chain cDNA in COS-1 cells, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>exon 8 could have been mutated by alpha-chain cDNA in COS-1 cells, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>exon 8 will be mutated by alpha-chain cDNA in COS-1 cells, accession No.Q62696 using the program Swiss PDB Viewer (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

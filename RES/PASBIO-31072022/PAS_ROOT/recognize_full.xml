@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="recognize">
+            <roleset id="recognize.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="agent&#x0A;" />
+                    <role n="1" descr="thing being identified&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="1">
+                    <text>As a result of alternate splicing and subsequent frameshift, the reported g16 protein is 603 amino acids shorter than the NY-LU-12 product (1123 residues) at its COOH terminus and would therefore lack the epitopes recognized by the autologous serum.</text>
+                    <arg n="0">the autologous serum</arg>
+                    <arg n="1">the epitopes</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>These mutations, identified by standard methods of reverse transcription, PCR,dideoxy-chain termination, and cycle sequencing, alter highly conserved sequences at intron/exon boundaries and prevent the RNA-splicing apparatus from properly recognizing the normal splice junction.</text>
+                    <arg n="0">the RNA-splicing apparatus</arg>
+                    <arg n="1">the normal splice junction</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>A number of Ags recognized by class I-restricted melanoma-specific T cells have recently been isolated, raising the hope that this will lead to the development of improved therapies.</text>
+                    <arg n="0">class I-restricted melanoma-specific T cells</arg>
+                    <arg n="1">A number of Ags</arg>
+                </example>
+                <example src="MEDLINE" no="4">
+                    <text>Exactly how specific splice sites are recognized during the processing of complex precursor messenger RNAs is not clear.</text>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="MEDLINE" no="5">
+                    <text>Anti-64kD human autoantigen D1 antibodies recognize specifically a approximately 70kD polypeptide in western blots of extraocular muscle, sternothyroid muscle, and smooth muscle.</text>
+                    <arg n="0">Anti-64kD human autoantigen D1 antibodies</arg>
+                    <arg n="1">a approximately 70kD polypeptide in western blots of extraocular muscle, sternothyroid muscle, and smooth muscle</arg>
+                </example>
+                <example src="MEDLINE" no="6">
+                    <text>These bands can be detected with four different specific antibodies recognizing the different nonmuscle myosin heavy chain isoforms (A and B)</text>
+                    <arg n="0">four different specific antibodies</arg>
+                    <arg n="1">the different nonmuscle myosin heavy chain isoforms (A and B)</arg>
+                </example>
+                <example src="MEDLINE" no="7">
+                    <text>To define the subcellular location of HVDAC isoforms, HVDAC genes were modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.</text>
+                    <arg n="0">either of two monoclonal antibodies</arg>
+                    <arg n="1">COOH-terminal epitopes</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Individual cell clones were analyzed for STAT1 expression by immunofluorescence with a monoclonal antibody recognizing the STAT1 N-terminus, and by western blotting.</text>
+                    <arg n="0">a monoclonal antibody</arg>
+                    <arg n="1">the STAT1 N-terminus</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>A monoclonal antibody recognizing the STAT1 N-terminus was purchased from Transduction Laboratories (Lexington, KY).</text>
+                    <arg n="0">A monoclonal antibody</arg>
+                    <arg n="1">the STAT1 N-terminus</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>The two forms of Stat3 (Stat3fm and Stat3sm) recognized by this antibody in PKR+/+MEFs are indicated.</text>
+                    <arg n="0">this antibody in PKR+/+MEFs</arg>
+                    <arg n="1">The two forms of Stat3 (Stat3fm and Stat3sm)</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>The lower form of Stat3, Stat3Beta, is not recognized in the immunoprecipitaiton with anti-Stat3 pAb as it is raised against a C-terminal region of Stat3 that is missing in Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">The lower form of Stat3, Stat3Beta</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EMBO" no="5">
+                    <text>Blots were probed with affinity-purified polyclonal anti-LMP-1 antiserum that recognizes epitopes in the C-terminus of LMP-1 at a 1:200 dilution.</text>
+                    <arg n="0">affinity-purified polyclonal anti-LMP-1 antiserum</arg>
+                    <arg n="1">epitopes in the C-terminus of LMP-1 at a 1:200 dilution</arg>
+                </example>
+                <example src="EMBO" no="6">
+                    <text>Blots were probed with a RAT monoclonal anti-HA antibody (Boehringer-Ingelheim) that recognizes the sequence(YPYDVPDYA) at a 1:500 dilution.</text>
+                    <arg n="0">a RAT monoclonal anti-HA antibody (Boehringer-Ingelheim)</arg>
+                    <arg n="1">sequence(YPYDVPDYA) at a 1:500 dilution</arg>
+                </example>
+                <example src="EMBO" no="7">
+                    <text>Blots were probed with rabbit polyclonal anti-CD40 antiserum that recognizes the C-terminus of CD40 at a 1:500 dilution, or with rabbit polyclonal anti-GFP or anti-RFP (Clontech) antiserum at a 1:250 dilution.</text>
+                    <arg n="0">rabbit polyclonal anti-CD40 antiserum</arg>
+                    <arg n="1">C-terminus of CD40 at a 1:500 dilution</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

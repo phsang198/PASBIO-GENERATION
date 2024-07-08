@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="transcribe">
+            <roleset id="Transcribe.01" name="convert DNA into RNA&#x0A;" wordnet="5">
+                <roles>
+                    <role n="0" descr="causer, agent &#x09;&#x09;&#x09;&#x09;&#x09;&#x09;// protein ...low chances to be mentioned //&#x0A;" />
+                    <role n="1" descr="entity transcribed &#x09;&#x09;&#x09;&#x09;&#x09;// gene, DNA //&#x0A;" />
+                    <role n="2" descr="transcription site&#x09;&#x09;&#x09; &#x09;&#x09;// promoter //&#x0A;" />
+                    <role n="3" descr="entity after transcription&#x0A;" />
+                    <role n="4" descr="location as organ or tissue expressing transcription&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators can divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and can divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and divergently transcribes glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and has been shown to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and has divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and has the ability to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and is able to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and is observed to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and may divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and may have divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent and will divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, can divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, can transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, divergently transcribes glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, has been shown to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, has been shown to transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, has divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, has the ability to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, has the ability to transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, has transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, is able to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, is able to transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, is observed to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, is observed to transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, may divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, may have divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, may have transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, may transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, transcribes glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, will divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, will transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Interaction at a distance between multiple operators divergently transcribes glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators has been shown to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators has divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators has the ability to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators is able to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators is observed to divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators may divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators may have divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Interaction at a distance between multiple operators will divergently transcribe glpTQ-glpACB operons of Escherichia coli K-12.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and can divergently transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and can transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and divergently transcribed two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and has been shown to divergently transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and has been shown to transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and has divergently transcribed two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and has the ability to divergently transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and has the ability to transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and has transcribed two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and is able to divergently transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and is able to transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and is observed to divergently transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and is observed to transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and may have divergently transcribed two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and may have transcribed two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and transcribed two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and will divergently transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and will transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, can transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, has been shown to transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, has the ability to transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, has transcribed two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, is able to transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, is observed to transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, may have transcribed two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, transcribed two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, will transcribe two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>NEP-2 can specifically transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>NEP-2 can transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 has been shown to specifically transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 has been shown to transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>NEP-2 has specifically transcribed the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 has the ability to specifically transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 has the ability to transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>NEP-2 has transcribed the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 is able to specifically transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 is able to transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 is believe to specifically transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 is believe to transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 is observed to specifically transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>NEP-2 is observed to transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>NEP-2 may have specifically transcribed the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>NEP-2 may have transcribed the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>NEP-2 may specifically transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>NEP-2 may transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>NEP-2 specifically transcribed the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>NEP-2 transcribed the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>NEP-2 will specifically transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>NEP-2 will transcribe the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR are able to be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR are able to be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR are divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR are proven to be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR are proven to be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR are transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR can be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR can be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR have been divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR have been shown to be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR have been shown to be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR have been transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR may be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR may be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR may have been divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR may have been transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR were divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR were transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR will be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids demonstrated that glpD and glpR will be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR are able to be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR are proven to be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR are transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR can be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR have been shown to be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR have been transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR may be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR may have been transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR were transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction analysis of these two plasmids suggested that glpD and glpR will be transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR are able to be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR are divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR are proven to be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR can be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR have been divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR have been shown to be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR may be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR may have been divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR were divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR will be divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Subsequently, the negative-strand RNAs are likely to be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Subsequently, the negative-strand RNAs are selected to be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Subsequently, the negative-strand RNAs can be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Subsequently, the negative-strand RNAs have been chosen to be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Subsequently, the negative-strand RNAs have been used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Subsequently, the negative-strand RNAs may be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Subsequently, the negative-strand RNAs may have been used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Subsequently, the negative-strand RNAs were used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Subsequently, the negative-strand RNAs will be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs are able to be specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs are able to be transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs are observed to be specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs are observed to be transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs are specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs are transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs can be specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs can be transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs has been shown to be specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs has been shown to be transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs have been specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs have been transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs have the ability to be specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs have the ability to be transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs may be specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs may be transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs may have been specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs may have been transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs will be specifically transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs will be transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>The fNF-E2 isoform can be transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>The fNF-E2 isoform can be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform has been proven to be transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform has been proven to be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>The fNF-E2 isoform has been transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>The fNF-E2 isoform has been transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform is believed to be transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform is believed to be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>The fNF-E2 isoform is transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>The fNF-E2 isoform is transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform may be transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform may be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform may have been transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform may have been transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>The fNF-E2 isoform was transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>The fNF-E2 isoform was transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>The fNF-E2 isoform will be transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>The fNF-E2 isoform will be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>The fNF-E2 isoform, however, can be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform, however,</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform, however, has been proven to be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform, however,</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>The fNF-E2 isoform, however, has been transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform, however,</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform, however, is believed to be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform, however,</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>The fNF-E2 isoform, however, is transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform, however,</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform, however, may be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform, however,</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The fNF-E2 isoform, however, may have been transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform, however,</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>The fNF-E2 isoform, however, was transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform, however,</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>The fNF-E2 isoform, however, will be transcribed from an alternative promoter located in the 3 end of the first intron.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform, however,</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes are able to be interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes are able to be transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes are interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes are observed to be interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes are observed to be transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes are transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes can be interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes can be transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes has been interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes has been transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes have been shown to be interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes have been shown to be transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes may be interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes may be transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes may have been interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes may have been transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes were interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes were transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes will be interestingly interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes will be transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene can be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene has been shown to be transcribed in a large variety of organs and tissues and showed differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*39">
+                    <text>The gene has been transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene is able to be be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene is likely to be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene is observed to be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*41">
+                    <text>The gene may be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene may have been transcribed in a large variety of organs and tissues and showed differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*40">
+                    <text>The gene was transcribed in a large variety of organs and tissues and showed differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*42">
+                    <text>The gene will be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene, as our study predicted, can be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene, as our study predicted, has been shown to be transcribed in a large variety of organs and tissues and showed differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*39">
+                    <text>The gene, as our study predicted, has been transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene, as our study predicted, is able to be be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene, as our study predicted, is likely to be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene, as our study predicted, is observed to be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*41">
+                    <text>The gene, as our study predicted, may be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*43">
+                    <text>The gene, as our study predicted, may have been transcribed in a large variety of organs and tissues and showed differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*40">
+                    <text>The gene, as our study predicted, was transcribed in a large variety of organs and tissues and showed differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="*42">
+                    <text>The gene, as our study predicted, will be transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">The gene, as our study predicted,</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>The negative-strand RNAs, subsequently, are likely to be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs, subsequently,</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>The negative-strand RNAs, subsequently, are selected to be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs, subsequently,</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>The negative-strand RNAs, subsequently, can be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs, subsequently,</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>The negative-strand RNAs, subsequently, have been chosen to be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs, subsequently,</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>The negative-strand RNAs, subsequently, have been used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs, subsequently,</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>The negative-strand RNAs, subsequently, may be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs, subsequently,</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>The negative-strand RNAs, subsequently, may have been used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs, subsequently,</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>The negative-strand RNAs, subsequently, were used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs, subsequently,</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>The negative-strand RNAs, subsequently, will be used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs, subsequently,</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome can be divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome can be transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*44">
+                    <text>The plastid genome has been divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome has been shown to be divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome has been shown to be transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*44">
+                    <text>The plastid genome has been transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome is able to be divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome is able to be transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*46">
+                    <text>The plastid genome is divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*45">
+                    <text>The plastid genome is found to be divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*45">
+                    <text>The plastid genome is found to be transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome is observed to be divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome is observed to be transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*46">
+                    <text>The plastid genome is transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome may have been divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome may have been transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>The plastid genome was divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>The plastid genome was transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome will be divergently transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="*48">
+                    <text>The plastid genome will be transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon can be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon has been formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon has been shown to be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon is able to be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon is formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon is observed to be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon may be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon may have been formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon was formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon will be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, can be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, has been formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, has been shown to be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, is able to be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, is formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, is observed to be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, may be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, may have been formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, was formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, will be formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme being able to specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme being able to transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme having specifically transcribed the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme having the ability to specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme having the ability to transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme having transcribed the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme observed to specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme observed to transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme shown to specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme shown to transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme specifically transcribing the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that can specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that can transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that has been shown to specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that has been shown to transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that has specifically transcribed the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that has the ability to specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that has the ability to transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that has transcribed the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that is able to specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that is able to transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that is observed to specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that is observed to transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that may have specifically transcribed the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that may have transcribed the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that may specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that may transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that specifically transcribed the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that transcribed the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that will specifically transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that will transcribe the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme transcribing the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+                <example src="EGRAM" no="*56">
+                    <text>This antisense-BCMA RNA can be divergently transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*56">
+                    <text>This antisense-BCMA RNA can be transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*53">
+                    <text>This antisense-BCMA RNA has been divergently transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*58">
+                    <text>This antisense-BCMA RNA has been shown to be divergently transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*58">
+                    <text>This antisense-BCMA RNA has been shown to be transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*53">
+                    <text>This antisense-BCMA RNA has been transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*58">
+                    <text>This antisense-BCMA RNA is able to be divergently transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*58">
+                    <text>This antisense-BCMA RNA is able to be transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*58">
+                    <text>This antisense-BCMA RNA is observed to be divergently transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*58">
+                    <text>This antisense-BCMA RNA is observed to be transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*57">
+                    <text>This antisense-BCMA RNA may be divergently transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*57">
+                    <text>This antisense-BCMA RNA may be transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*58">
+                    <text>This antisense-BCMA RNA may have been divergently transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*58">
+                    <text>This antisense-BCMA RNA may have been transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*54">
+                    <text>This antisense-BCMA RNA was divergently transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*54">
+                    <text>This antisense-BCMA RNA was transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*55">
+                    <text>This antisense-BCMA RNA will be divergently transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="*55">
+                    <text>This antisense-BCMA RNA will be transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, can be efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, can be transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>This operon, activated by growth on glycolate, has been efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, has been shown to be efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, has been shown to be transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>This operon, activated by growth on glycolate, has been transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, is able to be efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, is able to be transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>This operon, activated by growth on glycolate, is efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, is proven to be efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, is proven to be transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>This operon, activated by growth on glycolate, is transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>This operon, activated by growth on glycolate, may be efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>This operon, activated by growth on glycolate, may be transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, may have been efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, may have been transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>This operon, activated by growth on glycolate, was efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>This operon, activated by growth on glycolate, was transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, will be efficiently transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>This operon, activated by growth on glycolate, will be transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 are able to be divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 are able to be transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 are divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 are observed to be divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 are observed to be transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 are transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 can be divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 can be transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 have been divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 have been shown to be divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 have been shown to be transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 have been transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 have the ability to be divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 have the ability to be transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 may have been divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 may have been transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 were divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 were transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 will be divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>glpTQ-glpACB operons of Escherichia coli K-12 will be transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

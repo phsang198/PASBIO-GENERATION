@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="modify">
+            <roleset id="modify.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="agent, cause of transformation&#x0A;" />
+                    <role n="1" descr="thing changing&#x0A;" />
+                    <role n="2" descr="method&#x0A;" />
+                    <role n="3" descr="consequence&#x09;&#x09;&#x09;&#x09;// secondary predication //&#x0A;" />
+                </roles>
+                <example src="PERMUTATE" no="0">
+                    <text>P. falciparum is likely to be markedly modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to detach the RAP1 gene gene.</text>
+                    <arg n="1">P. falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to detach the RAP1 gene</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Taken together, these data suggest that SH3 acts to position the U5 region through its own association with in the GUK domain and that factors that are observed to modify U5 or SH3 bond the GUK domain can regulate the GKAP bond the GUK domain.</text>
+                    <arg n="0">factors</arg>
+                    <arg n="1">U5 or SH3 bond</arg>
+                    <arg n="3">in the GUK domain</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Together, these data suggest that SH3 acts to place the U5 region through its own association with the GUK domain and that factors that modify U5 or SH3 bond in the GUK domain can regulate the A3 union of GKAP (in the GUK domain).</text>
+                    <arg n="0">factors</arg>
+                    <arg n="1">U5 or SH3 bond</arg>
+                    <arg n="3">in the GUK domain</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>we modified significantly P.falciparum genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to detach the RAP1 gene.</text>
+                    <arg n="0">we</arg>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to detach the RAP1 gene</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Together, these data suggest that OmpR acts in the proper promoter of the porin gene power was modified to EnvZ which can regulate the GKAP A3 union (in the GUK domain).</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts in the proper promoter of the porin gene</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Together, these data suggest that OmpR acts on the adequate promoter of porin gene is likely to be modified by EnvZ which can regulate the GKAP A3 union (in the GUK domain).</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts on the adequate promoter of porin gene</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Together, this data suggests that OmpR acts at the appropriate porin promoter has the ability to be modified by EnvZ that can regulate GKAP union in the GUK domain.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts at the appropriate porin promoter</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Together, this data suggests that SH3 acts to place the region U5 through its own association with acts at the appropriate porin promoter and that EnvZ that have the probability of modifying OmpR the GUK domain can regulate the GKAP A3 union (in the GUK domain).</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts at the appropriate porin promoter</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>We significantly modified P.falciparum genetically per transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="0">We</arg>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">per transfection</arg>
+                    <arg n="3">to disrupt the RAP1</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

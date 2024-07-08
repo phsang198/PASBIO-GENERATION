@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="inhibit">
+<roleset id="inhibit.01" name="" wordnet="2">
+<roles>
+  <role n="0" descr="agent
+"/>
+  <role n="1" descr="the entity being inhibited by agent to get binding
+"/>
+  <role n="2" descr="the action or property being inhibited
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+This synthetic peptide bound to P and inhibited its binding to C3b.
+
+</text>
+       <arg n="0">This synthetic peptide
+</arg>
+       <arg n="1">P
+</arg>
+       <arg n="2">its binding to C3b
+</arg>
+<fdg>
+         1	This	this	det:&gt;3	@DN&gt; %&gt;N DET DEM SG
+         2	synthetic	synthetic	attr:&gt;3	@A&gt; %&gt;N A ABS
+         3	peptide	peptide	subj:&gt;4	@SUBJ %NH N NOM SG
+         4	bound	bind	main:&gt;0	@+FMAINV %VA V PAST
+         5	to	to	ha:&gt;4	@ADVL %EH PREP
+         6	P	p	pcomp:&gt;5	@&lt;P %NH ABBR NOM SG
+         7	and	and	cc:&gt;4	@CC %CC CC
+         8	inhibited	inhibit	cc:&gt;4	@+FMAINV %VA V PAST
+         9	its	it	attr:&gt;10	@A&gt; %&gt;N PRON GEN SG3
+         10	binding	binding	obj:&gt;8	@OBJ %NH N NOM SG
+         11	to	to	goa:&gt;8	@ADVL %EH PREP
+         12	C3b	c3b	pcomp:&gt;11	@&lt;P %NH N NOM SG
+         13	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+PDE4C is one of four mammalian genes that encode multiple PDE4 cyclic AMP-specific phosphodiesterase isoforms that are inhibited by rolipram.
+
+</text>
+       <arg n="0">[by] rolipram
+</arg>
+       <arg n="1">multiple PDE4 cyclic AMP-specific phosphodiesterase isoforms
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+         1	PDE4C	pde4c	subj:&gt;2	@SUBJ %NH N NOM SG
+         2	is	be	main:&gt;0	@+FMAINV %VA V PRES SG3
+         3	one	one	comp:&gt;2	@PCOMPL-S %NH NUM CARD
+         4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+         5	four	four	qn:&gt;7	@QN&gt; %&gt;N NUM CARD
+         6	mammalian	mammalian	attr:&gt;7	@A&gt; %&gt;N A ABS
+         7	genes	gene	pcomp:&gt;4	@&lt;P %NH N NOM PL
+         8	that	that	subj:&gt;9	@SUBJ %NH &lt;Rel&gt; PRON
+         9	encode	encode	mod:&gt;7	@+FMAINV %VA V PRES
+         10	multiple	multiple	attr:&gt;11	@A&gt; %&gt;N A ABS
+         11	PDE4	pde4	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+         12	cyclic	cyclic	attr:&gt;13	@A&gt; %&gt;N A ABS
+         13	AMP-specific	amp-specific	attr:&gt;14	@A&gt; %&gt;N A ABS
+         14	phosphodiesterase	phosphodiesterase	attr:&gt;15	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         15	isoforms	isoform	obj:&gt;9	@OBJ %NH &lt;?&gt; N NOM PL
+         16	that	that	subj:&gt;17	@SUBJ %NH &lt;Rel&gt; PRON
+         17	are	be	v-ch:&gt;18	@+FAUXV %AUX V PRES
+         18	inhibited	inhibit	mod:&gt;15	@-FMAINV %VP EN
+         19	by	by	agt:&gt;18	@ADVL %EH PREP
+         20	rolipram	rolipram	pcomp:&gt;19	@&lt;P %NH &lt;?&gt; N NOM SG
+         21	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+Nitric oxide (NO) activates the soluble isoform of guanylate cyclase in platelets and inhibits platelet function.
+
+</text>
+       <arg n="0">Nitric oxide
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">platelet function
+</arg>
+<fdg>
+         
+         1	Nitric	nitric	attr:&gt;2	@A&gt; %&gt;N A ABS
+         2	oxide	oxide	subj:&gt;6	@SUBJ %NH N NOM SG
+         3	(	(
+         4	NO	no		@ADVL %EH ADV
+         5	)	)
+         6	activates	activate	main:&gt;0	@+FMAINV %VA V PRES SG3
+         7	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+         8	soluble	soluble	attr:&gt;9	@A&gt; %&gt;N A ABS
+         9	isoform	isoform	obj:&gt;6	@OBJ %NH &lt;?&gt; N NOM SG
+         10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+         11	guanylate	guanylate	attr:&gt;12	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         12	cyclase	cyclase	pcomp:&gt;10	@&lt;P %NH &lt;?&gt; N NOM SG
+         13	in	in	mod:&gt;12	@&lt;NOM %N&lt; PREP
+         14	platelets	platelet	pcomp:&gt;13	@&lt;P %NH N NOM PL
+         15	and	and	cc:&gt;6	@CC %CC CC
+         16	inhibits	inhibit	cc:&gt;6	@+FMAINV %VA V PRES SG3
+         17	platelet	platelet	attr:&gt;18	@A&gt; %&gt;N N NOM SG
+         18	function	function	obj:&gt;16	@OBJ %NH N NOM SG
+         19	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+Natural killer (NK) cells express cell-surface receptors of the immunoglobulin and C-type lectin superfamilies that recognize major histocompatibility complex (MHC) class I peptides and inhibit NK-cell-mediated cytotoxicity.
+
+</text>
+       <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">NK-cell-mediated cytotoxicity
+</arg>
+<fdg>
+         1	Natural	natural	attr:&gt;2	@A&gt; %&gt;N A ABS
+         2	killer	killer		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+         3	(	(
+         4	NK	nk		@NH %NH ABBR NOM SG
+         5	)	)
+         6	cells	cell	subj:&gt;7	@SUBJ %NH N NOM PL
+         7	express	express	main:&gt;0	@+FMAINV %VA V PRES
+         8	cell-surface	cell-surface	attr:&gt;9	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         9	receptors	receptor	obj:&gt;7	@OBJ %NH N NOM PL
+         10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+         11	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+         12	immunoglobulin	immunoglobulin	cc:&gt;14	@A&gt; %&gt;N N NOM SG
+         13	and	and	cc:&gt;14	@CC %CC CC
+         14	C-type	c-type	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+         15	lectin	lectin	attr:&gt;16	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         16	superfamilies	superfamily	pcomp:&gt;10	@&lt;P %NH N NOM PL
+         17	that	that	subj:&gt;18	@SUBJ %NH &lt;Rel&gt; PRON
+         18	recognize	recognize	mod:&gt;16	@+FMAINV %VA V PRES
+         19	major	major	attr:&gt;20	@A&gt; %&gt;N A ABS
+         20	histocompatibility	histocompatibility	attr:&gt;21	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         21	complex	complex	attr:&gt;25	@A&gt; %&gt;N A ABS
+         22	(	(
+         23	MHC	mhc		@NH %NH ABBR NOM SG
+         24	)	)
+         25	class	class	obj:&gt;18	@OBJ %NH N NOM
+         26	I	i		@SUBJ %NH PRON PERS NOM SG1
+         27	peptides	peptide		@NH %NH N NOM PL	@OBJ %NH N NOM PL	@APP %NH N NOM PL
+         28	and	and	cc:&gt;18	@CC %CC CC
+         29	inhibit	inhibit	cc:&gt;18	@+FMAINV %VA V PRES
+         30	NK-cell-mediated	nk-cell-mediated	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+         31	cytotoxicity	cytotoxicity	obj:&gt;29	@OBJ %NH N NOM SG
+         32	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+Transient overexpression in COS cells verified that a heat-stable inhibitor of protein kinase was produced by he human PKI cDNA, and protein extracts from the transfected COS cells inhibited both the C alpha and C beta isoforms of the PKA catalytic subunit with equal efficacy.
+
+</text>
+       <arg n="0">protein extracts from the transfected COS cells 
+</arg>
+       <arg n="1">both the C alpha and C beta isoforms of the PKA catalytic subunit
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+         1	Transient	transient	attr:&gt;2	@A&gt; %&gt;N A ABS
+         2	overexpression	overexpression		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG
+         3	in	in	mod:&gt;2	@&lt;NOM %N&lt; PREP
+         4	COS	cos	pm:&gt;6	@CS %CS CS
+         5	cells	cell	subj:&gt;6	@SUBJ %NH N NOM PL
+         6	verified	verify		@+FMAINV %VA V PAST
+         7	that	that	pm:&gt;15	@CS %CS CS
+         8	a	a	det:&gt;10	@DN&gt; %&gt;N DET SG
+         9	heat-stable	heat-stable	attr:&gt;10	@A&gt; %&gt;N &lt;?&gt; A ABS
+         10	inhibitor	inhibitor	subj:&gt;14	@SUBJ %NH N NOM SG
+         11	of	of	mod:&gt;10	@&lt;NOM-OF %N&lt; PREP
+         12	protein	protein	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+         13	kinase	kinase	pcomp:&gt;11	@&lt;P %NH N NOM SG
+         14	was	be	v-ch:&gt;15	@+FAUXV %AUX V PAST
+         15	produced	produce		@-FMAINV %VP EN
+         16	by	by	ha:&gt;15	@ADVL %EH ADV
+         17	he	he		@SUBJ %NH PRON PERS NOM SG3
+         18	human	human	attr:&gt;19	@A&gt; %&gt;N A ABS
+         19	PKI	pki	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+         20	cDNA	cdna	obj:&gt;15	@OBJ %NH ABBR NOM SG
+         21	,	,
+         22	and	and	cc:&gt;15	@CC %CC CC
+         23	protein	protein	subj:&gt;24	@SUBJ %NH N NOM SG
+         24	extracts	extract	cc:&gt;15	@+FMAINV %VA V PRES SG3
+         25	from	from	sou:&gt;24	@ADVL %EH PREP
+         26	the	the	det:&gt;29	@DN&gt; %&gt;N DET
+         27	transfected	transfected	attr:&gt;28	@A&gt; %&gt;N A ABS
+         28	COS	cos	attr:&gt;29	@A&gt; %&gt;N ABBR NOM SG
+         29	cells	cell	pcomp:&gt;25	@&lt;P %NH N NOM PL
+         30	inhibited	inhibit	mod:&gt;29	@-FMAINV %VP EN
+         31	both	both	det:&gt;32	@DN&gt; %&gt;N DET PL
+         32	the	the	det:&gt;34	@DN&gt; %&gt;N DET
+         33	C	c	attr:&gt;34	@A&gt; %&gt;N N NOM SG
+         34	alpha	alpha	obj:&gt;30	@OBJ %NH N NOM SG
+         35	and	and	cc:&gt;34	@CC %CC CC
+         36	C	c	attr:&gt;37	@A&gt; %&gt;N N NOM SG
+         37	beta	beta	attr:&gt;38	@A&gt; %&gt;N N NOM SG
+         38	isoforms	isoform	cc:&gt;34	@OBJ %NH &lt;?&gt; N NOM PL
+         39	of	of	mod:&gt;38	@&lt;NOM-OF %N&lt; PREP
+         40	the	the	det:&gt;43	@DN&gt; %&gt;N DET
+         41	PKA	pka	attr:&gt;42	@A&gt; %&gt;N N NOM SG
+         42	catalytic	catalytic	attr:&gt;43	@A&gt; %&gt;N A ABS
+         43	subunit	subunit	pcomp:&gt;39	@&lt;P %NH N NOM SG
+         44	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+         45	equal	equal	attr:&gt;46	@A&gt; %&gt;N A ABS
+         46	efficacy	efficacy	pcomp:&gt;44	@&lt;P %NH N NOM SG
+         47	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Here, we have found that the downregulation of phosphorylated Stat4, Stat5 and Stat6 is inhibited by the proteasome inhibitors MG132 and lactacystin, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 is not sensitive to these inhibitors.
+
+</text>
+       <arg n="0">[by] proteasome inhibitors MG132 and lactacystin
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">the downregulation of phosphorylated Stat4, Stat5 and Stat6
+</arg>
+<fdg>
+1	Here	here	loc:&gt;5	@ADVL %EH ADV
+2	,	,
+3	we	we	subj:&gt;4	@SUBJ %NH PRON PERS NOM PL1
+4	have	have	v-ch:&gt;5	@+FAUXV %AUX V PRES
+5	found	find	main:&gt;0	@-FMAINV %VA EN
+6	that	that	pm:&gt;17	@CS %CS CS
+7	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+8	downregulation	downregulation	subj:&gt;16	@SUBJ %NH N NOM SG
+9	of	of	mod:&gt;8	@&lt;NOM-OF %N&lt; PREP
+10	phosphorylated	phosphorylated	attr:&gt;11	@A&gt; %&gt;N A ABS
+11	Stat4	stat4	pcomp:&gt;9	@&lt;P %NH N NOM SG
+12	,	,
+13	Stat5	stat5	cc:&gt;11	@&lt;P %NH N NOM SG
+14	and	and	cc:&gt;13	@CC %CC CC
+15	Stat6	stat6	cc:&gt;13	@&lt;P %NH N NOM SG
+16	is	be	v-ch:&gt;17	@+FAUXV %AUX V PRES SG3
+17	inhibited	inhibit	obj:&gt;5	@-FMAINV %VP EN
+18	by	by	ha:&gt;17	@ADVL %EH PREP
+19	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+20	proteasome	proteasome	attr:&gt;21	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+21	inhibitors	inhibitor	attr:&gt;22	@A&gt; %&gt;N N NOM PL
+22	MG132	mg132	pcomp:&gt;18	@&lt;P %NH N NOM SG
+23	and	and	cc:&gt;22	@CC %CC CC
+24	lactacystin	lactacystin	cc:&gt;22	@&lt;P %NH &lt;?&gt; N NOM SG
+25	,	,
+26	while	while	tmp:&gt;36	@ADVL %EH ADV WH
+27	the	the	det:&gt;28	@DN&gt; %&gt;N DET
+28	downregulation	downregulation	subj:&gt;36	@SUBJ %NH N NOM SG
+29	of	of	mod:&gt;28	@&lt;NOM-OF %N&lt; PREP
+30	phosphorylated	phosphorylated	attr:&gt;31	@A&gt; %&gt;N A ABS
+31	Stat1	stat1	pcomp:&gt;29	@&lt;P %NH N NOM SG
+32	,	,
+33	Stat2	stat2	cc:&gt;31	@&lt;P %NH N NOM SG
+34	and	and	cc:&gt;33	@CC %CC CC
+35	Stat3	stat3	cc:&gt;33	@&lt;P %NH N NOM SG
+36	is	be	tmp:&gt;17	@+FMAINV %VA V PRES SG3
+37	not	not	neg:&gt;36	@ADVL %EH NEG-PART
+38	sensitive	sensitive	comp:&gt;36	@PCOMPL-S %NH A ABS
+39	to	to	goa:&gt;36	@ADVL %EH PREP
+40	these	this	det:&gt;41	@DN&gt; %&gt;N DET DEM PL
+41	inhibitors	inhibitor	pcomp:&gt;39	@&lt;P %NH N NOM PL
+42	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+For example, the phosphatase may associate with another protein and thereby be inhibited in its function or localization.
+
+</text>
+       <arg n="0">the phosphatase
+</arg>
+       <arg n="1">another protein 
+</arg>
+       <arg n="2">its function or localization
+</arg>
+<fdg>
+1	For example	for example	meta:&gt;6	@ADVL %EH ADV
+2	,	,
+3	the	the	det:&gt;4	@DN&gt; %&gt;N DET
+4	phosphatase	phosphatase	subj:&gt;5	@SUBJ %NH N NOM SG
+5	may	may	v-ch:&gt;6	@+FAUXV %AUX V AUXMOD
+6	associate	associate	main:&gt;0	@-FMAINV %VA V INF
+7	with	with	phr:&gt;6	@ADVL %EH PREP
+8	another	another	det:&gt;9	@DN&gt; %&gt;N DET
+9	protein	protein	pcomp:&gt;7	@&lt;P %NH N NOM SG
+10	and	and	cc:&gt;6	@CC %CC CC
+11	thereby	thereby	meta:&gt;13	@ADVL %EH ADV
+12	be	be	v-ch:&gt;13	@-FAUXV %AUX V INF
+13	inhibited	inhibit	cc:&gt;6	@-FMAINV %VP EN
+14	in	in	loc:&gt;13	@ADVL %EH PREP
+15	its	it	attr:&gt;16	@A&gt; %&gt;N PRON GEN SG3
+16	function	function	pcomp:&gt;14	@&lt;P %NH N NOM SG
+17	or	or	cc:&gt;16	@CC %CC CC
+18	localization	localization	cc:&gt;16	@&lt;P %NH N NOM SG
+19	.     . 
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+The N-terminal SH3 domain (SH3A), unlike other SH3 domains from intersectin or various endocytic proteins, specifically inhibits intermediate events leading to the formation of clathrin-coated pits.
+
+</text>
+       <arg n="0">The N-terminal SH3 domain
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">intermediate events
+</arg>
+<fdg>
+1	The	the	det:&gt;4	@DN&gt; %&gt;N DET
+2	N-terminal	n-terminal	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	SH3	sh3	attr:&gt;4	@A&gt; %&gt;N N NOM SG
+4	domain	domain		@NH %NH N NOM SG	@SUBJ %NH N NOM SG
+5	(	(
+6	SH3A	sh3a	mod:&gt;4	@NH %NH N NOM SG
+7	)	)
+8	,	,
+9	unlike	unlike		@ADVL %EH PREP
+10	other	other	det:&gt;12	@DN&gt; %&gt;N DET
+11	SH3	sh3	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	domains	domain	pcomp:&gt;9	@&lt;P %NH N NOM PL
+13	from	from	mod:&gt;12	@&lt;NOM %N&lt; PREP
+14	intersectin	intersectin	pcomp:&gt;13	@&lt;P %NH &lt;?&gt; N NOM SG
+15	or	or	cc:&gt;14	@CC %CC CC
+16	various	various	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	endocytic	endocytic	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	proteins	protein	cc:&gt;14	@&lt;P %NH N NOM PL
+19	,	,
+20	specifically	specifically	ha:&gt;21	@ADVL %EH ADV
+21	inhibits	inhibit	main:&gt;0	@+FMAINV %VA V PRES SG3
+22	intermediate	intermediate	attr:&gt;23	@A&gt; %&gt;N A ABS
+23	events	event	obj:&gt;21	@OBJ %NH N NOM PL
+24	leading	lead	mod:&gt;23	@-FMAINV %VA ING
+25	to	to	ha:&gt;24	@ADVL %EH PREP
+26	the	the	det:&gt;27	@DN&gt; %&gt;N DET
+27	formation	formation	pcomp:&gt;25	@&lt;P %NH N NOM SG
+28	of	of	mod:&gt;27	@&lt;NOM-OF %N&lt; PREP
+29	clathrin	clathrin	pcomp:&gt;28	@&lt;P %NH &lt;?&gt; N NOM SG
+30	-	-
+31	&lt;s&gt;	&lt;s&gt;
+1	coated	coated	attr:&gt;2	@A&gt; %&gt;N A ABS
+2	pits	pit		@APP %NH N NOM PL
+3	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+Intriguingly, while the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I, selectively inhibit late events of clathrin-coated vesicle formation involving membrane fission, intersectin SH3A was unique in its ability to block earlier stages (Simpson et al., 1999).
+
+</text>
+       <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">late events of clathrin-coated vesicle formation
+</arg>
+<fdg>
+         
+1	Intriguingly	intriguingly		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV
+2	,	,
+3	while	while		@ADVL %EH ADV WH	@&lt;P %NH ADV WH
+4	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+5	SH3C	sh3c	cc:&gt;7	@A&gt; %&gt;N N NOM SG
+6	and	and	cc:&gt;7	@CC %CC CC
+7	SH3E	sh3e	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	domains	domain	subj:&gt;58	@SUBJ %NH N NOM PL
+9	of	of	mod:&gt;8	@&lt;NOM-OF %N&lt; PREP
+10	intersectin	intersectin	pcomp:&gt;9	@&lt;P %NH &lt;?&gt; N NOM SG
+11	,	,
+12	as well as	as well as	cc:&gt;10	@CC %CC CC
+13	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+14	SH3	sh3	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	domains	domain	cc:&gt;10	@&lt;P %NH N NOM PL
+16	from	from	mod:&gt;15	@&lt;NOM %N&lt; PREP
+17	the	the	det:&gt;20	@DN&gt; %&gt;N DET
+18	endocytic	endocytic	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	proteins	protein	attr:&gt;20	@A&gt; %&gt;N N NOM PL
+20	endophilin	endophilin	pcomp:&gt;16	@&lt;P %NH &lt;?&gt; N NOM SG
+21	I	i		@SUBJ %NH PRON PERS NOM SG1
+22	(	(
+23	de	de		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+24	Heuvel	heuvel	pcomp:&gt;23	@&lt;P %NH N NOM SG
+25	et	et		@CC %CC CC
+26	al.	al.		@SUBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+27	,	,
+28	1997	1997		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@PCOMPL-S %NH NUM CARD	@&lt;P %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+29	;	;
+30	Ringstad	ringstad	main:&gt;29	@NH %NH &lt;?&gt; N NOM SG
+31	et	et	cc:&gt;30	@CC %CC CC
+32	al.	al.	cc:&gt;30	@NH %NH ABBR NOM SG
+33	,	,
+34	1997	1997	cc:&gt;32	@NH %NH NUM CARD
+35	)	)
+36	,	,
+37	amphiphysin	amphiphysin		@NH %NH &lt;?&gt; N NOM SG	@SUBJ %NH &lt;?&gt; N NOM SG	@PCOMPL-S %NH &lt;?&gt; N NOM SG	@A&gt; %&gt;N &lt;?&gt; N NOM SG	@&lt;P %NH &lt;?&gt; N NOM SG
+38	II	ii		@A&gt; %&gt;N NUM ORD	@PCOMPL-S %NH NUM ORD	@SUBJ %NH NUM ORD	@OBJ %NH NUM ORD	@ADVL %EH NUM ORD	@&lt;P %NH NUM ORD	@&lt;NOM %N&lt; NUM ORD
+39	(	(
+40	Ramjaun	ramjaun	main:&gt;39	@APP %NH &lt;?&gt; N NOM SG
+41	et	et	cc:&gt;40	@CC %CC CC
+42	al.	al.	cc:&gt;40	@APP %NH ABBR NOM SG
+43	,	,
+44	1997	1997	cc:&gt;42	@NH %NH NUM CARD
+45	)	)
+46	and	and		@CC %CC CC
+47	syndapin	syndapin		@NH %NH &lt;?&gt; N NOM SG	@SUBJ %NH &lt;?&gt; N NOM SG	@OBJ %NH &lt;?&gt; N NOM SG	@PCOMPL-S %NH &lt;?&gt; N NOM SG	@APP %NH &lt;?&gt; N NOM SG	@&lt;P %NH &lt;?&gt; N NOM SG
+48	I	i		@SUBJ %NH PRON PERS NOM SG1
+49	(	(
+50	Qualmann	qualmann	main:&gt;49	@APP %NH &lt;?&gt; N NOM SG
+51	et	et	cc:&gt;50	@CC %CC CC
+52	al.	al.	cc:&gt;50	@APP %NH ABBR NOM SG
+53	,	,
+54	1999	1999	cc:&gt;52	@NH %NH NUM CARD
+55	)	)
+56	,	,
+57	selectively	selectively	ha:&gt;58	@ADVL %EH ADV
+58	inhibit	inhibit		@+FMAINV %VA V PRES
+59	late	late	attr:&gt;60	@A&gt; %&gt;N A ABS
+60	events	event	obj:&gt;58	@OBJ %NH N NOM PL
+61	of	of	mod:&gt;60	@&lt;NOM-OF %N&lt; PREP
+62	clathrin-coated	clathrin-coated	attr:&gt;63	@A&gt; %&gt;N &lt;?&gt; A ABS
+63	vesicle	vesicle	attr:&gt;64	@A&gt; %&gt;N N NOM SG
+64	formation	formation	pcomp:&gt;61	@&lt;P %NH N NOM SG
+65	involving	involve	mod:&gt;64	@-FMAINV %VA ING
+66	membrane	membrane	attr:&gt;67	@A&gt; %&gt;N N NOM SG
+67	fission	fission	obj:&gt;65	@OBJ %NH N NOM SG
+68	,	,
+69	intersectin	intersectin	attr:&gt;70	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+70	SH3A	sh3a	subj:&gt;71	@SUBJ %NH N NOM SG
+71	was	be		@+FMAINV %VA V PAST
+72	unique	unique	comp:&gt;71	@PCOMPL-S %NH A ABS
+73	in	in	loc:&gt;71	@&lt;NOM %N&lt; PREP
+74	its	it	attr:&gt;75	@A&gt; %&gt;N PRON GEN SG3
+75	ability	ability	pcomp:&gt;73	@&lt;P %NH N NOM SG
+76	to	to	pm:&gt;77	@INFMARK&gt; %AUX INFMARK&gt;
+77	block	block	mod:&gt;75	@-FMAINV %VA V INF
+78	earlier	early	attr:&gt;79	@A&gt; %&gt;N A CMP
+79	stages	stage	obj:&gt;77	@OBJ %NH N NOM PL
+80	(	(
+81	Simpson	simpson	main:&gt;80	@APP %NH N NOM SG
+82	et	et		@CC %CC CC
+83	al.	al.		@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+84	,	,
+85	1999	1999		@NH %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+86	)	)
+87	.     .
+</fdg>
+</example>
+<example src="EMBO" no="5">
+<text>
+The half-life of the AGT proteins was determined by growing cells at 37 C in LB broth supplemented with 50 mg/ml ampicillin, 50 mg/ml kanamycin and 0.2 mM IPTG until the A600 reached 0.3 and then treating them with 50 mg/ml chloramphenicol to inhibit protein synthesis.
+
+</text>
+       <arg n="0">chloramphenicol
+</arg>
+       <arg n="1">them
+</arg>
+       <arg n="2">protein synthesis
+</arg>
+<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	half-life	half-life	subj:&gt;7	@SUBJ %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+5	AGT	agt	attr:&gt;6	@A&gt; %&gt;N ABBR NOM SG
+6	proteins	protein	pcomp:&gt;3	@&lt;P %NH N NOM PL
+7	was	be	v-ch:&gt;8	@+FAUXV %AUX V PAST
+8	determined	determine		@-FMAINV %VP EN
+9	by	by	man:&gt;8	@ADVL %EH PREP
+10	growing	grow	pcomp:&gt;9	@&lt;P-FMAINV %VA ING
+11	cells	cell	obj:&gt;10	@OBJ %NH N NOM PL
+12	at	at		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+13	37	37		@QN&gt; %&gt;N NUM CARD
+14	C	c	pcomp:&gt;12	@&lt;P %NH N NOM SG
+15	in	in	mod:&gt;14	@&lt;NOM %N&lt; PREP
+16	LB	lb	attr:&gt;17	@A&gt; %&gt;N ABBR NOM SG
+17	broth	broth	pcomp:&gt;15	@&lt;P %NH N NOM SG
+18	supplemented	supplement	mod:&gt;17	@-FMAINV %VP EN
+19	with	with	phr:&gt;18	@ADVL %EH PREP
+20	50	50		@QN&gt; %&gt;N NUM CARD
+21	µg	µg	pcomp:&gt;19	@&lt;P %NH N NOM SG
+22	/	/	
+23	ml	ml	attr:&gt;24	@A&gt; %&gt;N ABBR NOM
+24	ampicillin	ampicillin		@A&gt; %&gt;N &lt;?&gt; N NOM SG
+25	,	,
+26	50	50		@QN&gt; %&gt;N NUM CARD
+27	µg	µg		@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+28	/	/	
+29	ml	ml	attr:&gt;30	@A&gt; %&gt;N ABBR NOM
+30	kanamycin	kanamycin		@&lt;P %NH &lt;?&gt; N NOM SG
+31	and	and	cc:&gt;30	@CC %CC CC
+32	0.2	0.2	qn:&gt;33	@QN&gt; %&gt;N NUM CARD
+33	mM	mm	attr:&gt;34	@A&gt; %&gt;N ABBR NOM
+34	IPTG	iptg	cc:&gt;30	@&lt;P %NH N NOM SG
+35	until	until	pm:&gt;38	@CS %CS CS
+36	the	the	det:&gt;37	@DN&gt; %&gt;N DET
+37	A600	a600	subj:&gt;38	@SUBJ %NH N NOM SG
+38	reached	reach		@+FMAINV %VA V PAST
+39	0.3	0.3	obj:&gt;38	@OBJ %NH NUM CARD
+40	and	and	cc:&gt;38	@CC %CC CC
+41	then	then	meta:&gt;42	@ADVL %EH ADV
+42	treating	treat	cc:&gt;38	@-FMAINV %VA ING
+43	them	they	obj:&gt;42	@OBJ %NH PRON PERS ACC PL3
+44	with	with	com:&gt;42	@ADVL %EH PREP
+45	50	50		@QN&gt; %&gt;N NUM CARD
+46	µg	µg	pcomp:&gt;44	@&lt;P %NH N NOM SG
+47	/	/	
+48	ml	ml	attr:&gt;49	@A&gt; %&gt;N ABBR NOM
+49	chloramphenicol	chloramphenicol		@SUBJ %NH &lt;?&gt; N NOM SG
+50	to	to	pm:&gt;51	@INFMARK&gt; %AUX INFMARK&gt;
+51	inhibit	inhibit	mod:&gt;49	@-FMAINV %VA V INF
+52	protein	protein	attr:&gt;53	@A&gt; %&gt;N N NOM SG
+53	synthesis	synthesis	obj:&gt;51	@OBJ %NH N NOM SG
+54	.     .
+</fdg>
+</example>
+<example src="EMBO" no="6">
+<text>
+Binding was concentration dependent and saturable and was totally inhibited with 10mM EDTA, suggesting that divalent cations were required for interaction of IN1B with Vero cells.
+
+</text>
+       <arg n="0">[with] 10mM EDTA
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">Binding
+</arg>
+<fdg>
+1	Binding	binding	subj:&gt;2	@SUBJ %NH A ABS
+2	was	be	main:&gt;0	@+FMAINV %VA V PAST
+3	concentration	concentration	comp:&gt;2	@PCOMPL-S %NH N NOM SG
+4	dependent	dependent	mod:&gt;3	@&lt;NOM %N&lt; A ABS
+5	and	and		@CC %CC CC
+6	saturable	saturable		@PCOMPL-S %NH A ABS
+7	and	and		@CC %CC CC
+8	was	be	v-ch:&gt;10	@+FAUXV %AUX V PAST
+9	totally	totally	meta:&gt;10	@ADVL %EH ADV
+10	inhibited	inhibit		@-FMAINV %VP EN
+11	with	with	ha:&gt;10	@ADVL %EH PREP
+12	10	10	qn:&gt;13	@QN&gt; %&gt;N NUM CARD
+13	mM	mm	pcomp:&gt;11	@&lt;P %NH ABBR NOM
+14	EDTA	edta		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+15	,	,
+16	suggesting	suggest	man:&gt;10	@-FMAINV %VA ING
+17	that	that	pm:&gt;21	@CS %CS CS
+18	divalent	divalent	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	cations	cation	subj:&gt;20	@SUBJ %NH N NOM PL
+20	were	be	v-ch:&gt;21	@+FAUXV %AUX V PAST PL
+21	required	require	obj:&gt;16	@-FMAINV %VP EN
+22	for	for	ha:&gt;21	@ADVL %EH PREP
+23	interaction	interaction	pcomp:&gt;22	@&lt;P %NH N NOM SG
+24	of	of	mod:&gt;23	@&lt;NOM-OF %N&lt; PREP
+25	InlB	inlb	pcomp:&gt;24	@&lt;P %NH N NOM SG
+26	with	with	mod:&gt;25	@&lt;NOM %N&lt; PREP
+27	Vero	vero	attr:&gt;28	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+28	cells	cell	pcomp:&gt;26	@&lt;P %NH N NOM PL
+29	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

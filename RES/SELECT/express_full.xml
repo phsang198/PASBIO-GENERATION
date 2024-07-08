@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="express">
+            <roleset id="express.01" name="" wordnet="5">
+                <roles>
+                    <role n="0" descr="named entity being expressed&#x09;&#x09;&#x09;&#x09;&#x09;// gene or gene products//&#x0A;" />
+                    <role n="1" descr="property of the existing name entity&#x0A;" />
+                    <role n="2" descr="location refering to organelle, cell or tissue&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>In such cells at the cell surface, two in-frame α chain transcripts were produced, but only one of them can be expressed.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>In summary, NNT-1/BSF-3 is shown to be induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in pituitary folliculostellate TtT/GF cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary folliculostellate TtT/GF cells</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Northern blot analysis with mRNA from eight different human tissues demonstrated that the enzyme may have been expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+                    <arg n="2">brain</arg>
+                    <arg n="M-MAN">exclusively</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>One or the other of the two available TCRs are shown to be expressed only by T cells from double TCR transgenic mice at the cell surface.</text>
+                    <arg n="0">one or the other of the two available TCRs</arg>
+                    <arg n="2">T cells from double TCR transgenic mice at the cell surface</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>T cells from double TCR transgenic mice at the cell surface are able to express only one or the other of the two available TCRs.</text>
+                    <arg n="0">one or the other of the two available TCRs</arg>
+                    <arg n="2">T cells from double TCR transgenic mice at the cell surface</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>The human mitochondrial transcription termination factor (mTERF) cDNA is able to be expressed and cloned in vitro, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>The human mitochondrial transcription termination factor (mTERF) cDNA is expressed and cloned in vitro, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>The pfl operon is able to be expressed at high levels anaerobically.</text>
+                    <arg n="0">The pfl operon</arg>
+                    <arg n="0">high levels anaerobically</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>The transgene-encoded TCR proteins are able to be predominantly expressed by T cells in mice at the cell surface.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these T cells are expressing RNA and protein for all four transgenic TCR proteins.</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that this receptor is expressed by classical and variant SCCL.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and variant SCCL</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>BD73 messenger RNA is shown to be expressed primarily in in a wide variety of tissues and cell lines and is secreted into perineuronal nets.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="2">in a wide variety of tissues and cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>BD73 messenger RNA were expressed by in a wide variety of tissues and cell lines.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="2">in a wide variety of tissues and cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>BNIP3alpha is predicted to be expressed most human tissues.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="1">most human tissues</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>BNIP3alpha is predicted to be expressed most human tissues.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="1">most human tissues</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>BNIP3alpha is shown to be expressed most human tissues.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="1">most human tissues</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>BNIP3alpha would be expressed and cloned in in most human tissues, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="2">in most human tissues</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>In Most animal Ty3/gypsy retroelements, two Pol were produced, but only one was expressed.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">Most animal Ty3/gypsy retroelements</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>In T cells, two RNA and protein for all four transgenic TCR proteins are produced, but only one has been expressed .</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>In cells, two the avian retroviral receptor were produced, but only one was expressed.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>In classical and variant SCCL, two this receptor are produced, but only one is expressed.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and variant SCCL</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>In in a wide variety of tissues and cell lines, two BD73 messenger RNA are produced, but only one is shown to be expressed.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="2">in a wide variety of tissues and cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>In in most human tissues, two BNIP3alpha are produced, but only one is expressed.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="2">in most human tissues</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>In in most human tissues, two BNIP3alpha were produced, but only one was expressed.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="2">in most human tissues</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>In pituitary folliculostellate TtT/GF cells, two NNT-1/BSF-3 are produced, but only one has been expressed .</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary folliculostellate TtT/GF cells</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>In pituitary folliculostellate TtT/GF cells, two NNT-1/BSF-3 are produced, but only one is shown to be expressed.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary folliculostellate TtT/GF cells</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>In summary, RNA and protein for all four transgenic TCR proteins is able to be expressed in T cells and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>In summary, Reln has been expressed in γ-aminobutyric acid (GABA)ergic neurons and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>In summary, Reln is shown to be induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in γ-aminobutyric acid (GABA)ergic neurons.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>In summary, The human mitochondrial transcription termination factor (mTERF) cDNA will be expressed in vitro and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>In summary, in-frame α chain transcripts has been induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in such cells at the cell surface.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>In summary, one or the other of the two available TCRs will be induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in T cells from double TCR transgenic mice at the cell surface.</text>
+                    <arg n="0">one or the other of the two available TCRs</arg>
+                    <arg n="2">T cells from double TCR transgenic mice at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>In summary, the avian retroviral receptor is shown to be induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in cells.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>In summary, this receptor is able to be expressed in classical and variant SCCL and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and variant SCCL</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>In the cortex of adult animals, Pol was expressed primarily in Most animal Ty3/gypsy retroelements and is secreted into perineuronal nets.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">Most animal Ty3/gypsy retroelements</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>In the cortex of adult animals, The human mitochondrial transcription termination factor (mTERF) cDNA is expressed primarily in vitro and is secreted into perineuronal nets.</text>
+                    <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>In the cortex of adult animals, in-frame α chain transcripts is able to be expressed primarily in such cells at the cell surface and is secreted into perineuronal nets.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>In vitro, two The human mitochondrial transcription termination factor (mTERF) cDNA were produced, but only one of them can be expressed.</text>
+                    <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>In γ-aminobutyric acid (GABA)ergic neurons, two Reln are produced, but only one is shown to be expressed.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that BNIP3alpha was able to be been expressed by in most human tissues.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="2">in most human tissues</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that MGF was shown to be expressed by dystrophic muscle.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that Reln is expressed by γ-aminobutyric acid (GABA)ergic neurons.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that The human mitochondrial transcription termination factor (mTERF) cDNA is expressed by vitro.</text>
+                    <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that in-frame α chain transcripts may have been expressed by such cells at the cell surface.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that one or the other of the two available TCRs was shown to be expressed by T cells from double TCR transgenic mice at the cell surface.</text>
+                    <arg n="0">one or the other of the two available TCRs</arg>
+                    <arg n="2">T cells from double TCR transgenic mice at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>It primarily expressed MGF, which was secreted into perineuronal nets, in dystrophic muscle.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>MGF has been expressed primarily in dystrophic muscle and secreted into perineuronal nets.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>MGF is shown to be likely expressed through +1 or -1 frameshifting by dystrophic muscle.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>NNT-1/BSF-3 is likely expressed through +1 or -1 frameshifting by pituitary folliculostellate TtT/GF cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary folliculostellate TtT/GF cells</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>Northern blot analysis reveals that BD73 messenger RNA was expressed ubiquitously in in a wide variety of tissues and cell lines.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="1">in a wide variety of tissues and cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>Northern blot analysis reveals that BD73 messenger RNA will be expressed ubiquitously in in a wide variety of tissues and cell lines.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="1">in a wide variety of tissues and cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>Northern blot analysis with mRNA from eight different human tissues demonstrated that mRNAs for il8ra may have been expressed exclusively in neutrophils, with 2.0 and 2.4 kilobases in length.</text>
+                    <arg n="0">mRNAs for il8ra</arg>
+                    <arg n="1">2.0 and 2.4 kilobases in length</arg>
+                    <arg n="2">neutrophils</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>RCAS viruses infect only dystrophic muscle being involved in expressing ectopically MGF, TVA.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>RNA and protein for all four transgenic TCR proteins will be expressed primarily in T cells and is secreted into perineuronal nets.</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>Reln is able to be expressed and cloned in γ-aminobutyric acid (GABA)ergic neurons, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>Reln is shown to be likely expressed through +1 or -1 frameshifting by γ-aminobutyric acid (GABA)ergic neurons.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Reln were expressed by γ-aminobutyric acid (GABA)ergic neurons.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>T cells are able to express only RNA and protein for all four transgenic TCR proteins.</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>T cells are able to express only RNA and protein for all four transgenic TCR proteins.</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as BD73 messenger RNA could not to be expressed in response to overload by in a wide variety of tissues and cell lines.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="2">in a wide variety of tissues and cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as BNIP3alpha could not to be expressed in response to overload by in most human tissues.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="2">in most human tissues</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as NNT-1/BSF-3 has been shown not to be expressed in response to overload by pituitary folliculostellate TtT/GF cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary folliculostellate TtT/GF cells</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as Pol has been shown not to be expressed in response to overload by Most animal Ty3/gypsy retroelements.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">Most animal Ty3/gypsy retroelements</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as T cells from double TCR transgenic mice at the cell surface, unlike normal muscle, was unable to express one or the other of the two available TCRs in response to overload</text>
+                    <arg n="0">one or the other of the two available TCRs</arg>
+                    <arg n="2">T cells from double TCR transgenic mice at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as The human mitochondrial transcription termination factor (mTERF) cDNA was not able to be expressed in response to overload by vitro.</text>
+                    <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as cells, unlike normal muscle, cannot express the avian retroviral receptor in response to overload.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as classical and variant SCCL, unlike normal muscle, cannot express this receptor in response to overload.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and variant SCCL</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as in-frame α chain transcripts has been shown not to be expressed in response to overload by such cells at the cell surface.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as one or the other of the two available TCRs has been shown not to be expressed in response to overload by T cells from double TCR transgenic mice at the cell surface.</text>
+                    <arg n="0">one or the other of the two available TCRs</arg>
+                    <arg n="2">T cells from double TCR transgenic mice at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as this receptor could not to be expressed in response to overload by classical and variant SCCL.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and variant SCCL</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as γ-aminobutyric acid (GABA)ergic neurons, unlike normal muscle, was unable to express Reln in response to overload</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>The pfl operon was expressed at high levels anaerobically.</text>
+                    <arg n="0">The pfl operon</arg>
+                    <arg n="1">at high levels anaerobically</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these cells are expressing the avian retroviral receptor.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these dystrophic muscle have been shown to express MGF.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="64">
+                    <text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these in most human tissues express BNIP3alpha.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="2">in most human tissues</arg>
+                </example>
+                <example src="PERMUTATE" no="65">
+                    <text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these γ-aminobutyric acid (GABA)ergic neurons are involved in expressing Reln.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="66">
+                    <text>Two equally abundant the enzyme, two mRNA isoforms of 2.4 and 4.0 kb, have been expressed in brain and arise from usage of two alternative polyadenylation signals.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+                    <arg n="2">brain</arg>
+                </example>
+                <example src="PERMUTATE" no="67">
+                    <text>classical and variant SCCL have expressed only this receptor.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and variant SCCL</arg>
+                </example>
+                <example src="PERMUTATE" no="68">
+                    <text>in a wide variety of tissues and cell lines may have expressed only BD73 messenger RNA.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="2">in a wide variety of tissues and cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="69">
+                    <text>in-frame α chain transcripts has been expressed by such cells at the cell surface.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="70">
+                    <text>in-frame α chain transcripts is shown to be expressed primarily in such cells at the cell surface and is secreted into perineuronal nets.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="71">
+                    <text>in-frame α chain transcripts was shown to be expressed and cloned in such cells at the cell surface, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="72">
+                    <text>one or the other of the two available TCRs were expressed by T cells from double TCR transgenic mice at the cell surface.</text>
+                    <arg n="0">one or the other of the two available TCRs</arg>
+                    <arg n="2">T cells from double TCR transgenic mice at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="73">
+                    <text>one or the other of the two available TCRs will be expressed by T cells from double TCR transgenic mice at the cell surface.</text>
+                    <arg n="0">one or the other of the two available TCRs</arg>
+                    <arg n="2">T cells from double TCR transgenic mice at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="74">
+                    <text>pituitary folliculostellate TtT/GF cells have expressed only NNT-1/BSF-3.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary folliculostellate TtT/GF cells</arg>
+                </example>
+                <example src="PERMUTATE" no="75">
+                    <text>such cells at the cell surface may have expressed only in-frame α chain transcripts.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="76">
+                    <text>the avian retroviral receptor are expressed by cells.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="77">
+                    <text>the avian retroviral receptor has been cloned and expressed in cells, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="78">
+                    <text>the avian retroviral receptor is expressed and cloned in cells, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="79">
+                    <text>the avian retroviral receptor would be cloned and expressed in cells, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="80">
+                    <text>this receptor has been likely expressed through +1 or -1 frameshifting by classical and variant SCCL.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and variant SCCL</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>A complementary DNA clone has been expressed by vitro.</text>
+                    <arg n="0">A complementary DNA clone</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>A complementary DNA clone is able to be cloned and expressed in vitro, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">A complementary DNA clone</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>A complementary DNA clone was cloned and expressed in vitro, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">A complementary DNA clone</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>A complementary DNA clone would be cloned and expressed in vitro, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">A complementary DNA clone</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>In summary, A complementary DNA clone is shown to be expressed in vitro and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">A complementary DNA clone</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>In summary, the isoform identical to Ran/TC4 was expressed in both somatic tissues and testis and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">the isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic tissues and testis</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>In the cortex of adult animals, the transgene-encoded TCR proteins was expressed primarily in T cells in mice at the cell surface and is secreted into perineuronal nets.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that A complementary DNA clone may have been expressed by vitro.</text>
+                    <arg n="0">A complementary DNA clone</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that the transgene-encoded TCR proteins was expressed by T cells in mice at the cell surface.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>It has primarily expressed the transgene-encoded TCR proteins, which is secreted into perineuronal nets, in T cells in mice at the cell surface.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>It primarily expressed the transgene-encoded TCR proteins, which was secreted into perineuronal nets, in T cells in mice at the cell surface.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these T cells in mice at the cell surface have been shown to express the transgene-encoded TCR proteins.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>the isoform identical to Ran/TC4 has been expressed primarily in both somatic tissues and testis and secreted into perineuronal nets.</text>
+                    <arg n="0">the isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic tissues and testis</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>the isoform identical to Ran/TC4 is able to be cloned and expressed in both somatic tissues and testis, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">the isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic tissues and testis</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>the isoform identical to Ran/TC4 is expressed both somatic tissues and testis.</text>
+                    <arg n="0">the isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic tissues and testis</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>the transgene-encoded TCR proteins is shown to be expressed primarily in T cells in mice at the cell surface and is secreted into perineuronal nets.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>the transgene-encoded TCR proteins will be expressed primarily in T cells in mice at the cell surface and is secreted into perineuronal nets.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>the transgene-encoded TCR proteins would be likely expressed through +1 or -1 frameshifting by T cells in mice at the cell surface.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

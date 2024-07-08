@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="disrupt">
+            <roleset id="Disrupt.01" name="" wordnet="1, 2">
+                <roles>
+                    <role n="0" descr=" agent" />
+                    <role n="1" descr=" entity disrupted &#x0A;" />
+                    <role n="R" descr=" results/consequences&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Arg99 and Arg253 can disrupt with the keto groups of the base pair GO and C (blue) on both sides of the DNA dsD and disrupt hydrogen bonds in the model.</text>
+                    <arg n="0">Arg99 and Arg253</arg>
+                    <arg n="1">hydrogen bonds in the model</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Arg99 and Arg253 that interact with the keto groups of the base pair GO and C (blue) on either side of the dsDNA can disrupt hydrogen bonds in the model.</text>
+                    <arg n="0">Arg99 and Arg253</arg>
+                    <arg n="1">hydrogen bonds in the model</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Arr99 and Arr253 can disrupt with the base groups ceto and C (blue) on both sides of the dsDNA DNA and interrupt hydrogen bond pairing in the model.</text>
+                    <arg n="0">Arr99 and Arr253</arg>
+                    <arg n="1">hydrogen bond pairing in the model</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Arr99 and Arr253 that interacts with the keto and C group pair (blue) on both sides of the dsDNA can disrupt the hydrogen bonding pairing in the model.</text>
+                    <arg n="0">Arr99 and Arr253</arg>
+                    <arg n="1">the hydrogen bonding pairing in the model</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>In splicing sequencer: (GAR)n-(GAR)n has been disrupted by mutation 415G4, resulting in R (exon 5 omitting ).</text>
+                    <arg n="0">mutation 415G4</arg>
+                    <arg n="1">splicing sequencer: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>It has been shown that mutation 415G4 disrupt an pulling enhancement sequence: (GAR)n-(GAR)n resulting in R (exon 5 is omitted).</text>
+                    <arg n="0">mutation 415G4</arg>
+                    <arg n="1">pulling enhancement sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>It has been shown that this suppression interrupts consensus signal 5 and disrupt to exon is omitted.</text>
+                    <arg n="0">this suppression</arg>
+                    <arg n="1">consensus signal 5</arg>
+                    <arg n="R">exon is omitted</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>It is important to note that blocking the expression MEKK1 or MEKK2 is capable of disrupt the overall integrity of the MAPK route regulation.</text>
+                    <arg n="0">blocking the expression MEKK1 or MEKK2</arg>
+                    <arg n="1">the overall integrity of the MAPK route regulation</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>It is important to note that the findings disrupt that retired from the MEKK1 or MEKK2 expression has not interrupts the overall integrity of the MAPK pathway regulation.</text>
+                    <arg n="0">retired from the MEKK1 or MEKK2 expression</arg>
+                    <arg n="1">the overall integrity of the MAPK pathway regulation</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>It is important to note that the findings show that retired from the MEKK1 or MEKK2 expression will disrupt no the overall integrity of the MAPK pathway regulation.</text>
+                    <arg n="0">retired from the MEKK1 or MEKK2 expression</arg>
+                    <arg n="1">the overall integrity of the MAPK pathway regulation</arg>
+                    <arg n="M-NEG">no</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>It is important to note that the knockout of the MEKK1 or MEKK2 expression disrupt the overall integrity of the MAPK pathway regulation.</text>
+                    <arg n="0">the knockout of the MEKK1 or MEKK2 expression</arg>
+                    <arg n="1">the overall integrity of the MAPK pathway regulation</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>It is important to point out that knockout of the expression MEKK1 or MEKK2 disrupt the overall integrity of MAPK pathway regulation.</text>
+                    <arg n="0">knockout of the expression MEKK1 or MEKK2</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>It is important to stress that knockout of the expression MEKK1 or MEKK2 could disrupt with the overall integrity of MAPK pathway regulation.</text>
+                    <arg n="0">knockout of the expression MEKK1 or MEKK2</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>It is important to stress that knockout of the expression MEKK1 or MEKK2 has the no that disrupt the overall integrity of MAPK pathway regulation.</text>
+                    <arg n="0">knockout of the expression MEKK1 or MEKK2</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                    <arg n="M-NEG">no</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>It is important to stress that knockout of the expression MEKK1 or MEKK2 is able to disrupt the overall integrity of MAPK pathway regulation.</text>
+                    <arg n="0">knockout of the expression MEKK1 or MEKK2</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>It is important to stress that the findings show that his retired expression MEKK1 or MEKK2 disrupt the expression no the overall integrity of MAPK pathway regulation.</text>
+                    <arg n="0">his retired expression MEKK1 or MEKK2</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                    <arg n="M-NEG">no</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>It is important to stress that the findings show that if retired from the expression MEKK1 or MEKK2 could disrupt the overall integrity of MAPK pathway regulation.</text>
+                    <arg n="0">if retired from the expression MEKK1 or MEKK2</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Multations in p53 are able to disrupt responses of checkpoints to DNA damage and results in the potential for genome destabilization.</text>
+                    <arg n="0">Multations in p53</arg>
+                    <arg n="1">responses of checkpoints to DNA damage</arg>
+                    <arg n="R">the potential for genome destabilization</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Multations in p53 disrupted posts of checkpoints to DNA damage and resulted in the potential for genome destabilization.</text>
+                    <arg n="0">Multations in p53</arg>
+                    <arg n="1">posts of checkpoints to DNA damage</arg>
+                    <arg n="R">the potential for genome destabilization</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Mutation 415G4 broke a sequence of potent spike: (GAR)n-(GAR)n disrupted in R (exon 5 spike).</text>
+                    <arg n="0">Mutation 415G4</arg>
+                    <arg n="1">potent spike: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Mutations in p53 disrupting responses of checkpoints to DNA damage can result in the potential for genome destabilization.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">responses of checkpoints to DNA damage</arg>
+                    <arg n="R">the potential for genome destabilization</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Mutations in p53 have perturbed responses of checkpoints to DNA damage and disrupted in the potential for genome destabilization.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">responses of checkpoints to DNA damage</arg>
+                    <arg n="R">the potential for genome destabilization</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>Quantitative electrophysiology of a single unit revealed that alcohol consumption exposure interrupts ocular dominance plasticity by disrupts robust visual responses.</text>
+                    <arg n="0">alcohol consumption exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>Quantitative electrophysiology of a single unit revealed that alcohol exposure has been able to disrupt ocular dominance plasticity preserving robust visual responses.</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>Quantitative electrophysiology of a single unit revealed that alcohol exposure has been shown to disrupt ocular dominance plasticity while preserving robust visual responses.</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>Quantitative electrophysiology of a single unit revealed that alcohol exposure has disrupted ocular dominance plasticity while preserving robust visual responses.</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>Quantitative electrophysiology of a single unit revealed that alcohol exposure interrupts ocular dominance plasticity while disrupts robust visual responses.</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Quantitative electrophysiology of a single unit revealed that alcohol exposure is able to detach ocular domain plasticity disrupt robust visual responses.</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular domain plasticity</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Quantitative electrophysiology of a single unit revealed that exposure to alcohol consumption disrupted plasticity of eye dominance while retaining robust visual responses.</text>
+                    <arg n="0">exposure to alcohol consumption</arg>
+                    <arg n="1">plasticity of eye dominance</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Quantitative electrophysiology of a single unit revealed that exposure to alcohol consumption is capable of disrupt ocular domain plasticity by preserving robust visual responses.</text>
+                    <arg n="0">exposure to alcohol consumption</arg>
+                    <arg n="1">ocular domain plasticity</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>R142X, located in a purine-rich segment in nt 62/116 of exon 5, disrupting R (exon emptied), possibly through the breakup of a splicing enhancer.</text>
+                    <arg n="0">R142X</arg>
+                    <arg n="1">a splicing enhancer</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>R142X, located in a purine-rich segment in nt 62/116 of exon 5, disrupting R (exon emptying), possibly through the rupture of a splicing enhancer.</text>
+                    <arg n="0">R142X</arg>
+                    <arg n="1">a splicing enhancer</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>R142X, located in a purine-rich segment in nt 62/116 of exon 5, may disrupt a splicing power to cause R (omitting exon).</text>
+                    <arg n="0">R142X</arg>
+                    <arg n="1">a splicing power</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>R142X, located within a purine-rich segment on nt 62/116 of exon 5, can disrupt a splicing power to cause R (by omitting exon).</text>
+                    <arg n="0">R142X</arg>
+                    <arg n="1">a splicing power</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>Studies using polymerase chain reaction, restriction enzymatic digestion (Gly188---Glu mutation being able to disrupt one site Ava II, the Arg243----His mutation, one site Hha I and the Asp250----Asn mutation, one site Taq I) and the hybridization of allele-specific oligonucleotides confirmed that the patients</text>
+                    <arg n="0">Gly188---Glu mutation</arg>
+                    <arg n="1">one site Ava II</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>Studies using polymerase chain reaction, restriction enzymatic digestion (Gly188---Glu mutation that can disrupt a site Ava II, the Arg243----His mutation, a site Hha I and the Asp250----Asn mutation, a site Taq I) and the hybridization of allele-specific oligonucleotides confirmed that the patients were indeed com</text>
+                    <arg n="0">Gly188---Glu mutation</arg>
+                    <arg n="1">a site Ava II</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>Studies using polymerase chain reaction, restriction enzymatic digestion (Gly188---Glu mutation that disrupted a site Ava II, the Arg243----His mutation, a site Hha I and the Asp250----Asn mutation, a site Taq I) and the hybridization of allele-specific oligonucleotides confirmed that the patients were indeed composit</text>
+                    <arg n="0">Gly188---Glu mutation</arg>
+                    <arg n="1">a site Ava II</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>Studies using polymerase chain reaction, restriction enzymatic digestion (Gly188---Glu mutation with A1 rupture (one site Ava II), the Arg243----His mutation, one site Hha I and the Asp250----Asn mutation, one site Taq I) and hybridization of allele-specific oligonucleotides disrupted that the patients were indeed com</text>
+                    <arg n="0">Gly188---Glu mutation</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>Studies using polymerase chain reaction, restriction enzymatic digestion (the Gly188--Glu mutation after disrupted an Ava II site, Arg243--His mutation, a Hha I site, and Asp250---Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that patients were indeed heterozygous compounds for the respective mutations.</text>
+                    <arg n="0">the Gly188--Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (the Gly188--Glu mutation being able to disrupt an Ava II site, Arg243--His mutation, a Hha I site, and Asp250---Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that patients were indeed heterozygous compounds for the respective mutations.</text>
+                    <arg n="0">the Gly188--Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (the Gly188--Glu mutation that can disrupt an Ava II site, the Arg243--His mutation, a Hha I site, and the Asp250---Asn mutation, a Taq I site), and the allele-specific oligonucleotide hybridization confirmed that patients were indeed heterozygous compounds for the respective mutations.</text>
+                    <arg n="0">the Gly188--Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (the Gly188--Glu mutation that have disrupted an Ava II site, Arg243--His mutation, a Hha I site, and Asp250---Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that patients were indeed heterozygous compounds for the respective mutations.</text>
+                    <arg n="0">the Gly188--Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>The 415G4 mutation disrupts a sequence of powerers spike: (GAR)n-(GAR)n resulting in R (exon 5 spike).</text>
+                    <arg n="0">The 415G4 mutation</arg>
+                    <arg n="1">powerers spike: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>The 415G4 mutation is able to disrupt a sequence of enhancer spike: (GAR)n-(GAR)n resulting in R (exon 5 spike).</text>
+                    <arg n="0">The 415G4 mutation</arg>
+                    <arg n="1">enhancer spike: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>The homozygous mutation that disrupted spacing was identified in affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">homozygous mutation</arg>
+                    <arg n="1">spacing</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>The mutation 415G4 disrupts a sequence of potent spike: (GAR)n-(GAR)n resulting in R (exon 5 spike).</text>
+                    <arg n="0">The mutation 415G4</arg>
+                    <arg n="1">potent spike: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>The mutation 415G4 is able to disrupt a sequence of enhancement brush: (GAR)n-(GAR)n resulting in R (exon 5 padding).</text>
+                    <arg n="0">The mutation 415G4</arg>
+                    <arg n="1">enhancement brush: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>The reason for the zinc finger, which specifically recognizes the GO:C pair, is firmly fixed with respect to the C-terminal domain by the hydrogen bonding network, so it would be found that the Lys147Ala substitution would perturb the interaction , disrupt in a drastic decrease of activity against GO:C substrates.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                    <arg n="R">a drastic decrease of activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>The reason for the zinc finger, which specifically recognizes the GO:C pair, is firmly fixed with respect to the C-terminal domain for the hydrogen bonding network, so that the Lys147Ala substitution has the ability to disrupt the interaction, resulting in a drastic decrease in activity against GO:C substrates.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                    <arg n="R">a drastic decrease in activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The sequence of amplified fragments of the cloned polymerase chain reaction of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; this deletion was shown to disrupt the open reading structure.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading structure</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>The sequence of the cloned polymerase chain reaction amplified fragments of the AMH gene revealed a deletion of 14-bp in the second exon of the maternal allele; this deletion is able to disrupt the open reading structure.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading structure</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>The sequence of the cloned polymerase chain reaction amplifies fragments of the AMH gene disrupted a 14 bp deletion in the second exon of the maternal allele; this deletion broke the open reading structure.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading structure</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>The sequence of the cloned polymerase chain reaction amplifies fragments of the AMH gene revealed a 14 bp deletion in the second exon of the maternal allele; this deletion disrupts the open reading frame.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading frame</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>The sequence of the cloned polymerase chain reaction amplifies fragments of the AMH gene revealed a 14 bp deletion in the second exon of the maternal allele; this deletion has been shown to disrupt the open reading frame.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading frame</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>The sequence of the cloned polymerase chain reaction amplifies fragments of the AMH gene revealed a 14 bp deletion in the second exon of the maternal allele; this deletion has disrupted the open reading frame.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading frame</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>The sequence of the cloned polymerase chain reaction amplifies fragments of the AMH gene revealed a 14 bp deletion in the second exon of the maternal allele; this deletion may have disrupted the open reading frame.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading frame</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>The sequence of the cloned polymerase chain reaction amplifies fragments of the AMH gene revealed a deletion of 14 bp in the second exon of the maternal allele; this deletion disrupts the open reading structure.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading structure</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>The sequence of the cloned polymerase chain reaction amplifies fragments of the AMH gene revealed a deletion of 14 bp in the second exon of the maternal allele; this deletion is able to disrupt the open reading structure.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading structure</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>The sequence of the cloned polymerase chain reaction amplifies fragments of the AMH gene revealed a deletion of 14 bp in the second exon of the maternal allele; this deletion may have disrupted open reading frame.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">open reading frame</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>The treatment of systemic inflammatory response to CPB is also confused by the fact that inhibition of inflammation has been disrupting protective physiological responses or resulting in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiological responses</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>The treatment of systemic inflammatory response to CPB is also confused by the fact that inhibition of inflammation has been shown to disrupt protective physiological responses or to produce immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiological responses</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>The treatment of the systemic inflammatory response to CPB is also confused by the fact that inhibition of inflammation has deregulated physiological protective response or disrupting in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">physiological protective response</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>The zinc digit motif, which specifically recognizes the GO:C pair, is firmly fixed with respect to the C-terminal domain by the hydrogen bonding network, so that the Lys147Ala substitution would perturb the interaction, disrupt in a drastic decrease in activity against GO:C substrates.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                    <arg n="R">a drastic decrease in activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>The zinc digit motif, which specifically recognizes the GO:C pair, is firmly fixed with respect to the C-terminal domain by the hydrogen bonding network, so the Lys147Ala substitution has shown that it perturbs the interaction , disrupt in a drastic decrease in activity against GO:C substrates.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                    <arg n="R">a drastic decrease in activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>The zinc finger, which specifically recognizes the GO:C pair, is firmly fixed in the C-terminal domain by the hydrogen bonding network, so that Lys147Ala substitution has been shown to be an A1 deregulator (interaction), disrupt in a drastic drop of activity against GO:C substrates.</text>
+                    <arg n="0">Lys147Ala substitution</arg>
+                    <arg n="R">a drastic drop of activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>The zinc finger, which specifically recognizes the GO:C pair, is firmly fixed in the C-terminal domain by the hydrogen bonding network, so that Lys147Ala substitution has the ability to separate interaction, disrupt in a drastic drop of activity against GO:C substrates.</text>
+                    <arg n="0">Lys147Ala substitution</arg>
+                    <arg n="1">interaction</arg>
+                    <arg n="R">a drastic drop of activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>The zinc finger, which specifically recognizes the GO:C pair, is firmly fixed in the C-terminal domain by the hydrogen bonding network, so that Lys147Ala substitution would be found to disrupt interaction, resulting in a drastic drop of activity against GO:C substrates.</text>
+                    <arg n="0">Lys147Ala substitution</arg>
+                    <arg n="1">interaction</arg>
+                    <arg n="R">a drastic drop of activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>The zinc finger, which specifically recognizes the GO:C pair, is firmly fixed in the C-terminal domain by the hydrogen bonding network, so that Lys147Ala substitution would disrupt interaction, resulting in a drastic drop of activity against GO:C substrates.</text>
+                    <arg n="0">Lys147Ala substitution</arg>
+                    <arg n="1">interaction</arg>
+                    <arg n="R">a drastic drop of activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>Therefore, the act of disrupting tumour vessels for manipulation of the Tie-2 system in tumors may result in lateral effects on peripheral nerves.</text>
+                    <arg n="0">manipulation of the Tie-2 system in tumors</arg>
+                    <arg n="1">tumour vessels</arg>
+                    <arg n="R">lateral effects on peripheral nerves</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>Therefore, trying to disrupt tumour vessels to tumour binding system 2 maneuver may result in similar effects on peripheral nerves.</text>
+                    <arg n="0">tumour binding system 2 maneuver</arg>
+                    <arg n="1">tumour vessels</arg>
+                    <arg n="R">similar effects on peripheral nerves</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>These mutations may be acting in a dominant-negative way in order to disrupt ubiquitin binding function, which may result in abnormal NF-kappaB pathway activation and subsequent osteoclast activation.</text>
+                    <arg n="0">These mutations</arg>
+                    <arg n="1">ubiquitin binding function</arg>
+                    <arg n="R">abnormal NF-kappaB pathway activation and subsequent osteoclast activation</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>This deletion can disrupt consensus coupling signal 5 and lead to exon exhaustion.</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">consensus coupling signal 5</arg>
+                    <arg n="R">exon exhaustion</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>This deletion is able to disrupt the 5 consensus of splice signal and led to exon exhaustion.</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the 5 consensus of splice signal</arg>
+                    <arg n="R">exon exhaustion</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>This deletion is able to disrupt the 5th consensus of the cut signal and led to exon exhaustion.</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the 5th consensus of the cut signal</arg>
+                    <arg n="R">exon exhaustion</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>This deletion may disrupt the splice signal consensus 5 and lead to exon exhaustion.</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the splice signal consensus 5</arg>
+                    <arg n="R">exon exhaustion</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>This suppression broke the consensus signal jump 5 and disrupted to the exon exhaustion.</text>
+                    <arg n="0">This suppression</arg>
+                    <arg n="1">consensus signal jump 5</arg>
+                    <arg n="R">exon exhaustion</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>Thus, attempting to disrupt tumour vessels for manipulation of the Tie-2 system in tumors can result in lateral effects on peripheral nerves.</text>
+                    <arg n="0">manipulation of the Tie-2 system in tumors</arg>
+                    <arg n="1">tumour vessels</arg>
+                    <arg n="R">lateral effects on peripheral nerves</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>Thus, the act of disrupting tumor vessels by manipulation of the binding system 2 in tumours may result in similar effects on peripheral nerves.</text>
+                    <arg n="0">manipulation of the binding system 2 in tumours</arg>
+                    <arg n="1">tumor vessels</arg>
+                    <arg n="R">similar effects on peripheral nerves</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>Thus, the breakdown of tumour vessels by manipulation of the 2-bonding system in tumors can disrupting in similar effects on peripheral nerves.</text>
+                    <arg n="0">manipulation of the 2-bonding system in tumors</arg>
+                    <arg n="1">tumour vessels</arg>
+                    <arg n="R">similar effects on peripheral nerves</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>Thus, the rupture of tumor vessels by manipulation of the binding system 2 in tumours may disrupting in similar effects on peripheral nerves.</text>
+                    <arg n="0">manipulation of the binding system 2 in tumours</arg>
+                    <arg n="1">tumor vessels</arg>
+                    <arg n="R">similar effects on peripheral nerves</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>Treatment of systemic inflammatory response to CPB is also confused by the fact that inhibition of inflammation is able to disrupt protective physiological response or result in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiological response</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>Treatment of systemic inflammatory response to CPB is also confused by the fact that inhibition of inflammation will possibly disrupt protective physiological responses or result in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiological responses</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>Treatment of the systemic inflammatory response to CPB is also confused by the fact that inhibition of inflammation has been shown to disrupt physiological protective responses or result in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">physiological protective responses</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>Treatment of the systemic inflammatory response to CPB is also confused by the fact that inhibition of inflammation may have disrupted with physiological protective response or result in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">physiological protective response</arg>
+                </example>
+                <example src="EGRAM" no="84">
+                    <text>Treatment of the systemic inflammatory response to CPB is also confused by the fact that inhibition of inflammation may have disrupted with protective physiological responses or result in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiological responses</arg>
+                </example>
+                <example src="EGRAM" no="85">
+                    <text>Treatment of the systemic inflammatory response to CPB is also confused by the fact that inhibition of inflammation will possibly disrupt physiological protective responses or result in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">physiological protective responses</arg>
+                </example>
+                <example src="EGRAM" no="86">
+                    <text>When both genes are disrupted, child expression is higher.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">child expression is higher</arg>
+                </example>
+                <example src="EGRAM" no="87">
+                    <text>When both genes are disrupted, the Gaulish expression is higher.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">the Gaulish expression is higher</arg>
+                </example>
+                <example src="EGRAM" no="88">
+                    <text>When both genes has already been disrupted, the Gaulish expression was higher.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">the Gaulish expression was higher</arg>
+                </example>
+                <example src="EGRAM" no="89">
+                    <text>When both genes has been disrupted, the Gaulish expression was higher.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">the Gaulish expression was higher</arg>
+                </example>
+                <example src="EGRAM" no="90">
+                    <text>When both genes is shown to be disrupted, Galish expression is further increased.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">Galish expression is further increased</arg>
+                </example>
+                <example src="EGRAM" no="91">
+                    <text>When both genes was already disrupted, child expression was higher.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">child expression was higher</arg>
+                </example>
+                <example src="EGRAM" no="92">
+                    <text>When both genes was disrupted, child expression was higher.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">child expression was higher</arg>
+                </example>
+                <example src="EGRAM" no="93">
+                    <text>When both genes was disrupted, the expression GalS was higher.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">GalS</arg>
+                </example>
+                <example src="EGRAM" no="94">
+                    <text>When it has been disrupted that both genes is perturbed, the Gaulish expression is higher.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">the Gaulish expression is higher</arg>
+                </example>
+                <example src="EGRAM" no="95">
+                    <text>When it is shown that both genes is disrupted, the Gaulish expression is raised even higher.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">the Gaulish expression is raised even higher</arg>
+                </example>
+                <example src="EGRAM" no="96">
+                    <text>a homozygotic mutation that disrupted splicing has been identified in the affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">a homozygotic mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="97">
+                    <text>a homozygotic mutation that disrupting splicing is identified in the affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">a homozygotic mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="98">
+                    <text>a homozygous mutation that can disrupt split has been identified in affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">a homozygous mutation</arg>
+                    <arg n="1">split</arg>
+                </example>
+                <example src="EGRAM" no="99">
+                    <text>a homozygous mutation that has disrupted A1 will be identified in the affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">a homozygous mutation</arg>
+                </example>
+                <example src="EGRAM" no="100">
+                    <text>a homozygous mutation that has disrupted pulally was identified in affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">a homozygous mutation</arg>
+                    <arg n="1">pulally</arg>
+                </example>
+                <example src="EGRAM" no="101">
+                    <text>homozygous mutation that broke A1 will be identified in the siblings disrupted by classical abetalipoproteinemia.</text>
+                    <arg n="0">homozygous mutation</arg>
+                </example>
+                <example src="EGRAM" no="102">
+                    <text>homozygous mutation that can disrupt squirrel that has been identified in affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">homozygous mutation</arg>
+                    <arg n="1">squirrel</arg>
+                </example>
+                <example src="EGRAM" no="103">
+                    <text>homozygous mutation that disrupted splicing was identified in the siblings affected with classical abetalipoproteinemia.</text>
+                    <arg n="0">homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="104">
+                    <text>homozygous mutation that disrupting splicing is identified in the siblings affected by classical abetalipoproteinemia.</text>
+                    <arg n="0">homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="105">
+                    <text>licensing improvement sequence: (GAR)n-(GAR)n is disrupted by a 415G4 mutation, resulting in R (exon 5.</text>
+                    <arg n="0">a 415G4 mutation</arg>
+                    <arg n="1">licensing improvement sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="106">
+                    <text>licensing improvement sequence: (GAR)n-(GAR)n was disrupted by Mutation 415G4, resulting in R (exon 5.</text>
+                    <arg n="0">Mutation 415G4</arg>
+                    <arg n="1">licensing improvement sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="107">
+                    <text>multations at p53 disrupted post-checking points for DNA damage and resulted in the potential for destabilization of the genome.</text>
+                    <arg n="0">multations at p53</arg>
+                    <arg n="1">post-checking points for DNA damage</arg>
+                    <arg n="R">the potential for destabilization of the genome</arg>
+                </example>
+                <example src="EGRAM" no="108">
+                    <text>mutation 415G4 has been shown to disrupt an A1 sequence (pulling enhancement sequence: (GAR)n-(GAR)n) resulting in R (exon 5 is omitted).</text>
+                    <arg n="0">mutation 415G4</arg>
+                </example>
+                <example src="EGRAM" no="109">
+                    <text>mutation 415G4 has disrupted an pulling enhancement sequence: (GAR)n-(GAR)n resulting in R (exon 5 omitting ).</text>
+                    <arg n="0">mutation 415G4</arg>
+                    <arg n="1">pulling enhancement sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="110">
+                    <text>mutations in this region disrupted assembly of keratin filaments, leading to degeneration or cytolysis of keratinocytes.</text>
+                    <arg n="0">mutations in this region</arg>
+                    <arg n="1">assembly of keratin filaments</arg>
+                    <arg n="R">degeneration or cytolysis of keratinocytes</arg>
+                </example>
+                <example src="EGRAM" no="111">
+                    <text>mutations in this region disrupted assembly of keratin filaments, leading to degeneration or keratinocyte cytolysis.</text>
+                    <arg n="0">mutations in this region</arg>
+                    <arg n="1">assembly of keratin filaments</arg>
+                    <arg n="R">degeneration or keratinocyte cytolysis</arg>
+                </example>
+                <example src="EGRAM" no="112">
+                    <text>mutations in this region has the ability to disrupt assembly of keratin filaments, leading to degeneration or cytolysis of keratinocytes.</text>
+                    <arg n="0">mutations in this region</arg>
+                    <arg n="1">assembly of keratin filaments</arg>
+                    <arg n="R">degeneration or cytolysis of keratinocytes</arg>
+                </example>
+                <example src="EGRAM" no="113">
+                    <text>mutations in this region has the ability to disrupt assembly of keratin filaments, leading to degeneration or keratinocyte cytolysis.</text>
+                    <arg n="0">mutations in this region</arg>
+                    <arg n="1">assembly of keratin filaments</arg>
+                    <arg n="R">degeneration or keratinocyte cytolysis</arg>
+                </example>
+                <example src="EGRAM" no="114">
+                    <text>mutations in this region is able to disrupt assembly of keratin filaments, leading to degeneration or keratinocyte cytolysis.</text>
+                    <arg n="0">mutations in this region</arg>
+                    <arg n="1">assembly of keratin filaments</arg>
+                    <arg n="R">degeneration or keratinocyte cytolysis</arg>
+                </example>
+                <example src="EGRAM" no="115">
+                    <text>mutations in this region is able to disrupt assembly of keratin filaments, resulting in degeneration or cytolysis of keratinocytes.</text>
+                    <arg n="0">mutations in this region</arg>
+                    <arg n="1">assembly of keratin filaments</arg>
+                    <arg n="R">degeneration or cytolysis of keratinocytes</arg>
+                </example>
+                <example src="EGRAM" no="116">
+                    <text>mutations in this region may disrupt assembly of keratin filaments, leading to degeneration or cytolysis of keratinocytes.</text>
+                    <arg n="0">mutations in this region</arg>
+                    <arg n="1">assembly of keratin filaments</arg>
+                    <arg n="R">degeneration or cytolysis of keratinocytes</arg>
+                </example>
+                <example src="EGRAM" no="117">
+                    <text>mutations in this region may disrupt assembly of keratin filaments, leading to degeneration or keratinocyte cytolysis.</text>
+                    <arg n="0">mutations in this region</arg>
+                    <arg n="1">assembly of keratin filaments</arg>
+                    <arg n="R">degeneration or keratinocyte cytolysis</arg>
+                </example>
+                <example src="EGRAM" no="118">
+                    <text>p53 mutations has disrupted checking point responses for DNA damage and resulted in the potential for destabilization of the genome.</text>
+                    <arg n="0">p53 mutations</arg>
+                    <arg n="1">checking point responses for DNA damage</arg>
+                    <arg n="R">the potential for destabilization of the genome</arg>
+                </example>
+                <example src="EGRAM" no="119">
+                    <text>p53 mutations is able to disrupt checking point responses for DNA damage and results in the potential for destabilization of the genome.</text>
+                    <arg n="0">p53 mutations</arg>
+                    <arg n="1">checking point responses for DNA damage</arg>
+                    <arg n="R">the potential for destabilization of the genome</arg>
+                </example>
+                <example src="EGRAM" no="120">
+                    <text>p53 mutations rupture of checking points responses to DNA damage may disrupting in genome destabilization potential.</text>
+                    <arg n="0">p53 mutations</arg>
+                    <arg n="1">checking points responses to DNA damage</arg>
+                    <arg n="R">genome destabilization potential</arg>
+                </example>
+                <example src="EGRAM" no="121">
+                    <text>slicing enhancer sequnce: (GAR)n-(GAR)n is disrupted by A mutation 415G4, resulting in R (exon 5.</text>
+                    <arg n="0">A mutation 415G4</arg>
+                    <arg n="1">slicing enhancer sequnce: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="EGRAM" no="122">
+                    <text>such mutations may be acting in a dominant-negative manner in order to disrupt the ubiquitin-binding function, which may result in abnormal activation of the NF-kappaB pathway and subsequent activation of the osteoclasts.</text>
+                    <arg n="0">such mutations</arg>
+                    <arg n="1">the ubiquitin-binding function</arg>
+                    <arg n="R">abnormal activation of the NF-kappaB pathway and subsequent activation of the</arg>
+                </example>
+                <example src="EGRAM" no="123">
+                    <text>such mutations may be acting in a dominant-negative manner with the ability to disrupt the ubiquitin-binding function, which may result in abnormal activation of the NF-kappaB pathway and subsequent activation of the osteoclasts.</text>
+                    <arg n="0">such mutations</arg>
+                    <arg n="1">the ubiquitin-binding function</arg>
+                    <arg n="R">abnormal activation of the NF-kappaB pathway and subsequent activation of the</arg>
+                </example>
+                <example src="EGRAM" no="124">
+                    <text>such mutations may be dominant-negative and may also disrupt the ubiquitin binding function, which may result in abnormal activation of the NF-kappaB pathway and subsequent activation of the osteoclasts.</text>
+                    <arg n="0">such mutations</arg>
+                    <arg n="1">the ubiquitin binding function</arg>
+                    <arg n="R">abnormal activation of the NF-kappaB pathway and subsequent activation of the</arg>
+                </example>
+                <example src="EGRAM" no="125">
+                    <text>these mutations may be acting negatively dominant and may also disrupt biquitin binding function, which may result in activation of the R pathway (anormal NF-kappaB and subsequent activation of osteoclast).</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">biquitin binding function</arg>
+                </example>
+                <example src="EGRAM" no="126">
+                    <text>these mutations may be acting negatively dominantly with the ability to disrupt biquitin binding function, which may result in activation of the R pathway (anormal NF-kappaB and subsequent activation of osteoclast).</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">biquitin binding function</arg>
+                </example>
+                <example src="EGRAM" no="127">
+                    <text>this deletion has disrupted consensus signal 5 and led to exon skipping.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">consensus signal 5</arg>
+                    <arg n="R">exon skipping</arg>
+                </example>
+                <example src="EGRAM" no="128">
+                    <text>this deletion would have been disrupting consensus signal 5 and led to exon skipping.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">consensus signal 5</arg>
+                    <arg n="R">exon skipping</arg>
+                </example>
+                <example src="EGRAM" no="129">
+                    <text>this suppression has been shown to disrupt consensus signal 5 and lead to exon is omitted.</text>
+                    <arg n="0">this suppression</arg>
+                    <arg n="1">consensus signal 5</arg>
+                    <arg n="R">exon is omitted</arg>
+                </example>
+                <example src="EGRAM" no="130">
+                    <text>this suppression would have disrupting disturbances consensus signal 5 and led to exon signal.</text>
+                    <arg n="0">this suppression</arg>
+                    <arg n="1">consensus signal 5</arg>
+                    <arg n="R">exon signal</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

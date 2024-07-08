@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="result">
+            <roleset id="result.01" name="" wordnet="2">
+                <roles>
+                    <role n="0" descr="Theme, prior condition &#x0A;" />
+                    <role n="1" descr="Goal, end condition&#x0A;" />
+                </roles>
+                <example src="GREC" no="0">
+                    <text>Induction of a mutation in the lacI gene will result in the loss of transcriptional repression of the lacZ gene in mutated cells.</text>
+                    <arg n="0">Induction of a mutation in the lacI gene</arg>
+                    <arg n="1">in the loss of transcriptional repression of the lacZ gene</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Mutations which prevent repressor binding to either site or alter the phasing of the binding sites result in simultaneous derepression of both genes.</text>
+                    <arg n="0">Mutations</arg>
+                    <arg n="1">in simultaneous derepression of both genes</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>These observations show that repression is the result of co-operative binding of the repressor to its two sites, resulting in the formation of a loop of DNA.</text>
+                    <arg n="0">of co-operative binding of the repressor</arg>
+                    <arg n="1">that repression</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>We show that the negative effect of the cpxA mutation on biofilm formation results from a decreased transcription of the curlin encoding csgA gene.</text>
+                    <arg n="0">from a decreased transcription of the curlin encoding csgA gene</arg>
+                    <arg n="1">the negative effect of the cpxA mutation</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>We speculated that this may be the result of the expression of isoforms of Nrf1 in mast cells.</text>
+                    <arg n="0">of the expression of isoforms of Nrf1</arg>
+                    <arg n="1">this</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

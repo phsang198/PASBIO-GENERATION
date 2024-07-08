@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+	<predicate lemma="disrupt">
+		<roleset id="Disrupt.01" name="" wordnet="1, 2">
+			<roles>
+				<role n="0" descr=" agent"/>
+				<role n="1" descr=" entity disrupted 
+"/>
+				<role n="R" descr=" results/consequences
+"/>
+			</roles>
+			<example src="MEDLINE" no="*1">
+				<text>
+The 415G4 mutation disrupted a splicing enhancer sequence: (GAR)n-(GAR)n resulting in exon 5 skipping.
+
+</text>
+				<arg n="0">The 415G4 mutation
+</arg>
+				<arg n="1">splicing enhancer sequence: (GAR)n-(GAR)n 
+</arg>
+				<arg n="R">exon 5 skipping
+</arg>
+				<fdg>
+					<line>1Thethe@DN&gt; %&gt;N DET
+</line>
+					<line>2415G415g@NH %NH NUM CARD@SUBJ %NH NUM CARD@OBJ %NH NUM CARD@A&gt; %&gt;N NUM CARD@ADVL %EH NUM CARD
+</line>
+					<line>3&gt;&gt;
+</line>
+					<line>4Aadet:&gt;5@DN&gt; %&gt;N DET SG
+</line>
+					<line>5mutationmutationsubj:&gt;6@SUBJ %NH N NOM SG
+</line>
+					<line>6disrupteddisruptmain:&gt;0@+FMAINV %VA V PAST
+</line>
+					<line>7aadet:&gt;10@DN&gt; %&gt;N DET SG
+</line>
+					<line>8splicingsplicingattr:&gt;9@A&gt; %&gt;N A ABS
+</line>
+					<line>9enhancerenhancerattr:&gt;10@A&gt; %&gt;N N NOM SG
+</line>
+					<line>10sequencesequenceobj:&gt;6@OBJ %NH N NOM SG
+</line>
+					<line>11::
+</line>
+					<line>12((
+</line>
+					<line>13GAR)ngar)nmod:&gt;10@NH %NH N NOM SG
+</line>
+					<line>14--
+</line>
+					<line>15((
+</line>
+					<line>16GAR)ngar)n@NH %NH N NOM SG@OBJ %NH N NOM SG@APP %NH N NOM SG@A&gt; %&gt;N N NOM SG
+</line>
+					<line>17resultingresult@-FMAINV %VA ING@NH %NH N NOM SG@OBJ %NH N NOM SG@APP %NH N NOM SG
+</line>
+					<line>18inin@&lt;NOM %N&lt; PREP@ADVL %EH PREP
+</line>
+					<line>19exonexonpcomp:&gt;18@&lt;P %NH N NOM SG
+</line>
+					<line>2055@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>21skippingskip@&lt;P-FMAINV %VA ING@-FMAINV %VA ING
+</line>
+					<line>22..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*2">
+				<text>
+This deletion disrupted the consensus 5 splice signal and led to exon skipping.
+
+</text>
+				<arg n="0">This deletion
+</arg>
+				<arg n="1">the consensus 5 splice signal
+</arg>
+				<arg n="R">exon skipping
+</arg>
+				<fdg>
+					<line>         1Thisthisdet:&gt;2@DN&gt; %&gt;N DET DEM SG
+</line>
+					<line>         2deletiondeletionsubj:&gt;3@SUBJ %NH N NOM SG
+</line>
+					<line>         3disrupteddisrupt@+FMAINV %VA V PAST
+</line>
+					<line>         4thethe@DN&gt; %&gt;N DET
+</line>
+					<line>         5consensusconsensus@OBJ %NH N NOM SG@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         655qn:&gt;8@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>         7&apos;&apos;
+</line>
+					<line>         8splicesplice@SUBJ %NH N NOM SG@OBJ %NH N NOM SG
+</line>
+					<line>         9signalsignal@+FMAINV %VA V PRES@OBJ %NH N NOM SG
+</line>
+					<line>         10andand@CC %CC CC
+</line>
+					<line>         11ledlead@-FMAINV %VP EN
+</line>
+					<line>         12totoha:&gt;11@ADVL %EH PREP
+</line>
+					<line>         13exonexonattr:&gt;14@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         14skippingskippingpcomp:&gt;12@&lt;P %NH N NOM SG
+</line>
+					<line>         15..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*3">
+				<text>
+A homozygous mutation that disrupts splicing has been identified in affected siblings with classical abetalipoproteinemia.  
+</text>
+				<arg n="0">A homozygous mutation
+</arg>
+				<arg n="1">splicing
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>     1Aadet:&gt;3@DN&gt; %&gt;N DET SG
+</line>
+					<line>     2homozygoushomozygousattr:&gt;3@A&gt; %&gt;N A ABS
+</line>
+					<line>     3mutationmutation@NH %NH N NOM SG@SUBJ %NH N NOM SG@OBJ %NH N NOM SG@PCOMPL-S %NH N NOM SG@APP %NH N NOM SG@&lt;P %NH N NOM SG
+</line>
+					<line>     4thatthatsubj:&gt;5@SUBJ %NH &lt;Rel&gt; PRON
+</line>
+					<line>     5disruptsdisruptmod:&gt;3@+FMAINV %VA V PRES SG3
+</line>
+					<line>     6splicingsplicingsubj:&gt;7@SUBJ %NH A ABS
+</line>
+					<line>     7hashavev-ch:&gt;8@+FAUXV %AUX V PRES SG3
+</line>
+					<line>     8beenbev-ch:&gt;9@-FAUXV %AUX EN
+</line>
+					<line>     9identifiedidentify@-FMAINV %VP EN
+</line>
+					<line>     10ininloc:&gt;9@ADVL %EH PREP
+</line>
+					<line>     11affectedaffectedattr:&gt;12@A&gt; %&gt;N A ABS
+</line>
+					<line>     12siblingssiblingpcomp:&gt;10@&lt;P %NH N NOM PL
+</line>
+					<line>     13withwith@&lt;NOM %N&lt; PREP@ADVL %EH PREP
+</line>
+					<line>     14classicalclassicalattr:&gt;15@A&gt; %&gt;N A ABS
+</line>
+					<line>     15abetalipoproteinemiaabetalipoproteinemiapcomp:&gt;13@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+					<line>     16..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*4">
+				<text>
+Studies using polymerase chain reaction, restriction enzyme digestion (the Gly188----Glu mutation disrupts an Ava II site, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations. 
+
+</text>
+				<arg n="0">the Gly188----Glu mutation
+</arg>
+				<arg n="1">an Ava II site
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>         1Studiesstudy@NH %NH N NOM PL@SUBJ %NH N NOM PL
+</line>
+					<line>         2usingusemod:&gt;1@-FMAINV %VA ING
+</line>
+					<line>         3polymerasepolymeraseattr:&gt;4@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         4chainchainattr:&gt;5@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         5reactionreactionobj:&gt;2@OBJ %NH N NOM SG
+</line>
+					<line>         6,,
+</line>
+					<line>         7restrictionrestrictionattr:&gt;8@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         8enzymeenzymeattr:&gt;9@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         9digestiondigestion@NH %NH N NOM SG@SUBJ %NH N NOM SG@OBJ %NH N NOM SG@PCOMPL-S %NH N NOM SG@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         10((
+</line>
+					<line>         11thethedet:&gt;12@DN&gt; %&gt;N DET
+</line>
+					<line>         12Gly188gly188@SUBJ %NH N NOM SG@OBJ %NH N NOM SG@PCOMPL-O %NH N NOM SG@APP %NH N NOM SG
+</line>
+					<line>         13----
+</line>
+					<line>         14--
+</line>
+					<line>         15Glugluattr:&gt;16@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>         16mutationmutationsubj:&gt;17@SUBJ %NH N NOM SG
+</line>
+					<line>         17disruptsdisrupt@+FMAINV %VA V PRES SG3
+</line>
+					<line>         18anandet:&gt;21@DN&gt; %&gt;N DET SG
+</line>
+					<line>         19Avaavaattr:&gt;20@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         20IIiiattr:&gt;21@A&gt; %&gt;N NUM ORD
+</line>
+					<line>         21sitesiteobj:&gt;17@OBJ %NH N NOM SG
+</line>
+					<line>         22,,
+</line>
+					<line>         23thethedet:&gt;24@DN&gt; %&gt;N DET
+</line>
+					<line>         24Arg243arg243@SUBJ %NH N NOM SG@OBJ %NH N NOM SG@APP %NH N NOM SG
+</line>
+					<line>         25----
+</line>
+					<line>         26--
+</line>
+					<line>         27&lt;s&gt;&lt;s&gt;
+</line>
+					<line>         28Hisheattr:&gt;2@A&gt; %&gt;N PRON PERS GEN SG3
+</line>
+					<line>         29mutationmutation@APP %NH N NOM SG
+</line>
+					<line>         30,,
+</line>
+					<line>         31aadet:&gt;5@DN&gt; %&gt;N DET SG
+</line>
+					<line>         32Hhahhacc:&gt;11@SUBJ %NH &lt;?&gt; N NOM SG
+</line>
+					<line>         33Ii@SUBJ %NH PRON PERS NOM SG1
+</line>
+					<line>         34sitesite@NH %NH N NOM SG@SUBJ %NH N NOM SG@APP %NH N NOM SG
+</line>
+					<line>         35,,
+</line>
+					<line>         36andandcc:&gt;11@CC %CC CC
+</line>
+					<line>         37thethedet:&gt;11@DN&gt; %&gt;N DET
+</line>
+					<line>         38Asp250asp250@SUBJ %NH N NOM SG
+</line>
+					<line>         39----
+</line>
+					<line>         40--
+</line>
+					<line>         41&lt;s&gt;&lt;s&gt;
+</line>
+					<line>         42Asnasnattr:&gt;2@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>         43mutationmutation@APP %NH N NOM SG
+</line>
+					<line>         44,,
+</line>
+					<line>         45aadet:&gt;5@DN&gt; %&gt;N DET SG
+</line>
+					<line>         46Taqtaq@NH %NH &lt;?&gt; N NOM SG@SUBJ %NH &lt;?&gt; N NOM SG@APP %NH &lt;?&gt; N NOM SG@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+					<line>         47Ii@SUBJ %NH PRON PERS NOM SG1
+</line>
+					<line>         48sitesite@NH %NH N NOM SG@SUBJ %NH N NOM SG@APP %NH N NOM SG@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         49))
+</line>
+					<line>         50,,
+</line>
+					<line>         51andand@CC %CC CC
+</line>
+					<line>         52allele-specificallele-specificattr:&gt;12@A&gt; %&gt;N A ABS
+</line>
+					<line>         53oligonucleotideoligonucleotideattr:&gt;13@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>         54hybridizationhybridizationsubj:&gt;14@SUBJ %NH N NOM SG
+</line>
+					<line>         55confirmedconfirm@+FMAINV %VA V PAST
+</line>
+					<line>         56thatthatpm:&gt;18@CS %CS CS
+</line>
+					<line>         57thethedet:&gt;17@DN&gt; %&gt;N DET
+</line>
+					<line>         58patientspatientsubj:&gt;18@SUBJ %NH N NOM PL
+</line>
+					<line>         59werebeobj:&gt;14@+FMAINV %VA V PAST PL
+</line>
+					<line>         60indeedindeedmeta:&gt;18@ADVL %EH ADV
+</line>
+					<line>         61compoundcompoundcomp:&gt;18@PCOMPL-S %NH N NOM SG
+</line>
+					<line>         62heterozygousheterozygousmod:&gt;20@&lt;NOM %N&lt; A ABS
+</line>
+					<line>         63forfor@&lt;NOM %N&lt; PREP@ADVL %EH PREP
+</line>
+					<line>         64thethedet:&gt;25@DN&gt; %&gt;N DET
+</line>
+					<line>         65respectiverespectiveattr:&gt;25@A&gt; %&gt;N A ABS
+</line>
+					<line>         66mutationsmutationpcomp:&gt;22@&lt;P %NH N NOM PL
+</line>
+					<line>         67..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*5">
+				<text>
+Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; this deletion disrupted the open reading frame.
+
+</text>
+				<arg n="0">this deletion
+</arg>
+				<arg n="1">the open reading frame
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>1Sequencingsequencingsubj:&gt;7@SUBJ %NH A ABS
+</line>
+					<line>2ofofmod:&gt;1@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>3clonedclonedattr:&gt;4@A&gt; %&gt;N A ABS
+</line>
+					<line>4polymerasepolymeraseattr:&gt;5@A&gt; %&gt;N N NOM SG
+</line>
+					<line>5chainchainattr:&gt;6@A&gt; %&gt;N N NOM SG
+</line>
+					<line>6reactionreactionpcomp:&gt;2@&lt;P %NH N NOM SG
+</line>
+					<line>7amplifiedamplify@+FMAINV %VA V PAST
+</line>
+					<line>8fragmentsfragmentobj:&gt;7@OBJ %NH N NOM PL
+</line>
+					<line>9ofofmod:&gt;8@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>10thethedet:&gt;12@DN&gt; %&gt;N DET
+</line>
+					<line>11AMHamhattr:&gt;12@A&gt; %&gt;N N NOM SG
+</line>
+					<line>12genegenepcomp:&gt;9@&lt;P %NH N NOM SG
+</line>
+					<line>13revealedreveal@+FMAINV %VA V PAST
+</line>
+					<line>14aadet:&gt;16@DN&gt; %&gt;N DET SG
+</line>
+					<line>1514-bp14-bpattr:&gt;16@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>16deletiondeletionobj:&gt;13@OBJ %NH N NOM SG
+</line>
+					<line>17ininha:&gt;13@ADVL %EH PREP
+</line>
+					<line>18thethedet:&gt;20@DN&gt; %&gt;N DET
+</line>
+					<line>19secondsecondattr:&gt;20@A&gt; %&gt;N NUM ORD
+</line>
+					<line>20exonexonpcomp:&gt;17@&lt;P %NH N NOM SG
+</line>
+					<line>21ofofmod:&gt;20@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>22thethedet:&gt;24@DN&gt; %&gt;N DET
+</line>
+					<line>23maternalmaternalattr:&gt;24@A&gt; %&gt;N A ABS
+</line>
+					<line>24alleleallelepcomp:&gt;21@&lt;P %NH N NOM SG
+</line>
+					<line>25;;
+</line>
+					<line>26thisthisdet:&gt;27@DN&gt; %&gt;N DET DEM SG
+</line>
+					<line>27deletiondeletionsubj:&gt;28@SUBJ %NH N NOM SG
+</line>
+					<line>28disrupteddisruptcc:&gt;13@+FMAINV %VA V PAST
+</line>
+					<line>29thethedet:&gt;32@DN&gt; %&gt;N DET
+</line>
+					<line>30openopenattr:&gt;31@A&gt; %&gt;N A ABS
+</line>
+					<line>31readingreadingattr:&gt;32@A&gt; %&gt;N N NOM SG
+</line>
+					<line>32frameframeobj:&gt;28@OBJ %NH N NOM SG
+</line>
+					<line>33..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="6">
+				<text>
+R142X, located within a purine-rich segment at nt 62/116 of exon 5, caused skipping of the exon, possibly by disrupting a splicing enhancer.
+
+</text>
+				<arg n="0">R142X
+</arg>
+				<arg n="1">a splicing enhancer
+</arg>
+				<arg n="R">skipping of the exon
+</arg>
+				<fdg>
+					<line>1R142Xr142xsubj:&gt;15@SUBJ %NH NUM CARD
+</line>
+					<line>2,,
+</line>
+					<line>3locatedlocatemod:&gt;1@-FMAINV %VP EN
+</line>
+					<line>4withinwithinha:&gt;3@ADVL %EH PREP
+</line>
+					<line>5aadet:&gt;7@DN&gt; %&gt;N DET SG
+</line>
+					<line>6purine-richpurine-richattr:&gt;7@A&gt; %&gt;N &lt;?&gt; A ABS
+</line>
+					<line>7segmentsegmentpcomp:&gt;4@&lt;P %NH N NOM SG
+</line>
+					<line>8atat@&lt;NOM %N&lt; PREP@ADVL %EH PREP
+</line>
+					<line>9ntntpcomp:&gt;8@&lt;P %NH ABBR NOM SG
+</line>
+					<line>1062/11662/116mod:&gt;9@&lt;NOM %N&lt; NUM CARD
+</line>
+					<line>11ofofmod:&gt;10@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>12exonexonattr:&gt;13@A&gt; %&gt;N N NOM SG
+</line>
+					<line>1355pcomp:&gt;11@&lt;P %NH NUM CARD
+</line>
+					<line>14,,
+</line>
+					<line>15causedcausemain:&gt;0@+FMAINV %VA V PAST
+</line>
+					<line>16skippingskippingobj:&gt;15@OBJ %NH A ABS
+</line>
+					<line>17ofofmod:&gt;16@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>18thethedet:&gt;19@DN&gt; %&gt;N DET
+</line>
+					<line>19exonexonpcomp:&gt;17@&lt;P %NH N NOM SG
+</line>
+					<line>20,,
+</line>
+					<line>21possiblypossiblyad:&gt;22@AD-A&gt; %E&gt; ADV
+</line>
+					<line>22byby@ADVL %EH PREP
+</line>
+					<line>23disruptingdisruptpcomp:&gt;22@&lt;P-FMAINV %VA ING
+</line>
+					<line>24aadet:&gt;26@DN&gt; %&gt;N DET SG
+</line>
+					<line>25splicingsplicingattr:&gt;26@A&gt; %&gt;N A ABS
+</line>
+					<line>26enhancerenhancerobj:&gt;23@OBJ %NH N NOM SG
+</line>
+					<line>27..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="7">
+				<text>
+Quantitative single-unit electrophysiology revealed that alcohol exposure disrupted ocular dominance plasticity while preserving robust visual responses.
+
+</text>
+				<arg n="0">alcohol exposure 
+</arg>
+				<arg n="1">ocular dominance plasticity 
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>1Quantitativequantitativeattr:&gt;2@A&gt; %&gt;N A ABS
+</line>
+					<line>2single-unitsingle-unitattr:&gt;3@A&gt; %&gt;N A ABS
+</line>
+					<line>3electrophysiologyelectrophysiologysubj:&gt;4@SUBJ %NH N NOM SG
+</line>
+					<line>4revealedrevealmain:&gt;0@+FMAINV %VA V PAST
+</line>
+					<line>5thatthatpm:&gt;8@CS %CS CS
+</line>
+					<line>6alcoholalcoholattr:&gt;7@A&gt; %&gt;N N NOM SG
+</line>
+					<line>7exposureexposuresubj:&gt;8@SUBJ %NH N NOM SG
+</line>
+					<line>8disrupteddisruptobj:&gt;4@+FMAINV %VA V PAST
+</line>
+					<line>9ocularocularattr:&gt;10@A&gt; %&gt;N A ABS
+</line>
+					<line>10dominancedominanceattr:&gt;11@A&gt; %&gt;N N NOM SG
+</line>
+					<line>11plasticityplasticityobj:&gt;8@OBJ %NH N NOM SG
+</line>
+					<line>12whilewhiletmp:&gt;13@ADVL %EH ADV WH
+</line>
+					<line>13preservingpreservetmp:&gt;8@-FMAINV %VA ING
+</line>
+					<line>14robustrobustattr:&gt;15@A&gt; %&gt;N A ABS
+</line>
+					<line>15visualvisualattr:&gt;16@A&gt; %&gt;N A ABS
+</line>
+					<line>16responsesresponseobj:&gt;13@OBJ %NH N NOM PL
+</line>
+					<line>17..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*8">
+				<text>
+These mutations may be acting in a dominant-negative fashion to disrupt the ubiquitin-binding function, which could result in abnormal activation of the NF-kappaB pathway and the subsequent activation of the osteoclasts.
+
+</text>
+				<arg n="0">These mutations 
+</arg>
+				<arg n="1">the ubiquitin-binding function
+</arg>
+				<arg n="R">abnormal activation of the NF-kappaB pathway and the subsequent activation of the osteoclasts
+</arg>
+				<fdg>
+					<line/>
+					<line>1Thesethisdet:&gt;2@DN&gt; %&gt;N DET DEM PL
+</line>
+					<line>2mutationsmutationsubj:&gt;3@SUBJ %NH N NOM PL
+</line>
+					<line>3maymayv-ch:&gt;4@+FAUXV %AUX V AUXMOD
+</line>
+					<line>4bebev-ch:&gt;5@-FAUXV %AUX V INF
+</line>
+					<line>5actingactmain:&gt;0@-FMAINV %VA ING
+</line>
+					<line>6ininloc:&gt;5@ADVL %EH PREP
+</line>
+					<line>7aadet:&gt;9@DN&gt; %&gt;N DET SG
+</line>
+					<line>8dominant-negativedominant-negativeattr:&gt;9@A&gt; %&gt;N &lt;?&gt; A ABS
+</line>
+					<line>9fashionfashionpcomp:&gt;6@&lt;P %NH N NOM SG
+</line>
+					<line>10totopm:&gt;11@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>11disruptdisruptcnt:&gt;5@-FMAINV %VA V INF
+</line>
+					<line>12thethedet:&gt;14@DN&gt; %&gt;N DET
+</line>
+					<line>13ubiquitin-bindingubiquitin-bindingattr:&gt;14@A&gt; %&gt;N &lt;?&gt; A ABS
+</line>
+					<line>14functionfunctionobj:&gt;11@OBJ %NH N NOM SG
+</line>
+					<line>15,,
+</line>
+					<line>16whichwhichsubj:&gt;17@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+					<line>17couldcouldv-ch:&gt;18@+FAUXV %AUX V AUXMOD
+</line>
+					<line>18resultresultmeta:&gt;11@-FMAINV %VA V INF
+</line>
+					<line>19ininloc:&gt;18@ADVL %EH PREP
+</line>
+					<line>20abnormalabnormalattr:&gt;21@A&gt; %&gt;N A ABS
+</line>
+					<line>21activationactivationpcomp:&gt;19@&lt;P %NH N NOM SG
+</line>
+					<line>22ofofmod:&gt;21@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>23thethedet:&gt;25@DN&gt; %&gt;N DET
+</line>
+					<line>24NF-kappaBnf-kappabattr:&gt;25@A&gt; %&gt;N N NOM SG
+</line>
+					<line>25pathwaypathwaypcomp:&gt;22@&lt;P %NH N NOM SG
+</line>
+					<line>26andandcc:&gt;25@CC %CC CC
+</line>
+					<line>27thethedet:&gt;29@DN&gt; %&gt;N DET
+</line>
+					<line>28subsequentsubsequentattr:&gt;29@A&gt; %&gt;N A ABS
+</line>
+					<line>29activationactivationcc:&gt;25@&lt;P %NH N NOM SG
+</line>
+					<line>30ofofmod:&gt;29@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>31thethedet:&gt;32@DN&gt; %&gt;N DET
+</line>
+					<line>32osteoclastsosteoclastpcomp:&gt;30@&lt;P %NH N NOM PL
+</line>
+					<line>33..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="9">
+				<text>
+Treatment of the systemic inflammatory response to CPB is also confounded by the fact that inhibition of inflammation might disrupt protective physiologic responses or result in immunosuppression.
+
+</text>
+				<arg n="0">inhibition of inflammation 
+</arg>
+				<arg n="1">protective physiologic responses 
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>1Treatmenttreatmentsubj:&gt;9@SUBJ %NH N NOM SG
+</line>
+					<line>2ofofmod:&gt;1@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>3thethedet:&gt;6@DN&gt; %&gt;N DET
+</line>
+					<line>4systemicsystemicattr:&gt;5@A&gt; %&gt;N A ABS
+</line>
+					<line>5inflammatoryinflammatoryattr:&gt;6@A&gt; %&gt;N A ABS
+</line>
+					<line>6responseresponsepcomp:&gt;2@&lt;P %NH N NOM SG
+</line>
+					<line>7totomod:&gt;6@&lt;NOM %N&lt; PREP
+</line>
+					<line>8CPBcpbpcomp:&gt;7@&lt;P %NH ABBR NOM SG
+</line>
+					<line>9isbev-ch:&gt;11@+FAUXV %AUX V PRES SG3
+</line>
+					<line>10alsoalsometa:&gt;11@ADVL %EH ADV
+</line>
+					<line>11confoundedconfoundmain:&gt;0@-FMAINV %VP EN
+</line>
+					<line>12bybyha:&gt;11@ADVL %EH PREP
+</line>
+					<line>13thethedet:&gt;14@DN&gt; %&gt;N DET
+</line>
+					<line>14factfactpcomp:&gt;12@&lt;P %NH N NOM SG
+</line>
+					<line>15thatthatpm:&gt;20@CS %CS CS
+</line>
+					<line>16inhibitioninhibitionsubj:&gt;19@SUBJ %NH N NOM SG
+</line>
+					<line>17ofofmod:&gt;16@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>18inflammationinflammationpcomp:&gt;17@&lt;P %NH N NOM SG
+</line>
+					<line>19mightmightv-ch:&gt;20@+FAUXV %AUX V AUXMOD
+</line>
+					<line>20disruptdisruptmod:&gt;14@-FMAINV %VA V INF
+</line>
+					<line>21protectiveprotectiveattr:&gt;22@A&gt; %&gt;N A ABS
+</line>
+					<line>22physiologicphysiologicattr:&gt;23@A&gt; %&gt;N A ABS
+</line>
+					<line>23responsesresponseobj:&gt;20@OBJ %NH N NOM PL
+</line>
+					<line>24ororcc:&gt;20@CC %CC CC
+</line>
+					<line>25resultresultcc:&gt;20@-FMAINV %VA V INF
+</line>
+					<line>26ininphr:&gt;25@ADVL %EH PREP
+</line>
+					<line>27immunosuppressionimmunosuppressionpcomp:&gt;26@&lt;P %NH N NOM SG
+</line>
+					<line>28..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*10">
+				<text>
+Mutations in this region could disrupt keratin filament assembly, leading to degeneration or cytolysis of keratinocytes.
+
+</text>
+				<arg n="0">Mutations in this region 
+</arg>
+				<arg n="1">keratin filament assembly 
+</arg>
+				<arg n="R">degeneration or cytolysis of keratinocytes
+</arg>
+				<fdg>
+					<line>1Mutationsmutationsubj:&gt;5@SUBJ %NH N NOM PL
+</line>
+					<line>2ininmod:&gt;1@&lt;NOM %N&lt; PREP
+</line>
+					<line>3thisthisdet:&gt;4@DN&gt; %&gt;N DET DEM SG
+</line>
+					<line>4regionregionpcomp:&gt;2@&lt;P %NH N NOM SG
+</line>
+					<line>5couldcouldv-ch:&gt;6@+FAUXV %AUX V AUXMOD
+</line>
+					<line>6disruptdisruptmain:&gt;0@-FMAINV %VA V INF
+</line>
+					<line>7keratinkeratinattr:&gt;8@A&gt; %&gt;N N NOM SG
+</line>
+					<line>8filamentfilamentattr:&gt;9@A&gt; %&gt;N N NOM SG
+</line>
+					<line>9assemblyassemblyobj:&gt;6@OBJ %NH N NOM SG
+</line>
+					<line>10,,
+</line>
+					<line>11leadinglead@-FMAINV %VA ING
+</line>
+					<line>12totoha:&gt;11@ADVL %EH PREP
+</line>
+					<line>13degenerationdegenerationpcomp:&gt;12@&lt;P %NH N NOM SG
+</line>
+					<line>14ororcc:&gt;13@CC %CC CC
+</line>
+					<line>15cytolysiscytolysiscc:&gt;13@&lt;P %NH N NOM SG
+</line>
+					<line>16ofofmod:&gt;15@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>17keratinocyteskeratinocyt*pcomp:&gt;16@&lt;P %NH &lt;?&gt; N NOM
+</line>
+					<line>18..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*11">
+				<text>
+Mutations in p53 disrupt checkpoint responses to DNA damage and result in the potential for destabilization of the genome.
+
+</text>
+				<arg n="0">Mutations in p53 
+</arg>
+				<arg n="1">checkpoint responses to DNA damage 
+</arg>
+				<arg n="R">the potential for destabilization of the genome
+</arg>
+				<fdg>
+					<line>1Mutationsmutationsubj:&gt;4@SUBJ %NH N NOM PL
+</line>
+					<line>2ininmod:&gt;1@&lt;NOM %N&lt; PREP
+</line>
+					<line>3p53p53pcomp:&gt;2@&lt;P %NH N NOM SG
+</line>
+					<line>4disruptdisruptmain:&gt;0@+FMAINV %VA V PRES
+</line>
+					<line>5checkpointcheckpointattr:&gt;6@A&gt; %&gt;N N NOM SG
+</line>
+					<line>6responsesresponseobj:&gt;4@OBJ %NH N NOM PL
+</line>
+					<line>7totomod:&gt;6@&lt;NOM %N&lt; PREP
+</line>
+					<line>8DNAdnaattr:&gt;9@A&gt; %&gt;N ABBR NOM SG
+</line>
+					<line>9damagedamagepcomp:&gt;7@&lt;P %NH N NOM SG
+</line>
+					<line>10andandcc:&gt;4@CC %CC CC
+</line>
+					<line>11resultresultcc:&gt;4@+FMAINV %VA V PRES
+</line>
+					<line>12ininloc:&gt;11@ADVL %EH PREP
+</line>
+					<line>13thethedet:&gt;14@DN&gt; %&gt;N DET
+</line>
+					<line>14potentialpotentialpcomp:&gt;12@&lt;P %NH A ABS
+</line>
+					<line>15forformod:&gt;14@&lt;NOM %N&lt; PREP
+</line>
+					<line>16destabilizationdestabilizationpcomp:&gt;15@&lt;P %NH N NOM SG
+</line>
+					<line>17ofofmod:&gt;16@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>18thethedet:&gt;19@DN&gt; %&gt;N DET
+</line>
+					<line>19genomegenomepcomp:&gt;17@&lt;P %NH N NOM SG
+</line>
+					<line>20..
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="12">
+				<text>
+Thus, attempts to disrupt the tumour vessels by manipulation of the Tie-2 system in tumours may result in side-effects in peripheral nerves.
+
+</text>
+				<arg n="0">manipulation of the Tie-2 system in tumours
+</arg>
+				<arg n="1">the tumour vessels 
+</arg>
+				<arg n="R">side-effects in peripheral nerves
+</arg>
+				<fdg>
+					<line>1Thusthusmeta:&gt;18@ADVL %EH ADV
+</line>
+					<line>2,,
+</line>
+					<line>3attemptsattemptsubj:&gt;17@SUBJ %NH N NOM PL
+</line>
+					<line>4totopm:&gt;5@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>5disruptdisruptmod:&gt;3@-FMAINV %VA V INF
+</line>
+					<line>6thethedet:&gt;8@DN&gt; %&gt;N DET
+</line>
+					<line>7tumourtumourattr:&gt;8@A&gt; %&gt;N N NOM SG
+</line>
+					<line>8vesselsvesselobj:&gt;5@OBJ %NH N NOM PL
+</line>
+					<line>9bybyha:&gt;5@ADVL %EH PREP
+</line>
+					<line>10manipulationmanipulationpcomp:&gt;9@&lt;P %NH N NOM SG
+</line>
+					<line>11ofofmod:&gt;10@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>12thethedet:&gt;14@DN&gt; %&gt;N DET
+</line>
+					<line>13Tie-2tie-2@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+</line>
+					<line>14systemsystempcomp:&gt;11@&lt;P %NH N NOM SG
+</line>
+					<line>15ininmod:&gt;14@&lt;NOM %N&lt; PREP
+</line>
+					<line>16tumourstumourpcomp:&gt;15@&lt;P %NH N NOM PL
+</line>
+					<line>17maymayv-ch:&gt;18@+FAUXV %AUX V AUXMOD
+</line>
+					<line>18resultresultmain:&gt;0@-FMAINV %VA V INF
+</line>
+					<line>19ininloc:&gt;18@ADVL %EH PREP
+</line>
+					<line>20side-effectsside-effectpcomp:&gt;19@&lt;P %NH N NOM PL
+</line>
+					<line>21ininphr:&gt;18@ADVL %EH PREP
+</line>
+					<line>22peripheralperipheralattr:&gt;23@A&gt; %&gt;N A ABS
+</line>
+					<line>23nervesnervepcomp:&gt;21@&lt;P %NH N NOM PL
+</line>
+					<line>24..
+</line>
+				</fdg>
+			</example>
+			<example src="EMBO" no="1">
+				<text>
+Arg99 and Arg253 can interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA to disrupt the pairing hydrogen bonds in the model.
+
+</text>
+				<arg n="0">Arg99 and Arg253
+</arg>
+				<arg n="1">the pairing hydrogen bonds in the model
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>1Arg99arg99cc:&gt;3@SUBJ %NH N NOM SG
+</line>
+					<line>2andandcc:&gt;3@CC %CC CC
+</line>
+					<line>3Arg253arg253subj:&gt;4@SUBJ %NH N NOM SG
+</line>
+					<line>4cancanv-ch:&gt;5@+FAUXV %AUX V AUXMOD
+</line>
+					<line>5interactinteractmain:&gt;0@-FMAINV %VA V INF
+</line>
+					<line>6withwithphr:&gt;5@ADVL %EH PREP
+</line>
+					<line>7thethedet:&gt;9@DN&gt; %&gt;N DET
+</line>
+					<line>8ketoketoattr:&gt;9@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>9groupsgrouppcomp:&gt;6@&lt;P %NH N NOM PL
+</line>
+					<line>10ofofmod:&gt;9@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>11thethedet:&gt;16@DN&gt; %&gt;N DET
+</line>
+					<line>12GOgocc:&gt;14@A&gt; %&gt;N N NOM SG
+</line>
+					<line>13andandcc:&gt;14@CC %CC CC
+</line>
+					<line>14Ccattr:&gt;15@A&gt; %&gt;N N NOM SG
+</line>
+					<line>15basebaseattr:&gt;16@A&gt; %&gt;N N NOM SG
+</line>
+					<line>16pairpairpcomp:&gt;10@&lt;P %NH N NOM
+</line>
+					<line>17((
+</line>
+					<line>18bluebluemod:&gt;16@NH %NH A ABS
+</line>
+					<line>19))
+</line>
+					<line>20inin@ADVL %EH PREP
+</line>
+					<line>21bothbothdet:&gt;22@DN&gt; %&gt;N DET PL
+</line>
+					<line>22sidessidepcomp:&gt;20@&lt;P %NH N NOM PL
+</line>
+					<line>23ofofmod:&gt;22@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>24dsDNAdsdnapcomp:&gt;23@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+					<line>25totopm:&gt;26@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>26disruptdisruptmod:&gt;24@-FMAINV %VA V INF
+</line>
+					<line>27thethedet:&gt;30@DN&gt; %&gt;N DET
+</line>
+					<line>28pairingpairingattr:&gt;29@A&gt; %&gt;N A ABS
+</line>
+					<line>29hydrogenhydrogenattr:&gt;30@A&gt; %&gt;N N NOM SG
+</line>
+					<line>30bondsbondobj:&gt;26@OBJ %NH N NOM PL
+</line>
+					<line>31ininloc:&gt;26@ADVL %EH PREP
+</line>
+					<line>32thethedet:&gt;33@DN&gt; %&gt;N DET
+</line>
+					<line>33modelmodelpcomp:&gt;31@&lt;P %NH N NOM SG
+</line>
+					<line>34..
+</line>
+				</fdg>
+			</example>
+			<example src="EMBO" no="*2">
+				<text>
+The zinc finger motif, which specifically recognizes the GO:C pair, is firmly fixed with respect to the C-terminal domain by the hydrogen bond network, so the Lys147Ala substitution would be expected to disrupt the interaction, resulting in a drastic decrease of activity against GO:C substrates.
+
+</text>
+				<arg n="0">the Lys147Ala substitution
+</arg>
+				<arg n="1">the interaction
+</arg>
+				<arg n="R">a drastic decrease of activity against GO:C substrates
+</arg>
+				<fdg>
+					<line>1Thethedet:&gt;4@DN&gt; %&gt;N DET
+</line>
+					<line>2zinczincattr:&gt;3@A&gt; %&gt;N N NOM SG
+</line>
+					<line>3fingerfingerattr:&gt;4@A&gt; %&gt;N N NOM SG
+</line>
+					<line>4motifmotifsubj:&gt;13@SUBJ %NH N NOM SG
+</line>
+					<line>5,,
+</line>
+					<line>6whichwhichsubj:&gt;8@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+					<line>7specificallyspecificallyman:&gt;8@ADVL %EH ADV
+</line>
+					<line>8recognizesrecognizemod:&gt;4@+FMAINV %VA V PRES SG3
+</line>
+					<line>9thethedet:&gt;11@DN&gt; %&gt;N DET
+</line>
+					<line>10GO:Cgo:cattr:&gt;11@A&gt; %&gt;N N NOM SG
+</line>
+					<line>11pairpairobj:&gt;8@OBJ %NH N NOM
+</line>
+					<line>12,,
+</line>
+					<line>13isbev-ch:&gt;15@+FAUXV %AUX V PRES SG3
+</line>
+					<line>14firmlyfirmlymeta:&gt;15@ADVL %EH ADV
+</line>
+					<line>15fixedfixmain:&gt;0@-FMAINV %VP EN
+</line>
+					<line>16withwithha:&gt;15@ADVL %EH PREP
+</line>
+					<line>17respectrespectpcomp:&gt;16@&lt;P %NH N NOM SG
+</line>
+					<line>18totomod:&gt;17@&lt;NOM %N&lt; PREP
+</line>
+					<line>19thethedet:&gt;21@DN&gt; %&gt;N DET
+</line>
+					<line>20C-terminalc-terminalattr:&gt;21@A&gt; %&gt;N A ABS
+</line>
+					<line>21domaindomainpcomp:&gt;18@&lt;P %NH N NOM SG
+</line>
+					<line>22bybyagt:&gt;15@ADVL %EH PREP
+</line>
+					<line>23thethedet:&gt;26@DN&gt; %&gt;N DET
+</line>
+					<line>24hydrogenhydrogenattr:&gt;25@A&gt; %&gt;N N NOM SG
+</line>
+					<line>25bondbondattr:&gt;26@A&gt; %&gt;N N NOM SG
+</line>
+					<line>26networknetworkpcomp:&gt;22@&lt;P %NH N NOM SG
+</line>
+					<line>27,,
+</line>
+					<line>28sosometa:&gt;34@ADVL %EH ADV
+</line>
+					<line>29thethedet:&gt;31@DN&gt; %&gt;N DET
+</line>
+					<line>30Lys147Alalys147alaattr:&gt;31@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>31substitutionsubstitutionsubj:&gt;32@SUBJ %NH N NOM SG
+</line>
+					<line>32wouldwouldv-ch:&gt;33@+FAUXV %AUX V AUXMOD
+</line>
+					<line>33bebev-ch:&gt;34@-FAUXV %AUX V INF
+</line>
+					<line>34expectedexpect@-FMAINV %VP EN
+</line>
+					<line>35totopm:&gt;36@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>36disruptdisruptcnt:&gt;34@-FMAINV %VA V INF
+</line>
+					<line>37thethedet:&gt;38@DN&gt; %&gt;N DET
+</line>
+					<line>38interactioninteractionobj:&gt;36@OBJ %NH N NOM SG
+</line>
+					<line>39,,
+</line>
+					<line>40resultingresultha:&gt;36@-FMAINV %VA ING
+</line>
+					<line>41ininloc:&gt;40@ADVL %EH PREP
+</line>
+					<line>42aadet:&gt;44@DN&gt; %&gt;N DET SG
+</line>
+					<line>43drasticdrasticattr:&gt;44@A&gt; %&gt;N A ABS
+</line>
+					<line>44decreasedecreasepcomp:&gt;41@&lt;P %NH N NOM SG
+</line>
+					<line>45ofofmod:&gt;44@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>46activityactivitypcomp:&gt;45@&lt;P %NH N NOM SG
+</line>
+					<line>47againstagainstmod:&gt;46@&lt;NOM %N&lt; PREP
+</line>
+					<line>48GO:Cgo:cattr:&gt;49@A&gt; %&gt;N N NOM SG
+</line>
+					<line>49substratessubstratepcomp:&gt;47@&lt;P %NH N NOM PL
+</line>
+					<line>50..
+</line>
+				</fdg>
+			</example>
+			<example src="EMBO" no="*3">
+				<text>
+Importantly, the findings show that the knockout of MEKK1 or MEKK2 expression does not disrupt the overall integrity of MAPK pathway regulation.
+
+</text>
+				<arg n="0">knockout of MEKK1 or MEKK2 expression
+</arg>
+				<arg n="1">the overall integrity of MAPK pathway regulation
+</arg>
+				<arg n="R">-
+</arg>
+				<arg n="M-NEG">not
+</arg>
+				<fdg>
+					<line/>
+					<line/>
+					<line>1Importantlyimportantly@ADVL %EH ADV
+</line>
+					<line>2,,
+</line>
+					<line>3thethedet:&gt;4@DN&gt; %&gt;N DET
+</line>
+					<line>4findingsfindingsubj:&gt;5@SUBJ %NH N NOM PL
+</line>
+					<line>5showshow@+FMAINV %VA V PRES
+</line>
+					<line>6thatthatpm:&gt;16@CS %CS CS
+</line>
+					<line>7thethedet:&gt;8@DN&gt; %&gt;N DET
+</line>
+					<line>8knockoutknockoutsubj:&gt;14@SUBJ %NH N NOM SG
+</line>
+					<line>9ofofmod:&gt;8@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>10MEKK1mekk1cc:&gt;12@A&gt; %&gt;N N NOM SG
+</line>
+					<line>11ororcc:&gt;12@CC %CC CC
+</line>
+					<line>12MEKK2mekk2attr:&gt;13@A&gt; %&gt;N N NOM SG
+</line>
+					<line>13expressionexpressionpcomp:&gt;9@&lt;P %NH N NOM SG
+</line>
+					<line>14doesdov-ch:&gt;16@+FAUXV %AUX V PRES SG3
+</line>
+					<line>15notnotneg:&gt;14@ADVL %EH NEG-PART
+</line>
+					<line>16disruptdisruptobj:&gt;5@-FMAINV %VA V INF
+</line>
+					<line>17thethedet:&gt;19@DN&gt; %&gt;N DET
+</line>
+					<line>18overalloverallattr:&gt;19@A&gt; %&gt;N A ABS
+</line>
+					<line>19integrityintegrityobj:&gt;16@OBJ %NH N NOM SG
+</line>
+					<line>20ofofmod:&gt;19@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>21MAPKmapkattr:&gt;22@A&gt; %&gt;N N NOM SG
+</line>
+					<line>22pathwaypathwayattr:&gt;23@A&gt; %&gt;N N NOM SG
+</line>
+					<line>23regulationregulationpcomp:&gt;20@&lt;P %NH N NOM SG
+</line>
+					<line>24..
+</line>
+				</fdg>
+			</example>
+		</roleset>
+	</predicate>
+</frameset>

@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="eliminate">
+            <roleset id="eliminate.01" name="remove&#x0A;" wordnet="1">
+                <roles>
+                    <role n="0" descr="entity removing&#x0A;" />
+                    <role n="1" descr="thing being removed&#x0A;" />
+                    <role n="2" descr="removed from&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>All three sites eliminated make the same high level of activation of B-Raf occurs.</text>
+                    <arg n="1">all three sites</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>An asparagine residue within a kinase domain of the product is eliminated by a 3-bp in-frame deletion; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>As illustrated in Figure 1, staurosporin (or genestein; data not shown) does not eliminate the stabilization seen with MG132.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>As illustrated in Figure 1, the stabilization seen with MG132 was not eliminated by staurosporin (or genestein; data not shown).</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>As illustrated in Figure 1, the stabilization seen with MG132 was not eliminated by staurosporin (or genestein; data not shown).</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Binding of GntR to the operators will be eliminated by gluconate and also by 6-phosphogluconate at a 10-fold-higher concentration.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>In gel shift assay, anti-ref1 antibody has eliminated formation of the nCaRE-protein complex.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>In gel shift assay, anti-ref1 antibody will eliminate formation of the nCaRE-protein complex.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Mutation of T491 has eliminated the recognition by the anti-pT598 antibody while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>One mutation eliminates the BamHI site in exon 7.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>One of the remaining three families carried a 3-bp in-frame deletion that eliminates an asparagine residue within a kinase domain of the product; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>That the inhibitory phosphorylation was eliminated is sufficient to confer constitutive activity upon lin-45 Raf and induce multi-vulva phenotypes in C.elegans.</text>
+                    <arg n="1">the inhibitory phosphorylation</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>The recognition is eliminated by mutation of T491 through the anti-pT598 antibody while mutation at S494 has no effect (Figure 2C).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                    <arg n="2">the anti-pT598 antibody</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>This occurs by microbe-detecting receptors, such as CD14, that activate immune cells to eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>formation of the nCaRE-protein complex was eliminated by anti-ref1 antibody.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Binding of GntR to the operators is eliminated by gluconate and also by 6-phosphogluconate at a 10-fold-higher concentration.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>This occurs by microbe-detecting receptors activating immune cells to eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text> eliminated exogenous H(2)O(2) while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0"></arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text> eliminates exogenous H(2)O(2) while mutation at S494 has no effect (Figure 2C).</text>
+                    <arg n="0"></arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text> located within O2 or between OT and O1 eliminates exogenous H(2)O(2), whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0"></arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Addition of Grb2 significantly molar ratio of 5:1 at a 10-fold-higher concentration eliminate binding.</text>
+                    <arg n="0">Addition of Grb2 significantly molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Addition of Grb2 significantly molar ratio of 5:1 has eliminated binding while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">Addition of Grb2 significantly molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>As illustrated in Figure 1, A 6-bp insertion did not eliminate repression of the glpTQ promoter.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>As illustrated in Figure 1, Binding of GntR to the operators was not eliminated by gluconate and also by 6-phosphogluconate.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>As illustrated in Figure 1, One mutation does not eliminate the BamHI site.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>As illustrated in Figure 1, Sec incorporation is not eliminated by these same mutations.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>As illustrated in Figure 1, Sec incorporation was not eliminated by these same mutations.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>As illustrated in Figure 1, anti-ref1 antibody did not eliminate formation of the nCaRE-protein complex.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>As illustrated in Figure 1, formation of the nCaRE-protein complex is not eliminated by anti-ref1 antibody.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>As illustrated in Figure 1, microbe-detecting receptors, such as CD14, that activate immune cells did not eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>As illustrated in Figure 1, the HindIII site will not be eliminated by the other.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>As illustrated in Figure 1, the pathogens will not be eliminated by microbe-detecting receptors, such as CD14, that activate immune cells.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>As illustrated in Figure 1, the pathogens will not be eliminated by microbe-detecting receptors, such as CD14, that activate immune cells.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>As illustrated in Figure 1, these same mutations did not eliminate Sec incorporation.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>At A 6-bp insertion, repression of the glpTQ promoter is completely eliminated (Figure 7).</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>At A 6-bp insertion, repression of the glpTQ promoter will be completely eliminated (Figure 7).</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>At A 6-bp insertion, repression of the glpTQ promoter will be completely eliminated (Figure 7).</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>At Addition of Grb2 significantly molar ratio of 5:1, binding will be completely eliminated (Figure 7).</text>
+                    <arg n="0">Addition of Grb2 significantly molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>At Mutation of T491, the recognition is observed to be completely eliminated (Figure 7).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>At anti-ref1 antibody, formation of the nCaRE-protein complex can be completely eliminated (Figure 7).</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>At inhibition of any one of these molecules, vital stem cells is completely eliminated (Figure 7).</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>Binding of GntR to the operators is eliminated by gluconate and also by 6-phosphogluconate.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>Eliminating any deleterious effects or mimicking activating phosphorylation sites is sufficient to confer constitutive activity upon lin-45 Raf and induce multi-vulva phenotypes in C.elegans.</text>
+                    <arg n="1">any deleterious effects</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>In gel shift assay,  will eliminate exogenous H(2)O(2).</text>
+                    <arg n="0"></arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>In gel shift assay, Addition of Grb2 significantly molar ratio of 5:1 eliminated binding.</text>
+                    <arg n="0">Addition of Grb2 significantly molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>In gel shift assay, Addition of Grb2 significantly molar ratio of 5:1 has eliminated binding.</text>
+                    <arg n="0">Addition of Grb2 significantly molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>In gel shift assay, One mutation eliminated the BamHI site.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>In gel shift assay, inhibition of any one of these molecules eliminated exogenous H(2)O(2).</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>In gel shift assay, inhibition of any one of these molecules will eliminate exogenous H(2)O(2).</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>In gel shift assay, inhibition of any one of these molecules will eliminate exogenous H(2)O(2).</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>In gel shift assay, microbe-detecting receptors, such as CD14, that activate immune cells eliminated the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>In gel shift assay, microbe-detecting receptors, such as CD14, that activate immune cells will eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>In gel shift assay, staurosporin (or genestein; data not shown) eliminates the stabilization seen with MG132.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>In gel shift assay, staurosporin (or genestein; data not shown) eliminates the stabilization seen with MG132.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>Inhibition of any one of these molecules eliminated the recognition in transgenic plants.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">the recognition</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, eliminated the stabilization seen with MG132.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, eliminates Binding of GntR to the operators.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, eliminates the HindIII site.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, has eliminated binding.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, is able to eliminate Binding of GntR to the operators.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, is able to eliminate binding.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, is able to eliminate the stabilization seen with MG132.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminate binding.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminate binding.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminate the HindIII site.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminate the recognition.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminate the recognition.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminated binding.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminated the recognition.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, is able to eliminate repression of the glpTQ promoter.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>Mutation of T491 at a 10-fold-higher concentration eliminate the recognition.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>Mutation of T491 eliminates the recognition while mutation at S494 has no effect (Figure 2C).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>Mutation of T491 located within O2 or between OT and O1 eliminated the recognition by the anti-pT598 antibody, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>Mutation of T491 located within O2 or between OT and O1 has eliminated the recognition by the anti-pT598 antibody, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>Mutation of T491 which eliminates the recognition is located within O2 or between OT and O1, whereas significant repression is maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>One mutationExogenous H(2)O(2) is eliminated in transgenic plants by inhibition of any one of these molecules.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>Sec incorporation is eliminated by these same mutations.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, Addition of Grb2 significantly molar ratio of 5:1 completely eliminated binding.</text>
+                    <arg n="0">Addition of Grb2 significantly molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, Mutation of T491 can completely eliminate the recognition (Lesoon et al., 1997).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, Mutation of T491 can completely eliminate the recognition by the anti-pT598 antibody (Lesoon et al., 1997).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="PERMUTATE" no="64">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, One mutation can completely eliminate the BamHI site (Lesoon et al., 1997).</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="PERMUTATE" no="65">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, a molar ratio of 5:1 can completely eliminate binding (Lesoon et al., 1997).</text>
+                    <arg n="0">a molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="66">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, a molar ratio of 5:1 can completely eliminate binding (Lesoon et al., 1997).</text>
+                    <arg n="0">a molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="67">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, anti-ref1 antibody completely eliminate formation of the nCaRE-protein complex.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="PERMUTATE" no="68">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, binding was completely eliminated by Addition of Grb2 significantly molar ratio of 5:1.</text>
+                    <arg n="0">Addition of Grb2 significantly molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="69">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, binding was completely eliminated by a molar ratio of 5:1.</text>
+                    <arg n="0">a molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="70">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, exogenous H(2)O(2) was completely eliminated by .</text>
+                    <arg n="0"></arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="71">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, exogenous H(2)O(2) was completely eliminated by inhibition of any one of these molecules.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="72">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, gluconate and also by 6-phosphogluconate completely eliminate Binding of GntR to the operators.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="PERMUTATE" no="73">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, inhibition of any one of these molecules completely eliminated exogenous H(2)O(2).</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="74">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, microbe-detecting receptors activating immune cells can completely eliminate the pathogens (Lesoon et al., 1997).</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="75">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, the other can completely eliminate the HindIII site (Lesoon et al., 1997).</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="PERMUTATE" no="76">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, the pathogens is completely eliminated by microbe-detecting receptors, such as CD14, that activate immune cells.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="77">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, the stabilization seen with MG132 was completely eliminated by staurosporin (or genestein; data not shown).</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="78">
+                    <text>The BamHI site was eliminated in Transgenic plants by one mutation.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="PERMUTATE" no="79">
+                    <text>The pathogens are eliminated by A 6-bp insertion, such as CD14.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="80">
+                    <text>The pathogens were eliminated by gluconate and also by 6-phosphogluconate such as CD14.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="81">
+                    <text>The pathogens were eliminated by the other such as CD14.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="82">
+                    <text>They establish that A 6-bp insertion, as may occur following caspase activation, could eliminate repression of the glpTQ promoter required for skeletal muscle regeneration during chronic catabolic conditions.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="83">
+                    <text>They establish that A 6-bp insertion, as may occur following caspase activation, could eliminate repression of the glpTQ promoter required for skeletal muscle regeneration during chronic catabolic conditions.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="84">
+                    <text>They establish that Mutation of T491, as may occur following caspase activation, can eliminate the recognition by the anti-pT598 antibody required for skeletal muscle regeneration during chronic catabolic conditions.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="PERMUTATE" no="85">
+                    <text>They establish that anti-ref1 antibody, as may occur following caspase activation, could eliminate formation of the nCaRE-protein complex required for skeletal muscle regeneration during chronic catabolic conditions.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="PERMUTATE" no="86">
+                    <text>This occurs by One mutation for eliminating the BamHI site.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="PERMUTATE" no="87">
+                    <text>This occurs by staurosporin (or genestein; data not shown) for eliminating the stabilization seen with MG132.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="88">
+                    <text>Vital stem cells are eliminated by these same mutations, as may occur following caspase activation.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="PERMUTATE" no="89">
+                    <text>Vital stem cells were eliminated by Addition of Grb2 significantly molar ratio of 5:1,as may occur following caspase activation.</text>
+                    <arg n="0">Addition of Grb2 significantly molar ratio of 5:1</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="PERMUTATE" no="90">
+                    <text>Vital stem cells were eliminated by microbe-detecting receptors activating immune cells,as may occur following caspase activation.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="PERMUTATE" no="91">
+                    <text>Vital stem cells were eliminated by staurosporin (or genestein; data not shown),as may occur following caspase activation.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="PERMUTATE" no="92">
+                    <text>a molar ratio of 5:1 eliminates binding while mutation at S494 has no effect (Figure 2C).</text>
+                    <arg n="0">a molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="93">
+                    <text>a molar ratio of 5:1 located within O2 or between OT and O1 eliminated binding, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">a molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="PERMUTATE" no="94">
+                    <text>anti-ref1 antibody which eliminated formation of the nCaRE-protein complex was located within O2 or between OT and O1, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="PERMUTATE" no="95">
+                    <text>exogenous H(2)O(2) is eliminated by  at a 10-fold-higher concentration.</text>
+                    <arg n="0"></arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="96">
+                    <text>exogenous H(2)O(2) is eliminated by .</text>
+                    <arg n="0"></arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="97">
+                    <text>exogenous H(2)O(2) is eliminated by inhibition of any one of these molecules in Transgenic plants.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="PERMUTATE" no="98">
+                    <text>exogenous H(2)O(2) is eliminated by inhibition of any one of these molecules in Transgenic plants.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="PERMUTATE" no="99">
+                    <text>exogenous H(2)O(2) was eliminated by inhibition of any one of these molecules in Transgenic plants.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="PERMUTATE" no="100">
+                    <text>exogenous H(2)O(2) will be eliminated by  at a 10-fold-higher concentration.</text>
+                    <arg n="0"></arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="101">
+                    <text>formation of the nCaRE-protein complex is eliminated by anti-ref1 antibody at a 10-fold-higher concentration.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="PERMUTATE" no="102">
+                    <text>formation of the nCaRE-protein complex will be eliminated by anti-ref1 antibody at a 10-fold-higher concentration.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="PERMUTATE" no="103">
+                    <text>gluconate and also by 6-phosphogluconate eliminates Binding of GntR to the operators while mutation at S494 has no effect (Figure 2C).</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="PERMUTATE" no="104">
+                    <text>gluconate and also by 6-phosphogluconate located within O2 or between OT and O1 eliminates Binding of GntR to the operators, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="PERMUTATE" no="105">
+                    <text>gluconate and also by 6-phosphogluconate located within O2 or between OT and O1 will eliminate Binding of GntR to the operators, whereas significant repression will be maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="PERMUTATE" no="106">
+                    <text>inhibition of any one of these molecules has eliminated exogenous H(2)O(2) while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="107">
+                    <text>inhibition of any one of these molecules has eliminated vital stem cells while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="PERMUTATE" no="108">
+                    <text>inhibition of any one of these molecules located within O2 or between OT and O1 eliminated vital stem cells, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="PERMUTATE" no="109">
+                    <text>inhibition of any one of these molecules which eliminated vital stem cells was located within O2 or between OT and O1, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="PERMUTATE" no="110">
+                    <text>microbe-detecting receptors activating immune cells has eliminated the pathogens while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="111">
+                    <text>microbe-detecting receptors, such as CD14, that activate immune cells at a 10-fold-higher concentration eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="112">
+                    <text>microbe-detecting receptors, such as CD14, that activate immune cells eliminated the pathogens while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="113">
+                    <text>staurosporin (or genestein; data not shown) at a 10-fold-higher concentration eliminated the stabilization seen with MG132.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="114">
+                    <text>staurosporin (or genestein; data not shown) located within O2 or between OT and O1 eliminates the stabilization seen with MG132, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="115">
+                    <text>staurosporin (or genestein; data not shown) which eliminates the stabilization seen with MG132 is located within O2 or between OT and O1, whereas significant repression is maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="116">
+                    <text>the BamHI site was eliminated by One mutation at a 10-fold-higher concentration.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="PERMUTATE" no="117">
+                    <text>the BamHI site will be eliminated by One mutation at a 10-fold-higher concentration.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="PERMUTATE" no="118">
+                    <text>the HindIII site is eliminated by the other at a 10-fold-higher concentration.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="PERMUTATE" no="119">
+                    <text>the other which eliminates the HindIII site is located within O2 or between OT and O1, whereas significant repression is maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="PERMUTATE" no="120">
+                    <text>the other which eliminates the HindIII site is located within O2 or between OT and O1, whereas significant repression is maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="PERMUTATE" no="121">
+                    <text>the otherExogenous H(2)O(2) is eliminated in transgenic plants by inhibition of any one of these molecules.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="PERMUTATE" no="122">
+                    <text>the otherExogenous H(2)O(2) was eliminated in transgenic plants by inhibition of any one of these molecules.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="PERMUTATE" no="123">
+                    <text>the pathogens is eliminated by microbe-detecting receptors activating immune cells.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="124">
+                    <text>the pathogens is eliminated by microbe-detecting receptors, such as CD14, that activate immune cells at a 10-fold-higher concentration.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="PERMUTATE" no="125">
+                    <text>the recognition by the anti-pT598 antibody is eliminated by Mutation of T491.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="PERMUTATE" no="126">
+                    <text>the recognition by the anti-pT598 antibody is eliminated by Mutation of T491.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="PERMUTATE" no="127">
+                    <text>the recognition by the anti-pT598 antibody will be eliminated by Mutation of T491 at a 10-fold-higher concentration.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="PERMUTATE" no="128">
+                    <text>the recognition is eliminated by Mutation of T491 at a 10-fold-higher concentration.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="129">
+                    <text>the recognition was eliminated by Mutation of T491.</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                </example>
+                <example src="PERMUTATE" no="130">
+                    <text>the stabilization seen with MG132 has been eliminated by staurosporin (or genestein; data not shown) at a 10-fold-higher concentration.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                </example>
+                <example src="PERMUTATE" no="131">
+                    <text>these same mutations eliminated Sec incorporation while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="PERMUTATE" no="132">
+                    <text>these same mutations has eliminated Sec incorporation while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="PERMUTATE" no="133">
+                    <text>these same mutations located within O2 or between OT and O1 eliminated Sec incorporation, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="PERMUTATE" no="134">
+                    <text>these same mutations located within O2 or between OT and O1 has eliminated Sec incorporation, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="PERMUTATE" no="135">
+                    <text>these same mutations located within O2 or between OT and O1 has eliminated Sec incorporation, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="PERMUTATE" no="136">
+                    <text>these same mutations which eliminated Sec incorporation was located within O2 or between OT and O1, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>As illustrated in Figure 1, a 3-bp in-frame deletion can not eliminate an asparagine residue.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>As illustrated in Figure 1, a 3-bp in-frame deletion did not eliminate an asparagine residue.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>As illustrated in Figure 1, mutation of a new locus, galS does not eliminate The requirement of induction.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>In gel shift assay, a 3-bp in-frame deletion has eliminated an asparagine residue.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Inhibition of any one of these molecules eliminated an asparagine residue in transgenic plants.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, eliminated an asparagine residue.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, eliminates an asparagine residue.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, has eliminated The requirement of induction.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, is able to eliminate The requirement of induction.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, is able to eliminate The requirement of induction.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminate The requirement of induction.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>One mutationIn gel shift assay,  eliminated the BamHI site.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>One mutationSecondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR,  can completely eliminate the BamHI site (Lesoon et al., 1997).</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>One mutationSecondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, the BamHI site is completely eliminated by .</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>One mutationSecondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, yet  completely eliminate the BamHI site (Lesoon et al., 1997).</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>One mutationthe BamHI site is eliminated by  in exon 7.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>Secondly, SBP2 The requirement of induction activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, binding was completely eliminated by mutation of a new locus, galS.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>Secondly, SBP2 The requirement of induction activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, mutation of a new locus, galS can completely eliminate binding (Lesoon et al., 1997).</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>Secondly, SBP2 The requirement of induction activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, mutation of a new locus, galS completely eliminated binding.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>Secondly, SBP2 an asparagine residue activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, a 3-bp in-frame deletion completely eliminated binding.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>Secondly, SBP2 an asparagine residue activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, yet a 3-bp in-frame deletion completely eliminate binding (Lesoon et al., 1997).</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>Secondly, SBP2 an asparagine residue activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, yet a 3-bp in-frame deletion completely eliminate binding (Lesoon et al., 1997).</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, mutation of a new locus, galS can completely eliminate The requirement of induction (Lesoon et al., 1997).</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>Secondly, SBP2 the BamHI site activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, yet One mutation completely eliminate binding (Lesoon et al., 1997).</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>Secondly, SBP2 the HindIII site activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, the other completely eliminated binding.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>The pathogens were eliminated by mutation of a new locus, galS such as CD14.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>The pathogens were eliminated by mutation of a new locus, galS such as CD14.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>The requirement of induction was eliminated by mutation of a new locus, galS at a 10-fold-higher concentration.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>This occurs by mutation of a new locus, galS to eliminate The requirement of induction.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>This occurs by mutation of a new locus, galS to eliminate The requirement of induction.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>a 3-bp in-frame deletion at a 10-fold-higher concentration eliminate an asparagine residue.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>a 3-bp in-frame deletion eliminated an asparagine residue while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>a 3-bp in-frame deletion has eliminated an asparagine residue in a kinase domain of the product.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>a 3-bp in-frame deletion has eliminated an asparagine residue while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>a 3-bp in-frame deletion located within O2 or between OT and O1 eliminated an asparagine residue, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>a 3-bp in-frame deletion located within O2 or between OT and O1 eliminates an asparagine residue, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="37">
+                    <text>a 3-bp in-frame deletion which eliminates an asparagine residue is located within O2 or between OT and O1, whereas significant repression is maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="38">
+                    <text>a 3-bp in-frame deletionAs illustrated in Figure 1,  can not eliminate an asparagine residue.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="39">
+                    <text>a 3-bp in-frame deletionAs illustrated in Figure 1,  can not eliminate an asparagine residue.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="40">
+                    <text>a 3-bp in-frame deletionAs illustrated in Figure 1,  can not eliminate an asparagine residue.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="41">
+                    <text>a 3-bp in-frame deletionAs illustrated in Figure 1, an asparagine residue will not be eliminated by .</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="42">
+                    <text>a 3-bp in-frame deletionThey establish that , as may occur following caspase activation, can eliminate an asparagine residue required for skeletal muscle regeneration during chronic catabolic conditions.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="43">
+                    <text>a 3-bp in-frame deletionThey establish that , as may occur following caspase activation, can eliminate an asparagine residue required for skeletal muscle regeneration during chronic catabolic conditions.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="44">
+                    <text>a 3-bp in-frame deletionThey establish that , as may occur following caspase activation, could eliminate an asparagine residue required for skeletal muscle regeneration during chronic catabolic conditions.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="45">
+                    <text>a 3-bp in-frame deletionVital stem cells were eliminated by ,as may occur following caspase activation.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="REPLACE" no="46">
+                    <text>a 3-bp in-frame deletionan asparagine residue will be eliminated by  at a 10-fold-higher concentration.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                </example>
+                <example src="REPLACE" no="47">
+                    <text>an asparagine residue was eliminated by a 3-bp in-frame deletion in a kinase domain of the product.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="REPLACE" no="48">
+                    <text>mutation of a new locus, galS located within O2 or between OT and O1 eliminated The requirement of induction, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="49">
+                    <text>mutation of a new locus, galSSecondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR,  completely eliminated The requirement of induction.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="50">
+                    <text>mutation of a new locus, galSSecondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, The requirement of induction was completely eliminated by .</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="51">
+                    <text>mutation of a new locus, galSThe requirement of induction is eliminated by .</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="52">
+                    <text>mutation of a new locus, galSThe requirement of induction was eliminated by .</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="53">
+                    <text>mutation of a new locus, galSThis occurs by  for eliminating The requirement of induction.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="REPLACE" no="54">
+                    <text>mutation of a new locus, galSVital stem cells are eliminated by , as may occur following caspase activation.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="REPLACE" no="55">
+                    <text>mutation of a new locus, galSVital stem cells are eliminated by , as may occur following caspase activation.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="REPLACE" no="56">
+                    <text>the otherSecondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR,  completely eliminated the HindIII site.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="REPLACE" no="57">
+                    <text>the otherThis occurs by  for eliminating the HindIII site.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="REPLACE" no="58">
+                    <text>the otherVital stem cells are eliminated by , as may occur following caspase activation.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="REPLACE" no="59">
+                    <text>the otherthe HindIII site was eliminated by  at a 10-fold-higher concentration.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+                <example src="REPLACE" no="60">
+                    <text>the otherthe HindIII site was eliminated by  at a 10-fold-higher concentration.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

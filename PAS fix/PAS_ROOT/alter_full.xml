@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="alter">
+<roleset id="alter.01" name="" wordnet="1">
+<roles>
+  <role n="0" descr="causer of transformation		// mutation, protein //
+"/>
+  <role n="1" descr="thing changing				// codon, exon, premRNA //
+"/>
+  <role n="2" descr="end state				
+"/>
+  <role n="3" descr="start state				
+"/>
+  <role n="4" descr="location refering to tissue, organelle, person, gene
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Mutations that alter splice sites led to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.
+
+</text>
+       <arg n="0">mutations
+</arg>
+       <arg n="1">splice sites
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+       <arg n="4">-
+</arg>
+<fdg>
+         1	Mutations	mutation	subj:&gt;6	@SUBJ %NH N NOM PL
+         2	that	that	subj:&gt;3	@SUBJ %NH &lt;Rel&gt; PRON
+         3	alter	alter	mod:&gt;1	@+FMAINV %VA V PRES
+         4	splice	splice	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+         5	sites	site	obj:&gt;3	@OBJ %NH N NOM PL
+         6	led	lead		@+FMAINV %VA V PAST
+         7	to	to	ha:&gt;6	@ADVL %EH PREP
+         8	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+         9	synthesis	synthesis	pcomp:&gt;7	@&lt;P %NH N NOM SG
+         10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+         11	several	several	det:&gt;12	@DN&gt; %&gt;N DET PL
+         12	types	type	pcomp:&gt;10	@&lt;P %NH N NOM PL
+         13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+         14	mRNAs	mrna	pcomp:&gt;13	@&lt;P %NH &lt;?&gt; N NOM PL
+         15	,	,
+         16	a	a	det:&gt;17	@DN&gt; %&gt;N DET SG
+         17	fraction	fraction	subj:&gt;20	@SUBJ %NH N NOM SG
+         18	of	of	mod:&gt;17	@&lt;NOM-OF %N&lt; PREP
+         19	which	which	pcomp:&gt;18	@&lt;P %NH &lt;Rel&gt; PRON WH NOM
+         20	represented	represent		@+FMAINV %VA V PAST
+         21	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+         22	normally	normally	ad:&gt;23	@AD-A&gt; %E&gt; ADV
+         23	spliced	spliced	attr:&gt;24	@A&gt; %&gt;N A ABS
+         24	product	product	obj:&gt;20	@OBJ %NH N NOM SG
+         25	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+In protein-coding transcripts, 79% of splice variations altered the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.
+
+</text>
+       <arg n="0">splice variations
+</arg>
+       <arg n="1">the protein product
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+       <arg n="4">-
+</arg>
+<fdg>
+         1	In	in		@ADVL %EH PREP
+         2	protein-coding	protein-coding	attr:&gt;3	@A&gt; %&gt;N &lt;?&gt; A ABS
+         3	transcripts	transcript	pcomp:&gt;1	@&lt;P %NH N NOM PL
+         4	,	,
+         5	79%	79%	mod:&gt;3	@APP %NH NUM CARD
+         6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+         7	splice	splice	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+         8	variations	variation	pcomp:&gt;6	@&lt;P %NH N NOM PL
+         9	altered	alter	main:&gt;0	@+FMAINV %VA V PAST
+         10	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+         11	protein	protein	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+         12	product	product	obj:&gt;9	@OBJ %NH N NOM SG
+         13	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+Four other mutations alter either the conserved gt or ag dinucleotide splice sites in the IVD gene.
+
+</text>
+       <arg n="0">Four other mutations
+</arg>
+       <arg n="1">either the conserved gt or ag dinucleotide splice sites
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+       <arg n="4">[in] the IVD gene
+</arg>
+<fdg>
+         1	Four	four	qn:&gt;2	@QN&gt; %&gt;N NUM CARD
+         2	other	other	det:&gt;3	@DN&gt; %&gt;N DET
+         3	mutations	mutation	subj:&gt;4	@SUBJ %NH N NOM PL
+         4	alter	alter	main:&gt;0	@+FMAINV %VA V PRES
+         5	either	either	meta:&gt;4	@ADVL %EH ADV
+         6	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+         7	conserved	conserved	attr:&gt;8	@A&gt; %&gt;N A ABS
+         8	gt	gt	obj:&gt;4	@OBJ %NH ABBR NOM SG
+         9	or	or	cc:&gt;8	@CC %CC CC
+         10	ag	ag	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+         11	dinucleotide	dinucleotide	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+         12	splice	splice	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+         13	sites	site	cc:&gt;8	@OBJ %NH N NOM PL
+         14	in	in	loc:&gt;4	@ADVL %EH PREP
+         15	the	the	det:&gt;17	@DN&gt; %&gt;N DET
+         16	IVD	ivd	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+         17	gene	gene	pcomp:&gt;14	@&lt;P %NH N NOM SG
+         18	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+This mutation is located within exon 2 and alters the codon (CTC) normally associated with Leu-93 in the transcortin polypeptide to a codon (CAC) for histidine in the variant genes.
+
+</text>
+       <arg n="0">This mutation
+</arg>
+       <arg n="1">the codon
+</arg>
+       <arg n="2">to a codon (CAC)
+</arg>
+       <arg n="3">the codon (CTC) 
+</arg>
+       <arg n="4">-
+</arg>
+<fdg>
+         1	This	this	det:&gt;2	@DN&gt; %&gt;N DET DEM SG
+         2	mutation	mutation	subj:&gt;3	@SUBJ %NH N NOM SG
+         3	is	be	v-ch:&gt;4	@+FAUXV %AUX V PRES SG3
+         4	located	locate	main:&gt;0	@-FMAINV %VP EN
+         5	within	within	ha:&gt;4	@ADVL %EH PREP
+         6	exon	exon	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+         7	2	2	pcomp:&gt;5	@&lt;P %NH NUM CARD
+         8	and	and	cc:&gt;4	@CC %CC CC
+         9	alters	alter	cc:&gt;4	@+FMAINV %VA V PRES SG3
+         10	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+         11	codon	codon	obj:&gt;9	@OBJ %NH N NOM SG
+         12	(	(
+         13	CTC	ctc	mod:&gt;11	@NH %NH ABBR NOM SG
+         14	)	)
+         15	normally	normally	frq:&gt;9	@ADVL %EH ADV
+         16	associated	associate		@-FMAINV %VP EN
+         17	with	with	phr:&gt;16	@ADVL %EH PREP
+         18	Leu-93	leu-93	pcomp:&gt;17	@&lt;P %NH &lt;?&gt; NUM CARD
+         19	in	in	mod:&gt;18	@&lt;NOM %N&lt; PREP
+         20	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+         21	transcortin	transcortin	attr:&gt;22	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         22	polypeptide	polypeptide	pcomp:&gt;19	@&lt;P %NH N NOM SG
+         23	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+         24	a	a	det:&gt;25	@DN&gt; %&gt;N DET SG
+         25	codon	codon	pcomp:&gt;23	@&lt;P %NH N NOM SG
+         26	(	(
+         27	CAC	cac	mod:&gt;25	@NH %NH ABBR NOM SG
+         28	)	)
+         29	for	for		@ADVL %EH PREP
+         30	histidine	histidine	pcomp:&gt;29	@&lt;P %NH &lt;?&gt; N NOM SG
+         31	in	in	mod:&gt;30	@&lt;NOM %N&lt; PREP
+         32	the	the	det:&gt;34	@DN&gt; %&gt;N DET
+         33	variant	variant	attr:&gt;34	@A&gt; %&gt;N N NOM SG
+         34	genes	gene	pcomp:&gt;31	@&lt;P %NH N NOM PL
+         35	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+Cytokines alter the expression and activity of the multidrug resistance transporters in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.
+
+</text>
+       <arg n="0">Cytokines
+</arg>
+       <arg n="1">the expression and activity of the multidrug resistance transporters
+</arg>
+       <arg n="2">- 
+</arg>
+       <arg n="3">- 
+</arg>
+       <arg n="4">[in] human hepatoma cell lines
+</arg>
+<fdg>
+1	Cytokines	cytokine	subj:&gt;2	@SUBJ %NH N NOM PL
+2	alter	alter	main:&gt;0	@+FMAINV %VA V PRES
+3	the	the	det:&gt;4	@DN&gt; %&gt;N DET
+4	expression	expression	obj:&gt;2	@OBJ %NH N NOM SG
+5	and	and	cc:&gt;4	@CC %CC CC
+6	activity	activity	cc:&gt;4	@OBJ %NH N NOM SG
+7	of	of	mod:&gt;6	@&lt;NOM-OF %N&lt; PREP
+8	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+9	multidrug	multidrug	attr:&gt;10	@A&gt; %&gt;N A ABS
+10	resistance	resistance	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+11	transporters	transporter	pcomp:&gt;7	@&lt;P %NH N NOM PL
+12	in	in	mod:&gt;11	@&lt;NOM %N&lt; PREP
+13	human	human	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	hepatoma	hepatoma	attr:&gt;15	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+15	cell	cell	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	lines	line	pcomp:&gt;12	@&lt;P %NH N NOM PL
+17	;	;
+18	analysis	analysis	mod:&gt;16	@NH %NH N NOM SG
+19	using	use		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING
+20	RT-PCR	rt-pcr	cc:&gt;22	@A&gt; %&gt;N N NOM SG
+21	and	and	cc:&gt;22	@CC %CC CC
+22	cDNA	cdna	attr:&gt;23	@A&gt; %&gt;N ABBR NOM SG
+23	microarrays	microarray	obj:&gt;19	@OBJ %NH &lt;?&gt; N NOM PL
+24	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Since these two bends are in opposing directions, they do not alter the overall direction of the DNA(Figure 3C).
+
+</text>
+       <arg n="0">these two bends
+</arg>
+       <arg n="1">the overall direction of the DNA
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+       <arg n="4">-
+</arg>
+       <arg n="M-NEG">not
+</arg>
+<fdg>
+
+1	Since	since	pm:&gt;5	@CS %CS CS
+2	these	this	det:&gt;4	@DN&gt; %&gt;N DET DEM PL
+3	two	two	qn:&gt;4	@QN&gt; %&gt;N NUM CARD
+4	bends	bend	subj:&gt;5	@SUBJ %NH N NOM PL
+5	are	be	cnt:&gt;13	@+FMAINV %VA V PRES
+6	in	in	ha:&gt;5	@ADVL %EH PREP
+7	opposing	oppose	pcomp:&gt;6	@&lt;P-FMAINV %VA ING
+8	directions	direction	obj:&gt;7	@OBJ %NH N NOM PL
+9	,	,
+10	they	they	subj:&gt;11	@SUBJ %NH PRON PERS NOM PL3
+11	do	do	v-ch:&gt;13	@+FAUXV %AUX V PRES
+12	not	not	neg:&gt;11	@ADVL %EH NEG-PART
+13	alter	alter	main:&gt;0	@-FMAINV %VA V INF
+14	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+15	overall	overall	attr:&gt;16	@A&gt; %&gt;N A ABS
+16	direction	direction	obj:&gt;13	@OBJ %NH N NOM SG
+17	of	of	mod:&gt;16	@&lt;NOM-OF %N&lt; PREP
+18	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+19	DNA	dna	pcomp:&gt;17	@&lt;P %NH ABBR NOM SG
+20	(	(
+21	Figure	figure	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	3C	3c		@NH %NH NUM CARD	@APP %NH NUM CARD	@A&gt; %&gt;N NUM CARD
+23	)	)
+24	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+Hence, Glu13 indirectly affects DNA-binding specificity, probably due to the change in DNA conformation, which subtly alters the specific protein DNA interactions observed.
+
+</text>
+       <arg n="0">the change in DNA conformation
+</arg>
+       <arg n="1">specific protein DNA interactions observed
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+       <arg n="4">-
+</arg>
+<fdg>
+1	Hence	hence	meta:&gt;5	@ADVL %EH ADV
+2	,	,
+3	Glu13	glu13	subj:&gt;5	@SUBJ %NH N NOM SG
+4	indirectly	indirectly	man:&gt;5	@ADVL %EH ADV
+5	affects	affect	main:&gt;0	@+FMAINV %VA V PRES SG3
+6	DNA-binding	dna-binding	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	specificity	specificity	obj:&gt;5	@OBJ %NH N NOM SG
+8	,	,
+9	probably	probably	ad:&gt;10	@AD-A&gt; %E&gt; ADV
+10	due to	due to		@ADVL %EH PREP
+11	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+12	change	change	pcomp:&gt;10	@&lt;P %NH N NOM SG
+13	in	in	mod:&gt;12	@&lt;NOM %N&lt; PREP
+14	DNA	dna	attr:&gt;15	@A&gt; %&gt;N ABBR NOM SG
+15	conformation	conformation	pcomp:&gt;13	@&lt;P %NH N NOM SG
+16	,	,
+17	which	which	subj:&gt;19	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+18	subtly	subtly	man:&gt;19	@ADVL %EH ADV
+19	alters	alter	mod:&gt;15	@+FMAINV %VA V PRES SG3
+20	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+21	specific	specific	attr:&gt;22	@A&gt; %&gt;N A ABS
+22	protein	protein	obj:&gt;19	@OBJ %NH N NOM SG
+23	&amp;	    &amp;		@CC %CC CC
+24	#8211	#8211		@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+25	;	;
+26	DNA	dna	attr:&gt;27	@A&gt; %&gt;N ABBR NOM SG
+27	interactions	interaction	subj:&gt;28	@SUBJ %NH N NOM PL
+28	observed	observe	cc:&gt;19	@+FMAINV %VA V PAST
+29	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+Phosphorylation of PDK1 was not altered by treating the cells with insulin-like growth factor-I and four of the sites could be mutated without loss of activity.
+
+</text>
+       <arg n="0">treating the cells with insulin-like growth factor-I
+</arg>
+       <arg n="1">Phosphorylation of PDK1
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+       <arg n="4">-
+</arg>
+       <arg n="M-NEG">not
+</arg>
+<fdg>
+1	Phosphorylation	phosphorylation	subj:&gt;4	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	PDK1	pdk1	pcomp:&gt;2	@&lt;P %NH N NOM SG
+4	was	be	v-ch:&gt;6	@+FAUXV %AUX V PAST
+5	not	not	neg:&gt;4	@ADVL %EH NEG-PART
+6	altered	alter		@-FMAINV %VP EN
+7	by	by	man:&gt;6	@ADVL %EH PREP
+8	treating	treat	pcomp:&gt;7	@&lt;P-FMAINV %VA ING
+9	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+10	cells	cell	obj:&gt;8	@OBJ %NH N NOM PL
+11	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+12	insulin-like	insulin-like	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	growth	growth	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	factor-I	factor-i	pcomp:&gt;11	@&lt;P %NH &lt;?&gt; N NOM SG
+15	and	and	cc:&gt;14	@CC %CC CC
+16	four	four	cc:&gt;14	@&lt;P %NH NUM CARD
+17	of	of	mod:&gt;16	@&lt;NOM-OF %N&lt; PREP
+18	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+19	sites	site	pcomp:&gt;17	@&lt;P %NH N NOM PL
+20	could	could	v-ch:&gt;21	@+FAUXV %AUX V AUXMOD
+21	be	be	v-ch:&gt;22	@-FAUXV %AUX V INF
+22	mutated	mutate		@-FMAINV %VP EN
+23	without	without	ha:&gt;22	@ADVL %EH PREP
+24	loss	loss	pcomp:&gt;23	@&lt;P %NH N NOM SG
+25	of	of	mod:&gt;24	@&lt;NOM-OF %N&lt; PREP
+26	activity	activity	pcomp:&gt;25	@&lt;P %NH N NOM SG
+27	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+As the molecular lesion associated with s1031 is predicted to alter splicing, we looked at the sos-1 mRNA produced in this mutant.
+
+</text>
+       <arg n="0">the molecular lesion associated with s1031
+</arg>
+       <arg n="1">splicing 
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+       <arg n="4">-
+</arg>
+<fdg>
+8	As	as	pm:&gt;16	@CS %CS CS
+9	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+10	molecular	molecular	attr:&gt;11	@A&gt; %&gt;N A ABS
+11	lesion	lesion	subj:&gt;15	@SUBJ %NH N NOM SG
+12	associated	associate	mod:&gt;11	@-FMAINV %VP EN
+13	with	with	phr:&gt;12	@ADVL %EH PREP
+14	s1031	s1031	pcomp:&gt;13	@&lt;P %NH N NOM SG
+15	is	be	v-ch:&gt;16	@+FAUXV %AUX V PRES SG3
+16	predicted	predict	man:&gt;2	@-FMAINV %VP EN
+17	to	to	pm:&gt;18	@INFMARK&gt; %AUX INFMARK&gt;
+18	alter	alter	cnt:&gt;16	@-FMAINV %VA V INF
+19	splicing	splicing	obj:&gt;18	@OBJ %NH A ABS
+20	,	,
+21	we	we	subj:&gt;22	@SUBJ %NH PRON PERS NOM PL1
+22	looked	look		@+FMAINV %VA V PAST
+23	at	at	ha:&gt;22	@ADVL %EH PREP
+24	the	the	det:&gt;26	@DN&gt; %&gt;N DET
+25	sos-1	sos-1	qn:&gt;26	@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+26	mRNA	mrna	pcomp:&gt;23	@&lt;P %NH ABBR NOM SG
+27	produced	produce	mod:&gt;26	@-FMAINV %VP EN
+28	in	in	ha:&gt;27	@ADVL %EH PREP
+29	this	this	det:&gt;30	@DN&gt; %&gt;N DET DEM SG
+30	mutant	mutant	pcomp:&gt;28	@&lt;P %NH N NOM SG
+31	.     .
+</fdg>
+</example>
+<example src="EMBO" no="5">
+<text>
+Since s1031 is a null allele, we tested whether this mutation alters vulval induction.
+
+</text>
+       <arg n="0">this mutation 
+</arg>
+       <arg n="1">vulval induction 
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+       <arg n="4">-
+</arg>
+<fdg>
+1	Since	since	pm:&gt;3	@CS %CS CS
+2	s1031	s1031	subj:&gt;3	@SUBJ %NH N NOM SG
+3	is	be	cnt:&gt;9	@+FMAINV %VA V PRES SG3
+4	a	a	det:&gt;6	@DN&gt; %&gt;N DET SG
+5	null	null	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	allele	allele	comp:&gt;3	@PCOMPL-S %NH N NOM SG
+7	,	,
+8	we	we	subj:&gt;9	@SUBJ %NH PRON PERS NOM PL1
+9	tested	test	main:&gt;0	@+FMAINV %VA V PAST
+10	whether	whether	pm:&gt;13	@CS %CS CS
+11	this	this	det:&gt;12	@DN&gt; %&gt;N DET DEM SG
+12	mutation	mutation	subj:&gt;13	@SUBJ %NH N NOM SG
+13	alters	alter	obj:&gt;9	@+FMAINV %VA V PRES SG3
+14	vulval	vulval	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	induction	induction	obj:&gt;13	@OBJ %NH N NOM SG
+16	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

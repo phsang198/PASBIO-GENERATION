@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="translate">
+<roleset id="translate.02" name="changes from one form into another form
+" wordnet="2">
+<roles>
+  <role n="0" descr="agent/ causer mechanism
+"/>
+  <role n="1" descr="after translation		
+"/>
+  <role n="2" descr="before translation       		
+"/>
+</roles>
+<example src="MEDLINE" no="*1">
+<text>
+This review examines the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies that can be used to discover, validate, and translate information resulting from the completion of the Human Genome Project.
+
+</text>
+       <arg n="0">the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies 
+</arg>
+       <arg n="1">information resulting from the completion of the Human Genome Project
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	This	this	det:&gt;2	@DN&gt; %&gt;N DET DEM SG
+2	review	review	subj:&gt;3	@SUBJ %NH N NOM SG
+3	examines	examine		@+FMAINV %VA V PRES SG3
+4	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+5	use	use	obj:&gt;3	@OBJ %NH N NOM SG
+6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+7	new	new	cc:&gt;9	@A&gt; %&gt;N A ABS
+8	and	and	cc:&gt;9	@CC %CC CC
+9	emerging	emerging	attr:&gt;10	@A&gt; %&gt;N A ABS
+10	DNA	dna	pcomp:&gt;6	@&lt;P %NH ABBR NOM SG
+11	,	,
+12	tissue	tissue	mod:&gt;10	@APP %NH N NOM SG
+13	,	,
+14	and	and		@CC %CC CC
+15	live-cell	live-cell	attr:&gt;16	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+16	transfection	transfection	attr:&gt;17	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+17	microarray	microarray	attr:&gt;18	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+18	technologies	technology		@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@PCOMPL-S %NH N NOM PL	@APP %NH N NOM PL	@&lt;P %NH N NOM PL
+19	that	that	subj:&gt;20	@SUBJ %NH &lt;Rel&gt; PRON
+20	can	can	v-ch:&gt;21	@+FAUXV %AUX V AUXMOD
+21	be	be	v-ch:&gt;22	@-FAUXV %AUX V INF
+22	used	use	mod:&gt;18	@-FMAINV %VP EN
+23	to	to	pm:&gt;24	@INFMARK&gt; %AUX INFMARK&gt;
+24	discover	discover	cnt:&gt;22	@-FMAINV %VA V INF
+25	,	,
+26	validate	validate	cc:&gt;24	@-FMAINV %VA V INF
+27	,	,
+28	and	and		@CC %CC CC
+29	translate	translate		@+FMAINV %VA V PRES
+30	information	information	obj:&gt;29	@OBJ %NH N NOM SG
+31	resulting	result	mod:&gt;30	@-FMAINV %VA ING
+32	from	from	ha:&gt;31	@ADVL %EH PREP
+33	the	the	det:&gt;34	@DN&gt; %&gt;N DET
+34	completion	completion	pcomp:&gt;32	@&lt;P %NH N NOM SG
+35	of	of	mod:&gt;34	@&lt;NOM-OF %N&lt; PREP
+36	the	the	det:&gt;39	@DN&gt; %&gt;N DET
+37	Human	human	attr:&gt;38	@A&gt; %&gt;N A ABS
+38	Genome	genome	attr:&gt;39	@A&gt; %&gt;N N NOM SG
+39	Project	project	pcomp:&gt;35	@&lt;P %NH N NOM SG
+40	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*2">
+<text>
+Malaria is an attractive model for the development and validation of approaches to translate genomic information to vaccine development because of the critical need for effective anti-malarial interventions and because the Plasmodium parasite is a complex multistage pathogen targeted by multiple immune responses.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">vaccine development
+</arg>
+       <arg n="2">genomic information 
+</arg>
+<fdg>
+1	Malaria	malaria	subj:&gt;2	@SUBJ %NH N NOM SG
+2	is	be		@+FMAINV %VA V PRES SG3
+3	an	an	det:&gt;5	@DN&gt; %&gt;N DET SG
+4	attractive	attractive	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	model	model	comp:&gt;2	@PCOMPL-S %NH N NOM SG
+6	for	for	mod:&gt;5	@&lt;NOM %N&lt; PREP
+7	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+8	development	development	pcomp:&gt;6	@&lt;P %NH N NOM SG
+9	and	and	cc:&gt;8	@CC %CC CC
+10	validation	validation	cc:&gt;8	@&lt;P %NH N NOM SG
+11	of	of	mod:&gt;10	@&lt;NOM-OF %N&lt; PREP
+12	approaches	approach	pcomp:&gt;11	@&lt;P %NH N NOM PL
+13	to	to	pm:&gt;14	@INFMARK&gt; %AUX INFMARK&gt;
+14	translate	translate	mod:&gt;12	@-FMAINV %VA V INF
+15	genomic	genomic	attr:&gt;16	@A&gt; %&gt;N A ABS
+16	information	information	obj:&gt;14	@OBJ %NH N NOM SG
+17	to	to	goa:&gt;14	@ADVL %EH PREP
+18	vaccine	vaccine	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	development	development	pcomp:&gt;17	@&lt;P %NH N NOM SG
+20	because of	because of	mod:&gt;19	@&lt;NOM %N&lt; PREP
+21	the	the	det:&gt;23	@DN&gt; %&gt;N DET
+22	critical	critical	attr:&gt;23	@A&gt; %&gt;N A ABS
+23	need	need	pcomp:&gt;20	@&lt;P %NH N NOM SG
+24	for	for	mod:&gt;23	@&lt;NOM %N&lt; PREP
+25	effective	effective	attr:&gt;26	@A&gt; %&gt;N A ABS
+26	anti-malarial	anti-malarial	attr:&gt;27	@A&gt; %&gt;N A ABS
+27	interventions	intervention	pcomp:&gt;24	@&lt;P %NH N NOM PL
+28	and	and		@CC %CC CC
+29	because	because	pm:&gt;33	@CS %CS CS
+30	the	the	det:&gt;32	@DN&gt; %&gt;N DET
+31	Plasmodium	plasmodium	attr:&gt;32	@A&gt; %&gt;N N NOM SG
+32	parasite	parasite	subj:&gt;33	@SUBJ %NH N NOM SG
+33	is	be		@+FMAINV %VA V PRES SG3
+34	a	a	det:&gt;37	@DN&gt; %&gt;N DET SG
+35	complex	complex	attr:&gt;36	@A&gt; %&gt;N A ABS
+36	multistage	multistage	attr:&gt;37	@A&gt; %&gt;N A ABS
+37	pathogen	pathogen	comp:&gt;33	@PCOMPL-S %NH N NOM SG
+38	targeted	target	mod:&gt;37	@-FMAINV %VP EN
+39	by	by	ha:&gt;38	@ADVL %EH PREP
+40	multiple	multiple	attr:&gt;41	@A&gt; %&gt;N A ABS
+41	immune	immune	attr:&gt;42	@A&gt; %&gt;N A ABS
+42	responses	response	pcomp:&gt;39	@&lt;P %NH N NOM PL
+43	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+Thus, Acj6 and Drifter translate PN lineage information into distinct dendritic targeting specificity.
+
+</text>
+       <arg n="0">Acj6 and Drifter
+</arg>
+       <arg n="1">distinct dendritic targeting specificity
+</arg>
+       <arg n="2">PN lineage information 
+</arg>
+<fdg>
+1	Thus	thus	meta:&gt;6	@ADVL %EH ADV
+2	,	,
+3	Acj6	acj6	cc:&gt;5	@SUBJ %NH N NOM SG
+4	and	and	cc:&gt;5	@CC %CC CC
+5	Drifter	drifter	subj:&gt;6	@SUBJ %NH N NOM SG
+6	translate	translate	main:&gt;0	@+FMAINV %VA V PRES
+7	PN	pn	attr:&gt;8	@A&gt; %&gt;N ABBR NOM SG
+8	lineage	lineage	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	information	information	obj:&gt;6	@OBJ %NH N NOM SG
+10	into	into	goa:&gt;6	@ADVL %EH PREP
+11	distinct	distinct	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	dendritic	dendritic	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	targeting	targeting	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	specificity	specificity	pcomp:&gt;10	@&lt;P %NH N NOM SG
+15	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+Cells use signalling networks to translate with high fidelity extracellular signals into specific cellular functions.
+
+</text>
+       <arg n="0">Cells
+</arg>
+       <arg n="1">specific cellular functions
+</arg>
+       <arg n="2">extracellular signals 
+</arg>
+<fdg>
+1	Cells	cell	subj:&gt;2	@SUBJ %NH N NOM PL
+2	use	use	main:&gt;0	@+FMAINV %VA V PRES
+3	signalling	signalling	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	networks	network	obj:&gt;2	@OBJ %NH N NOM PL
+5	to	to	pm:&gt;6	@INFMARK&gt; %AUX INFMARK&gt;
+6	translate	translate	mod:&gt;4	@-FMAINV %VA V INF
+7	with	with	ha:&gt;6	@ADVL %EH PREP
+8	high	high	attr:&gt;9	@A&gt; %&gt;N A ABS
+9	fidelity	fidelity	pcomp:&gt;7	@&lt;P %NH N NOM SG
+10	extracellular	extracellular	attr:&gt;11	@A&gt; %&gt;N A ABS
+11	signals	signal	obj:&gt;6	@OBJ %NH N NOM PL
+12	into	into	goa:&gt;6	@ADVL %EH PREP
+13	specific	specific	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	cellular	cellular	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	functions	function	pcomp:&gt;12	@&lt;P %NH N NOM PL
+16	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

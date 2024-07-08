@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="modify">
+            <roleset id="modify.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="agent, cause of transformation&#x0A;" />
+                    <role n="1" descr="thing changing&#x0A;" />
+                    <role n="2" descr="method&#x0A;" />
+                    <role n="3" descr="consequence&#x09;&#x09;&#x09;&#x09;// secondary predication //&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 subunits, some of which are able to be apparently modified in HeLa cells.</text>
+                    <arg n="1">subunits</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 subunits, some of which may be modified in HeLa cells.</text>
+                    <arg n="1">subunits</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 subunits, some of which were apparently modified in HeLa cells.</text>
+                    <arg n="1">subunits</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 subunits, some of which will be modified in HeLa cells.</text>
+                    <arg n="1">subunits</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 subunits that composed human RNA Pol III are apparently modified in HeLa cells.</text>
+                    <arg n="1">subunits</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 subunits that composed human RNA Pol III can be modified in HeLa cells.</text>
+                    <arg n="1">subunits</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 subunits that composed human RNA Pol III have the ability to be modified in HeLa cells.</text>
+                    <arg n="1">subunits</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Analysis of one cDNA revealed an unusual splicing event involving EZH1 and a tandemly linked gene GPR2 and suggests a potential mechanism modifying the EZH1 protein in the conserved C-terminal domain.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Analysis of one cDNA revealed an unusual splicing event involving EZH1 and a tandemly linked gene GPR2 and suggests a potential mechanism that is observed to modify the EZH1 protein in the conserved C-terminal domain.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>Analysis of one cDNA revealed an unusual splicing event involving EZH1 and a tandemly linked gene GPR2 and suggests a potential mechanism that is observed to modify the EZH1 protein in the conserved C-terminal domain.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Analysis of one cDNA revealed an unusual splicing event involving EZH1 and a tandemly linked gene GPR2 and suggests a potential mechanism that might have modified the EZH1 protein in the conserved C-terminal domain.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>Analysis of one cDNA revealed an unusual splicing event involving EZH1 and a tandemly linked gene GPR2 and suggests a potential mechanism that modifies the EZH1 protein in the conserved C-terminal domain.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>Analysis of one cDNA revealed an unusual splicing event involving EZH1 and a tandemly linked gene GPR2 and suggests a potential mechanism which has modified the EZH1 protein in the conserved C-terminal domain.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>Analysis of one cDNA revealed an unusual splicing event involving EZH1 and a tandemly linked gene GPR2 and suggests a potential mechanism which has the ability to modify the EZH1 protein in the conserved C-terminal domain.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>P.falciparum could be modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>P.falciparum has been modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>P.falciparum has been modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>P.falciparum has the probability of being notably modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>P.falciparum is able to be notably modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>P.falciparum is able to be notably modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>P.falciparum is notably modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>P.falciparum may have been modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>P.falciparum may have been notably modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>P.falciparum might have been modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>P.falciparum was able to be notably modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>P.falciparum was notably modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>Taken together these data suggest that the SH3 acts to position the U5 region through its own association with the GUK domain and that factors which are observed to modify the binding of either U5 or SH3 to the GUK domain may regulate GKAP binding to the GUK domain.</text>
+                    <arg n="0">factors</arg>
+                    <arg n="1">the binding of either U5 or SH3</arg>
+                    <arg n="3">to the GUK domain</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Taken together these data suggest that the SH3 acts to position the U5 region through its own association with the GUK domain and that factors which have the probability of modifying the binding of either U5 or SH3 to the GUK domain may regulate GKAP binding to the GUK domain.</text>
+                    <arg n="0">factors</arg>
+                    <arg n="1">the binding of either U5 or SH3</arg>
+                    <arg n="3">to the GUK domain</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Taken together these data suggest that the SH3 acts to position the U5 region through its own association with the GUK domain and that factors which may modify the binding of either U5 or SH3 to the GUK domain may regulate GKAP binding to the GUK domain.</text>
+                    <arg n="0">factors</arg>
+                    <arg n="1">the binding of either U5 or SH3</arg>
+                    <arg n="3">to the GUK domain</arg>
+                    <arg n="M-MOD">may</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Taken together these data suggest that the binding of either U5 or SH3 to the GUK domain could have been modified by factors that may regulate GKAP binding to the GUK domain.</text>
+                    <arg n="0">factors</arg>
+                    <arg n="1">the binding of either U5 or SH3</arg>
+                    <arg n="3">to the GUK domain</arg>
+                    <arg n="M-MOD">could</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>Taken together these data suggest that the binding of either U5 or SH3 to the GUK domain was able to be modified by factors that may regulate GKAP binding to the GUK domain.</text>
+                    <arg n="0">factors</arg>
+                    <arg n="1">the binding of either U5 or SH3</arg>
+                    <arg n="3">to the GUK domain</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>The EZH1 protein in the conserved C-terminal domain has been modified by a potential mechanism suggested by analysis of one cDNA.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>The EZH1 protein in the conserved C-terminal domain is able to be actually modified by a potential mechanism suggested by analysis of one cDNA.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>The EZH1 protein in the conserved C-terminal domain might be modified by a potential mechanism suggested by analysis of one cDNA.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>The EZH1 protein in the conserved C-terminal domain was actually modified by a potential mechanism suggested by analysis of one cDNA.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>The EZH1 protein in the conserved C-terminal domain was modified by a potential mechanism suggested by analysis of one cDNA.</text>
+                    <arg n="0">a potential mechanism</arg>
+                    <arg n="1">EZH1 protein in the conserved C-terminal domain</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., EnvZ is observed to significantly modify or in some way direct OmpR, which in turn acts at the appropriate porin gene promoter.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts at the appropriate porin gene promoter</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., EnvZ may significantly modify or in some way direct OmpR, which in turn acts at the appropriate porin gene promoter.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts at the appropriate porin gene promoter</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., OmpR, which acts at the appropriate porin gene promoter, could have been modified or in some way directed by EnvZ.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., OmpR, which acts at the appropriate porin gene promoter, has been modified or in some way directed by EnvZ.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., OmpR, which acts at the appropriate porin gene promoter, has the ability to be significantly modified or in some way directed by EnvZ.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., OmpR, which acts at the appropriate porin gene promoter, has the ability to be significantly modified or in some way directed by EnvZ.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., OmpR, which acts at the appropriate porin gene promoter, is able to be significantly modified or in some way directed by EnvZ.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., OmpR, which acts at the appropriate porin gene promoter, may be significantly modified or in some way directed by EnvZ.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>These results lead us to conclude that EnvZ and OmpR act in sequential fashion to activate porin gene expression; i.e., OmpR, which acts at the appropriate porin gene promoter, was modified or in some way directed by EnvZ.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>To define the subcellular location of HVDAC isoforms, HVDAC genes are able to be remarkably modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>To define the subcellular location of HVDAC isoforms, HVDAC genes are modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>To define the subcellular location of HVDAC isoforms, HVDAC genes can be modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>To define the subcellular location of HVDAC isoforms, HVDAC genes can be remarkably modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>To define the subcellular location of HVDAC isoforms, HVDAC genes have been modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>To define the subcellular location of HVDAC isoforms, HVDAC genes have been remarkably modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>To define the subcellular location of HVDAC isoforms, HVDAC genes might have been remarkably modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>To define the subcellular location of HVDAC isoforms, HVDAC genes will be modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>We modify P.falciparum genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="0">We</arg>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>We will notably modify P.falciparum genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="0">We</arg>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>We have used the ability to modify P.falciparum genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.</text>
+                    <arg n="0">We</arg>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to disrupt the RAP1 gene</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 some of which, some of which are able to be apparently modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 some of which, some of which can be modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 some of which, some of which have been apparently modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 some of which, some of which may be apparently modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 some of which, some of which might have been apparently modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 subunits, subunits are apparently modified in HeLa cells.</text>
+                    <arg n="1">subunits</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 some of which that composed human RNA Pol III are observed to be modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 some of which that composed human RNA Pol III are observed to be modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 some of which that composed human RNA Pol III have been modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 some of which that composed human RNA Pol III might have been apparently modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 some of which that composed human RNA Pol III will be modified in HeLa cells.</text>
+                    <arg n="1">some of which</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 HVDAC genes being apparently modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 HVDAC genes, some of which are able to be modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 HVDAC genes, some of which might have been modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 HVDAC genes, some of which will be apparently modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 HVDAC genes, some of which will be apparently modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 P.falciparum, some of which might have been apparently modified in HeLa cells.</text>
+                    <arg n="1">P.falciparum</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 P.falciparum, some of which were apparently modified in HeLa cells.</text>
+                    <arg n="1">P.falciparum</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 P.falciparum, some of which were apparently modified in HeLa cells.</text>
+                    <arg n="1">P.falciparum</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 HVDAC genes that composed human RNA Pol III are modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 HVDAC genes that composed human RNA Pol III are modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 HVDAC genes that composed human RNA Pol III have been modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 HVDAC genes that composed human RNA Pol III have been modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 HVDAC genes that composed human RNA Pol III were modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 HVDAC genes that composed human RNA Pol III will be apparently modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 HVDAC genes that composed human RNA Pol III will be modified in HeLa cells.</text>
+                    <arg n="1">HVDAC genes</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 P.falciparum that composed human RNA Pol III have the ability to be modified in HeLa cells.</text>
+                    <arg n="1">P.falciparum</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 P.falciparum that composed human RNA Pol III might have been modified in HeLa cells.</text>
+                    <arg n="1">P.falciparum</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 P.falciparum that composed human RNA Pol III were apparently modified in HeLa cells.</text>
+                    <arg n="1">P.falciparum</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 P.falciparum that composed human RNA Pol III will be modified in HeLa cells.</text>
+                    <arg n="1">P.falciparum</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>An immunopurification approach has been used to demonstrate that some of the 16 P.falciparum that composed human RNA Pol III will be modified in HeLa cells.</text>
+                    <arg n="1">P.falciparum</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

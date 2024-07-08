@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="truncate">
+            <roleset id="Truncate.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="cause&#x09;&#x09;&#x09;// mutation //&#x0A;" />
+                    <role n="1" descr="entity getting shorter &#x09;// gene products //&#x0A;" />
+                    <role n="2" descr="entity removed&#x09;&#x09;// domains, exon, intron //&#x0A;" />
+                    <role n="3" descr='break point &#x09;&#x09;/* related to prepositional phrase such as &quot;at&quot;, &quot;prior to&quot; */&#x0A;' />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>C-terminally truncated Stat5a proteins likely to be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>C-terminally truncated Stat5a proteins likely to be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>C-terminally truncated Stat5a proteins observed to be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>C-terminally truncated Stat5a proteins observed to be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>C-terminally truncated Stat5a proteins shown to be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>C-terminally truncated Stat5a proteins shown to be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>C-terminally truncated Stat5a proteins that are able to be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>C-terminally truncated Stat5a proteins that are able to be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>C-terminally truncated Stat5a proteins that are likely to be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>C-terminally truncated Stat5a proteins that are likely to be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>C-terminally truncated Stat5a proteins that are observed to be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>C-terminally truncated Stat5a proteins that are observed to be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>C-terminally truncated Stat5a proteins that are remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>C-terminally truncated Stat5a proteins that are truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>C-terminally truncated Stat5a proteins that can be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>C-terminally truncated Stat5a proteins that can be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>C-terminally truncated Stat5a proteins that have been remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>C-terminally truncated Stat5a proteins that have been shown to be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>C-terminally truncated Stat5a proteins that have been shown to be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>C-terminally truncated Stat5a proteins that have been truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>C-terminally truncated Stat5a proteins that may be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>C-terminally truncated Stat5a proteins that may be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>C-terminally truncated Stat5a proteins that may have been remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>C-terminally truncated Stat5a proteins that may have been truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>C-terminally truncated Stat5a proteins that were remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>C-terminally truncated Stat5a proteins that were truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>C-terminally truncated Stat5a proteins that will be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>C-terminally truncated Stat5a proteins that will be truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that can be remarkably truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that can be truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contained the BCL6 zinc fingers and has been remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contained the BCL6 zinc fingers and has been shown to be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contained the BCL6 zinc fingers and has been shown to be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contained the BCL6 zinc fingers and has been truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contained the BCL6 zinc fingers and was remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contained the BCL6 zinc fingers and was truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and can be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and can be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and is able to be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and is able to be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and is likely to be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and is likely to be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and is observed to be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and is observed to be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and is remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and is truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and may be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and may be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and may have been remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and may have been truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and will be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and will be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that has been remarkably truncated and contained the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that has been shown to be remarkably truncated and contained the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that has been shown to be truncated and contained the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that has been truncated and contained the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that is able to be remarkably truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that is able to be truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that is likely to be remarkably truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that is likely to be truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that is observed to be remarkably truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that is observed to be truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that is remarkably truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that is truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that may be remarkably truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that may be truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that may have been remarkably truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that may have been truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that was remarkably truncated and contained the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that was truncated and contained the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that will be remarkably truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that will be truncated and contains the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>Frameshift SOX9 mutations actually truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>Frameshift SOX9 mutations are able to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>Frameshift SOX9 mutations are able to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>Frameshift SOX9 mutations are likely to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>Frameshift SOX9 mutations are likely to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>Frameshift SOX9 mutations are observed to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>Frameshift SOX9 mutations are observed to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>Frameshift SOX9 mutations can actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>Frameshift SOX9 mutations can truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>Frameshift SOX9 mutations have actually truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>Frameshift SOX9 mutations have been shown to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>Frameshift SOX9 mutations have been shown to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="84">
+                    <text>Frameshift SOX9 mutations have the ability to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="85">
+                    <text>Frameshift SOX9 mutations have the ability to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="86">
+                    <text>Frameshift SOX9 mutations have the probability of actually truncating its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="87">
+                    <text>Frameshift SOX9 mutations have the probability of truncating its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="88">
+                    <text>Frameshift SOX9 mutations have truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="89">
+                    <text>Frameshift SOX9 mutations may actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="90">
+                    <text>Frameshift SOX9 mutations may have actually truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="91">
+                    <text>Frameshift SOX9 mutations may have truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="92">
+                    <text>Frameshift SOX9 mutations may truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="93">
+                    <text>Frameshift SOX9 mutations truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="94">
+                    <text>Frameshift SOX9 mutations will actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="95">
+                    <text>Frameshift SOX9 mutations will truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="96">
+                    <text>Frameshift SOX9 mutations, as our data show, actually truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="97">
+                    <text>Frameshift SOX9 mutations, as our data show, are able to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="98">
+                    <text>Frameshift SOX9 mutations, as our data show, are able to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="99">
+                    <text>Frameshift SOX9 mutations, as our data show, are likely to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="100">
+                    <text>Frameshift SOX9 mutations, as our data show, are likely to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="101">
+                    <text>Frameshift SOX9 mutations, as our data show, are observed to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="102">
+                    <text>Frameshift SOX9 mutations, as our data show, are observed to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="103">
+                    <text>Frameshift SOX9 mutations, as our data show, can actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="104">
+                    <text>Frameshift SOX9 mutations, as our data show, can truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="105">
+                    <text>Frameshift SOX9 mutations, as our data show, have actually truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="106">
+                    <text>Frameshift SOX9 mutations, as our data show, have been shown to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="107">
+                    <text>Frameshift SOX9 mutations, as our data show, have been shown to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="108">
+                    <text>Frameshift SOX9 mutations, as our data show, have the ability to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="109">
+                    <text>Frameshift SOX9 mutations, as our data show, have the ability to truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="110">
+                    <text>Frameshift SOX9 mutations, as our data show, have the probability of actually truncating its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="111">
+                    <text>Frameshift SOX9 mutations, as our data show, have the probability of truncating its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="112">
+                    <text>Frameshift SOX9 mutations, as our data show, have truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="113">
+                    <text>Frameshift SOX9 mutations, as our data show, may actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="114">
+                    <text>Frameshift SOX9 mutations, as our data show, may have actually truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="115">
+                    <text>Frameshift SOX9 mutations, as our data show, may have truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="116">
+                    <text>Frameshift SOX9 mutations, as our data show, may truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="117">
+                    <text>Frameshift SOX9 mutations, as our data show, truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="118">
+                    <text>Frameshift SOX9 mutations, as our data show, will actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="119">
+                    <text>Frameshift SOX9 mutations, as our data show, will truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="120">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses being able to be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="121">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses being able to be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="122">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses observed to be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="123">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses observed to be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="124">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses shown to be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="125">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses shown to be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="126">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are able to be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="127">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are able to be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="128">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="129">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="130">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are likely to be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="131">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are likely to be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="132">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are observed to be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="133">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are observed to be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="134">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that can be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="135">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that can be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="136">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that have been genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="137">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that have been genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="138">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that have been shown to be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="139">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that have been shown to be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="140">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that may be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="141">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that may be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="142">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that may have been genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="143">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that may have been genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="144">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that were genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="145">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that were genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="146">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that will be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="147">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that will be genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="148">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus can be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="149">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus can be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="150">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus has been remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="151">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus has been shown to be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="152">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus has been shown to be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="153">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus has been truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="154">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus has the ability to be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="155">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus has the ability to be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="156">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is able to be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="157">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is able to be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="158">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is likely to be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="159">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is likely to be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="160">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is observed to be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="161">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is observed to be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="162">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="163">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="164">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus may be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="165">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus may be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="166">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus may have been remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="167">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus may have been truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="168">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus will be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="169">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus will be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="170">
+                    <text>The majority of changes have been found to truncate the protein through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="171">
+                    <text>The protein can be truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="172">
+                    <text>The protein can be truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="173">
+                    <text>The protein has been shown to be truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="174">
+                    <text>The protein has been shown to be truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="175">
+                    <text>The protein is likely to be truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="176">
+                    <text>The protein is likely to be truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="177">
+                    <text>The protein is observed to be truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="178">
+                    <text>The protein is observed to be truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="179">
+                    <text>The protein is predicted to be truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="180">
+                    <text>The protein is predicted to be truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="181">
+                    <text>The protein is truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="182">
+                    <text>The protein is truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="183">
+                    <text>The protein may be truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="184">
+                    <text>The protein may be truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="185">
+                    <text>The protein may have been truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="186">
+                    <text>The protein may have been truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="187">
+                    <text>The protein was truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="188">
+                    <text>The protein was truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="189">
+                    <text>The protein will be truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="190">
+                    <text>The protein will be truncated through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) by the majority of changes, although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="191">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains are able to be truncated and the potential BMP-1 cleavage site is not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="192">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains are found to be truncated and the potential BMP-1 cleavage site is not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="193">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains are likely to be truncated and the potential BMP-1 cleavage site was not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="194">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains are observed to be truncated and the potential BMP-1 cleavage site is not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="195">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains are truncated and the potential BMP-1 cleavage site is not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="196">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains can be truncated and the potential BMP-1 cleavage site is not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="197">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains have been shown to be truncated and the potential BMP-1 cleavage site has not been present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="198">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains have been truncated and the potential BMP-1 cleavage site was not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="199">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains may be truncated and the potential BMP-1 cleavage site is not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="200">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains may have been truncated and the potential BMP-1 cleavage site is not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="201">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains will be truncated and the potential BMP-1 cleavage site is not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="202">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR can also be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="203">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR has also been truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="204">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR has been shown to be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="205">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR is also able to be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="206">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR is also likely to be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="207">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR is also observed to be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="208">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR is also truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="209">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR may also be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="210">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR may have been truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="211">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR will also be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="212">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) can be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="213">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) has been shown to be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="214">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) has been used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="215">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) is able to be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="216">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) is found to be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="217">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) is likely to be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="218">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) is observed to be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="219">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) is used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="220">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) may be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="221">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) may have been used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="222">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) will be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="223">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR can therefore be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="224">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR has therefore been shown to be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="225">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR has therefore been truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="226">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR is therefore able to be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="227">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR is therefore likely to be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="228">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR is therefore observed to be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="229">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR is therefore truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="230">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR may therefore be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="231">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR may therefore have been truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="232">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR will therefore be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="233">
+                    <text>To generate this protein, the receptor can be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="234">
+                    <text>To generate this protein, the receptor has been shown to be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="235">
+                    <text>To generate this protein, the receptor has been truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="236">
+                    <text>To generate this protein, the receptor is able to be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="237">
+                    <text>To generate this protein, the receptor is believed to be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="238">
+                    <text>To generate this protein, the receptor is likely to be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="239">
+                    <text>To generate this protein, the receptor is observed to be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="240">
+                    <text>To generate this protein, the receptor is truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="241">
+                    <text>To generate this protein, the receptor may be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="242">
+                    <text>To generate this protein, the receptor may have been truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="243">
+                    <text>To generate this protein, the receptor will be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="244">
+                    <text>To truncate the titin gene, we used a gene-targeting approach so that the kinase domain and other domains downstream of the kinase were not expressed.</text>
+                    <arg n="0">a gene-targeting approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="EGRAM" no="245">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are able to dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="246">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are able to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="247">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are known to dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="248">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are known to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="249">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are likely to dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="250">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are likely to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="251">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are observed to dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="252">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are observed to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="253">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that can dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="254">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that can truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="255">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that could dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="256">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that could truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="257">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that dramatically truncated the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="258">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that have been shown to dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="259">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that have been shown to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="260">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that have dramatically truncated the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="261">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that have the ability to dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="262">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that have the ability to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="263">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that have truncated the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="264">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that may dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="265">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that may have dramatically truncated the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="266">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that may have truncated the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="267">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that may truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="268">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that truncated the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="269">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that will dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="270">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that will truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="271">
+                    <text>Virtually all TSC1 mutations are able to dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="272">
+                    <text>Virtually all TSC1 mutations are able to truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="273">
+                    <text>Virtually all TSC1 mutations are found to dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="274">
+                    <text>Virtually all TSC1 mutations are found to truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="275">
+                    <text>Virtually all TSC1 mutations can dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="276">
+                    <text>Virtually all TSC1 mutations can truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="277">
+                    <text>Virtually all TSC1 mutations dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="278">
+                    <text>Virtually all TSC1 mutations dramatically truncated the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="279">
+                    <text>Virtually all TSC1 mutations have been predicted to dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="280">
+                    <text>Virtually all TSC1 mutations have been predicted to truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="281">
+                    <text>Virtually all TSC1 mutations have dramatically truncated the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="282">
+                    <text>Virtually all TSC1 mutations have the ability to dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="283">
+                    <text>Virtually all TSC1 mutations have the ability to truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="284">
+                    <text>Virtually all TSC1 mutations have truncated the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="285">
+                    <text>Virtually all TSC1 mutations may dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="286">
+                    <text>Virtually all TSC1 mutations may have dramatically truncated the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="287">
+                    <text>Virtually all TSC1 mutations may have truncated the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="288">
+                    <text>Virtually all TSC1 mutations may truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="289">
+                    <text>Virtually all TSC1 mutations truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="290">
+                    <text>Virtually all TSC1 mutations truncated the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="291">
+                    <text>Virtually all TSC1 mutations will dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="292">
+                    <text>Virtually all TSC1 mutations will truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="293">
+                    <text>We found a gene-targeting approach to truncate the titin gene so that the kinase domain and other domains downstream of the kinase were not expressed.</text>
+                    <arg n="0">a gene-targeting approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="EGRAM" no="294">
+                    <text>We used a gene-targeting approach to truncate the titin gene so that the kinase domain and other domains downstream of the kinase were not expressed.</text>
+                    <arg n="0">a gene-targeting approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

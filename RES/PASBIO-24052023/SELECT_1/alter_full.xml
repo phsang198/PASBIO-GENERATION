@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="alter">
+            <roleset id="alter.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer of transformation&#x09;&#x09;// mutation, protein //&#x0A;" />
+                    <role n="1" descr="thing changing&#x09;&#x09;&#x09;&#x09;// codon, exon, premRNA //&#x0A;" />
+                    <role n="2" descr="end state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="3" descr="start state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="4" descr="location refering to tissue, organelle, person, gene&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Since s1031 is a null allele, we are testing whether this mutation will alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>phosphorylation with PPDK1 is non- able to be altered by treat cells with a growth factor similar to insulin-I and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treat cells with a growth factor similar to insulin-I</arg>
+                    <arg n="1">phosphorylation with PPDK1</arg>
+                    <arg n="M-NEG">non-</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>As a null mutation of fruit were in opposite directions, M-NEG could not alter use rates of at least 36 carbon sources (Figure 3C).</text>
+                    <arg n="0">a null mutation of fruit</arg>
+                    <arg n="1">use rates of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>As no fruit mutation were in opposite directions, the rates of use of at least 36 carbon sources could altered no by them(Figure 3C).</text>
+                    <arg n="0">no fruit mutation</arg>
+                    <arg n="1">the rates of use of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>As s1031 is a null allele, we are testing whether this mutation can alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>As the alteration of DNA conformation are in opposite directions, the specific interactions of protein DNA observed is not altered by them (figure 3C).</text>
+                    <arg n="0">the alteration of DNA conformation</arg>
+                    <arg n="1">the specific interactions of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>As the alteration of the DNA conformation are in opposite directions, the specific interactions of the observed protein DNA is able to be altered by no (Figure 3C).</text>
+                    <arg n="0">the alteration of the DNA conformation</arg>
+                    <arg n="1">the specific interactions of the observed protein DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>As the change in DNA conformation are in opposite directions, the specific interaction of protein DNA observed may be not altered by them (figure 3C).</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific interaction of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>As the change in DNA conformation were in the opposite direction, they alter no to the specific interactions of protein DNA observed (figure 3C).</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific interactions of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>As the change in the conformation of DNA are in opposite directions, they are non able to alter the observed DNA specific interactions(Figure 3C).</text>
+                    <arg n="0">the change in the conformation of DNA</arg>
+                    <arg n="1">the observed DNA specific interactions</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>As this mutation are in opposite directions, volvar induction may not be altered by them(Figure 3C).</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">volvar induction</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>As this mutation were in opposite directions, vulval induction could altered no by them(Figure 3C).</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Citocins can alter the expression and activity of multi-drug resistance carriers in human hepatoma cell lines.</text>
+                    <arg n="0">Citocins</arg>
+                    <arg n="1">the expression and activity of multi-drug resistance carriers</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>In addition, a null fruit mutation will be able to alter use rates of at least 36 carbon sources.</text>
+                    <arg n="0">a null fruit mutation</arg>
+                    <arg n="1">use rates of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>In addition, the alteration in DNA conformation can alter the specific interaction of protein DNA observed.</text>
+                    <arg n="0">the alteration in DNA conformation</arg>
+                    <arg n="1">the specific interaction of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>In protein coding transcripts, slicing is able to be altered in 79% of molecular injury associated with s1031.</text>
+                    <arg n="0">molecular injury associated with s1031</arg>
+                    <arg n="1">slicing</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>In protein coding transcripts, use rates of at least 36 carbon sources was altered by 79% of a null mutation fruit.</text>
+                    <arg n="0">a null mutation fruit</arg>
+                    <arg n="1">use rates of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>It is predicted that coupling varieties can alter protein product, our gaze for sos-1 RNA produced in this mutant.</text>
+                    <arg n="0">coupling varieties</arg>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>It is predicted that no fruit mutation can alter the rate of use of at least 36 carbon sources , the sos-1 mRNA produced in this mutant was observed.</text>
+                    <arg n="0">no fruit mutation</arg>
+                    <arg n="1">the rate of use of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>It is predicted that spondylone variations can alter protein product, our gaze for sos-1 RNA produced in this mutant.</text>
+                    <arg n="0">spondylone variations</arg>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>It is predicted that the alteration in DNA conformation can alter the specific interaction of protein DNA observed , the sos-1 mRNA produced in this mutant was observed.</text>
+                    <arg n="0">the alteration in DNA conformation</arg>
+                    <arg n="1">the specific interaction of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>It is predicted that the alteration of DNA conformation will be able to alter the specific interaction of protein DNA observed , the sos-1 mRNA produced in this mutant was observed.</text>
+                    <arg n="0">the alteration of DNA conformation</arg>
+                    <arg n="1">the specific interaction of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>Since a molecular lesion associated with s1031 are in opposite directions, they will alter no spacing (figure 3C).</text>
+                    <arg n="0">a molecular lesion associated with s1031</arg>
+                    <arg n="1">spacing</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>Since four other mutations are in opposite directions, either the sites of preserved gt slicelicesis or ag dinucleotides can be not altered by them (Figure 3C).</text>
+                    <arg n="0">four other mutations</arg>
+                    <arg n="1">either the sites of preserved gt slicelicesis or ag dinucleotides</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>Since s1031 is a null allele, we are testing whether specific interactions of DNA observed can be altered by change in DNA conformation.</text>
+                    <arg n="0">change in DNA conformation</arg>
+                    <arg n="1">specific interactions of DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>Since s1031 is a null allele, we are testing whether the specific interactions of protein DNA observed is altered by the alteration of DNA conformation.</text>
+                    <arg n="0">the alteration of DNA conformation</arg>
+                    <arg n="1">the specific interactions of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>Since s1031 is a null allele, we have checked whether a null mutation fruit would alter use rates of at least 36 carbon sources.</text>
+                    <arg n="0">a null mutation fruit</arg>
+                    <arg n="1">use rates of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>Since s1031 is a null allele, we have checked whether either the sites of preserved gt slicelicesis or ag dinucleotides was able to be altered by four other mutations.</text>
+                    <arg n="0">four other mutations</arg>
+                    <arg n="1">either the sites of preserved gt slicelicesis or ag dinucleotides</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>Since s1031 is a null allele, we have checked whether molecular injury associated with s1031 is altering slicing.</text>
+                    <arg n="0">molecular injury associated with s1031</arg>
+                    <arg n="1">slicing</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>Since s1031 is a null allele, we have checked whether the alteration of DNA conformation is altering the specific interactions of protein DNA observed.</text>
+                    <arg n="0">the alteration of DNA conformation</arg>
+                    <arg n="1">the specific interactions of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>Since s1031 is a null allele, we have checked whether where the gt is preserved or the dinucleotide ag was altered by four other mutations.</text>
+                    <arg n="0">four other mutations</arg>
+                    <arg n="1">where the gt is preserved or the dinucleotide ag</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>Since s1031 is a null allele, we tested whether cells treated with an insulin-I growth factor was able to alter PPDK phosphate.</text>
+                    <arg n="0">cells treated with an insulin-I growth factor</arg>
+                    <arg n="1">PPDK phosphate</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>Since s1031 is a null allele, we tested whether the change in the DNA conformation was able to alter the specific interactions of the DNA observed.</text>
+                    <arg n="0">the change in the DNA conformation</arg>
+                    <arg n="1">the specific interactions of the DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>Since spondylone variations are in opposite directions, protein product will be altered by not by them (Figure 3C).</text>
+                    <arg n="0">spondylone variations</arg>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>Since these two planes are in opposite directions, the general direction of DNA will be altered by not by them (Figure 3C).</text>
+                    <arg n="0">these two planes</arg>
+                    <arg n="1">the general direction of DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>Since these two planes were in the opposite direction, the global direction of DNA was not altered by them (Figure 3C).</text>
+                    <arg n="0">these two planes</arg>
+                    <arg n="1">the global direction of DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>Therefore, Glu13 indirectly affects the specificity of DNA binding, probably due to the change in DNA conformation, which has been able to suddenly alter the specific interactions of protein DNA observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific interactions of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>Thus, Glu13 indirectly affects DNA binding specificity probably due to the change in the DNA conformation, which was able to subtly alter the specific interactions of the DNA observed.</text>
+                    <arg n="0">the change in the DNA conformation</arg>
+                    <arg n="1">the specific interactions of the DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>Thus, Glu13 indirectly affects the DNA binding specificity probably due to the change in the conformation of DNA, which subtly altered the observed specific interactions of DNA.</text>
+                    <arg n="0">the change in the conformation of DNA</arg>
+                    <arg n="1">the observed specific interactions of DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, probably because the change in the DNA conformation is able to subtly alter the specific interactions of the DNA observed.</text>
+                    <arg n="0">the change in the DNA conformation</arg>
+                    <arg n="1">the specific interactions of the DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, probably because this mutation suddenly alters volvar induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">volvar induction</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, since the specific interactions of the observed protein DNA was altered by the alteration of the DNA conformation.</text>
+                    <arg n="0">the alteration of the DNA conformation</arg>
+                    <arg n="1">the specific interactions of the observed protein DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, since use rates of at least 36 carbon sources could be altered by a null fruit mutation.</text>
+                    <arg n="0">a null fruit mutation</arg>
+                    <arg n="1">use rates of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, since use rates of at least 36 carbon sources could be altered by a null mutation fruit.</text>
+                    <arg n="0">a null mutation fruit</arg>
+                    <arg n="1">use rates of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>a null mutation fruit can alter use rates of at least 36 carbon sources in the A4 gene (DRI).</text>
+                    <arg n="0">a null mutation fruit</arg>
+                    <arg n="1">use rates of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>four other mutations altered either the preserved gt or the ag dinucleotide into the IVD gene; analysis using RT-PCR microarrays and cDNA.</text>
+                    <arg n="0">four other mutations</arg>
+                    <arg n="1">either the preserved gt or the ag dinucleotide</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>four other mutations altered either the slicelicesis sites of conserved gt or ag dinucleotide into DRI gene; analysis using RT-PCR microarrays and cDNA.</text>
+                    <arg n="0">four other mutations</arg>
+                    <arg n="1">either the slicelicesis sites of conserved gt or ag dinucleotide</arg>
+                    <arg n="4">DRI gene</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>four other mutations has the ability to alter either the preserved gt slyclicerosis or ag dinucleotide sites in DRI gene; RT-PCR microarrays and cDNA analysis.</text>
+                    <arg n="0">four other mutations</arg>
+                    <arg n="1">either the preserved gt slyclicerosis or ag dinucleotide sites</arg>
+                    <arg n="4">DRI gene</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>the general direction of DNA may be altered by these two curves in the A4 gene (DVI).</text>
+                    <arg n="0">these two curves</arg>
+                    <arg n="1">the general direction of DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>the specific interaction of protein DNA observed is altered by the change in DNA conformation in the A4 gene (DVI).</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific interaction of protein DNA observed</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>these two planes is predicted to alter the global direction of DNA , the sos-1 mRNA produced in this mutant was observed.</text>
+                    <arg n="0">these two planes</arg>
+                    <arg n="1">the global direction of DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>use rates of at least 36 carbon sources is altered by a null fruit mutation in the A4 gene (DVI).</text>
+                    <arg n="0">a null fruit mutation</arg>
+                    <arg n="1">use rates of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>use rates of at least 36 carbon sources may be altered by a null fruit mutation in the A4 gene (DVI).</text>
+                    <arg n="0">a null fruit mutation</arg>
+                    <arg n="1">use rates of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>volvar induction will be altered by this mutation, we look at the sos-1 RNA produced in this mutant.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">volvar induction</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>vulvular induction is altered by this mutation in the A4 gene (DRI).</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulvular induction</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>As cell treatment with insulin-I growth factor are in opposite directions, phosphorylation of PDK1 may not be altered by them(Figure 3C).</text>
+                    <arg n="0">cell treatment with insulin-I growth factor</arg>
+                    <arg n="1">phosphorylation of PDK1</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>As methylation of prey are in opposite directions, Lrp binding to the GATC1130 site may not be altered by them (figure 3C).</text>
+                    <arg n="0">methylation of prey</arg>
+                    <arg n="1">Lrp binding to the GATC1130 site</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>As mutations are in opposite directions, spill sites is able to be altered by no (Figure 3C).</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">spill sites</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>As mutations are in opposite directions, spinning sites will be altered by no by them (figure 3C).</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">spinning sites</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>As mutations were in opposite directions, coupling site was able to be altered by no (Figure 3C).</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">coupling site</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>As mutations were in the opposite direction, they alter no to spinning sites (figure 3C).</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">spinning sites</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>As these two trunks were in opposite directions, the general direction of DNA was able to be altered by no (Figure 3C).</text>
+                    <arg n="0">these two trunks</arg>
+                    <arg n="1">the general direction of DNA</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>In addition, cell treatment with a growth factor similar to insulin - I may alter PDK1.</text>
+                    <arg n="0">cell treatment with a growth factor similar to insulin - I</arg>
+                    <arg n="1">PDK1</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>In addition, mutations may be able to alter cut-places.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">cut-places</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>In protein coding transcripts, PDK1 phosphorylation can be altered in 79% of treatment of cells with a growth factor similar to insulin-I.</text>
+                    <arg n="0">treatment of cells with a growth factor similar to insulin-I</arg>
+                    <arg n="1">PDK1 phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>In protein coding transcripts, phosphorylation with PPDK1 was altered by 79% of treat cells with a growth factor similar to insulin-I.</text>
+                    <arg n="0">treat cells with a growth factor similar to insulin-I</arg>
+                    <arg n="1">phosphorylation with PPDK1</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>In protein coding transcripts, spill sites could be altered by 79% of mutations.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">spill sites</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>It is predicted that cell treatment with insulin-I growth factor can alter PDK1 phosphorylation, our gaze for sos-1 RNA produced in this mutant.</text>
+                    <arg n="0">cell treatment with insulin-I growth factor</arg>
+                    <arg n="1">PDK1 phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>It is predicted that cut-variants can alter protein product, our gaze for sos-1 RNA produced in this mutant.</text>
+                    <arg n="0">cut-variants</arg>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>It is predicted that the molecular injury associated with s1031 will be able to alter splicing , the sos-1 mRNA produced in this mutant was observed.</text>
+                    <arg n="0">the molecular injury associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>PDK1 is altered by cell treatment with a growth factor similar to insulin - I in the A4 gene (DVI).</text>
+                    <arg n="0">cell treatment with a growth factor similar to insulin - I</arg>
+                    <arg n="1">PDK1</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>Since cut-variants were in opposite directions, they altered no protein product(Figure 3C).</text>
+                    <arg n="0">cut-variants</arg>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>Since mutations were in opposite directions, spinning sites could not be altered by them (Figure 3C).</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">spinning sites</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>Since mutations were in opposite directions, they altered no spit sites(Figure 3C).</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">spit sites</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>Since s1031 is a null allele, we are testing whether methylation of snails will alter ligation of Lrp at the GATC1130 site.</text>
+                    <arg n="0">methylation of snails</arg>
+                    <arg n="1">ligation of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>Since s1031 is a null allele, we are testing whether mutations will alter coupling sites.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">coupling sites</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>Since s1031 is a null allele, we have checked whether PDK1 phosphorylation is altered by cell treatment with insulin-I growth factor.</text>
+                    <arg n="0">cell treatment with insulin-I growth factor</arg>
+                    <arg n="1">PDK1 phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>Thus, Glu13 indirectly affects DNA binding specificity probably due to cell treatment with insulin-I growth factor, which can subtly alter PDK1 phosphorylation.</text>
+                    <arg n="0">cell treatment with insulin-I growth factor</arg>
+                    <arg n="1">PDK1 phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>Thus, Glu13 indirectly affects DNA binding specificity probably due to mutations, which is able to subtly alter coupling site.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">coupling site</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>Thus, Glu13 indirectly affects DNA binding specificity probably due to slice variations, which can subtly alter protein product.</text>
+                    <arg n="0">slice variations</arg>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, probably because cell treatment with a growth factor similar to insulin I can subtly alter PDK1.</text>
+                    <arg n="0">cell treatment with a growth factor similar to insulin I</arg>
+                    <arg n="1">PDK1</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, probably because methylation of snails subtly alters ligation of Lrp at the GATC1130 site.</text>
+                    <arg n="0">methylation of snails</arg>
+                    <arg n="1">ligation of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, probably because mutations suddenly altered spinning sites.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">spinning sites</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, probably because treatment of cells with a growth factor similar to insulin-I may be able to suddenly alter phosphorylation with PPDK1.</text>
+                    <arg n="0">treatment of cells with a growth factor similar to insulin-I</arg>
+                    <arg n="1">phosphorylation with PPDK1</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, since PDK1 phosphorylation could be altered by treating cells with a growth factor similar to insulin-I.</text>
+                    <arg n="0">treating cells with a growth factor similar to insulin-I</arg>
+                    <arg n="1">PDK1 phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>Thus, Glu13 indirectly affects the specificity of DNA binding, since the general direction of DNA was altered by these two trunks.</text>
+                    <arg n="0">these two trunks</arg>
+                    <arg n="1">the general direction of DNA</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>coupling sites is altered by mutations in the A4 gene (DRI).</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">coupling sites</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>place of stacking will be altered by mutations, we look at the sos-1 RNA produced in this mutant.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">place of stacking</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>treat cells with a growth factor similar to insulin-I made M-NEG (did not alter PDK1 phosphorylation and four of the sites could change without loss of activity.</text>
+                    <arg n="0">treat cells with a growth factor similar to insulin-I</arg>
+                    <arg n="1">PDK1 phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>treatment of cells with a growth factor similar to insulin-I is predicted to alter phosphorylation with PPDK1 , the sos-1 mRNA produced in this mutant was observed.</text>
+                    <arg n="0">treatment of cells with a growth factor similar to insulin-I</arg>
+                    <arg n="1">phosphorylation with PPDK1</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>treatment of cells with a growth factor similar to insulin-I made M-NEG (did not alter PDK1 phosphorylation and four of the sites could change without loss of activity.</text>
+                    <arg n="0">treatment of cells with a growth factor similar to insulin-I</arg>
+                    <arg n="1">PDK1 phosphorylation</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

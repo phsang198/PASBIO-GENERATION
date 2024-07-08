@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="alter">
+            <roleset id="alter.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer of transformation&#x09;&#x09;// mutation, protein //&#x0A;" />
+                    <role n="1" descr="thing changing&#x09;&#x09;&#x09;&#x09;// codon, exon, premRNA //&#x0A;" />
+                    <role n="2" descr="end state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="3" descr="start state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="4" descr="location refering to tissue, organelle, person, gene&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Cytokines altered the expression and activity of the multidrug resistance transporters in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Cytokines are able to alter the expression and activity of the multidrug resistance transporters in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Cytokines can alter the expression and activity of the multidrug resistance transporters in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Cytokines have the ability to alter the expression and activity of the multidrug resistance transporters in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Cytokines may alter the expression and activity of the multidrug resistance transporters in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Either the conserved gt or ag dinucleotide splice sites could be altered by four other mutations in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Either the conserved gt or ag dinucleotide splice sites is altered by four other mutations in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Either the conserved gt or ag dinucleotide splice sites may be altered by four other mutations in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Either the conserved gt or ag dinucleotide splice sites was altered by four other mutations in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>Four other mutations altered either the conserved gt or ag dinucleotide splice sites in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Four other mutations are able to alter either the conserved gt or ag dinucleotide splice sites in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>Four other mutations can alter either the conserved gt or ag dinucleotide splice sites in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>Four other mutations may alter either the conserved gt or ag dinucleotide splice sites in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>Four other mutations were able to alter either the conserved gt or ag dinucleotide splice sites in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because the specific protein DNA interactions observed are able to be altered by the change in DNA conformation.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because the specific protein DNA interactions observed can be altered by the change in DNA conformation.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because the specific protein DNA interactions observed could be altered by the change in DNA conformation.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because the specific protein DNA interactions observed is altered by the change in DNA conformation.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because the specific protein DNA interactions observed may be altered by the change in DNA conformation.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because the specific protein DNA interactions observed was altered by the change in DNA conformation.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation can subtly alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation is able to subtly alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation may be able to subtly alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation may subtly alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation subtly altered the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation subtly alters the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to the change in DNA conformation, which can subtly alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to the change in DNA conformation, which is able to subtly alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to the change in DNA conformation, which may be able to subtly alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to the change in DNA conformation, which may subtly alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to the change in DNA conformation, which subtly altered the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to the change in DNA conformation, which was able to subtly alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>In protein-coding transcripts, 79% of splice variations alter the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>In protein-coding transcripts, 79% of splice variations are able to alter the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>In protein-coding transcripts, 79% of splice variations can alter the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>In protein-coding transcripts, 79% of splice variations could alter the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>In protein-coding transcripts, 79% of splice variations may alter the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>In protein-coding transcripts, 79% of splice variations will alter the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>In protein-coding transcripts, the protein product can be altered by 79% of splice variations. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>In protein-coding transcripts, the protein product could be altered by 79% of splice variations. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>In protein-coding transcripts, the protein product is able to be altered by 79% of splice variations. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>In protein-coding transcripts, the protein product is altered by 79% of splice variations. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>In protein-coding transcripts, the protein product may be altered by 79% of splice variations. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>In protein-coding transcripts, the protein product was altered by 79% of splice variations. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>In protein-coding transcripts, the protein product will be altered by 79% of splice variations. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>It is believed that the molecular lesion associated with s1031 is able to alter splicing, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>It is predicted that the molecular lesion associated with s1031 can alter splicing, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>Moreover, Dam methylation inhibited binding of Lrp/PapI near the GATC1028 site and altered binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>Moreover, Dam methylation inhibited binding of Lrp/PapI near the GATC1028 site and could alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>Moreover, Dam methylation inhibited binding of Lrp/PapI near the GATC1028 site and has altered binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>Moreover, Dam methylation inhibited binding of Lrp/PapI near the GATC1028 site and was able to alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>Moreover, Dam methylation inhibited binding of Lrp/PapI near the GATC1028 site and would alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>Moreover, Dam methylation inhibits binding of Lrp/PapI near the GATC1028 site and can alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>Moreover, Dam methylation inhibits binding of Lrp/PapI near the GATC1028 site and is able to alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>Moreover, Dam methylation inhibits binding of Lrp/PapI near the GATC1028 site and may alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>Moreover, Dam methylation inhibits binding of Lrp/PapI near the GATC1028 site and will alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>Moreover, a fruR null mutation alters the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>Moreover, a fruR null mutation can alter the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>Moreover, a fruR null mutation could alter the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>Moreover, a fruR null mutation has altered the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>Moreover, a fruR null mutation is able to alter the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>Moreover, a fruR null mutation may alter the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>Moreover, a fruR null mutation may be able to alter the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>Moreover, a fruR null mutation will alter the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>Moreover, a fruR null mutation will be able to alter the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>Mutations altering splice sites led to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>Mutations being able to alter splice sites led to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>Mutations that altered splice sites led to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>Mutations that are able to alter splice sites led to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>Mutations that can alter splice sites led to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>Mutations which are able to prevent repressor binding to either site or to alter the phasing of the binding sites result in simultaneous derepression of both genes.</text>
+                    <arg n="0">Mutations</arg>
+                    <arg n="1">the phasing of the binding sites</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>Mutations which has prevented repressor binding to either site or has altered the phasing of the binding sites result in simultaneous derepression of both genes.</text>
+                    <arg n="0">Mutations</arg>
+                    <arg n="1">the phasing of the binding sites</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>Mutations which prevented repressor binding to either site or altered the phasing of the binding sites result in simultaneous derepression of both genes.</text>
+                    <arg n="0">Mutations</arg>
+                    <arg n="1">the phasing of the binding sites</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>Phosphorylation of PDK1 cannot be altered by treating the cells with insulin-like growth factor-I and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>Phosphorylation of PDK1 is not able to be altered by treating the cells with insulin-like growth factor-I and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>Phosphorylation of PDK1 is not altered by treating the cells with insulin-like growth factor-I and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>Phosphorylation of PDK1 will not be altered by treating the cells with insulin-like growth factor-I and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>Since s1031 is a null allele, we are testing whether this mutation can alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>Since s1031 is a null allele, we are testing whether this mutation is able to alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>Since s1031 is a null allele, we are testing whether this mutation is going to alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>Since s1031 is a null allele, we are testing whether this mutation may alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>Since s1031 is a null allele, we are testing whether this mutation will alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>Since s1031 is a null allele, we are testing whether vulval induction can be altered by this mutation.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>Since s1031 is a null allele, we are testing whether vulval induction is able to be altered by this mutation.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="84">
+                    <text>Since s1031 is a null allele, we are testing whether vulval induction is altered by this mutation.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="85">
+                    <text>Since s1031 is a null allele, we are testing whether vulval induction may be altered by this mutation.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="86">
+                    <text>Since s1031 is a null allele, we tested whether this mutation altered vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="87">
+                    <text>Since s1031 is a null allele, we tested whether this mutation could alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="88">
+                    <text>Since s1031 is a null allele, we tested whether this mutation has altered vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="89">
+                    <text>Since s1031 is a null allele, we tested whether this mutation might alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="90">
+                    <text>Since s1031 is a null allele, we tested whether this mutation was able to alter vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="91">
+                    <text>Since s1031 is a null allele, we tested whether vulval induction could be altered by this mutation.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="92">
+                    <text>Since s1031 is a null allele, we tested whether vulval induction might be altered by this mutation.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="93">
+                    <text>Since s1031 is a null allele, we tested whether vulval induction was able to be altered by this mutation.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="94">
+                    <text>Since s1031 is a null allele, we tested whether vulval induction was altered by this mutation.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="EGRAM" no="95">
+                    <text>Since these two bends are in opposing directions, the overall direction of the DNA cannot be altered by them(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="96">
+                    <text>Since these two bends are in opposing directions, the overall direction of the DNA is not able to be altered by them(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="97">
+                    <text>Since these two bends are in opposing directions, the overall direction of the DNA is not altered by them(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="98">
+                    <text>Since these two bends are in opposing directions, the overall direction of the DNA may not be altered by them(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="99">
+                    <text>Since these two bends are in opposing directions, the overall direction of the DNA will not be altered by them(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="100">
+                    <text>Since these two bends are in opposing directions, they are not able to alter the overall direction of the DNA(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="101">
+                    <text>Since these two bends are in opposing directions, they cannot alter the overall direction of the DNA(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="102">
+                    <text>Since these two bends are in opposing directions, they may not alter the overall direction of the DNA(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="103">
+                    <text>Since these two bends are in opposing directions, they will not alter the overall direction of the DNA(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="104">
+                    <text>Since these two bends were in opposing directions, the overall direction of the DNA could not be altered by them(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="105">
+                    <text>Since these two bends were in opposing directions, the overall direction of the DNA was not able to be altered by them(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="106">
+                    <text>Since these two bends were in opposing directions, the overall direction of the DNA was not altered by them(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="107">
+                    <text>Since these two bends were in opposing directions, they could not alter the overall direction of the DNA(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="108">
+                    <text>Since these two bends were in opposing directions, they did not alter the overall direction of the DNA(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="109">
+                    <text>Since these two bends were in opposing directions, they were not able to alter the overall direction of the DNA(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="110">
+                    <text>Splice sites are able to be altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="111">
+                    <text>Splice sites are altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="112">
+                    <text>Splice sites can be altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="113">
+                    <text>Splice sites could be altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="114">
+                    <text>Splice sites may be altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="115">
+                    <text>Splice sites might be altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="116">
+                    <text>Splice sites were able to be altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="117">
+                    <text>Splice sites were altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="118">
+                    <text>Splice sites will be altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="119">
+                    <text>Splicing can be altered by the molecular lesion associated with s1031, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="120">
+                    <text>Splicing is able to be altered by the molecular lesion associated with s1031, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="121">
+                    <text>Splicing is predicted to be altered by the molecular lesion associated with s1031, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="122">
+                    <text>Splicing may be altered by the molecular lesion associated with s1031, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="123">
+                    <text>Splicing will be altered by the molecular lesion associated with s1031, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="124">
+                    <text>The codon (CTC) normally associated with Leu-93 in the transcortin polypeptide can be altered by the mutation located within exon 2 to a codon (CAC) for histidine in the variant genes.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                    <arg n="2">to a codon (CAC)</arg>
+                    <arg n="3">the codon (CTC)</arg>
+                </example>
+                <example src="EGRAM" no="125">
+                    <text>The codon (CTC) normally associated with Leu-93 in the transcortin polypeptide is able to be altered by the mutation located within exon 2 to a codon (CAC) for histidine in the variant genes.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                    <arg n="2">to a codon (CAC)</arg>
+                    <arg n="3">the codon (CTC)</arg>
+                </example>
+                <example src="EGRAM" no="126">
+                    <text>The codon (CTC) normally associated with Leu-93 in the transcortin polypeptide is altered by the mutation located within exon 2 to a codon (CAC) for histidine in the variant genes.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                    <arg n="2">to a codon (CAC)</arg>
+                    <arg n="3">the codon (CTC)</arg>
+                </example>
+                <example src="EGRAM" no="127">
+                    <text>The codon (CTC) normally associated with Leu-93 in the transcortin polypeptide may be altered by the mutation located within exon 2 to a codon (CAC) for histidine in the variant genes.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                    <arg n="2">to a codon (CAC)</arg>
+                    <arg n="3">the codon (CTC)</arg>
+                </example>
+                <example src="EGRAM" no="128">
+                    <text>The codon (CTC) normally associated with Leu-93 in the transcortin polypeptide will be altered by the mutation located within exon 2 to a codon (CAC) for histidine in the variant genes.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                    <arg n="2">to a codon (CAC)</arg>
+                    <arg n="3">the codon (CTC)</arg>
+                </example>
+                <example src="EGRAM" no="129">
+                    <text>The expression and activity of the multidrug resistance transporters can be altered by Cytokines in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="130">
+                    <text>The expression and activity of the multidrug resistance transporters could be altered by Cytokines in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="131">
+                    <text>The expression and activity of the multidrug resistance transporters is able to be altered by Cytokines in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="132">
+                    <text>The expression and activity of the multidrug resistance transporters is altered by Cytokines in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="133">
+                    <text>The expression and activity of the multidrug resistance transporters may be altered by Cytokines in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="134">
+                    <text>The expression and activity of the multidrug resistance transporters was able to be altered by Cytokines in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="135">
+                    <text>The expression and activity of the multidrug resistance transporters was altered by Cytokines in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="136">
+                    <text>The expression and activity of the multidrug resistance transporters will be altered by Cytokines in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="137">
+                    <text>The molecular lesion associated with s1031 is predicted to alter splicing, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="138">
+                    <text>The molecular lesion associated with s1031 is predicted to be able to alter splicing, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="139">
+                    <text>The results provide insight into a mechanism whereby altering expression of Bcl-3 leads to tumorigenic potential.</text>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="EGRAM" no="140">
+                    <text>The results provide insight into a mechanism whereby the act of altering expression of Bcl-3 leads to tumorigenic potential.</text>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="EGRAM" no="141">
+                    <text>The results provide insight into a mechanism whereby to alter expression of Bcl-3 may lead to tumorigenic potential.</text>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="EGRAM" no="142">
+                    <text>The results provide insight into a mechanism which alters expression of Bcl-3 and leads to tumorigenic potential.</text>
+                    <arg n="0">a mechanism</arg>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="EGRAM" no="143">
+                    <text>The results provide insight into a mechanism which can alter expression of Bcl-3 and may lead to tumorigenic potential.</text>
+                    <arg n="0">a mechanism</arg>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="EGRAM" no="144">
+                    <text>This mutation is located within exon 2 and altered the codon (CTC) normally associated with Leu-93 in the transcortin polypeptide to a codon (CAC) for histidine in the variant genes.</text>
+                    <arg n="0">This mutation</arg>
+                    <arg n="1">the codon</arg>
+                    <arg n="2">to a codon (CAC)</arg>
+                    <arg n="3">the codon (CTC)</arg>
+                </example>
+                <example src="EGRAM" no="145">
+                    <text>This mutation was located within exon 2 and altered the codon (CTC) normally associated with Leu-93 in the transcortin polypeptide to a codon (CAC) for histidine in the variant genes.</text>
+                    <arg n="0">This mutation</arg>
+                    <arg n="1">the codon</arg>
+                    <arg n="2">to a codon (CAC)</arg>
+                    <arg n="3">the codon (CTC)</arg>
+                </example>
+                <example src="EGRAM" no="146">
+                    <text>This mutation, which alters the codon (CTC) normally associated with Leu-93 in the transcortin polypeptide to a codon (CAC) for histidine in the variant genes, is located within exon 2.</text>
+                    <arg n="0">This mutation</arg>
+                    <arg n="1">the codon</arg>
+                    <arg n="2">to a codon (CAC)</arg>
+                    <arg n="3">the codon (CTC)</arg>
+                </example>
+                <example src="EGRAM" no="147">
+                    <text>Treating the cells with insulin-like growth factor-I cannot alter phosphorylation of PDK1 and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="148">
+                    <text>Treating the cells with insulin-like growth factor-I did not alter phosphorylation of PDK1 and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="149">
+                    <text>Treating the cells with insulin-like growth factor-I does not alter phosphorylation of PDK1 and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="150">
+                    <text>Treating the cells with insulin-like growth factor-I has not altered phosphorylation of PDK1 and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="151">
+                    <text>Treating the cells with insulin-like growth factor-I is not able to alter phosphorylation of PDK1 and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="152">
+                    <text>Treating the cells with insulin-like growth factor-I may not alter phosphorylation of PDK1 and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="153">
+                    <text>Treating the cells with insulin-like growth factor-I will not alter phosphorylation of PDK1 and four of the sites could be mutated without loss of activity.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

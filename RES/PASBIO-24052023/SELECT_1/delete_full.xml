@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="delete">
+            <roleset id="delete.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer mechanism&#x09;&#x09;&#x09;&#x09;// mutation, alternative splicing //&#x0A;" />
+                    <role n="1" descr="entity being removed&#x09;&#x09;&#x09;// exon, gene, chromosomal region, cell //&#x0A;" />
+                    <role n="2" descr="resultant product&#x09;&#x09;&#x09;// transcripts //&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Mutation of the hns gene in E. coli has resulted in a strong expression of the V. fischeri lux system at low cellular density, even in an rpoS that has deleted E. coli cassette that emits very low levels of luminescence.</text>
+                    <arg n="1">E. coli cassette that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>D: ErbB-2: S-D was deleted in looked ZONAB binding site, and in ErbB-2: S-A inverted CCAAT box was replaced.</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">looked ZONAB binding site</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>ErbB-2 plasmid: S-D that can delete the binding of the ZONAB.</text>
+                    <arg n="1">the binding of the ZONAB</arg>
+                    <arg n="2">ErbB-2 plasmid: S-D</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>From man and mice, we isolated A1 (a form of Dmc1 cDNA (Dmc1-d) that can be deleted to a region between the two motifs that is involved in nucleotide binding.</text>
+                    <arg n="2">a region between the two motifs</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>In ErbB-2 plasmid: S-D, the the binding of the ZONAB connection is deleted, and in ErbB-2: S-A replaces the inverted CCAAT box.</text>
+                    <arg n="1">the binding of the ZONAB</arg>
+                    <arg n="2">ErbB-2 plasmid: S-D</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>In ErbB-2: S-D plasmid, ZONAB link was deleted, and in ErbB-2: S-A the inverted CCAAT box was replaced.</text>
+                    <arg n="1">ZONAB link</arg>
+                    <arg n="2">ErbB-2: S-D plasmid</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>In GATA-4 mutants , the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443) is deleted, and in ErbB-2: S-A the inverted CCAAT box is replaced.</text>
+                    <arg n="1">the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443)</arg>
+                    <arg n="2">GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Of humans and mice, we isolate A1 (a form of Dmc1 cDNA (Dmc1-d) that can be deleted in GATA-4 mutants that is involved in nucleotide binding.</text>
+                    <arg n="2">GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Of the pulsed mutations, the A+4 allele of IVS9 was subdivided alternatively, being about 26% of the normal transcription and a single transcription where exon 2 was deleted.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcription</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Recent studies have provided direct evidence that appropriate progenitors is able to delete any chromosome region to silencing A0.</text>
+                    <arg n="0">appropriate progenitors</arg>
+                    <arg n="1">any chromosome region</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Reporter plasmids contained a shorter fragment of the promoter ErbB-2 with a functional (D: ErbB-2: S) or C. albicans Colonies where CST20 is deleted (ErbB-2: S-A, substitution of the inverted CCAAT box).</text>
+                    <arg n="1">CST20</arg>
+                    <arg n="2">C. albicans Colonies</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Reporter plasmids contained a shorter fragment of the promoter ErbB-2 with a functional (D: ErbB-2: S) or ErbB-2 plasmid: S-D where the binding of the ZONAB is deleted (ErbB-2: S-A, substitution of the inverted CCAAT box).</text>
+                    <arg n="1">the binding of the ZONAB</arg>
+                    <arg n="2">ErbB-2 plasmid: S-D</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Studies with the domain of the main piece of dematin that have been deleted for using homologous recombination in embryonic stem cells of the mouse showed that reduction depending on the OmpF MarA requires an intact micF site.</text>
+                    <arg n="0">using homologous recombination in embryonic stem cells of the mouse</arg>
+                    <arg n="1">the domain of the main piece of dematin</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>The generation of replication-competent virus is considered less likely with CST20 that delete C. colonies of albicans.</text>
+                    <arg n="1">C. colonies of albicans</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>The generation of replication-competent virus is considered less likely with the remainder that delete exon 9.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>The generation of replicative-competent viruses is considered less likely with plasmid ErbB-2: S-D that deleted ZONAB junction.</text>
+                    <arg n="1">ZONAB junction</arg>
+                    <arg n="2">plasmid ErbB-2: S-D</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>The generation of the replication-competent virus is considered less likely with a region between the two motives that delete a form of Dmc1 cDNA (Dmc1-d).</text>
+                    <arg n="1">a form of Dmc1 cDNA (Dmc1-d)</arg>
+                    <arg n="2">a region between the two motives</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>The propensity of antigen-loaded DCs immature that deleting T cells has provided positional information that has enabled us to identify a gene needed for cytoadherence.</text>
+                    <arg n="0">antigen-loaded DCs immature</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>The propensity of the development of other immunotherapeutic agents to deleting cytotoxic lymphatic responses provided positional information that allowed the identification of a gene needed for cytoadhesion.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphatic responses</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>The propensity of the using homologous recombination in embryonic stem cells of the mouse demonstrated the removal of the the mastery of the main piece of dematin provided positional information that allowed the identification of a gene delete for cyto accession.</text>
+                    <arg n="0">using homologous recombination in embryonic stem cells of the mouse</arg>
+                    <arg n="1">the mastery of the main piece of dematin</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>The viral transcription elements will be suppressed in vectors, and in ErbB-2: S-A the inverted CCAAT box will be deleted.</text>
+                    <arg n="1">viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>antigen-loaded Immature DCs will delete the cells to evaluate its function in vivo.</text>
+                    <arg n="0">antigen-loaded Immature DCs</arg>
+                    <arg n="1">the cells</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>micF site, the crees will be deleted to evaluate in vivo its function.</text>
+                    <arg n="0">micF site</arg>
+                    <arg n="1">crees</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443) deleted by GATA-4 mutants revealed defects in the lateral formation of mycelia in solid spider synthetic media.</text>
+                    <arg n="1">the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443)</arg>
+                    <arg n="2">GATA-4 mutants</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>the development of other immunotherapeutic agents, the cytotoxic responses of lymphocytes is deleted to evaluate in vivo its function.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic responses of lymphocytes</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>D: ErbB-2: S-D deleted by ZONAB silient revealed defects in the lateral formation of mycelia in solid spider synthetic media.</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">ZONAB silient</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>E. coli cassette that emits very low levels of luminescence that were deleted to rpoS revealed defects in the lateral mycelium formation in the synthetic medium of Spider.</text>
+                    <arg n="1">E. coli cassette that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Generation of replication-competent viruses is considered less likely with modified ZONAB connection site that deleted D: ErbB-2: S-D.</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">modified ZONAB connection site</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Generation of the replication-competent virus is considered less likely with transcribes that delete exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encoding different protein isoforms (delta25, delta52 and delta56 aa, respectively).</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encoding different protein isoforms (delta25, delta52 and delta56 aa, respectively)</arg>
+                    <arg n="2">transcribes</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>The generation of replication-competent virus is considered less likely with transcribed that delete exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encodes different protein isoforms (delta25, delta52 and delta56 aa, respectively).</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encodes different protein isoforms (delta25, delta52 and delta56 aa, respectively)</arg>
+                    <arg n="2">transcribed</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>a segment of chromosome 9herefore, this granulate enzyme is required for the unique effects of Leu-Leu-OMe and can provide a target for isolations of the malaria parasite Plasmodium falciparum to delete T.</text>
+                    <arg n="0">isolations of the malaria parasite Plasmodium falciparum</arg>
+                    <arg n="1">a segment of chromosome 9</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>exon 4 is suppressed in aberrantly spliced transcripts, and in ErbB-2: S-A the inverted CCAAT box is deleted.</text>
+                    <arg n="1">exon 4</arg>
+                    <arg n="2">aberrantly spliced transcripts</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encodes different protein isoforms (delta25, delta52 and delta56 aa, respectively) will be deleted in transcribed, and in ErbB-2: S-A the inverted CCAAT box will be replaced.</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encodes different protein isoforms (delta25, delta52 and delta56 aa, respectively)</arg>
+                    <arg n="2">transcribed</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>rpoS deleted by E. coli mass emitting very low levels of luminescence revealed defects in the formation of lateral mycelium in a synthetic medium of solid spider.</text>
+                    <arg n="1">E. coli mass emitting very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>transcribes that exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encoding different protein isoforms (delta25, delta52 and delta56 aa, respectively) deleted revealed defects in lateral mycelial formation in synthetic environments of solid spiders.</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encoding different protein isoforms (delta25, delta52 and delta56 aa, respectively)</arg>
+                    <arg n="2">transcribes</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>transcribes that were deleted to exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encode different protein isoforms (delta25, delta52 and delta56 aa, respectively) revealed defects in the lateral mycelium formation in the synthetic medium of Spider.</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and encode different protein isoforms (delta25, delta52 and delta56 aa, respectively)</arg>
+                    <arg n="2">transcribes</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

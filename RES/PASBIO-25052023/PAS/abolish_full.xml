@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="abolish">
+            <roleset id="abolish.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer/agent &#x09;&#x09;&#x09; &#x09;// change at molecular level //&#x0A;" />
+                    <role n="1" descr="entity abolished &#x09;&#x09;&#x09;// normal transcription, normal splicing //&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A0 (the mutation of the proximal element GATA in the context of the M-ADV promoter (totally) abolishes synergy, abolishes that this element is essential for MEF2 cooperation GATA-4.</text>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>A0 (the mutation of the proximal element GATA in the context of the promoter totally abolishes synergy, abolishes that this element is essential for the cooperation MEF2 GATA-4.</text>
+                    <arg n="1">synergy</arg>
+                    <arg n="M-ADV">totally</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>A0 can abolish formation of liver metastases in mice.</text>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>A0 may abolish formation of liver metastases in mice.</text>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>A0, which is able to completely abolish morphine-induced CPP effect, has no effect on morphine-induced behavior.</text>
+                    <arg n="1">morphine-induced CPP effect</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>A0, which is able to completely abolish the the CPP effect induced by morphine, has no effect on morphine-induced behavior awareness.</text>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>A0, which was able to completely abolish morphine-induced CPP effect, had no effect on the consciousness of morphine-induced behavior.</text>
+                    <arg n="1">morphine-induced CPP effect</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>A1 is abolished by a G-A transition to the first nucleotide of intron 2 of patient 1.</text>
+                    <arg n="0">a G-A transition to the first nucleotide of intron 2</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>A1 is abolished by a G-A transition to the first nucleotide of the intron 2 of the patient 1.</text>
+                    <arg n="0">a G-A transition to the first nucleotide of the intron 2</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>A1 is abolished for a mutation of the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>A1 is abolished to a mutation of the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>A1 was abolished by a G-A transition to the first nucleotide of intron 2 of patient 1.</text>
+                    <arg n="0">a G-A transition to the first nucleotide of intron 2</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>A1 was abolished by a G-A transition to the first nucleotide of the intron 2 of patient 1.</text>
+                    <arg n="0">a G-A transition to the first nucleotide of the intron 2</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>A1 was abolished for a mutation of the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Alp activity is abolished by Insertions that interrupt this open reading.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">Alp activity</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Alpha activity was abolished by Insertions which disrupt this open reading frame.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">Alpha activity</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>CPP effect abolised able to be abolished by coadministered carbon dioxide induced by morphine, but had no effect on morphine-induced behavioral sensitization.</text>
+                    <arg n="0">coadministered carbon dioxide</arg>
+                    <arg n="1">CPP effect</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Groucho binding is abolished by muting a conserved phenylalanine from the sequence eh1/GEH to glutamic acid (Jimnez et al., 1999).</text>
+                    <arg n="0">muting a conserved phenylalanine from the sequence eh1/GEH to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Groucho binding was abolished by muting a conserved phenylalanine from the sequence eh1/GEH to glutamic acid (Jimnez et al., 1999).</text>
+                    <arg n="0">muting a conserved phenylalanine from the sequence eh1/GEH to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>However, its BCFA biosynthesis is no abolished for this complete elimination of FabD from the raw FAS, but only abolished the level to 50-60% of the control level for acil-CoA ignition and to 80% for alpha-keto-beta-methylvalerate.</text>
+                    <arg n="0">this complete elimination of FabD from the raw FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                    <arg n="M-NEG">no</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>However, its BCFA biosynthesis was abolished by this complete elimination of FabD from the raw APS, but reduced only the level to 50-60% of the control level for acyl-CoA ignition and to 80% for alpha-keto-beta-methyl.</text>
+                    <arg n="0">this complete elimination of FabD from the raw APS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>However, the BCFA biosynthesis is not abolished by this complete removal of FabD from crude APS, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methyl arylate primer.</text>
+                    <arg n="0">this complete removal of FabD from crude APS</arg>
+                    <arg n="1">the BCFA biosynthesis</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>However, the BCFA biosynthesis was abolished by this complete elimination of FabD from raw APS, but only reduced the level to 50-60% of the control level for acyl-CoA ignition and to 80% for alpha-keto-beta-methyl arylarate.</text>
+                    <arg n="0">this complete elimination of FabD from raw APS</arg>
+                    <arg n="1">the BCFA biosynthesis</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>However, this complete removal of FabD from raw APS abolish no the biosynthesis BCFA, but reduced only the control level to 50-60% of the control level for the first acyl-CoA and to 80% for the first alpha-keto-beta-methyl arylate.</text>
+                    <arg n="0">this complete removal of FabD from raw APS</arg>
+                    <arg n="1">the biosynthesis BCFA</arg>
+                    <arg n="M-NEG">no</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>However, this complete removal of FabD from raw APS will abolish no the BCFA biosynthesis, but only reduced the control level to 50-60% of the control level for acyl-CoA ignition and to 80% for alpha-keto-beta-methyl arylate.</text>
+                    <arg n="0">this complete removal of FabD from raw APS</arg>
+                    <arg n="1">the BCFA biosynthesis</arg>
+                    <arg n="M-NEG">no</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>However, this complete removal of FabD from raw FAS abolish no its BCFA biosynthesis, but only reduced the control level to 50-60% of the control level for the first acil-CoA and to 80% for the first alpha-keto-beta-methylvalerate.</text>
+                    <arg n="0">this complete removal of FabD from raw FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                    <arg n="M-NEG">no</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>However, this complete removal of FabD from the raw APS will abolish no its BCFA biosynthesis, but only reduced the control level to 50-60% of the control level for the acil-CoA ignition and to 80% for alpha-keto-beta-methyl-arit.</text>
+                    <arg n="0">this complete removal of FabD from the raw APS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                    <arg n="M-NEG">no</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>In addition, acid resistance in stationary cells is completely abolished by enforcement of yhiE, suggesting that YhiE plays a critical role in the stationary phase of acid resistance.</text>
+                    <arg n="0">enforcement of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>In addition, acid resistance in stationary cells was completely abolished by enforcement of yhiE, suggesting that YhiE plays a critical role in the stationary phase of acid resistance.</text>
+                    <arg n="0">enforcement of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>In addition, acid resistance in stationary phase cells has been completely abolished by the elimination of yhiE, suggesting that YhiE plays a critical role in the acid resistance stationary phase.</text>
+                    <arg n="0">the elimination of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>In addition, acid resistance in stationary phase cells is completely abolished by the elimination of yhiE, suggesting that YhiE plays a critical role in the acid resistance stationary phase.</text>
+                    <arg n="0">the elimination of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>In addition, acid resistance will completely abolish acid resistance in stationary cells, suggesting that YhiE plays a critical role in the A1 stationary phase (acid resistance).</text>
+                    <arg n="0">acid resistance</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>In addition, decomposing the distal torque box1 abolished torC induction, while the presence of a DNA fragment from three bases above the box1 is sufficient for normal torC expression.</text>
+                    <arg n="0">decomposing the distal torque box1</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>In addition, decomposing the distal torque box1 may abolish torC induction, while the presence of a DNA fragment from three bases above the box1 is sufficient for normal torC expression.</text>
+                    <arg n="0">decomposing the distal torque box1</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>In addition, decomposing the distal torque box1 will abolish torC induction, while the presence of a DNA fragment from three bases above the box1 is sufficient for normal torC expression.</text>
+                    <arg n="0">decomposing the distal torque box1</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>In addition, deletion of the distal torque box1 is able to abolish thorC induction, while the presence of a DNA fragment from three bases above the box1 is sufficient for normal torC expression.</text>
+                    <arg n="0">deletion of the distal torque box1</arg>
+                    <arg n="1">thorC induction</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>In addition, lead of the distal torque box1 abolished torC induction, while the presence of a DNA fragment from three bases upstream of box1 hindered normal torC expression.</text>
+                    <arg n="0">lead of the distal torque box1</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>In addition, lead of the distal torque box1 abolishes induction of torC, while the presence of a DNA fragment from three bases above the box1 sufficiently impairs the normal expression of torC.</text>
+                    <arg n="0">lead of the distal torque box1</arg>
+                    <arg n="1">induction of torC</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>In addition, lead of the distal torque box1 is able to abolish torC induction, while the presence of a DNA fragment from three bases above the box1 is sufficient for normal torC expression.</text>
+                    <arg n="0">lead of the distal torque box1</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>In addition, lead of the distal torque box1 may abolish induction of torC, while the presence of a DNA fragment from three bases above the box1 sufficiently impairs the normal expression of torC.</text>
+                    <arg n="0">lead of the distal torque box1</arg>
+                    <arg n="1">induction of torC</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>In addition, removal of yhiE will completely abolish acid resistance in stationary phase cells, suggesting that YhiE plays a critical role in the stationary phase acid resistance.</text>
+                    <arg n="0">removal of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>In addition, resistance of the distal torque box1 abolished thorC induction, while the presence of a DNA fragment from three bases above the box1 is sufficient for normal torC expression.</text>
+                    <arg n="0">resistance of the distal torque box1</arg>
+                    <arg n="1">thorC induction</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>In addition, the elimination of yhiE completely abolishes acid resistance in stationary phase cells, suggesting that YhiE plays a critical role in the acid resistance stationary phase.</text>
+                    <arg n="0">the elimination of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>In addition, the removal of yhiE has completely abolished acid resistance in stationary phase cells, suggesting that YhiE plays a critical role in the acid resistance stationary phase.</text>
+                    <arg n="0">the removal of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>In addition, yehiE elimination completely abolishes acid resistance into stationary cells, suggesting that YhiE plays a critical role in the stationary phase of acid resistance.</text>
+                    <arg n="0">yehiE elimination</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>In addition, yhiE withdrawal has been completely abolished acid resistance in stationary cells, suggesting that YhiE plays a critical role in the stationary phase of acid resistance.</text>
+                    <arg n="0">yhiE withdrawal</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>In contrast, additional implementation of the C-terminal transactivation domain in Pax5 B8 and B9 mutants abolished transcriptional stimulation, while the internal removal of the preserved motifid (OP) or the partial homeodomain (HD) of Pax5 had no effect (figure 3B).</text>
+                    <arg n="0">additional implementation of the C-terminal transactivation domain in Pax5 B8 and B9 mutants</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>In contrast, additional implementation of the C-terminal transactivation domain in Pax5 B8 and B9 mutants abolishes transcriptional stimulation, while the internal elimination of the preserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 had no effect (figure 3B).</text>
+                    <arg n="0">additional implementation of the C-terminal transactivation domain in Pax5 B8 and B9 mutants</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>In contrast, additional implementation of the C-terminal transactivation domain in Pax5 B8 and B9 mutants may abolish transcriptional stimulation, while the internal exclusion of the preserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 had no effect (figure 3B).</text>
+                    <arg n="0">additional implementation of the C-terminal transactivation domain in Pax5 B8 and B9 mutants</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>In contrast, additional removal of the C-terminal transactivation domain in Pax5 B8 and B9 mutants abolishes transcriptional stimulation, while internal elimination of the conserved octapeptide motif (OP) or partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">additional removal of the C-terminal transactivation domain in Pax5 B8 and B9 mutants</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>In contrast, additional removal of the C-terminal transactivation domain in Pax5 B8 and B9 mutants may abolish transcriptional stimulation, while the internal elimination of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">additional removal of the C-terminal transactivation domain in Pax5 B8 and B9 mutants</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>In contrast, additional withdrawal of the C-terminal transactivation domain in Pax5 mutants B8 and B9 abolished transcriptional stimulation, while the internal elimination of the preserved motifid (OP) or partial homeodoma (HD) of Pax5 had no effect (figure 3B).</text>
+                    <arg n="0">additional withdrawal of the C-terminal transactivation domain in Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>In contrast, transcriptional stimulation is abolished by additional removal of the C-terminal transactivation domain in Pax5 B8 and B9 mutants, while the internal elimination of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">additional removal of the C-terminal transactivation domain in Pax5 B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>In contrast, transcriptional stimulation is abolished for additional implementation of the C-terminal transactivation domain in Pax5 B8 and B9 mutants, while the internal exclusion of the preserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not take effect (figure 3B).</text>
+                    <arg n="0">additional implementation of the C-terminal transactivation domain in Pax5 B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>Insertations is able to abolish Alpha activity interrupt this open reading frame.</text>
+                    <arg n="0">Insertations</arg>
+                    <arg n="1">Alpha activity</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>Insertations that abolished Alpha activity interrupts this open reading frame.</text>
+                    <arg n="0">Insertations</arg>
+                    <arg n="1">Alpha activity</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>Insertations that is able to abolish Aid Activity interrupts this open reading.</text>
+                    <arg n="0">Insertations</arg>
+                    <arg n="1">Aid Activity</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>Insertions that abolished Alp Activity interrupts this open reading.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">Alp Activity</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>It should be noted that transcription in the promoter rrn PC for NEP-2 was completely abolished if CDF2-B cannot join the model, as obtained by mutation M1 (figure 4A, compare bands 1 and 4; Figure 4C, compare Wt and M1).</text>
+                    <arg n="1">transcription in the promoter rrn PC for NEP-2</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>Mutation of the proximal element GATA in the context of 700 or 135 bp can totally abolish synergy, abolishes that this element is essential for the MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">Mutation of the proximal element GATA in the context of 700 or 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                    <arg n="M-ADV">totally</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>Mutations in the fhlA gene also abolish production of hydrogenase activity associated with the activity of formatted hydrogenliase.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of hydrogenase activity</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>Mutations in the fhlA gene has also abolished production of the hydrogenase activity associated with the hydrogenliase-forming activity.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>Mutations in the fhlA gene will also abolish production of the hydrogenase activity associated with the hydrogenliase-forming activity.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>Note that restriction to promoter rrn PC for NEP-2 can be completely abolished if CDF2-B cannot join the template, as obtained by the mutation M1 (Figure 4A, compare lanes 1 and 4; Figure 4C, Compare Wt and M1).</text>
+                    <arg n="1">restriction to promoter rrn PC for NEP-2</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>Noteably, transcription in the rrn PC promoter by NEP-2 can be completely abolished if CDF2-B does not bind to the model, as obtained by M1 mutation (figure 4A, compares bands 1 and 4; Figure 4C, compares Wt and M1).</text>
+                    <arg n="1">transcription in the rrn PC promoter by NEP-2</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>Noteably, transcription in the rrn PC promoter by NEP-2 was completely abolished if CDF2-B cannot bind to the model, as obtained by M1 mutation (figure 4A, compares bands 1 and 4; Figure 4C, compares Wt and M1).</text>
+                    <arg n="1">transcription in the rrn PC promoter by NEP-2</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>Our results showed that co-administered DM is able to completely abolish BPP effect induced by morphine, but had no effect on the morphine-induced behavioral sensitization.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">BPP effect</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>Our results showed that co-administered with DM is able to completely abolish BPP effect induced by morphine, but had no effect on the consciousness of morphine-induced behavior.</text>
+                    <arg n="0">co-administered with DM</arg>
+                    <arg n="1">BPP effect</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>Rouchos bond was abolished by changing a conserved phenylalanine from the eh1/GEH sequence to glutamic acid (Jimnez et al., 1999).</text>
+                    <arg n="0">changing a conserved phenylalanine from the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Rouchos bond</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>The A/T-rich mutation sequence abolish that mutations abolish the A/T-rich element.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>The A/T-rich mutation sequence indicates that a/T-rich element has been abolished for mutations.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">a/T-rich element</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>The A/T-rich mutation sequence indicates that a/T-rich element is abolished for mutations.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">a/T-rich element</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>The A/T-rich mutation sequence indicates that mutations abolished a/T-rich element.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">a/T-rich element</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>The A/T-rich mutation sequence indicates that mutations may abolish the A/T-rich element.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>The A/T-rich mutation sequence indicates that the A/T-rich element is abolished for mutations.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>The A/T-rich mutation sequence indicates that the A/T-rich element was abolished for mutations.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>The A0, which was able to completely abolish the the CPP effect induced by morphine, had no effect on morphine-induced behavior awareness.</text>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>The CPP effect abolised able to be abolished by morphine-induced A0, but had no effect on morphine-induced behavior awareness.</text>
+                    <arg n="1">CPP effect</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>The LHX4 splicing is abolished by this intron mutation, which segregates dominantly and fully penetrating for three generations and activates two exonic sites of cryptic splices, thus predicting two different proteins removed in their homeodomain sequence.</text>
+                    <arg n="0">this intron mutation</arg>
+                    <arg n="1">LHX4 splicing</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>The LHX4 splicing was abolished by this intron mutation, which segregates dominantly and fully penetrating for three generations and activates two exonic sites of cryptic splices, thus predicting two different proteins removed in their homeodomain sequence.</text>
+                    <arg n="0">this intron mutation</arg>
+                    <arg n="1">LHX4 splicing</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>The Lineomic and super-antibody therapy will abolish the metastasis formation in mice.</text>
+                    <arg n="0">Lineomic and super-antibody therapy</arg>
+                    <arg n="1">metastasis formation in mice</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>The antibody- and lynomic-oriented superantigen therapy abolished the metastasis formation in mice.</text>
+                    <arg n="0">antibody- and lynomic-oriented superantigen therapy</arg>
+                    <arg n="1">metastasis formation in mice</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>The deleting ydeP, ydeO, or yhiE that was induced by the overexpression EvgA abolish this acidic resistance.</text>
+                    <arg n="0">deleting ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">this acidic resistance</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>The deleting ydeP, ydeO, or yhiE that was induced by the overexpression EvgA abolished this acidic resistance.</text>
+                    <arg n="0">deleting ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">this acidic resistance</arg>
+                </example>
+                <example src="EGRAM" no="84">
+                    <text>The formation of liver metastases in mice is abolished by the superantigenic therapy oriented to the antibody and linomide.</text>
+                    <arg n="0">superantigenic therapy oriented to the antibody and linomide</arg>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="EGRAM" no="85">
+                    <text>The formation of liver metastases in mice is abolished by the superantigenic therapy oriented to the antibody and lynomics.</text>
+                    <arg n="0">superantigenic therapy oriented to the antibody and lynomics</arg>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="EGRAM" no="86">
+                    <text>The formation of liver metastases in mice was abolished by the superantigenic therapy oriented to the antibody and linomide.</text>
+                    <arg n="0">superantigenic therapy oriented to the antibody and linomide</arg>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="EGRAM" no="87">
+                    <text>The help activity was abolished by the Insertions which interrupted this open reading.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">help activity</arg>
+                </example>
+                <example src="EGRAM" no="88">
+                    <text>The metastasis formation in mice was abolished by the superantigen therapy oriented to the antibody and linomyids.</text>
+                    <arg n="0">superantigen therapy oriented to the antibody and linomyids</arg>
+                    <arg n="1">metastasis formation in mice</arg>
+                </example>
+                <example src="EGRAM" no="89">
+                    <text>The mut-rich sequence in A/T abolish that mutations abolish a rich element in A/T.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">a rich element in A/T</arg>
+                </example>
+                <example src="EGRAM" no="90">
+                    <text>The mutation Cpx101 abolished the activity of phosphatase cpxA phosphatase and resulted in the accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">Cpx101</arg>
+                    <arg n="1">cpxA phosphatase</arg>
+                </example>
+                <example src="EGRAM" no="91">
+                    <text>The mutation Cpx101 that abolished the activity of phosphatease cpxA phosphatase resulted in the accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">Cpx101</arg>
+                    <arg n="1">cpxA phosphatase</arg>
+                </example>
+                <example src="EGRAM" no="92">
+                    <text>The mutation Cpx101 that abolishes the activity of phosphatease cpxA results in the accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">Cpx101</arg>
+                    <arg n="1">cpxA</arg>
+                </example>
+                <example src="EGRAM" no="93">
+                    <text>The mutation Cpx101 will abolish the activity of phosphatease cpxA phosphatase and result in accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">Cpx101</arg>
+                    <arg n="1">cpxA phosphatase</arg>
+                </example>
+                <example src="EGRAM" no="94">
+                    <text>The mutation-rich sequence A/T indicates mutations and can abolish rich element A/T.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">rich element A/T</arg>
+                </example>
+                <example src="EGRAM" no="95">
+                    <text>The production of hydrogenase activity associated with the formatted hydrogenliase activity can be abolished for Mutations in the fhlA gene.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of hydrogenase activity</arg>
+                </example>
+                <example src="EGRAM" no="96">
+                    <text>The production of hydrogenase activity associated with the hydrogenase activity in form is abolished by mutations in the fhlA gene.</text>
+                    <arg n="0">mutations in the fhlA gene</arg>
+                    <arg n="1">production of hydrogenase activity</arg>
+                </example>
+                <example src="EGRAM" no="97">
+                    <text>The production of the hydrogenase activity associated with the formatted hydrogenliase activity is abolished for Mutations in the fhlA gene.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="EGRAM" no="98">
+                    <text>The sequence of mutations rich in A/T indicates that mutations abolished the A/T-rich element.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="EGRAM" no="99">
+                    <text>This acid resistance was abolished by erase of ydeP, ydeO or yhiE, which was induced by the overexpression of EvgA.</text>
+                    <arg n="0">erase of ydeP, ydeO or yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="100">
+                    <text>This acid resistance will be abolished by erase of ydeP, ydeO or yhiE, which has been induced by the overexpression of EvgA.</text>
+                    <arg n="0">erase of ydeP, ydeO or yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="101">
+                    <text>This intron mutation, which segregates dominant and completely penetrating into more than three generations, abolished the normal splicing of LHX4 and activates two exotic cryptic silica sites, thus predicting two different removed proteins in its homeodom sequence.</text>
+                    <arg n="0">This intron mutation</arg>
+                    <arg n="1">LHX4</arg>
+                </example>
+                <example src="EGRAM" no="102">
+                    <text>a mutation abolished the RNA expression of the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="EGRAM" no="103">
+                    <text>a mutation abolished the expression of RNA from the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                    <arg n="1">RNA</arg>
+                </example>
+                <example src="EGRAM" no="104">
+                    <text>a mutation abolishes RNA expression from the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="EGRAM" no="105">
+                    <text>a mutation abolishes the expression of RNA from the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                    <arg n="1">RNA</arg>
+                </example>
+                <example src="EGRAM" no="106">
+                    <text>a mutation can abolish RNA expression of the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="EGRAM" no="107">
+                    <text>a mutation may abolish expression of RNA from the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                    <arg n="1">expression of RNA</arg>
+                </example>
+                <example src="EGRAM" no="108">
+                    <text>a mutation will abolish the RNA expression of the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="EGRAM" no="109">
+                    <text>a mutation will abolish the expression of RNA from the altered allele.</text>
+                    <arg n="0">a mutation</arg>
+                    <arg n="1">RNA</arg>
+                </example>
+                <example src="EGRAM" no="110">
+                    <text>changing a conserved phenylalanine from the eh1/GEH sequence to glutamic acid abolished Roucho ligation (Jimnez et al., 1999).</text>
+                    <arg n="0">changing a conserved phenylalanine from the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Roucho ligation</arg>
+                </example>
+                <example src="EGRAM" no="111">
+                    <text>changing a conserved phenylalanine from the eh1/GEH sequence to glutamic acid abolishes Rouchos ligation (Jimnez et al., 1999).</text>
+                    <arg n="0">changing a conserved phenylalanine from the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Rouchos ligation</arg>
+                </example>
+                <example src="EGRAM" no="112">
+                    <text>changing a conserved phenylalanine from the eh1/GEH sequence to glutamic acid will abolish Rouchos wort (Jimnez et al., 1999).</text>
+                    <arg n="0">changing a conserved phenylalanine from the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Rouchos wort</arg>
+                </example>
+                <example src="EGRAM" no="113">
+                    <text>changing a conserved phenylalanine from the sequence eh1/GEH to glutamic acid abolished the A1 ligation (Jimnez et al., 1999).</text>
+                    <arg n="0">changing a conserved phenylalanine from the sequence eh1/GEH to glutamic acid</arg>
+                </example>
+                <example src="EGRAM" no="114">
+                    <text>changing a conserved phenylalanine from the sequence eh1/GEH to glutamic acid abolishes Jimnez et al., 1999.</text>
+                    <arg n="0">changing a conserved phenylalanine from the sequence eh1/GEH to glutamic acid</arg>
+                    <arg n="1">Jimnez et al., 1999</arg>
+                </example>
+                <example src="EGRAM" no="115">
+                    <text>changing a conserved phenylalanine from the sequence eh1/GEH to glutamic acid will abolish Jimnez et al., 1999.</text>
+                    <arg n="0">changing a conserved phenylalanine from the sequence eh1/GEH to glutamic acid</arg>
+                    <arg n="1">Jimnez et al., 1999</arg>
+                </example>
+                <example src="EGRAM" no="116">
+                    <text>cpx101 mutation abolished the activity of phosphorase cpxA phosphatase and resulted in the accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">cpx101</arg>
+                    <arg n="1">cpxA phosphatase</arg>
+                </example>
+                <example src="EGRAM" no="117">
+                    <text>disorganization of rpoS, mlrA or csgA, and the curli subunit gene abolished production of HA and curli by chi7122 strain.</text>
+                    <arg n="0">disorganization of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">production of HA and curli by chi7122 strain</arg>
+                </example>
+                <example src="EGRAM" no="118">
+                    <text>disorganization of rpoS, mlrA or csgA, and the subunit curl gene abolished production of HA and curl by chi7122 strain.</text>
+                    <arg n="0">disorganization of rpoS, mlrA or csgA, and the subunit curl gene</arg>
+                    <arg n="1">production of HA and curl by chi7122 strain</arg>
+                </example>
+                <example src="EGRAM" no="119">
+                    <text>expression of ydeP, ydeO, or yhiE which was abolish by the excessive expression of EvgA abolishes acid resistance.</text>
+                    <arg n="0">expression of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="120">
+                    <text>expression of ydeP, ydeO, or yhiE which was induced by the excessive expression of EvgA abolished acid resistance.</text>
+                    <arg n="0">expression of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="121">
+                    <text>help activity is abolished by Insertions which interrupt this open reading.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">help activity</arg>
+                </example>
+                <example src="EGRAM" no="122">
+                    <text>intrinsic mutation, which abolished normal splicing LHX4, activates two cryptic-cut exonic sites and, therefore, predicts two different proteins removed in their homeodomain sequence.</text>
+                    <arg n="0">intrinsic mutation</arg>
+                    <arg n="1">normal splicing LHX4</arg>
+                </example>
+                <example src="EGRAM" no="123">
+                    <text>intron mutation, which abolishes A1 (in normal splicing LHX4, activates two cryptic-cut exonic sites and therefore predicts two different proteins removed in their homeodomain sequence.</text>
+                    <arg n="0">intron mutation</arg>
+                </example>
+                <example src="EGRAM" no="124">
+                    <text>linomida and antibody-oriented superantigen therapy abolished formation of liver metastasis in mice.</text>
+                    <arg n="0">linomida and antibody-oriented superantigen therapy</arg>
+                    <arg n="1">formation of liver metastasis in mice</arg>
+                </example>
+                <example src="EGRAM" no="125">
+                    <text>linomida and antibody-oriented superantigen therapy will abolish formation of liver metastasis in mice.</text>
+                    <arg n="0">linomida and antibody-oriented superantigen therapy</arg>
+                    <arg n="1">formation of liver metastasis in mice</arg>
+                </example>
+                <example src="EGRAM" no="126">
+                    <text>mutation of conserved phenylalanine from the eh1/GEH sequence to glutamic acid may abolish Roucho ligation (Jimnez et al., 1999).</text>
+                    <arg n="0">mutation of conserved phenylalanine from the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Roucho ligation</arg>
+                </example>
+                <example src="EGRAM" no="127">
+                    <text>mutation of preserved phenylalanine from the sequence eh1/GEH to glutamic acid can abolish Ligation Roucho (Jimnez et al., 1999).</text>
+                    <arg n="0">mutation of preserved phenylalanine from the sequence eh1/GEH to glutamic acid</arg>
+                    <arg n="1">Ligation Roucho</arg>
+                </example>
+                <example src="EGRAM" no="128">
+                    <text>mutation of the proximal element GATA in the context of 700 or 135 ap may totally abolishes synergy, indicating that this element is essential for the cooperation of MEF2 GATA-4.</text>
+                    <arg n="0">mutation of the proximal element GATA in the context of 700 or 135 ap</arg>
+                    <arg n="1">synergy</arg>
+                    <arg n="M-ADV">totally</arg>
+                </example>
+                <example src="EGRAM" no="129">
+                    <text>mutations in the fhlA gene also abolish the production of hydrogen activity associated with the formation of the hydrogenliase activity.</text>
+                    <arg n="0">mutations in the fhlA gene</arg>
+                    <arg n="1">production of hydrogen activity</arg>
+                </example>
+                <example src="EGRAM" no="130">
+                    <text>mutations in the fhlA gene also abolish the production of hydrogenase activity associated with the hydrogenliase activity in format.</text>
+                    <arg n="0">mutations in the fhlA gene</arg>
+                    <arg n="1">production of hydrogenase activity</arg>
+                </example>
+                <example src="EGRAM" no="131">
+                    <text>mutations in the fhlA gene also abolished the production of hydrogenase activity associated with hydrogenase form activity.</text>
+                    <arg n="0">mutations in the fhlA gene</arg>
+                    <arg n="1">production of hydrogenase activity</arg>
+                </example>
+                <example src="EGRAM" no="132">
+                    <text>normal LHX4 cutting was abolished by This intron mutation, which segregates dominant and penetrating in more than three generations and activates two ssp sites, thus predicting two different proteins removed in its homeodominal sequence.</text>
+                    <arg n="0">This intron mutation</arg>
+                    <arg n="1">normal LHX4 cutting</arg>
+                </example>
+                <example src="EGRAM" no="133">
+                    <text>normal LHX4 is abolished by This intron mutation, which segregates dominant and completely penetrating in more than three generations and activates two sites of ssp, thus predicting two different removed proteins in its homeodominal sequence.</text>
+                    <arg n="0">This intron mutation</arg>
+                    <arg n="1">normal LHX4</arg>
+                </example>
+                <example src="EGRAM" no="134">
+                    <text>production of AH and curli by chi7122 strain can be abolished by disorganization of rpoS, mlrA or csgA, and by the curli subunit gene.</text>
+                    <arg n="0">disorganization of rpoS, mlrA or csgA, and by the curli subunit gene</arg>
+                    <arg n="1">production of AH and curli by chi7122 strain</arg>
+                </example>
+                <example src="EGRAM" no="135">
+                    <text>production of AH and curli by chi7122 strain is abolished by disorganization of rpoS, mlrA or csgA, and the gene of the subunit curli.</text>
+                    <arg n="0">disorganization of rpoS, mlrA or csgA, and the gene of the subunit curli</arg>
+                    <arg n="1">production of AH and curli by chi7122 strain</arg>
+                </example>
+                <example src="EGRAM" no="136">
+                    <text>production of AH and curli by chi7122 strain was abolished by disorganization of rpoS, mlrA or csgA, and the gene of the subunit curli.</text>
+                    <arg n="0">disorganization of rpoS, mlrA or csgA, and the gene of the subunit curli</arg>
+                    <arg n="1">production of AH and curli by chi7122 strain</arg>
+                </example>
+                <example src="EGRAM" no="137">
+                    <text>production of HA and curl by chi7122 strain can be abolished by disorganization of rpoS, mlrA or csgA, and by the gene of the subunit curl.</text>
+                    <arg n="0">disorganization of rpoS, mlrA or csgA, and by the gene of the subunit curl</arg>
+                    <arg n="1">production of HA and curl by chi7122 strain</arg>
+                </example>
+                <example src="EGRAM" no="138">
+                    <text>production of HA and curl by chi7122 strain will be abolished by disorganization of rpoS, mlrA or csgA, and the gene of the subunit curl.</text>
+                    <arg n="0">disorganization of rpoS, mlrA or csgA, and the gene of the subunit curl</arg>
+                    <arg n="1">production of HA and curl by chi7122 strain</arg>
+                </example>
+                <example src="EGRAM" no="139">
+                    <text>production of HA and curli by chi7122 strain is abolished by disorganization of rpoS, mlrA or csgA, and the gene of the subunit curli.</text>
+                    <arg n="0">disorganization of rpoS, mlrA or csgA, and the gene of the subunit curli</arg>
+                    <arg n="1">production of HA and curli by chi7122 strain</arg>
+                </example>
+                <example src="EGRAM" no="140">
+                    <text>production of HA and curli by soca chi7122 was abolished by disorganization of rpoS, mlrA or csgA, and the gene of the subunit curli.</text>
+                    <arg n="0">disorganization of rpoS, mlrA or csgA, and the gene of the subunit curli</arg>
+                    <arg n="1">production of HA and curli by soca chi7122</arg>
+                </example>
+                <example src="EGRAM" no="141">
+                    <text>production of hydrogenase activity associated with hydrogenliase activity in format can be abolished for mutations in the fhlA gene.</text>
+                    <arg n="0">mutations in the fhlA gene</arg>
+                    <arg n="1">production of hydrogenase activity</arg>
+                </example>
+                <example src="EGRAM" no="142">
+                    <text>recho bond is abolished by changing a conserved phenylalanine from the sequence eh1/GEH to glutamic acid (Jimnez et al., 1999).</text>
+                    <arg n="0">changing a conserved phenylalanine from the sequence eh1/GEH to glutamic acid</arg>
+                    <arg n="1">recho bond</arg>
+                </example>
+                <example src="EGRAM" no="143">
+                    <text>synergy is completely abolished by mutation of the proximal element GATA in the context of 700 or 135 ap, indicating that this element is essential for the MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">mutation of the proximal element GATA in the context of 700 or 135 ap</arg>
+                    <arg n="1">synergy</arg>
+                    <arg n="M-ADV">completely</arg>
+                </example>
+                <example src="EGRAM" no="144">
+                    <text>synergy is the totally abolished to mutation of the proximal element GATA in the context of 700 or 135 ap, indicating that this element is essential for GATA-4 cooperation of MEF2.</text>
+                    <arg n="0">mutation of the proximal element GATA in the context of 700 or 135 ap</arg>
+                    <arg n="1">synergy</arg>
+                    <arg n="M-ADV">totally</arg>
+                </example>
+                <example src="EGRAM" no="145">
+                    <text>synergy was abolished by mutation of the proximal element GATA in the context of 700 or 135 ap, indicating that this element is essential for the MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">mutation of the proximal element GATA in the context of 700 or 135 ap</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="EGRAM" no="146">
+                    <text>synergy was abolished to mutation of the proximal element GATA in the context of 700 or 135 ap, indicating that this element is essential for MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">mutation of the proximal element GATA in the context of 700 or 135 ap</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="EGRAM" no="147">
+                    <text>the mutation cpx101 has abolished the activity of phosphoratase cpxA phosphatase and has resulted in accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">the mutation cpx101</arg>
+                    <arg n="1">cpxA phosphatase</arg>
+                </example>
+                <example src="EGRAM" no="148">
+                    <text>the mutation cpx101 that abolished phosphorylase activity cpxA phosphatase has resulted in the accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">the mutation cpx101</arg>
+                    <arg n="1">cpxA phosphatase</arg>
+                </example>
+                <example src="EGRAM" no="149">
+                    <text>the mutation cpx101 that abolishes the activity of phosphatease cpxA phosphatease results in the accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">the mutation cpx101</arg>
+                    <arg n="1">cpxA phosphatease</arg>
+                </example>
+                <example src="EGRAM" no="150">
+                    <text>the mutation cpx101 will abolish the activity cpxA phosphatase and result in the accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">the mutation cpx101</arg>
+                    <arg n="1">cpxA phosphatase</arg>
+                </example>
+                <example src="EGRAM" no="151">
+                    <text>the production of HA and curl by chi7122 strain will be abolished by disruption of rpoS, mlrA or csgA, and the gene of the subunit of curl.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the gene of the subunit of curl</arg>
+                    <arg n="1">the production of HA and curl by chi7122 strain</arg>
+                </example>
+                <example src="EGRAM" no="152">
+                    <text>this acid resistance is abolished by deleting ydeP, ydeO or yhiE, which was induced by EvgA expression.</text>
+                    <arg n="0">deleting ydeP, ydeO or yhiE</arg>
+                    <arg n="1">this acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="153">
+                    <text>this acidic resistance has been abolished for elimination of ydeP, ydeO, or yhiE, which was induced by the expression of EvgA.</text>
+                    <arg n="0">elimination of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">this acidic resistance</arg>
+                </example>
+                <example src="EGRAM" no="154">
+                    <text>this acidic resistance is abolished by deleting ydeP, ydeO, or yhiE, which was induced by the expression of EvgA.</text>
+                    <arg n="0">deleting ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">this acidic resistance</arg>
+                </example>
+                <example src="EGRAM" no="155">
+                    <text>this acidic resistance will be abolished by deleting ydeP, ydeO, or yhiE, which was induced by the expression of EvgA.</text>
+                    <arg n="0">deleting ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">this acidic resistance</arg>
+                </example>
+                <example src="EGRAM" no="156">
+                    <text>this intrinsic mutation, which segregates dominantly and fully penetrating over three generations, abolished the normal LHX4 splicing and activated two cryptic-cut exonic sites, thus predicting two different proteins removed in its homeodomain sequence.</text>
+                    <arg n="0">this intrinsic mutation</arg>
+                    <arg n="1">the normal LHX4 splicing</arg>
+                </example>
+                <example src="EGRAM" no="157">
+                    <text>this intron mutation, which abolished the normal splicing LHX4, activates two cryptic-cut exonic sites and therefore predicts two different proteins removed in its homeodomain sequence.</text>
+                    <arg n="0">this intron mutation</arg>
+                    <arg n="1">the normal splicing LHX4</arg>
+                </example>
+                <example src="EGRAM" no="158">
+                    <text>this intron mutation, which abolishes A1 (in normal splicing LHX4, activates two cryptic-cut exonic sites and therefore predicts two different proteins removed in its homeodomain sequence.</text>
+                    <arg n="0">this intron mutation</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

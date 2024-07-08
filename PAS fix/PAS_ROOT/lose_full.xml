@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="lose">
+<roleset id="lose.01" name="" wordnet="1, 8">
+<roles>
+  <role n="0" descr="entity losing something
+"/>
+  <role n="1" descr="thing lost
+"/>
+  <role n="2" descr="situation inducing thing lost
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+A new transthyretin variant which lost a Sph I cleavage site within exon 3 has been characterized.
+
+</text>
+       <arg n="0">A new transthyretin variant
+</arg>
+       <arg n="1">a Sph I cleavage site within exon 3
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	A	a	det:&gt;4	@DN&gt; %&gt;N DET SG
+2	new	new	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	transthyretin	transthyretin	attr:&gt;4	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+4	variant	variant	subj:&gt;15	@SUBJ %NH N NOM SG
+5	which	which	subj:&gt;6	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+6	lost	lose	mod:&gt;4	@+FMAINV %VA V PAST
+7	an	an	det:&gt;8	@DN&gt; %&gt;N DET SG
+8	Sph	sph	obj:&gt;6	@OBJ %NH &lt;?&gt; N NOM SG
+9	I	i		@SUBJ %NH PRON PERS NOM SG1
+10	cleavage	cleavage	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+11	site	site		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+12	within	within	ha:&gt;6	@ADVL %EH PREP
+13	exon	exon	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	3	3	pcomp:&gt;12	@&lt;P %NH NUM CARD
+15	has	have	v-ch:&gt;16	@+FAUXV %AUX V PRES SG3
+16	been	be	v-ch:&gt;17	@-FAUXV %AUX EN
+17	characterized	characterize	main:&gt;0	@-FMAINV %VP EN
+18	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+The mice did not lose weight during the treatment.
+
+</text>
+       <arg n="0">The mice
+</arg>
+       <arg n="1">weight
+</arg>
+       <arg n="2">during the treatment
+</arg>
+       <arg n="M-NEG">not
+</arg>
+<fdg>
+     
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	mice	mouse	subj:&gt;3	@SUBJ %NH N NOM PL
+3	did	do	v-ch:&gt;5	@+FAUXV %AUX V PAST
+4	not	not	neg:&gt;3	@ADVL %EH NEG-PART
+5	lose	lose	main:&gt;0	@-FMAINV %VA V INF
+6	weight	weight	obj:&gt;5	@OBJ %NH N NOM SG
+7	during	during	ha:&gt;5	@ADVL %EH PREP
+8	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+9	treatment	treatment	pcomp:&gt;7	@&lt;P %NH N NOM SG
+10	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+To this end, we made aggregation chimeras between Lc/+ mice, which lose all Purkinje cells postnatally, and +/+ control mice.
+
+</text>
+       <arg n="0">aggregation chimeras between Lc/+ mice 
+</arg>
+       <arg n="1">Purkinje cells 
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	To	to	cla:&gt;6	@ADVL %EH PREP
+2	this	this	det:&gt;3	@DN&gt; %&gt;N DET DEM SG
+3	end	end	pcomp:&gt;1	@&lt;P %NH N NOM SG
+4	,	,
+5	we	we	subj:&gt;6	@SUBJ %NH PRON PERS NOM PL1
+6	made	make	main:&gt;0	@+FMAINV %VA V PAST
+7	aggregation	aggregation	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	chimeras	chimera	obj:&gt;6	@OBJ %NH N NOM PL
+9	between	between	ha:&gt;6	@ADVL %EH PREP
+10	Lc	lc	pcomp:&gt;9	@&lt;P %NH ABBR NOM SG
+11	/	/	
+12	+	+	cc:&gt;10	@CC %CC CC
+13	mice	mouse	cc:&gt;10	@&lt;P %NH N NOM PL
+14	,	,
+15	which	which	subj:&gt;16	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+16	lose	lose	mod:&gt;13	@+FMAINV %VA V PRES
+17	all	all	det:&gt;19	@DN&gt; %&gt;N DET
+18	Purkinje	purkinje	attr:&gt;19	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+19	cells	cell	obj:&gt;16	@OBJ %NH N NOM PL
+20	postnatally	postnatally	man:&gt;16	@ADVL %EH ADV
+21	,	,
+22	and	and		@CC %CC CC
+23	+	+		@CC %CC CC
+24	/	/	
+25	+	+		@CC %CC CC
+26	control	control	attr:&gt;27	@A&gt; %&gt;N N NOM SG
+27	mice	mouse		@APP %NH N NOM PL	@&lt;P %NH N NOM PL
+28	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+This study investigated whether informing obese individuals that they would lose only modest amounts of weight would lead them to adopt more realistic weight loss expectations.
+
+</text>
+       <arg n="0">they
+</arg>
+       <arg n="1">modest amounts of weight
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="M-ADV">only
+</arg>
+<fdg>
+1	This	this	det:&gt;2	@DN&gt; %&gt;N DET DEM SG
+2	study	study	subj:&gt;3	@SUBJ %NH N NOM SG
+3	investigated	investigate		@+FMAINV %VA V PAST
+4	whether	whether		@CS %CS CS
+5	informing	inform		@-FMAINV %VA ING
+6	obese	obese	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	individuals	individual	dat:&gt;5	@I-OBJ %NH N NOM PL
+8	that	that	pm:&gt;11	@CS %CS CS
+9	they	they	subj:&gt;10	@SUBJ %NH PRON PERS NOM PL3
+10	would	would	v-ch:&gt;11	@+FAUXV %AUX V AUXMOD
+11	lose	lose	obj:&gt;5	@-FMAINV %VA V INF
+12	only	only	meta:&gt;14	@ADVL %EH ADV
+13	modest	modest	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	amounts	amount	obj:&gt;11	@OBJ %NH N NOM PL
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	weight	weight	pcomp:&gt;15	@&lt;P %NH N NOM SG
+17	would	would	v-ch:&gt;18	@+FAUXV %AUX V AUXMOD
+18	lead	lead		@-FMAINV %VA V INF
+19	them	they	subj:&gt;21	@OBJ %NH PRON PERS ACC PL3
+20	to	to	pm:&gt;21	@INFMARK&gt; %AUX INFMARK&gt;
+21	adopt	adopt	obj:&gt;18	@-FMAINV %VA V INF
+22	more	much	ad:&gt;23	@AD-A&gt; %E&gt; ADV CMP
+23	realistic	realistic	attr:&gt;24	@A&gt; %&gt;N A ABS
+24	weight	weight	attr:&gt;25	@A&gt; %&gt;N N NOM SG
+25	loss	loss	attr:&gt;26	@A&gt; %&gt;N N NOM SG
+26	expectations	expectation	obj:&gt;21	@OBJ %NH N NOM PL
+27	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+No severe complications have been reported, and after the BIB removal, subjects are maintaining the obtained results with some of them continuing to lose weight.
+
+</text>
+       <arg n="0">some of them 
+</arg>
+       <arg n="1">weight
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	No	no	det:&gt;3	@DN&gt; %&gt;N DET
+2	severe	severe	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	complications	complication	subj:&gt;4	@SUBJ %NH N NOM PL
+4	have	have	v-ch:&gt;5	@+FAUXV %AUX V PRES
+5	been	be	v-ch:&gt;6	@-FAUXV %AUX EN
+6	reported	report	main:&gt;0	@-FMAINV %VP EN
+7	,	,
+8	and	and	cc:&gt;6	@CC %CC CC
+9	after	after	cla:&gt;16	@ADVL %EH PREP
+10	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+11	BIB	bib	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	removal	removal	pcomp:&gt;9	@&lt;P %NH N NOM SG
+13	,	,
+14	subjects	subject	subj:&gt;15	@SUBJ %NH N NOM PL
+15	are	be	v-ch:&gt;16	@+FAUXV %AUX V PRES
+16	maintaining	maintain	cc:&gt;6	@-FMAINV %VA ING
+17	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+18	obtained	obtained	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	results	result	obj:&gt;16	@OBJ %NH N NOM PL
+20	with	with	ha:&gt;16	@ADVL %EH PREP
+21	some	some	pcomp:&gt;20	@&lt;P %NH PRON
+22	of	of	mod:&gt;21	@&lt;NOM-OF %N&lt; PREP
+23	them	they	pcomp:&gt;22	@&lt;P %NH PRON PERS ACC PL3
+24	continuing	continue		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING
+25	to	to	pm:&gt;26	@INFMARK&gt; %AUX INFMARK&gt;
+26	lose	lose	obj:&gt;24	@-FMAINV %VA V INF
+27	weight	weight	obj:&gt;26	@OBJ %NH N NOM SG
+28	.     .
+</fdg>
+</example>
+<example src="EMBO" no="*1">
+<text>
+Stat3 is activated in v-Src or v-abl-transformed cells and, along other Stats, in acute T-cell leukemia cells that have lost IL-2 dependency (Migone et al., 1995; Yu et al., 1995).
+
+</text>
+       <arg n="0">acute T-cell leukemia cells
+</arg>
+       <arg n="1">IL-2 dependency
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Stat3	stat3	subj:&gt;2	@SUBJ %NH N NOM SG
+2	is	be	v-ch:&gt;3	@+FAUXV %AUX V PRES SG3
+3	activated	activate	main:&gt;0	@-FMAINV %VP EN
+4	in	in	loc:&gt;3	@ADVL %EH PREP
+5	v-Src	v-src	pcomp:&gt;4	@&lt;P %NH &lt;?&gt; N NOM SG
+6	-	-
+7	or	or		@CC %CC CC
+8	v-abl-transformed	v-abl-transformed	attr:&gt;9	@A&gt; %&gt;N &lt;?&gt; A ABS
+9	cells	cell		@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@APP %NH N NOM PL	@&lt;P %NH N NOM PL
+10	and	and		@CC %CC CC
+11	,	,
+12	along with	along with		@ADVL %EH PREP
+13	other	other	det:&gt;14	@DN&gt; %&gt;N DET
+14	Stats	stat	pcomp:&gt;12	@&lt;P %NH N NOM PL
+15	,	,
+16	in	in		@ADVL %EH PREP
+17	acute	acute	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	T-cell	t-cell	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	leukemia	leukemia	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+20	cells	cell	mod:&gt;14	@APP %NH N NOM PL
+21	that	that	subj:&gt;22	@SUBJ %NH &lt;Rel&gt; PRON
+22	have	have	v-ch:&gt;23	@+FAUXV %AUX V PRES
+23	lost	lose	mod:&gt;20	@-FMAINV %VA EN
+24	IL-2	il-2	attr:&gt;25	@A&gt; %&gt;N ABBR NOM SG
+25	dependency	dependency	obj:&gt;23	@OBJ %NH N NOM SG
+26	(	(
+27	Migone	migone	main:&gt;26	@APP %NH &lt;?&gt; N NOM SG
+28	et	et	cc:&gt;27	@CC %CC CC
+29	al.	al.	cc:&gt;27	@APP %NH ABBR NOM SG
+30	,	,
+31	1995	1995		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@PCOMPL-O %NH NUM CARD	@&lt;P %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD
+32	;	;
+33	Yu	yu	mod:&gt;31	@NH %NH N NOM SG
+34	et	et	cc:&gt;33	@CC %CC CC
+35	al.	al.	cc:&gt;33	@NH %NH ABBR NOM SG
+36	,	,
+37	1995	1995	cc:&gt;35	@NH %NH NUM CARD
+38	)	)
+39	.     .
+</fdg>
+</example>
+<example src="EMBO" no="*2">
+<text>
+These interactions would be lost with a separation of DNA-binding sites of }3 bp, as can occur for natural SRE sequences, while a smaller spacing would inhibit the simultaneous binding of both proteins.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">These interactions
+</arg>
+       <arg n="2">with a separation of DNA-binding sites of }3 bp
+</arg>
+<fdg>
+1	These	this	det:&gt;2	@DN&gt; %&gt;N DET DEM PL
+2	interactions	interaction	subj:&gt;3	@SUBJ %NH N NOM PL
+3	would	would	v-ch:&gt;4	@+FAUXV %AUX V AUXMOD
+4	be	be	v-ch:&gt;5	@-FAUXV %AUX V INF
+5	lost	lose		@-FMAINV %VP EN
+6	with	with	ha:&gt;5	@ADVL %EH PREP
+7	a	a	det:&gt;8	@DN&gt; %&gt;N DET SG
+8	separation	separation	pcomp:&gt;6	@&lt;P %NH N NOM SG
+9	of	of	mod:&gt;8	@&lt;NOM-OF %N&lt; PREP
+10	DNA-binding	dna-binding	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+11	sites	site	pcomp:&gt;9	@&lt;P %NH N NOM PL
+12	of	of	mod:&gt;11	@&lt;NOM-OF %N&lt; PREP
+13	}	}
+14	3	3		@QN&gt; %&gt;N NUM CARD	@A&gt; %&gt;N NUM CARD	@ADVL %EH NUM CARD
+15	bp	bp		@SUBJ %NH ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+16	,	,
+17	as	as		@CS %CS CS
+18	can	can	v-ch:&gt;19	@+FAUXV %AUX V AUXMOD
+19	occur	occur		@-FMAINV %VA V INF
+20	for	for	ha:&gt;19	@ADVL %EH PREP
+21	natural	natural	attr:&gt;22	@A&gt; %&gt;N A ABS
+22	SRE	sre	subj:&gt;23	@SUBJ %NH N NOM SG
+23	sequences	sequence		@+FMAINV %VA V PRES SG3
+24	,	,
+25	while	while	tmp:&gt;30	@ADVL %EH ADV WH
+26	a	a	det:&gt;28	@DN&gt; %&gt;N DET SG
+27	smaller	small	attr:&gt;28	@A&gt; %&gt;N A CMP
+28	spacing	spacing	subj:&gt;29	@SUBJ %NH N NOM SG
+29	would	would	v-ch:&gt;30	@+FAUXV %AUX V AUXMOD
+30	inhibit	inhibit	tmp:&gt;23	@-FMAINV %VA V INF
+31	the	the	det:&gt;33	@DN&gt; %&gt;N DET
+32	simultaneous	simultaneous	attr:&gt;33	@A&gt; %&gt;N A ABS
+33	binding	binding	obj:&gt;30	@OBJ %NH N NOM SG
+34	of	of	mod:&gt;33	@&lt;NOM-OF %N&lt; PREP
+35	both	both	det:&gt;36	@DN&gt; %&gt;N DET PL
+36	proteins	protein	pcomp:&gt;34	@&lt;P %NH N NOM PL
+37	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+It was reported that GPI anchoring ability was lost when the microsomal membranes of Trypanosoma brucei were washed at high pH (Sharma et al., 2000), whereas similar treatment of the mammalian microsomal membranes had no effect (Vidugiriene and Menon, 1995)
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">GPI anchoring ability
+</arg>
+       <arg n="2">when the microsomal membranes of Trypanosoma brucei were washed at high pH
+</arg>
+<fdg>
+1	It	it	subj:&gt;2	@SUBJ %NH PRON NOM SG3
+2	was	be	v-ch:&gt;3	@+FAUXV %AUX V PAST
+3	reported	report	main:&gt;0	@-FMAINV %VP EN
+4	that	that	pm:&gt;9	@CS %CS CS
+5	GPI	gpi	subj:&gt;8	@SUBJ %NH ABBR NOM SG
+6	anchoring	anchor	mod:&gt;5	@-FMAINV %VA ING
+7	ability	ability	obj:&gt;6	@OBJ %NH N NOM SG
+8	was	be	v-ch:&gt;9	@+FAUXV %AUX V PAST
+9	lost	lose	obj:&gt;3	@-FMAINV %VP EN
+10	when	when	tmp:&gt;18	@ADVL %EH ADV WH
+11	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+12	microsomal	microsomal	attr:&gt;13	@A&gt; %&gt;N &lt;?&gt; A ABS
+13	membranes	membrane	subj:&gt;17	@SUBJ %NH N NOM PL
+14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+15	Trypanosoma	trypanosoma	attr:&gt;16	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+16	brucei	brucei	pcomp:&gt;14	@&lt;P %NH &lt;?&gt; N NOM SG
+17	were	be	v-ch:&gt;18	@+FAUXV %AUX V PAST PL
+18	washed	wash	obj:&gt;9	@-FMAINV %VP EN
+19	at	at	ha:&gt;18	@ADVL %EH PREP
+20	high	high	attr:&gt;21	@A&gt; %&gt;N A ABS
+21	pH	ph	pcomp:&gt;19	@&lt;P %NH ABBR NOM SG
+22	(	(
+23	Sharma	sharma	main:&gt;22	@APP %NH N NOM SG
+24	et	et		@CC %CC CC
+25	al.	al.		@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+26	,	,
+27	2000	2000		@NH %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+28	)	)
+29	,	,
+30	whereas	whereas	pm:&gt;38	@CS %CS CS
+31	similar	similar	attr:&gt;32	@A&gt; %&gt;N A ABS
+32	treatment	treatment	subj:&gt;38	@SUBJ %NH N NOM SG
+33	of	of	mod:&gt;32	@&lt;NOM-OF %N&lt; PREP
+34	the	the	det:&gt;37	@DN&gt; %&gt;N DET
+35	mammalian	mammalian	attr:&gt;36	@A&gt; %&gt;N A ABS
+36	microsomal	microsomal	attr:&gt;37	@A&gt; %&gt;N &lt;?&gt; A ABS
+37	membranes	membrane	pcomp:&gt;33	@&lt;P %NH N NOM PL
+38	had	have	cnd:&gt;18	@+FMAINV %VA V PAST
+39	no	no	det:&gt;40	@DN&gt; %&gt;N DET
+40	effect	effect	obj:&gt;38	@OBJ %NH N NOM SG
+41	(	(
+42	Vidugiriene	vidugiriene	main:&gt;41	@APP %NH &lt;?&gt; N NOM SG
+43	and	and		@CC %CC CC
+44	Menon	menon		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+45	,	,
+46	1995	1995		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@PCOMPL-S %NH NUM CARD	@PCOMPL-O %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+47	)	)
+48	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+No known plastid has completely lost its prokaryote-type organelle genome, but all show considerablegenome reduction and dependency on the nucleus to fulfill plastid functions (Martin and Hrrmann, 1998).
+
+</text>
+       <arg n="0">No known plastid
+</arg>
+       <arg n="1">its prokaryote-type organelle genome
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	No	no	det:&gt;3	@DN&gt; %&gt;N DET
+2	known	known	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	plastid	plastid	subj:&gt;4	@SUBJ %NH &lt;?&gt; N NOM SG
+4	has	have	v-ch:&gt;6	@+FAUXV %AUX V PRES SG3
+5	completely	completely	meta:&gt;6	@ADVL %EH ADV
+6	lost	lose		@-FMAINV %VA EN
+7	its	it	attr:&gt;8	@A&gt; %&gt;N PRON GEN SG3
+8	prokaryote	prokaryote	obj:&gt;6	@OBJ %NH N NOM SG
+9	-	-
+10	type	type		@+FMAINV %VA V PRES	@-FMAINV %VA V INF	@&lt;P-FMAINV %VA V INF
+11	organelle	organelle	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	genome	genome	obj:&gt;10	@OBJ %NH N NOM SG
+13	,	,
+14	but	but		@CC %CC CC
+15	all	all	det:&gt;16	@DN&gt; %&gt;N DET
+16	show	show		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+17	considerable	considerable	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	genome	genome	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	reduction	reduction		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG
+20	and	and		@CC %CC CC
+21	dependency	dependency		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG
+22	on	on	mod:&gt;21	@&lt;NOM %N&lt; PREP
+23	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+24	nucleus	nucleus	pcomp:&gt;22	@&lt;P %NH N NOM SG
+25	to	to	pm:&gt;26	@INFMARK&gt; %AUX INFMARK&gt;
+26	fulfill	fulfill	mod:&gt;24	@-FMAINV %VA V INF
+27	plastid	plastid	attr:&gt;28	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+28	functions	function	obj:&gt;26	@OBJ %NH N NOM PL
+29	(	(
+30	Martin	martin	main:&gt;29	@APP %NH N NOM SG
+31	and	and		@CC %CC CC
+32	Herrmann	herrmann		@NH %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+33	,	,
+34	1998	1998		@NH %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+35	)	)
+36	.     .
+</fdg>
+</example>
+<example src="EMBO" no="5">
+<text>
+Previous studies have emphasized the high sensitivity of the N-terminal region to proteolytic cleavage, leading to truncated species that have lost the first 20&amp;#8211; 70 residues but that retain enzymatic activity and dimeric structure.
+
+</text>
+       <arg n="0">truncated species
+</arg>
+       <arg n="1">the first 20&amp;#8211; 70 residues
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Previous	previous	attr:&gt;2	@A&gt; %&gt;N A ABS
+2	studies	study	subj:&gt;3	@SUBJ %NH N NOM PL
+3	have	have	v-ch:&gt;4	@+FAUXV %AUX V PRES
+4	emphasized	emphasize	main:&gt;0	@-FMAINV %VA EN
+5	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+6	high	high	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	sensitivity	sensitivity	obj:&gt;4	@OBJ %NH N NOM SG
+8	of	of	mod:&gt;7	@&lt;NOM-OF %N&lt; PREP
+9	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+10	N-terminal	n-terminal	attr:&gt;11	@A&gt; %&gt;N A ABS
+11	region	region	pcomp:&gt;8	@&lt;P %NH N NOM SG
+12	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+13	proteolytic	proteolytic	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	cleavage	cleavage	pcomp:&gt;12	@&lt;P %NH N NOM SG
+15	,	,
+16	leading	lead	ha:&gt;4	@-FMAINV %VA ING
+17	to	to	ha:&gt;16	@ADVL %EH PREP
+18	truncated	truncated	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	species	species	pcomp:&gt;17	@&lt;P %NH N NOM
+20	that	that	subj:&gt;21	@SUBJ %NH &lt;Rel&gt; PRON
+21	have	have	v-ch:&gt;22	@+FAUXV %AUX V PRES
+22	lost	lose	mod:&gt;19	@-FMAINV %VA EN
+23	the	the	det:&gt;26	@DN&gt; %&gt;N DET
+24	first	first	attr:&gt;25	@A&gt; %&gt;N NUM ORD
+25	20	20	qn:&gt;26	@QN&gt; %&gt;N NUM CARD
+26	&amp;#8211;	&amp;#8211;	obj:&gt;22	@OBJ %NH N NOM SG
+27	70	70	qn:&gt;28	@QN&gt; %&gt;N NUM CARD
+28	residues	residue		@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL
+29	but	but	cc:&gt;22	@CC %CC CC
+30	that	that	subj:&gt;31	@SUBJ %NH &lt;Rel&gt; PRON
+31	retain	retain	cc:&gt;22	@+FMAINV %VA V PRES
+32	enzymatic	enzymatic	attr:&gt;33	@A&gt; %&gt;N A ABS
+33	activity	activity	obj:&gt;31	@OBJ %NH N NOM SG
+34	and	and	cc:&gt;33	@CC %CC CC
+35	dimeric	dimeric	attr:&gt;36	@A&gt; %&gt;N &lt;?&gt; A ABS
+36	structure	structure	cc:&gt;33	@OBJ %NH N NOM SG
+37	.     .
+</fdg>
+</example>
+<example src="EMBO" no="*6">
+<text>
+The C-terminal-deletion mutant of hnRNP A1 loses the ability to interact with the X protein and to bring it into the initiation complex, resulting in an inhibition of MHV RNA transcription and replication.
+
+</text>
+       <arg n="0">The C-terminal-deletion mutant of hnRNP A1
+</arg>
+       <arg n="1">the ability to interact with the X protein and to bring it into the initiation complex
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+2	C-terminal-deletion	c-terminal-deletion	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	mutant	mutant	subj:&gt;7	@SUBJ %NH N NOM SG
+4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+5	hnRNP	hnrnp	attr:&gt;6	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+6	A1	a1	pcomp:&gt;4	@&lt;P %NH ABBR NOM SG
+7	loses	lose	main:&gt;0	@+FMAINV %VA V PRES SG3
+8	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+9	ability	ability	obj:&gt;7	@OBJ %NH N NOM SG
+10	to	to	pm:&gt;11	@INFMARK&gt; %AUX INFMARK&gt;
+11	interact	interact	mod:&gt;9	@-FMAINV %VA V INF
+12	with	with	phr:&gt;11	@ADVL %EH PREP
+13	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+14	X	x	attr:&gt;15	@A&gt; %&gt;N NUM ORD
+15	protein	protein	pcomp:&gt;12	@&lt;P %NH N NOM SG
+16	and	and	cc:&gt;11	@CC %CC CC
+17	to	to	pm:&gt;18	@INFMARK&gt; %AUX INFMARK&gt;
+18	bring	bring	cc:&gt;11	@-FMAINV %VA V INF
+19	it	it	obj:&gt;18	@OBJ %NH PRON ACC SG3
+20	into	into	goa:&gt;18	@ADVL %EH PREP
+21	the	the	det:&gt;23	@DN&gt; %&gt;N DET
+22	initiation	initiation	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+23	complex	complex	pcomp:&gt;20	@&lt;P %NH A ABS
+24	,	,
+25	resulting	result		@-FMAINV %VA ING
+26	in	in	loc:&gt;25	@ADVL %EH PREP
+27	an	an	det:&gt;28	@DN&gt; %&gt;N DET SG
+28	inhibition	inhibition	pcomp:&gt;26	@&lt;P %NH N NOM SG
+29	of	of	mod:&gt;28	@&lt;NOM-OF %N&lt; PREP
+30	MHV	mhv	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+31	RNA	rna	attr:&gt;32	@A&gt; %&gt;N ABBR NOM SG
+32	transcription	transcription	pcomp:&gt;29	@&lt;P %NH N NOM SG
+33	and	and	cc:&gt;32	@CC %CC CC
+34	replication	replication	cc:&gt;32	@&lt;P %NH N NOM SG
+35	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

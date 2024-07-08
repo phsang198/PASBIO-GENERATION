@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="abolish">
+            <roleset id="abolish.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer/agent &#x09;&#x09;&#x09; &#x09;// change at molecular level //&#x0A;" />
+                    <role n="1" descr="entity abolished &#x09;&#x09;&#x09;// normal transcription, normal splicing //&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="1">
+                    <text>This intronic mutation, which segregates in a dominant and fully penetrant manner over three generations, abolishes normal LHX4 splicing and activates two exonic cryptic splice sites, thereby predicting two different proteins deleted in their homeodomain sequence.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>Patient 1 has a G-to-A transition at the first nucleotide of intron 2, which abolishes normal splicing.</text>
+                    <arg n="0">a G-to-A transition at the first nucleotide of intron 2</arg>
+                    <arg n="1">normal splicing</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>Determining the complete exon-intron structure of JAG1 allowed detailed mutational analysis of DNA samples from non-deletion AGS patients, revealing three frame-shift mutations, two splice donor mutations and one mutation abolishing RNA expression from the altered allele.</text>
+                    <arg n="0">one mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="MEDLINE" no="4">
+                    <text>Linomide and antibody-targeted superantigen therapy abolishes formation of liver metastases in mice.</text>
+                    <arg n="0">Linomide and antibody-targeted superantigen therapy</arg>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="MEDLINE" no="5">
+                    <text>However, this complete removal of FabD from the crude FAS did not abolish its BCFA biosynthesis, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="MEDLINE" no="6">
+                    <text>Our results showed that co-administered DM was able to abolish completely the CPP effect induced by morphine, but had no effect on morphine-induced behavioral sensitization.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Noticeably, transcription at the rrn PC promoter by NEP-2 is completely abolished if CDF2-B can not bind to the template, as obtained by the mutation M1 (Figure 4A, compare lanes 1 and 4; Figure 4C, compare Wt and M1).</text>
+                    <arg n="1">transcription at the rrn PC promoter by NEP-2</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>The A/T-rich mut sequence indicates the mutations introduced to abolish the A/T-rich element.</text>
+                    <arg n="0">the mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>Mutation of the proximal GATA element in the context of the 700 or the 135 bp promoter completely abolished synergy, indicating that this element is essential for MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">Mutation of the proximal GATA element in the context of the 700 or the 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                    <arg n="M-ADV">completely</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>In contrast, transcriptional stimulation was abolished by further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EMBO" no="5">
+                    <text>Groucho binding was, however, abolished by mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid (Jimnez et al., 1999).</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

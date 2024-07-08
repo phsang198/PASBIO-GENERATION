@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="truncate">
+            <roleset id="Truncate.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="cause&#x09;&#x09;&#x09;// mutation //&#x0A;" />
+                    <role n="1" descr="entity getting shorter &#x09;// gene products //&#x0A;" />
+                    <role n="2" descr="entity removed&#x09;&#x09;// domains, exon, intron //&#x0A;" />
+                    <role n="3" descr='break point &#x09;&#x09;/* related to prepositional phrase such as &quot;at&quot;, &quot;prior to&quot; */&#x0A;' />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>C-terminally truncated Stat5a proteins that can be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>C-terminally truncated Stat5a proteins that have been shown to be remarkably truncated at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">C-terminally truncated Stat5a proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contained the BCL6 zinc fingers and has been shown to be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contained the BCL6 zinc fingers and was remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and is likely to be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and may be remarkably truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and may be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and may be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed protein that contains the BCL6 zinc fingers and will be truncated can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>Frameshift SOX9 mutations actually truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Frameshift SOX9 mutations can actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>Frameshift SOX9 mutations have been shown to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>Frameshift SOX9 mutations truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>Frameshift SOX9 mutations will truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Frameshift SOX9 mutations, as our data show, are able to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Frameshift SOX9 mutations, as our data show, have been shown to actually truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Frameshift SOX9 mutations, as our data show, have the probability of actually truncating its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Frameshift SOX9 mutations, as our data show, may have actually truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Frameshift SOX9 mutations, as our data show, may have truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Frameshift SOX9 mutations, as our data show, truncated its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.</text>
+                    <arg n="0">Frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are observed to be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that may have been genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that will be genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus can be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus can be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus has been shown to be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus has been shown to be remarkably truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is able to be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>Specifically, the Stat5a molecule in which the C-terminus is likely to be truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminus</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>The protein will be truncated by the majority of changes through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains have been shown to be truncated and the potential BMP-1 cleavage site has not been present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR can also be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR can also be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR can also be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR has also been truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR has been shown to be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR is also truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) has been shown to be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) is found to be used to truncate M.MspI between residues 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residues 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR may therefore be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>To generate a comparable soluble fragment to IC1-2D/190, PVR may therefore be truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>To generate this protein, the receptor has been shown to be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>To generate this protein, the receptor has been truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>To generate this protein, the receptor is observed to be truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>To truncate the titin gene, we used a gene-targeting approach so that the kinase domain and other domains downstream of the kinase were not expressed.</text>
+                    <arg n="0">a gene-targeting approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are able to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that dramatically truncated the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that have been shown to dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that have the ability to dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that have the ability to dramatically truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>Virtually all TSC1 mutations are able to truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>Virtually all TSC1 mutations dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>Virtually all TSC1 mutations have been predicted to dramatically truncate the protein product.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Therefore, to generate a comparable soluble fragment to IC1-2D/190, PVR was also truncated prior to the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>To generate this protein, the receptor was truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Previous studies using TSC1 mutations that are genetically engineered to substitute or truncate the protein product have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Previous studies using TSC1 mutations that are likely to be genetically engineered to truncate or substitute the protein product have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Previous studies using TSC1 mutations that are observed to be genetically engineered to truncate or substitute the protein product have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Previous studies using TSC1 mutations that have been genetically engineered to substitute or truncate the protein product have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Previous studies using TSC1 mutations that may be genetically engineered to substitute or truncate the protein product have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Previous studies using TSC1 mutations that were genetically engineered to truncate or substitute the protein product have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">TSC1 mutations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Virtually all wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses are able to dramatically truncate the poly(C) tracts.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Virtually all wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses are able to truncate the poly(C) tracts.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Virtually all wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses are found to truncate the poly(C) tracts.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Virtually all wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses have been predicted to truncate the poly(C) tracts.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Virtually all wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses may dramatically truncate the poly(C) tracts.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Virtually all wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses may have truncated the poly(C) tracts.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Virtually all wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses may truncate the poly(C) tracts.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Virtually all wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses will truncate the poly(C) tracts.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Previous studies using a gene-targeting approach that are likely to be genetically engineered to substitute or truncate the titin gene have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">a gene-targeting approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Previous studies using a gene-targeting approach that have been genetically engineered to substitute or truncate the titin gene have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">a gene-targeting approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Previous studies using altered postsynaptic density 95 (PSD95) isoforms that are able to be genetically engineered to substitute or truncate the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Previous studies using altered postsynaptic density 95 (PSD95) isoforms that are genetically engineered to substitute or truncate the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Previous studies using altered postsynaptic density 95 (PSD95) isoforms that are genetically engineered to substitute or truncate the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Previous studies using altered postsynaptic density 95 (PSD95) isoforms that have been genetically engineered to truncate or substitute the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Previous studies using altered postsynaptic density 95 (PSD95) isoforms that were genetically engineered to substitute or truncate the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Previous studies using altered postsynaptic density 95 (PSD95) isoforms that will be genetically engineered to substitute or truncate the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Previous studies using nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) being able to be genetically engineered to truncate or substitute the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Previous studies using nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) observed to be genetically engineered to substitute or truncate the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Previous studies using nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) observed to be genetically engineered to truncate or substitute the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Previous studies using nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) that are able to be genetically engineered to substitute or truncate the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Previous studies using nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) that are able to be genetically engineered to substitute or truncate the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Previous studies using nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) that are observed to be genetically engineered to substitute or truncate the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>Previous studies using nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) that have been shown to be genetically engineered to truncate or substitute the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>Previous studies using nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) that may have been genetically engineered to truncate or substitute the protein have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>Virtually all a gene-targeting approach may have dramatically truncated the titin gene.</text>
+                    <arg n="0">a gene-targeting approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>Virtually all a gene-targeting approach may have truncated the titin gene.</text>
+                    <arg n="0">a gene-targeting approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>Virtually all altered postsynaptic density 95 (PSD95) isoforms are able to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>Virtually all altered postsynaptic density 95 (PSD95) isoforms dramatically truncated the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>Virtually all altered postsynaptic density 95 (PSD95) isoforms have been predicted to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>Virtually all altered postsynaptic density 95 (PSD95) isoforms have the ability to truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>Virtually all altered postsynaptic density 95 (PSD95) isoforms may truncate the protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>Virtually all nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) have been predicted to dramatically truncate the protein.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>Virtually all nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) have dramatically truncated the protein.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>Virtually all nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) have truncated the protein.</text>
+                    <arg n="0">nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%)</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

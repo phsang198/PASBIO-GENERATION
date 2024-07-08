@@ -1,0 +1,271 @@
+abolish - done 88 
+alter - done 156
+generate - done 99 
+lead - done 110 
+delete - done 88 
+eliminate - done 93 
+recognize - done 77 
+begin - done 449- 2 role set( begin + prep 204 và begin + to do/doing st 245)
+block - done 182 (nt)
+catalyse - done 126 (nt)
+confer - done 247 (nt)	
+decrease - done 322 (nt) - 2 role set (decrease st 270 và decrease by amount% 52) *** role  set 2 sau khi tach ra nho sua arg1-->arg0...
+develop	- done 166 (nt)
+disrupt- done 67 (nt)
+encode - done 99
+express - done 148
+initiate - done 176
+inhibit - done 160
+lose - done 198
+modify - done 244
+mutate - done 483
+proliferate - done 174
+result - done 315
+skip - done 205
+splice - done 531 - 2 role set( splice 281 và splice out 250)
+transcribe - done 368
+transform - done 348 - 2 role set( transform into 140 và... 208) *** role  set 2 sau khi tach ra nho sua arg1-->arg0...
+translate - done 809 - 3 role set (254, 273 và 282)*** role  set 1 va 3 sau khi tach ra nho sua arg1-->arg0...
+truncate - done 295
+===============================================
+nhung dong tu bi it cau:
+skip *
+transcribe *
+transform *
+truncate *
+
+Ky hieu * truoc STT nghia la co the dua vao bo seed chu ko can bo vao bo archive.
+
+Lưu ý khi gen VE: cẩn thận các ký tự Hy Lạp alpha, gamma như trong file của express.
+
+====================================================================
+example bien the ngu phap
+1/
+<example src="EGRAM" no="9">
+                    <text>By using homologous recombination in mouse embryonic stem cells, the headpiece domain of dematin will be deleted to evaluate its function in vivo.</text>
+                    <arg n="0">using homologous recombination in mouse embryonic stem cells</arg>
+                    <arg n="1">the headpiece domain of dematin</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Using homologous recombination in mouse embryonic stem cells will delete the headpiece domain of dematin to evaluate its function in vivo.</text>
+                    <arg n="0">using homologous recombination in mouse embryonic stem cells</arg>
+                    <arg n="1">the headpiece domain of dematin</arg>
+                </example>
+2/
+<example src="EGRAM" no="1">
+                    <text>A 6-bp insertion located within O2 or between OT and O1 has eliminated repression of the glpTQ promoter, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>A 6-bp insertion which eliminated repression of the glpTQ promoter was located within O2 or between OT and O1, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+
+3/
+<example src="EGRAM" no="12">
+                    <text>As illustrated in Figure 1, staurosporin (or genestein; data not shown) does not eliminate the stabilization seen with MG132.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+
+<text>As illustrated in Figure 1, the stabilization seen with MG132 is not eliminated by staurosporin (or genestein; data not shown).</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+
+4/
+<example src="EGRAM" no="12">
+                    <text>As a result of alternate splicing and subsequent frameshift, the reported g16 protein is 603 amino acids shorter than the NY-LU-12 product (1123 residues) at its COOH terminus and would therefore lack the epitopes which were recognized by the autologous serum.</text>
+                    <arg n="0">the autologous serum</arg>
+                    <arg n="1">the epitopes</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>As a result of alternate splicing and subsequent frameshift, the reported g16 protein is 603 amino acids shorter than the NY-LU-12 product (1123 residues) at its COOH terminus and would therefore lack the epitopes that the autologous serum is able to recognize.</text>
+                    <arg n="0">the autologous serum</arg>
+                    <arg n="1">the epitopes</arg>
+                </example>
+
+5/
+
+<example src="EMBO" no="74">
+                  <text>The sequence(YPYDVPDYA) at a 1:500 dilution is recognized by a RAT monoclonal anti-HA antibody (Boehringer-Ingelheim) that blots were probed with.</text>
+                  <arg n="0">a RAT monoclonal anti-HA antibody (Boehringer-Ingelheim)</arg>
+                  <arg n="1">sequence(YPYDVPDYA) at a 1:500 dilution</arg>
+                </example>
+
+
+<example src="EMBO" no="6">
+  <text>
+    Blots were probed with a RAT monoclonal anti-HA antibody (Boehringer-Ingelheim) that recognizes the sequence(YPYDVPDYA) at a 1:500 dilution.
+  </text>
+  <arg n="0">
+    a RAT monoclonal anti-HA antibody (Boehringer-Ingelheim)
+  </arg>
+  <arg n="1">
+    sequence(YPYDVPDYA) at a 1:500 dilution
+  </arg>
+</example>
+
+6/
+<text>
+A downstream kinase appears to be essential for agrin-mediated signaling, since staurosporine blocks agrin-induced AChR clustering and phosphorylation without inhibiting MuSK phosphorylation (Wallace, 1994; Fuhrer et al., 1997).
+
+</text>
+       <arg n="0">staurosporine
+</arg>
+       <arg n="1">agrin-induced AChR clustering and phosphorylation
+</arg>
+
+<example src="EGRAM" no="4e">
+                <text>A downstream kinase appears to be essential for agrin-mediated signaling because of staurosporine's ability to block agrin-induced AChR clustering and phosphorylation without inhibiting MuSK phosphorylation (Wallace, 1994; Fuhrer et al., 1997).</text>
+                <arg n="0">staurosporine</arg>
+                <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+              </example>
+              <example src="EGRAM" no="4f">
+                <text>A downstream kinase appears to be essential for agrin-mediated signaling because of staurosporine's blocking agrin-induced AChR clustering and phosphorylation without inhibiting MuSK phosphorylation (Wallace, 1994; Fuhrer et al., 1997).</text>
+                <arg n="0">staurosporine</arg>
+                <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+              </example>
+
+7/
+<example src="EGRAM" no="7">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that antibodies to RAP1 block merozoite invasion in vitro (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+              <example src="EGRAM" no="7b">
+                <text>Both RAP1 and 2 are important vaccine candidates because antibodies to RAP1 have been shown to block merozoite invasion in vitro (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                <arg n="0">antibodies to RAP1</arg>
+                <arg n="1">merozoite invasion in vitro</arg>
+              </example>
+
+8/
+<text>The two large virus-encoded Rep proteins (Rep78 and Rep68) have the ability to catalyse the resolution of the covalently cosed AAV termini, a process that involves sequence-specific AAV DNA biding, strand-specific nicking and helicase activity under ATP consumption (Im and Muzyczka, 1990, 1992; Brister and Muzyczka, 1990, 2000).</text>
+                <arg n="0">The two large virus-encoded Rep proteins (Rep78 and Rep68)</arg>
+                <arg n="1">the resolution of the covalently cosed AAV termini</arg>
+              </example>
+<text>The two large virus-encoded Rep proteins (Rep78 and Rep68) have the probability of catalysing the resolution of the covalently cosed AAV termini, a process that involves sequence-specific AAV DNA biding, strand-specific nicking and helicase activity under ATP consumption (Im and Muzyczka, 1990, 1992; Brister and Muzyczka, 1990, 2000).</text>
+                <arg n="0">The two large virus-encoded Rep proteins (Rep78 and Rep68)</arg>
+                <arg n="1">the resolution of the covalently cosed AAV termini</arg>
+              </example>
+                <example src="EGRAM" no="21">
+                    <text>The two large virus-encoded Rep proteins (Rep78 and Rep68) can catalyse the resolution of the covalently cosed AAV termini, a process that involves sequence-specific AAV DNA biding, strand-specific nicking and helicase activity under ATP consumption (Im and Muzyczka, 1990, 1992; Brister and Muzyczka, 1990, 2000).</text>
+                    <arg n="0">The two large virus-encoded Rep proteins (Rep78 and Rep68)</arg>
+                    <arg n="1">the resolution of the covalently cosed AAV termini</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>The two large virus-encoded Rep proteins (Rep78 and Rep68) is able to catalyse the resolution of the covalently cosed AAV termini, a process that involves sequence-specific AAV DNA biding, strand-specific nicking and helicase activity under ATP consumption (Im and Muzyczka, 1990, 1992; Brister and Muzyczka, 1990, 2000).</text>
+                    <arg n="0">The two large virus-encoded Rep proteins (Rep78 and Rep68)</arg>
+                    <arg n="1">the resolution of the covalently cosed AAV termini</arg>
+                </example>	
+
+9/
+<example src="EGRAM" no="31">
+                    <text>Our reseach shows that the added sequences in the larger forms of SBP2 mRNA have encoded proteins with other functions.</text>
+                    <arg n="0">the added sequences in the larger forms of SBP2 mRNA</arg>
+                    <arg n="1">proteins with other functions</arg>
+                </example>
+
+<example src="EGRAM" no="31">
+                <text>It is possible, therefore, that the added sequences in the larger forms of SBP2 mRNA have been involved in encoding proteins with other functions.</text>
+                <arg n="0">the added sequences in the larger forms of SBP2 mRNA</arg>
+                <arg n="1">proteins with other functions</arg>
+              </example>
+
+10/
+<example src="EGRAM" no="15">
+                    <text>In summary, NNT-1/BSF-3 has been induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in pituitary folliculostellate TtT/GF cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary folliculostellate TtT/GF cells</arg>
+                </example>
+
+<example src="EGRAM" no="15">
+                <text>In summary, NNT-1/BSF-3 has been expressed in pituitary folliculostellate TtT/GF cells and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                <arg n="0">NNT-1/BSF-3</arg>
+                <arg n="2">pituitary folliculostellate TtT/GF cells</arg>
+              </example>	
+
+10bis/
+<example src="EGRAM" no="*62">
+                <text>The human mitochondrial transcription termination factor (mTERF) cDNA is able to be expressed and cloned in vitro, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                <arg n="2">vitro</arg>
+              </example>
+
+<example src="EGRAM" no="*62">
+                <text>The human mitochondrial transcription termination factor (mTERF) cDNA is able to be cloned and expressed in vitro, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                <arg n="2">vitro</arg>
+              </example>
+
+11/ them adverb vao (vd: significantly)
+<example src="EGRAM" no="*0">
+  <text>Alpha-chain cDNA in COS-1 cells is mutated by transient expression of the exon 8 resulted in deficiency of enzymatic activity.</text>
+  <arg n="0">exon 8</arg>
+  <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+  <arg n="3">deficiency of enzymatic activity</arg>
+</example>
+
+<example src="EGRAM" no="*0">
+  <text>Alpha-chain cDNA in COS-1 cells is significantly mutated by transient expression of the exon 8 resulted in deficiency of enzymatic activity.</text>
+  <arg n="0">exon 8</arg>
+  <arg n="1">alpha-chain cDNA in COS-1 cells</arg>
+  <arg n="3">deficiency of enzymatic activity</arg>
+</example>
+
+12/them "for example" vao
+<example src="EGRAM" no="16">
+                <text>Induction of a mutation in the lacI gene has the ability to result in the loss of transcriptional repression of the lacZ gene that is mutated cells.</text>
+                <arg n="0">LacI</arg>
+                <arg n="2">the loss of transcriptional repression of the lacZ gene in mutated cells</arg>
+              </example>
+<example src="EGRAM" no="16">
+                <text>Induction of a mutation in the lacI gene, for example, has the ability to result in the loss of transcriptional repression of the lacZ gene that is mutated cells.</text>
+                <arg n="0">LacI</arg>
+                <arg n="2">the loss of transcriptional repression of the lacZ gene in mutated cells</arg>
+              </example>
+
+13/
+<example src="EGRAM" no="*13">
+          <text> To generate GST fusion proteins, the relevant DNA fragments are cloned into pGex2T(Pharmacia) and transformed into the bacterial strains BL21 or TOPP (Stratagene).</text>
+          <arg n="1">the relevant DNA fragments</arg>
+          <arg n="2">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+        </example>
+<example src="EGRAM" no="*13">
+          <text>The relevant DNA fragments, in order to generate GST fusion proteins, are cloned into pGex2T(Pharmacia) and transformed into the bacterial strains BL21 or TOPP (Stratagene).</text>
+          <arg n="1">the relevant DNA fragments</arg>
+          <arg n="2">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+        </example>
+
+14/ loại bỏ yếu tố song song thừa
+<text>
+This review examines the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies that can be used to discover, validate, and translate information resulting from the completion of the Human Genome Project.
+</text>
+
+<text>
+This review examines the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies that can be used to translate information resulting from the completion of the Human Genome Project.
+</text>
+
+15/ đảo vị yếu tố song song có liên quan:
+
+<text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+            <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+            <arg n="1">the poly(C) tracts</arg>
+
+<text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses that are genetically engineered to substitute or truncate the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+            <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, and variants of these viruses</arg>
+            <arg n="1">the poly(C) tracts</arg>
+
+
+VẤN ĐỀ BỎ NGỎ:
+1-Đối số ko liên tục trong câu, ví dụ đối số gồm nhiều danh từ and lại với nhau mà trong số đó có 1 cái khúc giữa lại có kèm theo mệnh đề tính từ, như vd sau:
+<example src="EGRAM" no="17">
+                    <text>Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, which have long poly(C) tracts (61 to 146 Cs) at the 5 nontranslated region of the genome, and variants of these viruses genetically engineered truncating or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.</text>
+                    <arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus and variants of these viruses genetically engineered</arg>
+                    <arg n="1">the poly(C) tracts</arg>
+                </example>
+
+2-Xác định predicate trong câu coi chừng lộn với present/past participle đang bổ nghĩa cho danh từ

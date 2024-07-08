@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+	<predicate lemma="begin">
+		<roleset id="begin.02" name="BEGIN TO = start doing
+" wordnet="1">
+			<roles>
+				<role n="0" descr="theme
+"/>
+				<role n="1" descr="start action 			/* secondary predication */
+"/>
+			</roles>
+			<example src="EMBO" no="1">
+				<text>
+The levels of immunoreactive IB begin to return to basal levels following 3-4 h exposures to poly IC.
+
+</text>
+				<arg n="0">The levels of immunoreactive IB
+</arg>
+				<arg n="1">return to basal levels following 3-4 h exposures to poly IC
+</arg>
+				<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	levels	level	subj:&gt;6	@SUBJ %NH N NOM PL
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	immunoreactive	immunoreactive	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	IB	ib	pcomp:&gt;3	@&lt;P %NH ABBR NOM SG
+6	begin	begin	main:&gt;0	@+FMAINV %VA V PRES
+7	to	to	pm:&gt;8	@INFMARK&gt; %AUX INFMARK&gt;
+8	return	return	obj:&gt;6	@-FMAINV %VA V INF
+9	to	to	goa:&gt;8	@ADVL %EH PREP
+10	basal	basal	attr:&gt;11	@A&gt; %&gt;N A ABS
+11	levels	level	pcomp:&gt;9	@&lt;P %NH N NOM PL
+12	following	follow	mod:&gt;11	@-FMAINV %VA ING
+13	3-4	3-4	qn:&gt;15	@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+14	h	h	attr:&gt;15	@A&gt; %&gt;N ABBR NOM SG
+15	exposures	exposure	obj:&gt;12	@OBJ %NH N NOM PL
+16	to	to	mod:&gt;15	@&lt;NOM %N&lt; PREP
+17	poly	poly	attr:&gt;18	@A&gt; %&gt;N N NOM SG
+18	IC	ic	pcomp:&gt;16	@&lt;P %NH ABBR NOM SG
+19	.     .
+</fdg>
+			</example>
+			<example src="EMBO" no="2">
+				<text>
+When they were transferred to a glucose-containing medium in order to deplete these proteins, growth of gaal, gpi8 and gpi16 deletants began to decline at 12, 6 and 6 h , respectively, after transfer and ceased at 24, 12 and 12 h.
+
+</text>
+				<arg n="0">growth of gaal, gpi8 and gpi16 deletants
+</arg>
+				<arg n="1">decline at 12, 6 and 6 h
+</arg>
+				<fdg>
+1	When	when	tmp:&gt;4	@ADVL %EH ADV WH
+2	they	they	subj:&gt;3	@SUBJ %NH PRON PERS NOM PL3
+3	were	be	v-ch:&gt;4	@+FAUXV %AUX V PAST PL
+4	transferred	transfer		@-FMAINV %VP EN
+5	to	to	ha:&gt;4	@ADVL %EH PREP
+6	a	a	det:&gt;8	@DN&gt; %&gt;N DET SG
+7	glucose-containing	glucose-containing	attr:&gt;8	@A&gt; %&gt;N &lt;?&gt; A ABS
+8	medium	medium	pcomp:&gt;5	@&lt;P %NH N NOM SG
+9	in order to	in order to	pm:&gt;10	@INFMARK&gt; %AUX INFMARK&gt;
+10	deplete	deplete	cnt:&gt;4	@-FMAINV %VA V INF
+11	these	this	det:&gt;12	@DN&gt; %&gt;N DET DEM PL
+12	proteins	protein	obj:&gt;10	@OBJ %NH N NOM PL
+13	,	,
+14	growth	growth		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	gaa1	gaa1	pcomp:&gt;15	@&lt;P %NH N NOM SG
+17	,	,
+18	gpi8	gpi8	cc:&gt;16	@&lt;P %NH N NOM SG
+19	and	and		@CC %CC CC
+20	gpi16	gpi16	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	deletants	deletant		@SUBJ %NH &lt;?&gt; N NOM PL	@OBJ %NH &lt;?&gt; N NOM PL	@APP %NH &lt;?&gt; N NOM PL	@&lt;P %NH &lt;?&gt; N NOM PL
+22	began	begin		@+FMAINV %VA V PAST
+23	to	to	pm:&gt;24	@INFMARK&gt; %AUX INFMARK&gt;
+24	decline	decline	obj:&gt;22	@-FMAINV %VA V INF
+25	at	at	ha:&gt;24	@ADVL %EH PREP
+26	12	12		@QN&gt; %&gt;N NUM CARD
+27	,	,
+28	6	6	pcomp:&gt;25	@&lt;P %NH NUM CARD
+29	and	and		@CC %CC CC
+30	6	6		@OBJ %NH NUM CARD	@QN&gt; %&gt;N NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+31	h	h		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+32	,	,
+33	respectively	respectively	meta:&gt;24	@ADVL %EH ADV
+34	,	,
+35	after	after		@CS %CS CS	@ADVL %EH PREP
+36	transfer	transfer		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@&lt;P %NH N NOM SG
+37	and	and	cc:&gt;4	@CC %CC CC
+38	ceased	cease	cc:&gt;4	@-FMAINV %VP EN
+39	at	at	ha:&gt;38	@ADVL %EH PREP
+40	24	24		@QN&gt; %&gt;N NUM CARD
+41	,	,
+42	12	12	pcomp:&gt;39	@&lt;P %NH NUM CARD
+43	and	and		@CC %CC CC
+44	12	12		@OBJ %NH NUM CARD	@APP %NH NUM CARD	@&lt;P %NH NUM CARD	@QN&gt; %&gt;N NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+45	h	h		@OBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+46	.     .
+</fdg>
+			</example>
+			<example src="EMBO" no="3">
+				<text>
+Growth of the gpi17 deletant began to decline at 6 h after transfer to a glucose-containing medium, but growth continued slowly for 33 h.
+
+</text>
+				<arg n="0">Growth of the gpi17 deletant
+</arg>
+				<arg n="1">to decline at 6 h after transfer to a glucose-containing medium
+</arg>
+				<fdg>
+1	Growth	growth	subj:&gt;6	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+4	gpi17	gpi17	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	deletant	deletant	pcomp:&gt;2	@&lt;P %NH N NOM SG
+6	began	begin	main:&gt;0	@+FMAINV %VA V PAST
+7	to	to	pm:&gt;8	@INFMARK&gt; %AUX INFMARK&gt;
+8	decline	decline	obj:&gt;6	@-FMAINV %VA V INF
+9	at	at	ha:&gt;8	@ADVL %EH PREP
+10	6	6	qn:&gt;11	@QN&gt; %&gt;N NUM CARD
+11	h	h	pcomp:&gt;9	@&lt;P %NH ABBR NOM SG
+12	after	after	tmp:&gt;8	@ADVL %EH PREP
+13	transfer	transfer	pcomp:&gt;12	@&lt;P %NH N NOM SG
+14	to	to	mod:&gt;13	@&lt;NOM %N&lt; PREP
+15	a	a	det:&gt;17	@DN&gt; %&gt;N DET SG
+16	glucose-containing	glucose-containing	attr:&gt;17	@A&gt; %&gt;N &lt;?&gt; A ABS
+17	medium	medium	pcomp:&gt;14	@&lt;P %NH N NOM SG
+18	,	,
+19	but	but	cc:&gt;6	@CC %CC CC
+20	growth	growth	subj:&gt;21	@SUBJ %NH N NOM SG
+21	continued	continue	cc:&gt;6	@+FMAINV %VA V PAST
+22	slowly	slowly	man:&gt;21	@ADVL %EH ADV
+23	for	for		@ADVL %EH PREP
+24	33	33	qn:&gt;25	@QN&gt; %&gt;N NUM CARD
+25	h	h	pcomp:&gt;23	@&lt;P %NH ABBR NOM SG
+26	.     .
+</fdg>
+			</example>
+		</roleset>
+	</predicate>
+</frameset>

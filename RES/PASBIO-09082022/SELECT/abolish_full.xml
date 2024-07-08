@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="abolish">
+            <roleset id="abolish.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer/agent &#x09;&#x09;&#x09; &#x09;// change at molecular level //&#x0A;" />
+                    <role n="1" descr="entity abolished &#x09;&#x09;&#x09;// normal transcription, normal splicing //&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Disruption of rpoS, mlrA or csgA, and the curli subunit gene abolish HA and curli production by strain chi7122.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Disruption of rpoS, mlrA or csgA, and the curli subunit gene abolished HA and curli production by strain chi7122.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Formation of liver metastases in mice was abolished by linomide and antibody-targeted superantigen therapy.</text>
+                    <arg n="0">Linomide and antibody-targeted superantigen therapy</arg>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Furthermore, the deletion of yhiE has completely abolished acid resistance in stationary-phase cells, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>In contrast, further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9 abolished transcriptional stimulation, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Insertions which abolished Alp activity interrupt this open reading frame.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">Alp activity</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>One mutation abolished RNA expression from the altered allele.</text>
+                    <arg n="0">one mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>One mutation abolishes RNA expression from the altered allele.</text>
+                    <arg n="0">one mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Synergy is completely abolished by mutation of the proximal GATA element in the context of the 700 or the 135 bp, indicating that this element is essential for MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">Mutation of the proximal GATA element in the context of the 700 or the 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                    <arg n="M-ADV">completely</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>The deletion of ydeP, ydeO, or yhiE which was induced by EvgA overexpression abolished this acid resistance.</text>
+                    <arg n="0">deletion of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>The A/T-rich mut sequence indicates the mutations introduced to abolish the A/T-rich element.</text>
+                    <arg n="0">the mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>Patient 1 has a G-to-A transition at the first nucleotide of intron 2, which abolishes normal splicing.</text>
+                    <arg n="0">a G-to-A transition at the first nucleotide of intron 2</arg>
+                    <arg n="1">normal splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Alp activity will be abolished by Insertions.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">Alp activity</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Co-administered DM, which is able to abolish completely Groucho binding induced by morphine, had no effect on morphine-induced behavioral sensitization.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Co-administered DM, which was able to abolish completely transcriptional stimulation induced by morphine, had no effect on morphine-induced behavioral sensitization.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Disruption of rpoS, mlrA or csgA, and the curli subunit gene abolish synergy.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Disruption of rpoS, mlrA or csgA, and the curli subunit gene abolish the A/T-rich element.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Disruption of rpoS, mlrA or csgA, and the curli subunit gene abolish the CPP effect.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Furthermore, This acid resistance in stationary-phase cells has been completely abolished by deletion of ydeP, ydeO, or yhiE, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">deletion of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Furthermore, deletion of the distal tor box (box1) has completely abolished torC induction in stationary-phase cells, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">deletion of the distal tor box (box1)</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Furthermore, deletion of the distal tor box (box1) will completely abolish torC induction in stationary-phase cells, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">deletion of the distal tor box (box1)</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Furthermore, deletion of ydeP, ydeO, or yhiE completely abolished This acid resistance in stationary-phase cells, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">deletion of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Furthermore, disruption of rpoS, mlrA or csgA, and the curli subunit gene completely abolished HA and curli production by strain chi7122 in stationary-phase cells, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Furthermore, disruption of rpoS, mlrA or csgA, and the curli subunit gene will completely abolish HA and curli production by strain chi7122 in stationary-phase cells, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Furthermore, production of the hydrogenase activity in stationary-phase cells has been completely abolished by Mutations in the fhlA gene, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Furthermore, the mutations completely abolished the A/T-rich element in stationary-phase cells, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">the mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Furthermore, transcriptional stimulation in stationary-phase cells is completely abolished by further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>Groucho binding can be abolished by mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>Groucho binding has been abolished by mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>HA and curli production by strain chi7122 is abolished by disruption of rpoS, mlrA or csgA, the curli subunit gene which interrupt this open reading frame.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>HA and curli production by strain chi7122 will be abolished by disruption of rpoS, mlrA or csgA, the curli subunit gene.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>However, Alp activity is not abolished by Insertions, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">Alp activity</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>However, This acid resistance was not abolished by deletion of ydeP, ydeO, or yhiE, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">deletion of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>However, This acid resistance will not abolish deletion of ydeP, ydeO, or yhiE, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>However, co-administered DM did not abolish the CPP effect, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>However, co-administered DM will not abolish the CPP effect, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>However, deletion of the distal tor box (box1) did not abolish torC induction, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">deletion of the distal tor box (box1)</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>However, further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9 did not abolish transcriptional stimulation, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>However, further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9 will not abolish transcriptional stimulation, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>In addition, Linomide and antibody-targeted superantigen therapy will abolish formation of liver metastases in mice whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">Linomide and antibody-targeted superantigen therapy</arg>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>In addition, Mutation of the proximal GATA element in the context of the 700 or the 135 bp abolishes synergy whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">Mutation of the proximal GATA element in the context of the 700 or the 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>In addition, Mutation of the proximal GATA element in the context of the 700 or the 135 bp can abolish synergy whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">Mutation of the proximal GATA element in the context of the 700 or the 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>In addition, Mutations in the fhlA gene abolishes production of the hydrogenase activity whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>In addition, Mutations in the fhlA gene can abolish production of the hydrogenase activity whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>In addition, This acid resistance has abolished deletion of ydeP, ydeO, or yhiE whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>In addition, co-administered DM abolished the CPP effect whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>In addition, co-administered DM abolishes the CPP effect whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>In addition, deletion of ydeP, ydeO, or yhiE has abolished This acid resistance whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">deletion of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>In addition, further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9 abolished transcriptional stimulation whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>In addition, further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9 will abolish transcriptional stimulation whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>In addition, the deletion of yhiE can abolish acid resistance whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>In addition, this complete removal of FabD from the crude FAS is able to abolish its BCFA biosynthesis whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>In contrast, Groucho binding was abolished by mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>In contrast, HA and curli production by strain chi7122 is abolished by disruption of rpoS, mlrA or csgA, and the curli subunit gene, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>In contrast, acid resistance was abolished by the deletion of yhiE, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>In contrast, co-administered DM abolished the CPP effect, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>In contrast, co-administered DM abolished the CPP effect, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>In contrast, disruption of rpoS, mlrA or csgA, and the curli subunit gene can abolish HA and curli production by strain chi7122, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>In contrast, disruption of rpoS, mlrA or csgA, the curli subunit gene abolishes HA and curli production by strain chi7122, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>In contrast, production of the hydrogenase activity is abolished by Mutations in the fhlA gene, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>In contrast, production of the hydrogenase activity is abolished by Mutations in the fhlA gene, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>In contrast, synergy is abolished by Mutation of the proximal GATA element in the context of the 700 or the 135 bp, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">Mutation of the proximal GATA element in the context of the 700 or the 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>In contrast, the mutations abolished the A/T-rich element, whereas internal deletion of the conserved octapeptide motif (OP) or the partial homeodomain (HD) of Pax5 did not have any effect (Figure 3B).</text>
+                    <arg n="0">the mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>Insertions promoter completely abolishes Alp activity, indicating that this element is essential for MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">Alp activity</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>Mutations in the fhlA gene abolished production of the hydrogenase activity.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>Synergy is completely abolished by mutation of the proximal GATA element in the context of the 700 or the 135 bp, indicating that this element is essential for MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">Mutation of the proximal GATA element in the context of the 700 or the 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>The A/T-rich mut sequence indicates Mutations in the fhlA gene can abolish production of the hydrogenase activity.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>The A/T-rich mut sequence indicates This acid resistance introduced to abolish deletion of ydeP, ydeO, or yhiE.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>The A/T-rich mut sequence indicates co-administered DM can abolish the CPP effect.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>The A/T-rich mut sequence indicates further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9 introduced to abolish transcriptional stimulation.</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>The A/T-rich mut sequence indicates that Groucho binding was abolished by mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>The A/T-rich mut sequence indicates that HA and curli production by strain chi7122 is abolished by disruption of rpoS, mlrA or csgA, the curli subunit gene.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>The A/T-rich mut sequence indicates that Mutation of the proximal GATA element in the context of the 700 or the 135 bp abolish synergy.</text>
+                    <arg n="0">Mutation of the proximal GATA element in the context of the 700 or the 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>The A/T-rich mut sequence indicates that co-administered DM abolish the CPP effect.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>The A/T-rich mut sequence indicates that its BCFA biosynthesis is abolished by this complete removal of FabD from the crude FAS.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="64">
+                    <text>The A/T-rich mut sequence indicates that its BCFA biosynthesis was abolished by this complete removal of FabD from the crude FAS.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="65">
+                    <text>The A/T-rich mut sequence indicates that its BCFA biosynthesis was abolished by this complete removal of FabD from the crude FAS.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="66">
+                    <text>The A/T-rich mut sequence indicates that mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid abolished Groucho binding.&#x09;</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="67">
+                    <text>The A/T-rich mut sequence indicates that mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid abolished Groucho binding.&#x09;</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="68">
+                    <text>The A/T-rich mut sequence indicates that production of the hydrogenase activity is abolished by Mutations in the fhlA gene.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="69">
+                    <text>The A/T-rich mut sequence indicates that the deletion of yhiE abolish acid resistance.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="70">
+                    <text>The A/T-rich mut sequence indicates that the deletion of yhiE abolish acid resistance.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="71">
+                    <text>The A/T-rich mut sequence indicates that this complete removal of FabD from the crude FAS abolish its BCFA biosynthesis.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="72">
+                    <text>The deletion of ydeP, ydeO, or yhiE associated with formate hydrogenlyase activity are abolished by mutations in the fhlA gene.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="PERMUTATE" no="73">
+                    <text>The deletion of ydeP, ydeO, or yhiE associated with formate hydrogenlyase activity are abolished by mutations in the fhlA gene.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="PERMUTATE" no="74">
+                    <text>The deletion of ydeP, ydeO, or yhiE associated with formate hydrogenlyase activity can be abolished by mutations in the fhlA gene.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="PERMUTATE" no="75">
+                    <text>The further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9 which was induced by EvgA overexpression abolished this acid resistance.</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="76">
+                    <text>The its BCFA biosynthesis associated with formate hydrogenlyase activity can be abolished by mutations in the fhlA gene.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="77">
+                    <text>The mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid which was induced by EvgA overexpression abolish this acid resistance.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="78">
+                    <text>The mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid which was induced by EvgA overexpression abolished this acid resistance.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="79">
+                    <text>The the deletion of yhiE which was induced by EvgA overexpression abolished this acid resistance.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="80">
+                    <text>co-administered DM abolished the CPP effect.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="81">
+                    <text>deletion of the distal tor box (box1) also abolished torC induction associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">deletion of the distal tor box (box1)</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="PERMUTATE" no="82">
+                    <text>deletion of the distal tor box (box1) can abolish torC induction.</text>
+                    <arg n="0">deletion of the distal tor box (box1)</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+                <example src="PERMUTATE" no="83">
+                    <text>deletion of ydeP, ydeO, or yhiE is abolished by This acid resistance, which was induced by EvgA overexpression.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="PERMUTATE" no="84">
+                    <text>deletion of ydeP, ydeO, or yhiE which abolished This acid resistance interrupt this open reading frame.</text>
+                    <arg n="0">deletion of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="85">
+                    <text>deletion of ydeP, ydeO, or yhiE will also abolish This acid resistance associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">deletion of ydeP, ydeO, or yhiE</arg>
+                    <arg n="1">This acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="86">
+                    <text>deletion of ydeP, ydeO, or yhiE will be abolished by This acid resistance.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="PERMUTATE" no="87">
+                    <text>deletion of ydeP, ydeO, or yhiE will be abolished by This acid resistance.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="PERMUTATE" no="88">
+                    <text>disruption of rpoS, mlrA or csgA, and the curli subunit gene also abolish HA and curli production by strain chi7122 associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="89">
+                    <text>disruption of rpoS, mlrA or csgA, and the curli subunit gene was abolished by HA and curli production by strain chi7122, which was induced by EvgA overexpression.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="90">
+                    <text>disruption of rpoS, mlrA or csgA, and the curli subunit gene which abolish HA and curli production by strain chi7122 interrupt this open reading frame.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="91">
+                    <text>disruption of rpoS, mlrA or csgA, and the curli subunit gene which abolish HA and curli production by strain chi7122 interrupt this open reading frame.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, and the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="92">
+                    <text>disruption of rpoS, mlrA or csgA, the curli subunit gene which abolished HA and curli production by strain chi7122 interrupt this open reading frame.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="PERMUTATE" no="93">
+                    <text>formation of liver metastases in mice are abolished by Linomide and antibody-targeted superantigen therapy.</text>
+                    <arg n="0">Linomide and antibody-targeted superantigen therapy</arg>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="PERMUTATE" no="94">
+                    <text>formation of liver metastases in mice has been abolished by Linomide and antibody-targeted superantigen therapy.</text>
+                    <arg n="0">Linomide and antibody-targeted superantigen therapy</arg>
+                    <arg n="1">formation of liver metastases in mice</arg>
+                </example>
+                <example src="PERMUTATE" no="95">
+                    <text>its BCFA biosynthesis is abolished by this complete removal of FabD from the crude FAS which interrupt this open reading frame.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="96">
+                    <text>mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid abolished Groucho binding.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="97">
+                    <text>mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid promoter completely abolishes Groucho binding, indicating that this element is essential for MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="98">
+                    <text>mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid was abolished by Groucho binding, which was induced by EvgA overexpression.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="99">
+                    <text>mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid which abolish Groucho binding interrupt this open reading frame.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="PERMUTATE" no="100">
+                    <text>production of the hydrogenase activity are abolished by Mutations in the fhlA gene.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="101">
+                    <text>production of the hydrogenase activity were abolished by Mutations in the fhlA gene.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="PERMUTATE" no="102">
+                    <text>synergy are abolished by Mutation of the proximal GATA element in the context of the 700 or the 135 bp.</text>
+                    <arg n="0">Mutation of the proximal GATA element in the context of the 700 or the 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="PERMUTATE" no="103">
+                    <text>synergy were abolished by Mutation of the proximal GATA element in the context of the 700 or the 135 bp.</text>
+                    <arg n="0">Mutation of the proximal GATA element in the context of the 700 or the 135 bp</arg>
+                    <arg n="1">synergy</arg>
+                </example>
+                <example src="PERMUTATE" no="104">
+                    <text>the A/T-rich element is abolished by the mutations, which was induced by EvgA overexpression.</text>
+                    <arg n="0">the mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="PERMUTATE" no="105">
+                    <text>the CPP effect is abolished by co-administered DM, which was induced by EvgA overexpression.</text>
+                    <arg n="0">co-administered DM</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="PERMUTATE" no="106">
+                    <text>the deletion of yhiE being able to abolish acid resistance interrupt this open reading frame.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="107">
+                    <text>the deletion of yhiE has also abolished acid resistance associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="108">
+                    <text>the deletion of yhiE was abolished by acid resistance, which was induced by EvgA overexpression.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="109">
+                    <text>the deletion of yhiE which abolished acid resistance interrupt this open reading frame.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="110">
+                    <text>the mutations promoter completely abolishes the A/T-rich element, indicating that this element is essential for MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">the mutations</arg>
+                    <arg n="1">the A/T-rich element</arg>
+                </example>
+                <example src="PERMUTATE" no="111">
+                    <text>this complete removal of FabD from the crude FAS abolished its BCFA biosynthesis.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="112">
+                    <text>this complete removal of FabD from the crude FAS also abolish its BCFA biosynthesis associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="113">
+                    <text>this complete removal of FabD from the crude FAS will abolish its BCFA biosynthesis.</text>
+                    <arg n="0">this complete removal of FabD from the crude FAS</arg>
+                    <arg n="1">its BCFA biosynthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="114">
+                    <text>transcriptional stimulation has been abolished by further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9.</text>
+                    <arg n="0">further deletion of the C-terminal transactivation domain in the Pax5 mutants B8 and B9</arg>
+                    <arg n="1">transcriptional stimulation</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Furthermore, This intronic mutation completely abolished normal LHX4 splicing in stationary-phase cells, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Furthermore, normal LHX4 splicing in stationary-phase cells is completely abolished by This intronic mutation, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Groucho binding was abolished by mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid, which was induced by EvgA overexpression.</text>
+                    <arg n="0">mutating a conserved phenylalanine of the eh1/GEH sequence to glutamic acid</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>However, The cpx101 mutation will not abolish cpxA phosphatase activity, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">The cpx101 mutation</arg>
+                    <arg n="1">cpxA phosphatase activity</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>However, a G-to-A transition at the first nucleotide of intron 2 does not abolish normal splicing, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">a G-to-A transition at the first nucleotide of intron 2</arg>
+                    <arg n="1">normal splicing</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>However, cpxA phosphatase activity is not abolished by The cpx101 mutation, but only reduced the level to 50-60% of the control level for acyl-CoA primer and to 80% for alpha-keto-beta-methylvalerate primer.</text>
+                    <arg n="0">The cpx101 mutation</arg>
+                    <arg n="1">cpxA phosphatase activity</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>In addition, This intronic mutation can abolish normal LHX4 splicing whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>In addition, This intronic mutation will abolish normal LHX4 splicing whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>In addition, a G-to-A transition at the first nucleotide of intron 2 abolished normal splicing whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">a G-to-A transition at the first nucleotide of intron 2</arg>
+                    <arg n="1">normal splicing</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>RNA expression is abolished by one mutation, which was induced by EvgA overexpression.</text>
+                    <arg n="0">one mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>The A/T-rich mut sequence indicates This intronic mutation introduced to abolish normal LHX4 splicing.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>The A/T-rich mut sequence indicates that RNA expression was abolished by one mutation.</text>
+                    <arg n="0">one mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>The A/T-rich mut sequence indicates that one mutation abolish RNA expression.</text>
+                    <arg n="0">one mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>The Groucho binding which was induced by EvgA overexpression abolish this acid resistance.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">Groucho binding</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>The RNA expression which was induced by EvgA overexpression abolish this acid resistance.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>The cpx101 mutation also abolish cpxA phosphatase activity associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">The cpx101 mutation</arg>
+                    <arg n="1">cpxA phosphatase activity</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>The cpx101 mutation also abolished cpxA phosphatase activity associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">The cpx101 mutation</arg>
+                    <arg n="1">cpxA phosphatase activity</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>The cpx101 mutation also abolished cpxA phosphatase activity associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">The cpx101 mutation</arg>
+                    <arg n="1">cpxA phosphatase activity</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>The cpx101 mutation being able to abolish cpxA phosphatase activity interrupt this open reading frame.</text>
+                    <arg n="0">The cpx101 mutation</arg>
+                    <arg n="1">cpxA phosphatase activity</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>The cpx101 mutation which abolish cpxA phosphatase activity interrupt this open reading frame.</text>
+                    <arg n="0">The cpx101 mutation</arg>
+                    <arg n="1">cpxA phosphatase activity</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>The normal splicing which was induced by EvgA overexpression abolished this acid resistance.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">normal splicing</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>The the CPP effect which was induced by EvgA overexpression abolished this acid resistance.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">the CPP effect</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>This intronic mutation promoter completely abolished normal LHX4 splicing, indicating that this element is essential for MEF2 GATA-4 cooperation.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>This intronic mutation which abolished normal LHX4 splicing interrupt this open reading frame.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>This intronic mutation will also abolish normal LHX4 splicing associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>normal LHX4 splicing can be abolished by This intronic mutation.</text>
+                    <arg n="0">This intronic mutation</arg>
+                    <arg n="1">normal LHX4 splicing</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>normal splicing was abolished by a G-to-A transition at the first nucleotide of intron 2 which interrupt this open reading frame.</text>
+                    <arg n="0">a G-to-A transition at the first nucleotide of intron 2</arg>
+                    <arg n="1">normal splicing</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>one mutation abolishes RNA expression.</text>
+                    <arg n="0">one mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>one mutation which abolish RNA expression interrupt this open reading frame.</text>
+                    <arg n="0">one mutation</arg>
+                    <arg n="1">RNA expression</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

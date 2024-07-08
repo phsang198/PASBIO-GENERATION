@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="lose">
+            <roleset id="lose.01" name="" wordnet="1, 8">
+                <roles>
+                    <role n="0" descr="entity losing something&#x0A;" />
+                    <role n="1" descr="thing lost&#x0A;" />
+                    <role n="2" descr="situation inducing thing lost&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="1">
+                    <text>A new transthyretin variant which lost a Sph I cleavage site within exon 3 has been characterized.</text>
+                    <arg n="0">A new transthyretin variant</arg>
+                    <arg n="1">a Sph I cleavage site within exon 3</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>The mice did not lose weight during the treatment.</text>
+                    <arg n="0">The mice</arg>
+                    <arg n="1">weight</arg>
+                    <arg n="2">during the treatment</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>To this end, we made aggregation chimeras between Lc/+ mice, which lose all Purkinje cells postnatally, and +/+ control mice.</text>
+                    <arg n="0">aggregation chimeras between Lc/+ mice</arg>
+                    <arg n="1">Purkinje cells</arg>
+                </example>
+                <example src="MEDLINE" no="4">
+                    <text>This study investigated whether informing obese individuals that they would lose only modest amounts of weight would lead them to adopt more realistic weight loss expectations.</text>
+                    <arg n="0">they</arg>
+                    <arg n="1">modest amounts of weight</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="MEDLINE" no="5">
+                    <text>No severe complications have been reported, and after the BIB removal, subjects are maintaining the obtained results with some of them continuing to lose weight.</text>
+                    <arg n="0">some of them</arg>
+                    <arg n="1">weight</arg>
+                </example>
+                <example src="EMBO" no="*1">
+                    <text>Stat3 is activated in v-Src or v-abl-transformed cells and, along other Stats, in acute T-cell leukemia cells that have lost IL-2 dependency (Migone et al., 1995; Yu et al., 1995).</text>
+                    <arg n="0">acute T-cell leukemia cells</arg>
+                    <arg n="1">IL-2 dependency</arg>
+                </example>
+                <example src="EMBO" no="*2">
+                    <text>These interactions would be lost with a separation of DNA-binding sites of }3 bp, as can occur for natural SRE sequences, while a smaller spacing would inhibit the simultaneous binding of both proteins.</text>
+                    <arg n="1">These interactions</arg>
+                    <arg n="2">with a separation of DNA-binding sites of }3 bp</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>It was reported that GPI anchoring ability was lost when the microsomal membranes of Trypanosoma brucei were washed at high pH (Sharma et al., 2000), whereas similar treatment of the mammalian microsomal membranes had no effect (Vidugiriene and Menon, 1995)</text>
+                    <arg n="1">GPI anchoring ability</arg>
+                    <arg n="2">when the microsomal membranes of Trypanosoma brucei were washed at high pH</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>No known plastid has completely lost its prokaryote-type organelle genome, but all show considerablegenome reduction and dependency on the nucleus to fulfill plastid functions (Martin and Hrrmann, 1998).</text>
+                    <arg n="0">No known plastid</arg>
+                    <arg n="1">its prokaryote-type organelle genome</arg>
+                </example>
+                <example src="EMBO" no="5">
+                    <text>Previous studies have emphasized the high sensitivity of the N-terminal region to proteolytic cleavage, leading to truncated species that have lost the first 20 70 residues but that retain enzymatic activity and dimeric structure.</text>
+                    <arg n="0">truncated species</arg>
+                    <arg n="1">the first 20 70 residues</arg>
+                </example>
+                <example src="EMBO" no="*6">
+                    <text>The C-terminal-deletion mutant of hnRNP A1 loses the ability to interact with the X protein and to bring it into the initiation complex, resulting in an inhibition of MHV RNA transcription and replication.</text>
+                    <arg n="0">The C-terminal-deletion mutant of hnRNP A1</arg>
+                    <arg n="1">the ability to interact with the X protein and to bring it into the initiation complex</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

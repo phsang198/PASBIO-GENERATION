@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="result">
+            <roleset id="result.01" name="" wordnet="2">
+                <roles>
+                    <role n="0" descr="Theme, prior condition &#x0A;" />
+                    <role n="1" descr="Goal, end condition&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Sequence analysis of the IDHbeta gene result that the difference in the 28 C-terminal amino acids between beta(1) and beta(2) will be the result of alternative splicing of a single transcription.</text>
+                    <arg n="0">alternative splicing of a single transcription</arg>
+                    <arg n="1">the difference in the 28 C-terminal amino acids between beta(1) and beta(2)</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed a new mutation in codon 210 which resulted in replacement of isoleucine with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replacement of isoleucine with valine</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>alternative splicing of exon 2 (139 nt) and alternative transcriptional initiation is capable of result rise to mRNA species with different 5UTRs.</text>
+                    <arg n="0">alternative splicing of exon 2 (139 nt) and alternative transcriptional initiation</arg>
+                    <arg n="1">mRNA species with different 5UTRs</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>fluctuation in ras-dependent signaling, as predicted, may have resulted in a dramatic change in vulvar induction in the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>fluctuation in signaling depending on ras has the ability to result in a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on ras</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Change can cause heat instability and affect Expression of cDNA isoform II DNA in COS7 cells results in a marked increase in the activity of PAF acetylhydrolase.</text>
+                    <arg n="0">Expression of cDNA isoform II DNA in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of PAF acetylhydrolase</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Change can cause heat instability and affect Expression of cDNA isoform II DNA in COS7 results in a marked increase in acetylhydrolase activity PAF.</text>
+                    <arg n="0">Expression of cDNA isoform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase activity PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Change can cause heat instability and affect Expression of cdNA II DNA of isoform II in COS7 cells resulting in a marked increase in the acetylhydrase activity of PAF.</text>
+                    <arg n="0">Expression of cdNA II DNA of isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the acetylhydrase activity of PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Change can cause heat instability and affect Expression of the cD DNA of isoform II in COS7 cells resulting in a marked increase in the activity of acetylhydrolase PAF.</text>
+                    <arg n="0">Expression of the cD DNA of isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydrolase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Change can cause heat instability and affect fluctuation in signaling depending on the ras resulting in a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on the ras</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Change can cause heat instability and affect fluctuation in signaling depending on the ras results in a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on the ras</arg>
+                    <arg n="1">a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Change can cause heat instability and affect the net load of the variant subunit resulting in a variant electrophoretic subunit LDH-B.</text>
+                    <arg n="0">the net load of the variant subunit</arg>
+                    <arg n="1">a variant electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>DNA II expression of Isoform II DNA in COS7 may eventually result in a marked increase in the activity of PAF acetylhydase.</text>
+                    <arg n="0">DNA II expression of Isoform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in the activity of PAF acetylhydase</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Expression of cDNA isoform II DNA in COS7 finally resulted in a marked increase in acetylhydrolase activity PAF.</text>
+                    <arg n="0">Expression of cDNA isoform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase activity PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Expression of cDNA isoform II DNA in COS7 may result in a marked increase in the activity of PAF acetylhydrolase .</text>
+                    <arg n="0">Expression of cDNA isoform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in the activity of PAF acetylhydrolase</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Expression of the cD DNA of isoform II in COS7 cells, as predicted, resulted in a marked increase in the activity of acetylhydrolase PAF.</text>
+                    <arg n="0">Expression of the cD DNA of isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydrolase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Full sequencing of the open reading framework of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakob disease (CJD) revealed that a new mutation in codon 210 had the ability to result in replace isoleucine with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replace isoleucine with valine</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>It has also been reported that a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity resulted from fluctuation in signaling depending on ras.</text>
+                    <arg n="0">fluctuation in signaling depending on ras</arg>
+                    <arg n="1">a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>It has also been reported that a product of 543 bp resulted from exon 13 jumping in animals s1031.</text>
+                    <arg n="0">exon 13 jumping in animals s1031</arg>
+                    <arg n="1">a product of 543 bp</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>The Expression of the cD DNA of isoform II in COS7 cells and alternative transcriptional initiation, as result in our study, are capable of giving rise to a marked increase in the activity of acetylhydrolase PAF.</text>
+                    <arg n="0">Expression of the cD DNA of isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydrolase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>The a new mutation in codon 210 has the ability to result in replacing isoleucine in valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replacing isoleucine in valine</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>The a new mutation in codon 210 will result in the replace isoleucine with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replace isoleucine with valine</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>The alteration can cause thermal instability and affect Exon 13 jumping in s1031 animals which has proven to result finally in a product of 543 bp .</text>
+                    <arg n="0">Exon 13 jumping in s1031 animals</arg>
+                    <arg n="1">a product of 543 bp</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>The alteration can cause thermal instability and affect Expression of cDNA isoform II DNA in COS7 cells which is able to finally result in a marked increase in the activity of PAF acetylhydrolase.</text>
+                    <arg n="0">Expression of cDNA isoform II DNA in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of PAF acetylhydrolase</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>The alteration can cause thermal instability and affect Expression of cDNA isoform II DNA in COS7 cells, which can result in a marked increase in the activity of PAF acetylhydrolase.</text>
+                    <arg n="0">Expression of cDNA isoform II DNA in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of PAF acetylhydrolase</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>The alteration can cause thermal instability and affect Expression of cdNA II DNA of isoform II in COS7 cells which is shown to result in a marked increase in the activity of acetylhydralase of PAF.</text>
+                    <arg n="0">Expression of cdNA II DNA of isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydralase of PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>The alteration can cause thermal instability and affect a new mutation in codon 210 which is able to finally result in replace isoleucine with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replace isoleucine with valine</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>The alteration can cause thermal instability and affect a new mutation in codon 210 which is observed to result in replacing isoleukin with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replacing isoleukin with valine</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>The alteration can cause thermal instability and affect alternative exon 2 exhaustion (139 nt) and alternative transcriptional start, which can result in mRNA species with different 5 UTRs.</text>
+                    <arg n="0">alternative exon 2 exhaustion (139 nt) and alternative transcriptional start</arg>
+                    <arg n="1">mRNA species with different 5 UTRs</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>The alteration can cause thermal instability and affect alternative exon coupling 139 nt after having resulted in mRNA species with 5 different UTRs.</text>
+                    <arg n="0">alternative exon coupling 139 nt</arg>
+                    <arg n="1">mRNA species with 5 different UTRs</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>The alteration can cause thermal instability and affect differential spasms which is shown to result in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential spasms</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>The alteration can cause thermal instability and affect exon 13 jump in s1031 animals, which can result in a 543 bp product.</text>
+                    <arg n="0">exon 13 jump in s1031 animals</arg>
+                    <arg n="1">a 543 bp product</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>The alteration can cause thermal instability and affect exon 13 jumping in animals s1031 which is able to finally result in a product of 543 bp.</text>
+                    <arg n="0">exon 13 jumping in animals s1031</arg>
+                    <arg n="1">a product of 543 bp</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>The alteration can cause thermal instability and affect expression of cDNA ISOform II DNA in COS7 after having resulted in a marked increase in acetylhydrolase activity PAF.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase activity PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>The alteration can cause thermal instability and affect liquid load of the variable subunit which has proven to result finally in fast-type electrophoretic subunit LDH-B .</text>
+                    <arg n="0">liquid load of the variable subunit</arg>
+                    <arg n="1">fast-type electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>The alteration can result thermal instability and affect Expression of cdNA II DNA of isoform II in COS7 cells which has finally been shown to be a marked increase in the acetylhydrase activity of PAF.</text>
+                    <arg n="0">Expression of cdNA II DNA of isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the acetylhydrase activity of PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>The alteration can result thermal instability and affect alternative exon coupling 139 nt which has finally been shown to be mRNA species with 5 different UTRs.</text>
+                    <arg n="0">alternative exon coupling 139 nt</arg>
+                    <arg n="1">mRNA species with 5 different UTRs</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>The alteration may cause thermal instability and affect Expression of the cdNA II DNA from isoform II in COS7, which may ultimately resulted in a marked increase in the activity of PAF acetylhydrolase.</text>
+                    <arg n="0">Expression of the cdNA II DNA from isoform II in COS7</arg>
+                    <arg n="1">a marked increase in the activity of PAF acetylhydrolase</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>The alteration may cause thermal instability and affect differential spasms being demonstrated to result in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential spasms</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>The alteration may cause thermal instability and affect expression of the DNA-cDNA ISOform II DNA in COS7 cells, which may eventually result in a marked increase in the activity of acetylhydroxylase PAF.</text>
+                    <arg n="0">expression of the DNA-cDNA ISOform II DNA in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydroxylase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>The alteration may cause thermal instability and affect fluctuation in ras-dependent signaling which finally resulted in a dramatic change in vulvul induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1.</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvul induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>The alteration may cause thermal instability and affect fluctuation in signaling depending on ras which may result in a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on ras</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>The alteration may cause thermal instability and affect glow in signalling depending on the ras which has been demonstrated to result in a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">glow in signalling depending on the ras</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>The alteration may cause thermal instability and affect grid-dependent fluctuation in signaling which is observed to result in a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">grid-dependent fluctuation in signaling</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>The alteration may cause thermal instability and affect not to use the normal donor site of the coupling of intron 12 which resulted in a variant.</text>
+                    <arg n="0">not to use the normal donor site of the coupling of intron 12</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>The alteration may cause thermal instability and affect the net charge of the variant subunit, which may eventually result in a fast-type LDH-B electrophoretic subunit.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">a fast-type LDH-B electrophoretic subunit</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>The change can cause heat instability and affect Expression of cDNA isoform II DNA in COS7 which eventually resulted in a marked increase in acetylhydrolase activity PAF.</text>
+                    <arg n="0">Expression of cDNA isoform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase activity PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>The change can cause heat instability and affect a new mutation in codon 210 which can result in replace isoleucine with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replace isoleucine with valine</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>The change can cause heat instability and affect differential spacing which may eventually have resulted in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential spacing</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>The change can cause heat instability and affect expression of cADNA DNA isoform II in COS7 cells which will eventually result in a marked increase in acetylhydratelase PAF activity.</text>
+                    <arg n="0">expression of cADNA DNA isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in acetylhydratelase PAF activity</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>The change can cause heat instability and affect fluctuation in ras-dependent signaling which can result in a dramatic change in vulvar induction in the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>The change can cause heat instability and affect fluctuation in ras-dependent signaling which resulted in a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>The change can cause heat instability and affect fluctuation in signaling depending on ras after it has resulted in a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on ras</arg>
+                    <arg n="1">a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>The change can cause heat instability and affect fluctuation in signaling depending on ras which can eventually result in a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on ras</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>The change can cause heat instability and affect fluctuation in signaling depending on the ras which eventually resulted in a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on the ras</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>The change can cause heat instability and affect liquid charge of varying subunits by being able to result in a rapid type of electrophoretic subunit LDH-B.</text>
+                    <arg n="0">liquid charge of varying subunits</arg>
+                    <arg n="1">a rapid type of electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>The change can cause heat instability and affect liquid load of variant subunit which has resulted in a variant electrophoretic subunit LDH-B fast type.</text>
+                    <arg n="0">liquid load of variant subunit</arg>
+                    <arg n="1">a variant electrophoretic subunit LDH-B fast type</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>The change can cause heat instability and affect multiple alternative subdomains which has been shown to result in superrepetitor.</text>
+                    <arg n="0">multiple alternative subdomains</arg>
+                    <arg n="1">superrepetitor</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>The change can cause heat instability and affect not to use the normal donor site of the coupling of intron 12 which has resulted in a variant.</text>
+                    <arg n="0">not to use the normal donor site of the coupling of intron 12</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>The change can cause heat instability and affect the net charge of the variant subunit which eventually resulted in an electrophoretic subunit variant of the fast type LDH-B.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">an electrophoretic subunit variant of the fast type LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>The change can cause heat instability and affect the net load of the variant subunit which has resulted in a variant electrophoretic subunit LDH-B fast type.</text>
+                    <arg n="0">the net load of the variant subunit</arg>
+                    <arg n="1">a variant electrophoretic subunit LDH-B fast type</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>The change can cause thermal instability and affect DNA II expression of Isoform II DNA in COS7 and is shown to ultimately result in a marked increase in the activity of PAF acetylhydase.</text>
+                    <arg n="0">DNA II expression of Isoform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in the activity of PAF acetylhydase</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>The change can cause thermal instability and affect a new mutation in codon 210 that is observed to finally result in replacement of isoleucine with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replacement of isoleucine with valine</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>The change can cause thermal instability and affect the net charge of the variant subunit and is shown to ultimately result in an electrophoretic subunit variant of the fast type LDH-B.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">an electrophoretic subunit variant of the fast type LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>The complete open reading sequence of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakob disease (JCD) revealed fluctuation in signaling depending on the ras that has the ability to result in a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on the ras</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>The differential spasms has the ability to result in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential spasms</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>The exon 13 juar in s1031 animals is capable of result rise to a product of 543 bp.</text>
+                    <arg n="0">exon 13 juar in s1031 animals</arg>
+                    <arg n="1">a product of 543 bp</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>The fluctuation in ras-dependent signaling resulted in the a dramatic change in vulvul induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1.</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvul induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1</arg>
+                </example>
+                <example src="PERMUTATE" no="64">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed a new mutation in codon 210 that resulted in replacement of isoleucine with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replacement of isoleucine with valine</arg>
+                </example>
+                <example src="PERMUTATE" no="65">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed fluctuation in signaling depending on ras that will result in a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on ras</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="66">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed fluctuation in signaling depending on the ras that may have resulted in a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on the ras</arg>
+                    <arg n="1">a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="67">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed glow-dependent signaling fluctuation that will result in a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">glow-dependent signaling fluctuation</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="68">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed expression of the DNA-cDNA ISOform II in COS7 cells that could resulted in a marked increase in the activity of acetylhydroxylase PAF.</text>
+                    <arg n="0">expression of the DNA-cDNA ISOform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydroxylase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="69">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed liquid charge of varying subunits resulting in an electrophoretic subunit of fast-type LDH-B subunits.</text>
+                    <arg n="0">liquid charge of varying subunits</arg>
+                    <arg n="1">an electrophoretic subunit of fast-type LDH-B subunits</arg>
+                </example>
+                <example src="PERMUTATE" no="70">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed liquid load of the variable subunit that could resulted in fast-type electrophoretic subunit LDH-B.</text>
+                    <arg n="0">liquid load of the variable subunit</arg>
+                    <arg n="1">fast-type electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="71">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed multiple alternate subdomains that could resulted in superrepetition.</text>
+                    <arg n="0">multiple alternate subdomains</arg>
+                    <arg n="1">superrepetition</arg>
+                </example>
+                <example src="PERMUTATE" no="72">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed that alternative exon 2 cutting (139 nt) and alternative transcriptional start had the ability to result in mRNA species with 5 different UTRs.</text>
+                    <arg n="0">alternative exon 2 cutting (139 nt) and alternative transcriptional start</arg>
+                    <arg n="1">mRNA species with 5 different UTRs</arg>
+                </example>
+                <example src="PERMUTATE" no="73">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed that differential spasms had the ability to result in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential spasms</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="74">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed the net charge of the varying subunit which resulted in a fast-type LDH-B electrophoretic subunit.</text>
+                    <arg n="0">the net charge of the varying subunit</arg>
+                    <arg n="1">a fast-type LDH-B electrophoretic subunit</arg>
+                </example>
+                <example src="PERMUTATE" no="75">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed the net load of the variant subunit results in a variant electrophoretic subunit LDH-B fast type.</text>
+                    <arg n="0">the net load of the variant subunit</arg>
+                    <arg n="1">a variant electrophoretic subunit LDH-B fast type</arg>
+                </example>
+                <example src="PERMUTATE" no="76">
+                    <text>The grid-dependent fluctuation in signaling, as predicted, has resulted in the a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">grid-dependent fluctuation in signaling</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="77">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes Expression of the cD DNA of isoform II in COS7 cells resulted in the complete a marked increase in the activity of acetylhydrolase PAF.</text>
+                    <arg n="0">Expression of the cD DNA of isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydrolase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="78">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes alternative exon coupling 139 nt that results in mRNA species with 5 different UTRs.</text>
+                    <arg n="0">alternative exon coupling 139 nt</arg>
+                    <arg n="1">mRNA species with 5 different UTRs</arg>
+                </example>
+                <example src="PERMUTATE" no="79">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes alternative mixed subdomains that results in super-repetitor.</text>
+                    <arg n="0">alternative mixed subdomains</arg>
+                    <arg n="1">super-repetitor</arg>
+                </example>
+                <example src="PERMUTATE" no="80">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes expression of cDNA ISOform II DNA in COS7 that are result as entirely a marked increase in the activity of acetylhydrolase PAF.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydrolase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="81">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes fluctuation in signaling depending on ras that resulted in a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on ras</arg>
+                    <arg n="1">a dramatic change in vulvulus induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="82">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes grid-dependent fluctuation in signaling that are result as entirely a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">grid-dependent fluctuation in signaling</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="83">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes the net charge of the variant subunit that are result as entirely an electrophoretic subunit LDH-B.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">an electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="84">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes the net charge of the variant subunit that results in an electrophoretic subunit fast type LDH-B.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">an electrophoretic subunit fast type LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="85">
+                    <text>The human mucin gene MUC5B, the 10.7 kb central exon, codes exon 13 jump in s1031 animals that are able to completely result in a product of 543 bp.</text>
+                    <arg n="0">exon 13 jump in s1031 animals</arg>
+                    <arg n="1">a product of 543 bp</arg>
+                </example>
+                <example src="PERMUTATE" no="86">
+                    <text>The human mucin gene MUC5B, the 10.7 kb central exon, codes glow in signalling depending on the ras that are able to completely result in a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">glow in signalling depending on the ras</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="87">
+                    <text>The human mucin gene MUC5B, the 10.7 kb central exon, codes reduction of signaling as a function of ras that are able to completely result in a dramatic change in volval induction under the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">reduction of signaling as a function of ras</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="88">
+                    <text>The human mucin gene MUC5B, the central exon of 10.7 kb, codes Expression of cdNA II DNA of isoform II in COS7 cells that resulted in a marked increase in the acetylhydrase activity of PAF.</text>
+                    <arg n="0">Expression of cdNA II DNA of isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the acetylhydrase activity of PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="89">
+                    <text>The human mucin gene MUC5B, the central exon of 10.7 kb, codes a new mutation in codon 210 that resulted in substitution of isoleucine to valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">substitution of isoleucine to valine</arg>
+                </example>
+                <example src="PERMUTATE" no="90">
+                    <text>The human mucin gene MUC5B, the central exon of 10.7 kb, codes alternative spacer of a single transcription and is observed to result in difference in the 28 C-terminal amino acids between beta(1) and beta(2).</text>
+                    <arg n="0">alternative spacer of a single transcription</arg>
+                    <arg n="1">difference in the 28 C-terminal amino acids between beta(1) and beta(2)</arg>
+                </example>
+                <example src="PERMUTATE" no="91">
+                    <text>The human mucin gene MUC5B, the central exon of 10.7kb, codes not to use the normal donor site of the intron 12 ear that has the ability to result in a variant.</text>
+                    <arg n="0">not to use the normal donor site of the intron 12 ear</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="PERMUTATE" no="92">
+                    <text>The human mucin gene MUC5B, the great 10.7kb of central exon codes expression of cDNA ISOform II DNA in COS7 that may have resulted in a marked increase in acetylhydrolase PAF activity.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase PAF activity</arg>
+                </example>
+                <example src="PERMUTATE" no="93">
+                    <text>The human mucin gene MUC5B, the great 10.7kb of central exon codes expression of cDNA ISOform II DNA in COS7 that may have resulted in a marked increase in the activity of acetylhydrolase PAF.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydrolase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="94">
+                    <text>The human mucin gene MUC5B, the great 10.7kb of central exon codes glow in signaling depending on the ras that may have resulted in a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">glow in signaling depending on the ras</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="95">
+                    <text>The human mucin gene MUC5B, the great 10.7kb of central exon codes glow-dependent signaling fluctuation which may have resulted entirely in a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">glow-dependent signaling fluctuation</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="96">
+                    <text>The human mucin gene MUC5B, the great 10.7kb of central exon codes liquid charge of varying subunits that result able to give rise to an electrophoretic subunit of fast-type LDH-B subunits.</text>
+                    <arg n="0">liquid charge of varying subunits</arg>
+                    <arg n="1">an electrophoretic subunit of fast-type LDH-B subunits</arg>
+                </example>
+                <example src="PERMUTATE" no="97">
+                    <text>The human mucin gene MUC5B, the large 10.7kb of central exon codes exon 13 jumping in animals s1031 that will result in a product of 543 bp.</text>
+                    <arg n="0">exon 13 jumping in animals s1031</arg>
+                    <arg n="1">a product of 543 bp</arg>
+                </example>
+                <example src="PERMUTATE" no="98">
+                    <text>The liquid load of the variable subunit will result in the fast-type electrophoretic subunit LDH-B.</text>
+                    <arg n="0">liquid load of the variable subunit</arg>
+                    <arg n="1">fast-type electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="99">
+                    <text>The research shows a marked increase in the acetylhydrase activity of PAF resulting from Expression of cdNA II DNA of isoform II in COS7 cells.</text>
+                    <arg n="0">Expression of cdNA II DNA of isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in the acetylhydrase activity of PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="100">
+                    <text>The research shows fast-type electrophoretic subunit LDH-B resulting from liquid load of the variable subunit.</text>
+                    <arg n="0">liquid load of the variable subunit</arg>
+                    <arg n="1">fast-type electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="101">
+                    <text>The sequence analysis of the HDIbeta gene indicates that a marked increase in acetylhydratelase PAF activity has the ability to result from expression of cADNA DNA isoform II in COS7 cells.</text>
+                    <arg n="0">expression of cADNA DNA isoform II in COS7 cells</arg>
+                    <arg n="1">a marked increase in acetylhydratelase PAF activity</arg>
+                </example>
+                <example src="PERMUTATE" no="102">
+                    <text>We also report a dramatic change in vulvar induction in the condition where there is a low-level activity of LET-23/SEM-5/SOS-1 that may have resulted from fluctuation in ras-dependent signaling.</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition where there is a low-level activity of LET-23/SEM-5/SOS-1</arg>
+                </example>
+                <example src="PERMUTATE" no="103">
+                    <text>We also report a product of 543 bp that may have resulted from exon 13 jump in s1031 animals.</text>
+                    <arg n="0">exon 13 jump in s1031 animals</arg>
+                    <arg n="1">a product of 543 bp</arg>
+                </example>
+                <example src="PERMUTATE" no="104">
+                    <text>We also report mRNA species with different 5 UTRs that may have resulted from alternative exon 2 exhaustion (139 nt) and alternative transcriptional start.</text>
+                    <arg n="0">alternative exon 2 exhaustion (139 nt) and alternative transcriptional start</arg>
+                    <arg n="1">mRNA species with different 5 UTRs</arg>
+                </example>
+                <example src="PERMUTATE" no="105">
+                    <text>We also report replacement of isoleucine to valine that may have resulted from a new mutation to codon 210.</text>
+                    <arg n="0">a new mutation to codon 210</arg>
+                    <arg n="1">replacement of isoleucine to valine</arg>
+                </example>
+                <example src="PERMUTATE" no="106">
+                    <text>We also report the a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity with the capability to result from reduction of signaling as a function of ras.</text>
+                    <arg n="0">reduction of signaling as a function of ras</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="107">
+                    <text>a dramatic change in vulvar induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1 was able to result from fluctuation in ras-dependent signaling.</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1</arg>
+                </example>
+                <example src="PERMUTATE" no="108">
+                    <text>a marked increase in the activity of acetylhydrolase PAF has the ability to probably result from expression of cDNA ISOform II DNA in COS7.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydrolase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="109">
+                    <text>a new mutation in codon 210 can ultimately resulted in replace isoleucine with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replace isoleucine with valine</arg>
+                </example>
+                <example src="PERMUTATE" no="110">
+                    <text>a new mutation in codon 210 cells can result in substitution of isoleucine to valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">substitution of isoleucine to valine</arg>
+                </example>
+                <example src="PERMUTATE" no="111">
+                    <text>a new mutation in codon 210 cells may have resulted in replacement of isoleucine to valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replacement of isoleucine to valine</arg>
+                </example>
+                <example src="PERMUTATE" no="112">
+                    <text>a new mutation in codon 210 has finally resulted in replace isoleucine with valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replace isoleucine with valine</arg>
+                </example>
+                <example src="PERMUTATE" no="113">
+                    <text>a new mutation in codon 210 may ultimately result in replacing isoleucine in valine.</text>
+                    <arg n="0">a new mutation in codon 210</arg>
+                    <arg n="1">replacing isoleucine in valine</arg>
+                </example>
+                <example src="PERMUTATE" no="114">
+                    <text>alternative exon 2 exhaustion (139 nt) and alternative transcriptional start cells may have resulted in mRNA species with different 5 UTRs.</text>
+                    <arg n="0">alternative exon 2 exhaustion (139 nt) and alternative transcriptional start</arg>
+                    <arg n="1">mRNA species with different 5 UTRs</arg>
+                </example>
+                <example src="PERMUTATE" no="115">
+                    <text>alternative exon 2 exhaustion (139 nt) and alternative transcriptional start is capable of result rise to mRNA species with different 5 UTRs.</text>
+                    <arg n="0">alternative exon 2 exhaustion (139 nt) and alternative transcriptional start</arg>
+                    <arg n="1">mRNA species with different 5 UTRs</arg>
+                </example>
+                <example src="PERMUTATE" no="116">
+                    <text>alternative mixed subdomains eventually resulted in superrepetition.</text>
+                    <arg n="0">alternative mixed subdomains</arg>
+                    <arg n="1">superrepetition</arg>
+                </example>
+                <example src="PERMUTATE" no="117">
+                    <text>alternative mixed subdomains may ultimately resulted in super-repetitor.</text>
+                    <arg n="0">alternative mixed subdomains</arg>
+                    <arg n="1">super-repetitor</arg>
+                </example>
+                <example src="PERMUTATE" no="118">
+                    <text>differential slicing can result in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential slicing</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="119">
+                    <text>differential slicing has finally resulted in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential slicing</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="120">
+                    <text>differential slicing may have resulted in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential slicing</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="121">
+                    <text>differential spacing cells is eventually able to result in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential spacing</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="122">
+                    <text>differential spasms can ultimately resulted in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential spasms</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="123">
+                    <text>differential spasms may eventually result in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential spasms</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="124">
+                    <text>differentiated xis, as we have result, is able to give rise to existence of NF-YA isoforms.</text>
+                    <arg n="0">differentiated xis</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="PERMUTATE" no="125">
+                    <text>exon 13 jump in s1031 animals can result in a 543 bp product.</text>
+                    <arg n="0">exon 13 jump in s1031 animals</arg>
+                    <arg n="1">a 543 bp product</arg>
+                </example>
+                <example src="PERMUTATE" no="126">
+                    <text>exon 13 jump in s1031 animals, as we have predicted, will result in a product of 543 bp.</text>
+                    <arg n="0">exon 13 jump in s1031 animals</arg>
+                    <arg n="1">a product of 543 bp</arg>
+                </example>
+                <example src="PERMUTATE" no="127">
+                    <text>exon 13 jump in s1031 animals, as we have result, is able to give rise to a 543 bp product.</text>
+                    <arg n="0">exon 13 jump in s1031 animals</arg>
+                    <arg n="1">a 543 bp product</arg>
+                </example>
+                <example src="PERMUTATE" no="128">
+                    <text>expression of cDNA ISOform II DNA in COS7 cells has the ability to ultimately result in a marked increase in acetylhydrolase activity PAF.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase activity PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="129">
+                    <text>expression of cDNA ISOform II DNA in COS7 is able to result in a marked increase in acetylhydrolase PAF activity.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase PAF activity</arg>
+                </example>
+                <example src="PERMUTATE" no="130">
+                    <text>expression of cDNA ISOform II DNA in COS7 will finally result in a marked increase in the activity of acetylhydrolase PAF.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydrolase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="131">
+                    <text>expression of cDNA ISOform II DNA in COS7, as predicted, may have resulted in a marked increase in the activity of acetylhydrolase PAF.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydrolase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="132">
+                    <text>expression of cDNA ISOform II DNA in COS7, as we have predicted, is likely to resulting in a marked increase in acetylhydrolase activity PAF.</text>
+                    <arg n="0">expression of cDNA ISOform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase activity PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="133">
+                    <text>expression of the DNA-cDNA ISOform II DNA in COS7 cells cells has resulted in a marked increase in the activity of acetylhydroxylase PAF.</text>
+                    <arg n="0">expression of the DNA-cDNA ISOform II DNA in COS7 cells</arg>
+                    <arg n="1">a marked increase in the activity of acetylhydroxylase PAF</arg>
+                </example>
+                <example src="PERMUTATE" no="134">
+                    <text>fluctuation in ras-dependent signaling can eventually result in a dramatic change in vulvar induction in the condition where there is a low-level activity of LET-23/SEM-5/SOS-1.</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition where there is a low-level activity of LET-23/SEM-5/SOS-1</arg>
+                </example>
+                <example src="PERMUTATE" no="135">
+                    <text>fluctuation in ras-dependent signaling has the ability to eventually result in a dramatic change in vulvul induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1.</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvul induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1</arg>
+                </example>
+                <example src="PERMUTATE" no="136">
+                    <text>fluctuation in ras-dependent signaling may result in a dramatic change in vulvul induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1 .</text>
+                    <arg n="0">fluctuation in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulvul induction in the condition that there is a low-level activity of LET-23/SEM-5/SOS-1</arg>
+                </example>
+                <example src="PERMUTATE" no="137">
+                    <text>fluctuation in signaling depending on the ras will finally result in a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on the ras</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="138">
+                    <text>fluctuation in signaling depending on the ras, as predicted, can result in a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">fluctuation in signaling depending on the ras</arg>
+                    <arg n="1">a dramatic change in vulvar induction in the condition that there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="139">
+                    <text>grid-dependent fluctuation in signaling, as we have predicted, may resulting in a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">grid-dependent fluctuation in signaling</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="PERMUTATE" no="140">
+                    <text>liquid charge of varying subunits has finally resulted in a rapid type of electrophoretic subunit LDH-B.</text>
+                    <arg n="0">liquid charge of varying subunits</arg>
+                    <arg n="1">a rapid type of electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="141">
+                    <text>liquid load of the variant subunit can result in fast-type electrophoretic subunit LDH-B.</text>
+                    <arg n="0">liquid load of the variant subunit</arg>
+                    <arg n="1">fast-type electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="142">
+                    <text>liquid load of the variant subunit has resulted in fast-type electrophoretic subunit LDH-B.</text>
+                    <arg n="0">liquid load of the variant subunit</arg>
+                    <arg n="1">fast-type electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="143">
+                    <text>liquid load of variant subunit, as we have predicted, may resulting in a variant electrophoretic subunit LDH-B fast type.</text>
+                    <arg n="0">liquid load of variant subunit</arg>
+                    <arg n="1">a variant electrophoretic subunit LDH-B fast type</arg>
+                </example>
+                <example src="PERMUTATE" no="144">
+                    <text>missing to use the normal donor site of the ear 12 intron may have resulted in a variant.</text>
+                    <arg n="0">missing to use the normal donor site of the ear 12 intron</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="PERMUTATE" no="145">
+                    <text>missing to use the normal donor site of the ear 12 intron, as predicted, can result in a variant.</text>
+                    <arg n="0">missing to use the normal donor site of the ear 12 intron</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="PERMUTATE" no="146">
+                    <text>multiple alternate subdomains may have resulted in superrepetition.</text>
+                    <arg n="0">multiple alternate subdomains</arg>
+                    <arg n="1">superrepetition</arg>
+                </example>
+                <example src="PERMUTATE" no="147">
+                    <text>multiple alternative subdomains can ultimately resulted in superrepetitor.</text>
+                    <arg n="0">multiple alternative subdomains</arg>
+                    <arg n="1">superrepetitor</arg>
+                </example>
+                <example src="PERMUTATE" no="148">
+                    <text>not to use the normal donor site of the coupling of intron 12, as we have predicted, has the ability to result in a variant.</text>
+                    <arg n="0">not to use the normal donor site of the coupling of intron 12</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="PERMUTATE" no="149">
+                    <text>not to use the normal donor site of the intron 12 ear, as we have predicted, is able to result in a variant.</text>
+                    <arg n="0">not to use the normal donor site of the intron 12 ear</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="PERMUTATE" no="150">
+                    <text>some alternative subdomains may eventually result in superrepetitor</text>
+                    <arg n="0">some alternative subdomains</arg>
+                    <arg n="1">superrepetitor</arg>
+                </example>
+                <example src="PERMUTATE" no="151">
+                    <text>some alternative subdomains may ultimately resulted in superrepetitor.</text>
+                    <arg n="0">some alternative subdomains</arg>
+                    <arg n="1">superrepetitor</arg>
+                </example>
+                <example src="PERMUTATE" no="152">
+                    <text>the net charge of the variant subunit cells has the ability to ultimately result in an electrophoretic subunit fast type LDH-B.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">an electrophoretic subunit fast type LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="153">
+                    <text>the net charge of the variant subunit may eventually result in an electrophoretic subunit LDH-B</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">an electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="154">
+                    <text>the net charge of the variant subunit may eventually result in an electrophoretic subunit variant of the fast type LDH-B.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">an electrophoretic subunit variant of the fast type LDH-B</arg>
+                </example>
+                <example src="PERMUTATE" no="155">
+                    <text>the net load of the variant subunit may result in a variant electrophoretic subunit LDH-B fast type .</text>
+                    <arg n="0">the net load of the variant subunit</arg>
+                    <arg n="1">a variant electrophoretic subunit LDH-B fast type</arg>
+                </example>
+                <example src="PERMUTATE" no="156">
+                    <text>the net load of the variant subunit may ultimately result in a variant electrophoretic subunit LDH-B.</text>
+                    <arg n="0">the net load of the variant subunit</arg>
+                    <arg n="1">a variant electrophoretic subunit LDH-B</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>A role of SOS-1 in FGFR-mediated signaling during development Hyertactive EGL-15 FGF receptor signaling has the ability to result in a Clr phenotype.</text>
+                    <arg n="0">A role of SOS-1 in FGFR-mediated signaling during development Hyertactive EGL-15 FGF receptor signaling</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>A role of SOS-1 in FGFR-mediated signaling during development Hyertactive EGL-15 FGF receptor signaling may result in a Clr phenotype .</text>
+                    <arg n="0">A role of SOS-1 in FGFR-mediated signaling during development Hyertactive EGL-15 FGF receptor signaling</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Change can cause heat instability and affect the net charge of the variant subunit results in a fast-type electrophoretic subunit LDH-B of variant.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">a fast-type electrophoretic subunit LDH-B of variant</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Diminutive EGL-15 signal has finally resulted in a phenotype of scrubbing body morphology.</text>
+                    <arg n="0">Diminutive EGL-15 signal</arg>
+                    <arg n="1">a phenotype of scrubbing body morphology</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Full sequencing of the open reading framework of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakob disease (CJD) revealed that a decrease in csgA gene transcription from csglin coding had the ability to result in the negative effect of cpxA mutation.</text>
+                    <arg n="0">a decrease in csgA gene transcription from csglin coding</arg>
+                    <arg n="1">the negative effect of cpxA mutation</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Mutations that are able to result in a SOS-1 role in the signaling mediated by FGFR during the hyperactive developmental signaling of FGF-15 receptors may prevent the binding of repressors to the site or change the binding site phase.</text>
+                    <arg n="0">a SOS-1 role in the signaling mediated by FGFR during the hyperactive developmental signaling of FGF-15 receptors</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Mutations that are able to result in a decrease in transcription of the csgA gene encoding csgA may prevent the binding of repressors to the site or change the binding site phase.</text>
+                    <arg n="0">a decrease in transcription of the csgA gene encoding csgA</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Mutations that can result in decreasing EGL-15 sign can prevent the binding of repressors to the site or change the binding phase of the binding site.</text>
+                    <arg n="0">decreasing EGL-15 sign</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Mutations that can resulted in a role of SOS-1 in the FGFR-mediated signaling during the development of hyperactive signaling EGL-15 receptor FGF can avoid binding of repressors to the site or change the binding phase of the binding site.</text>
+                    <arg n="0">a role of SOS-1 in the FGFR-mediated signaling during the development of hyperactive signaling EGL-15 receptor FGF</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Mutations that have the ability to result in a role of SOS-1 in FGFR-mediated signaling during the development of FGF EGL-15 Hyperactive receptor signaling may prevent the binding of repressors to the site or change the binding site phase.</text>
+                    <arg n="0">a role of SOS-1 in FGFR-mediated signaling during the development of FGF EGL-15 Hyperactive receptor signaling</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Mutations that result in a role for SOS-1 in the signaling mediated by FGFR during the hyperactive development EGL-15 FGF signaling receptor can avoid binding of repressors to the site or change the site binding phase.</text>
+                    <arg n="0">a role for SOS-1 in the signaling mediated by FGFR during the hyperactive development EGL-15 FGF signaling receptor</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Mutations that result in alternative exon 2 exhaustion (139 nt) and alternative transcriptional start can avoid binding of repressors to the site or change the site binding phase.</text>
+                    <arg n="0">alternative exon 2 exhaustion (139 nt) and alternative transcriptional start</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Mutations that resulted in a role of SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF may prevent the binding of the repressors to the site or change the binding site phase.</text>
+                    <arg n="0">a role of SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Mutations that resulted in liquid charge of varying subunits may prevent the binding of the repressors to the site or change the binding site phase.</text>
+                    <arg n="0">liquid charge of varying subunits</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>Mutations that resulting in a role for SOS-1 in signaling mediated by FGFR during the development of FGF receptor signaling EGL-15 Hyperactive can avoid binding of repressors to the site or change the site binding phase.</text>
+                    <arg n="0">a role for SOS-1 in signaling mediated by FGFR during the development of FGF receptor signaling EGL-15 Hyperactive</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>Mutations that resulting in both 5 and 3 splice mutations can avoid binding of repressors to the site or change the site binding phase.</text>
+                    <arg n="0">both 5 and 3 splice mutations</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>The a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive, as predicted, has resulted in the a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>The alteration can cause thermal instability and affect Diminutive EGL-15 signal after having resulted in a phenotype of scruwny body morphology.</text>
+                    <arg n="0">Diminutive EGL-15 signal</arg>
+                    <arg n="1">a phenotype of scruwny body morphology</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>The alteration can cause thermal instability and affect a role for SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF, which can result in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>The alteration can cause thermal instability and affect a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive being observed to result in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>The alteration can cause thermal instability and affect a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive which has proven to result finally in a Clr phenotype .</text>
+                    <arg n="0">a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>The alteration can cause thermal instability and affect alternative splicing of a single transcription which is shown to result in the difference in the 28 C-terminal amino acids between the beta(1) and beta(2) proteins.</text>
+                    <arg n="0">alternative splicing of a single transcription</arg>
+                    <arg n="1">the difference in the 28 C-terminal amino acids between the beta(1) and beta(2) proteins</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>The alteration can cause thermal instability and affect both the mutations of 5 and 3 splices, which ended up resulted in of high proportion of mature mRNA containing introns.</text>
+                    <arg n="0">both the mutations of 5 and 3 splices</arg>
+                    <arg n="1">of high proportion of mature mRNA containing introns</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>The alteration can cause thermal instability and affect differential splicing that may have resulted in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential splicing</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>The alteration can cause thermal instability and affect exon 13 skipping in animals s1031 that may have resulted in a 543 bp product.</text>
+                    <arg n="0">exon 13 skipping in animals s1031</arg>
+                    <arg n="1">a 543 bp product</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>The alteration can cause thermal instability and affect not to use the normal donor site of the intron 12 splice because it is able to result in a variant.</text>
+                    <arg n="0">not to use the normal donor site of the intron 12 splice</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>The alteration can cause thermal instability and affect the normal site of the intron 12 splice donor could not be used which is observed to result in a variant.</text>
+                    <arg n="0">the normal site of the intron 12 splice donor could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>The alteration can cause thermal instability and affect the place of normal splice donor of intron 12 could not be used which is able to finally result in a variant.</text>
+                    <arg n="0">the place of normal splice donor of intron 12 could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>The alteration may cause thermal instability and affect a role of SOS-1 in the FGFR-mediated signaling during the development of the hyperactive signaling receptor EGL-15 FGF, which may eventually result in a Clr phenotype.</text>
+                    <arg n="0">a role of SOS-1 in the FGFR-mediated signaling during the development of the hyperactive signaling receptor EGL-15 FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>The alteration may cause thermal instability and affect alternative exon splicing 139 nt which has been demonstrated to result in mRNA species with 5 distinct UTRs.</text>
+                    <arg n="0">alternative exon splicing 139 nt</arg>
+                    <arg n="1">mRNA species with 5 distinct UTRs</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>The alteration may cause thermal instability and affect alternative spacer of a single transcription which may result in difference in the 28 C-terminal amino acids between beta(1) and beta(2) proteins is able to result from A0 (alternative spacer of a single transcription).</text>
+                    <arg n="0">alternative spacer of a single transcription</arg>
+                    <arg n="1">difference in the 28 C-terminal amino acids between beta(1) and beta(2) proteins is able to result from A0 (alternative spacer of a single transcription)</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>The alteration may cause thermal instability and affect cooperative binding of the repressor to its two sites which finally resulted in repression.</text>
+                    <arg n="0">cooperative binding of the repressor to its two sites</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>The alteration may cause thermal instability and affect exon 13 skipping in animals s1031 which is observed to result in a 543 bp product.</text>
+                    <arg n="0">exon 13 skipping in animals s1031</arg>
+                    <arg n="1">a 543 bp product</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>The alteration may cause thermal instability and affect growth in ras-dependent signaling, which may ultimately resulted in a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity.</text>
+                    <arg n="0">growth in ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in volval induction under the condition where there is a low-level LET-23/SEM-5/SOS-1 activity</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>The alteration may cause thermal instability and affect the normal site of the intron 12 fitting donor could not be used which is observed to result in a variant.</text>
+                    <arg n="0">the normal site of the intron 12 fitting donor could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>The alteration may cause thermal instability and affect the normal site of the intron 12 fitting donor could not be used which may result in a variant.</text>
+                    <arg n="0">the normal site of the intron 12 fitting donor could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="37">
+                    <text>The change can cause heat instability and affect a decrease in transcription of the csgA gene encoding csgA after it has resulted in the negative effect of the mutation cpxA.</text>
+                    <arg n="0">a decrease in transcription of the csgA gene encoding csgA</arg>
+                    <arg n="1">the negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="38">
+                    <text>The change can cause heat instability and affect a role for SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF which has finally resulted in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="39">
+                    <text>The change can cause heat instability and affect a role of SOS-1 in FGFR-mediated signaling during development Hyertactive EGL-15 FGF receptor signaling which has finally resulted in a Clr phenotype.</text>
+                    <arg n="0">a role of SOS-1 in FGFR-mediated signaling during development Hyertactive EGL-15 FGF receptor signaling</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="40">
+                    <text>The change can cause heat instability and affect alternative spacer of a single transcription which resulted in difference in the 28 C-terminal amino acids between beta(1) and beta(2) proteins is able to result from A0 (alternative spacer of a single transcription).</text>
+                    <arg n="0">alternative spacer of a single transcription</arg>
+                    <arg n="1">difference in the 28 C-terminal amino acids between beta(1) and beta(2) proteins is able to result from A0 (alternative spacer of a single transcription)</arg>
+                </example>
+                <example src="REPLACE" no="41">
+                    <text>The change can cause heat instability and affect decreases the EGL-15 signaling by finally being able to result in a phenotype of scrubbing body morphology.</text>
+                    <arg n="0">decreases the EGL-15 signaling</arg>
+                    <arg n="1">a phenotype of scrubbing body morphology</arg>
+                </example>
+                <example src="REPLACE" no="42">
+                    <text>The change can cause heat instability and affect decreasing EGL-15 sign that may have resulted in scrutinic body morphology phenotype.</text>
+                    <arg n="0">decreasing EGL-15 sign</arg>
+                    <arg n="1">scrutinic body morphology phenotype</arg>
+                </example>
+                <example src="REPLACE" no="43">
+                    <text>The change can cause heat instability and affect the normal site of the intron 12 fitting donor could not be used which resulted in a variant.</text>
+                    <arg n="0">the normal site of the intron 12 fitting donor could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="44">
+                    <text>The change can cause thermal instability and affect the normal splice donor site of intron 12 could not be used and is shown to ultimately result in a variant.</text>
+                    <arg n="0">the normal splice donor site of intron 12 could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="45">
+                    <text>The decreasing EGL-15 signal and alternative transcriptional initiation, as result in our study, are capable of giving rise to scratched body morphology phenotype.</text>
+                    <arg n="0">decreasing EGL-15 signal</arg>
+                    <arg n="1">scratched body morphology phenotype</arg>
+                </example>
+                <example src="REPLACE" no="46">
+                    <text>The differential encryption may have resulted in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential encryption</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="REPLACE" no="47">
+                    <text>The differential encryption, as predicted, has the ability to result in existence of NF-YA isoforms.</text>
+                    <arg n="0">differential encryption</arg>
+                    <arg n="1">existence of NF-YA isoforms</arg>
+                </example>
+                <example src="REPLACE" no="48">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed A role of SOS-1 in FGFR-mediated signaling during development Hyertactive EGL-15 FGF receptor signaling that resulted in a Clr phenotype.</text>
+                    <arg n="0">A role of SOS-1 in FGFR-mediated signaling during development Hyertactive EGL-15 FGF receptor signaling</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="49">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed a decrease in the transcription of the csgA gene from csglin encoding that has the ability to result in the negative effect of the mutation cpxA.</text>
+                    <arg n="0">a decrease in the transcription of the csgA gene from csglin encoding</arg>
+                    <arg n="1">the negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="50">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive that will result in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="51">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling Hyperactive EGL-15 FGF that was observed to result in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling Hyperactive EGL-15 FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="52">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed alternative splicing of a single transcription resulting in the difference in the 28 C-terminal amino acids between beta(1) and beta(2).</text>
+                    <arg n="0">alternative splicing of a single transcription</arg>
+                    <arg n="1">the difference in the 28 C-terminal amino acids between beta(1) and beta(2)</arg>
+                </example>
+                <example src="REPLACE" no="53">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed alternative splicing of a single transcription that is able to result in the difference in the 28 C-terminal amino acids between the beta(1) and beta(2) proteins.</text>
+                    <arg n="0">alternative splicing of a single transcription</arg>
+                    <arg n="1">the difference in the 28 C-terminal amino acids between the beta(1) and beta(2) proteins</arg>
+                </example>
+                <example src="REPLACE" no="54">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed differential splicing that was observed to result in the existence of NF-YA isoforms.</text>
+                    <arg n="0">differential splicing</arg>
+                    <arg n="1">the existence of NF-YA isoforms</arg>
+                </example>
+                <example src="REPLACE" no="55">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed expression of cDNA isoform II DNA in COS7 that has the ability to result in a marked increase in acetylhydrolase activity PAF.</text>
+                    <arg n="0">expression of cDNA isoform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase activity PAF</arg>
+                </example>
+                <example src="REPLACE" no="56">
+                    <text>The full sequence of the open reading of the prion protein of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (JCD) revealed the net charge of the variant subunit that will result in a fast-type electrophoretic subunit LDH-B of variant.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">a fast-type electrophoretic subunit LDH-B of variant</arg>
+                </example>
+                <example src="REPLACE" no="57">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed a role for SOS-1 in signaling mediated by FGFR during the development of FGF receptor signaling EGL-15 Hyperactive results in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in signaling mediated by FGFR during the development of FGF receptor signaling EGL-15 Hyperactive</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="58">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed expression of cDNA isoform II DNA in COS7 that may result in a marked increase in acetylhydrolase activity PAF.</text>
+                    <arg n="0">expression of cDNA isoform II DNA in COS7</arg>
+                    <arg n="1">a marked increase in acetylhydrolase activity PAF</arg>
+                </example>
+                <example src="REPLACE" no="59">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed that the normal site of the intron 12 splice donor could not be used could result in a variant.</text>
+                    <arg n="0">the normal site of the intron 12 splice donor could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="60">
+                    <text>The full sequence of the open-reading table of the protein prion of a 68-year-old woman affected by a family form of Creutzfeldt-Jakobs disease (JCD) revealed the donor site of the normal helix of intron 12 could not be used that may result in a variant.</text>
+                    <arg n="0">the donor site of the normal helix of intron 12 could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="61">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes Diminutive EGL-15 signal with ability to entirely result in a phenotype of scruwny body morphology.</text>
+                    <arg n="0">Diminutive EGL-15 signal</arg>
+                    <arg n="1">a phenotype of scruwny body morphology</arg>
+                </example>
+                <example src="REPLACE" no="62">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes a role for SOS-1 in signaling mediated by FGFR during Hyperactive development EGL-15 FGF signaling receptor after having resulted a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in signaling mediated by FGFR during Hyperactive development EGL-15 FGF signaling receptor</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="63">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes a role of SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF with ability to result in a Clr phenotype.</text>
+                    <arg n="0">a role of SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="64">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes alternative deflection of a single transcription resulted in the complete difference in the 28 C-terminal amino acids between beta(1) and beta(2).</text>
+                    <arg n="0">alternative deflection of a single transcription</arg>
+                    <arg n="1">difference in the 28 C-terminal amino acids between beta(1) and beta(2)</arg>
+                </example>
+                <example src="REPLACE" no="65">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes alternative splicing of exon 2 (139 nt) and alternative transcriptional initiation, as suggested by our study, that results in mRNA species with different 5UTRs.</text>
+                    <arg n="0">alternative splicing of exon 2 (139 nt) and alternative transcriptional initiation, as suggested by our study,</arg>
+                    <arg n="1">mRNA species with different 5UTRs</arg>
+                </example>
+                <example src="REPLACE" no="66">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes failure to use the normal donor site of splice of intron 12 with ability to entirely result in a variant.</text>
+                    <arg n="0">failure to use the normal donor site of splice of intron 12</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="67">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes reduced signaling by EGL-15 that resulted in a phenotype of dirty body morphology.</text>
+                    <arg n="0">reduced signaling by EGL-15</arg>
+                    <arg n="1">a phenotype of dirty body morphology</arg>
+                </example>
+                <example src="REPLACE" no="68">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes reduced signaling by EGL-15 that results in pulled body morphology phenotype.</text>
+                    <arg n="0">reduced signaling by EGL-15</arg>
+                    <arg n="1">pulled body morphology phenotype</arg>
+                </example>
+                <example src="REPLACE" no="69">
+                    <text>The human mucin gene MUC5B, a central exon of 10.7 kb, codes reduced transcription of the csgA gene encoding for the clinic that are result as entirely negative effect of the mutation cpxA.</text>
+                    <arg n="0">reduced transcription of the csgA gene encoding for the clinic</arg>
+                    <arg n="1">negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="70">
+                    <text>The human mucin gene MUC5B, the 10.7kb central exon, codes Decrease Signor of the EGL-15 that has the ability to completely result in a phenotype of scrubbing body morphology.</text>
+                    <arg n="0">Decrease Signor of the EGL-15</arg>
+                    <arg n="1">a phenotype of scrubbing body morphology</arg>
+                </example>
+                <example src="REPLACE" no="71">
+                    <text>The human mucin gene MUC5B, the 10.7kb central exon, codes the normal site of the intron 12 fitting donor could not be used that has the ability to completely result in a variant.</text>
+                    <arg n="0">the normal site of the intron 12 fitting donor could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="72">
+                    <text>The human mucin gene MUC5B, the central exon of 10.7 kb, codes both the mutations of 5 and 3 splices that will result in of high proportion of mature mRNA containing introns.</text>
+                    <arg n="0">both the mutations of 5 and 3 splices</arg>
+                    <arg n="1">of high proportion of mature mRNA containing introns</arg>
+                </example>
+                <example src="REPLACE" no="73">
+                    <text>The human mucin gene MUC5B, the central exon of 10.7 kb, codes failure to use the normal site of the intron 12 splice donor that can result entirely in a variant.</text>
+                    <arg n="0">failure to use the normal site of the intron 12 splice donor</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="74">
+                    <text>The human mucin gene MUC5B, the great 10.7kb of central exon codes a decrease in the transcription of the csgA gene encoding csgA that resulted in the negative effect of the mutation cpxA.</text>
+                    <arg n="0">a decrease in the transcription of the csgA gene encoding csgA</arg>
+                    <arg n="1">the negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="75">
+                    <text>The research shows negative effect of cpxA mutation resulting from reduction of csgA gene transcription csgA coding.</text>
+                    <arg n="0">reduction of csgA gene transcription csgA coding</arg>
+                    <arg n="1">negative effect of cpxA mutation</arg>
+                </example>
+                <example src="REPLACE" no="76">
+                    <text>The the net charge of the variant subunit resulted in the a fast-type electrophoretic subunit LDH-B of variant.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">a fast-type electrophoretic subunit LDH-B of variant</arg>
+                </example>
+                <example src="REPLACE" no="77">
+                    <text>The the normal donor site of intron 12 donation could not be used has resulted in a variant.</text>
+                    <arg n="0">the normal donor site of intron 12 donation could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="78">
+                    <text>We also report the a Clr phenotype with the capability to result from a role of SOS-1 in FGFR-mediated signaling during the development of FGF EGL-15 Hyperactive receptor signaling.</text>
+                    <arg n="0">a role of SOS-1 in FGFR-mediated signaling during the development of FGF EGL-15 Hyperactive receptor signaling</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="79">
+                    <text>We also reported that high proportion of mature RNA containing introns is able to result from both 5 and 3 splice mutations.</text>
+                    <arg n="0">both 5 and 3 splice mutations</arg>
+                    <arg n="1">high proportion of mature RNA containing introns</arg>
+                </example>
+                <example src="REPLACE" no="80">
+                    <text>a SOS-1 role in the signaling mediated by FGFR during the hyperactive developmental signaling of FGF-15 receptors is capable of result rise to a Clr phenotype.</text>
+                    <arg n="0">a SOS-1 role in the signaling mediated by FGFR during the hyperactive developmental signaling of FGF-15 receptors</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="81">
+                    <text>a SOS-1 role in the signaling mediated by FGFR during the hyperactive developmental signaling of FGF-15 receptors, as we have predicted, is able to result in a Clr phenotype.</text>
+                    <arg n="0">a SOS-1 role in the signaling mediated by FGFR during the hyperactive developmental signaling of FGF-15 receptors</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="82">
+                    <text>a decrease in the transcription of the csgA gene encoding csgA may result in the negative effect of the mutation cpxA .</text>
+                    <arg n="0">a decrease in the transcription of the csgA gene encoding csgA</arg>
+                    <arg n="1">the negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="83">
+                    <text>a decrease in the transcription of the csgA gene from csglin encoding can result in the negative effect of the mutation cpxA.</text>
+                    <arg n="0">a decrease in the transcription of the csgA gene from csglin encoding</arg>
+                    <arg n="1">the negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="84">
+                    <text>a decrease in transcription of the csgA gene from csglin encoding, as predicted, may have resulted in the negative effect of the mutation cpxA.</text>
+                    <arg n="0">a decrease in transcription of the csgA gene from csglin encoding</arg>
+                    <arg n="1">the negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="85">
+                    <text>a decrease in transcription of the csgA gene from csglin encoding, as we have predicted, resulted in the negative effect of the mutation cpxA.</text>
+                    <arg n="0">a decrease in transcription of the csgA gene from csglin encoding</arg>
+                    <arg n="1">the negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="86">
+                    <text>a fast-type electrophoretic subunit LDH-B of variant has the ability to result from the net charge of the variant subunit.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">a fast-type electrophoretic subunit LDH-B of variant</arg>
+                </example>
+                <example src="REPLACE" no="87">
+                    <text>a role for SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF cells has the ability to ultimately result in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="88">
+                    <text>a role for SOS-1 in FGFR-mediated signaling during the development of hyperactive signaling receptors EGL-15 FGF may eventually result in a Clr phenotype</text>
+                    <arg n="0">a role for SOS-1 in FGFR-mediated signaling during the development of hyperactive signaling receptors EGL-15 FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="89">
+                    <text>a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive cells has resulted in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in the signaling mediated by FGFR during the development of the FGF receptor signaling EGL-15 Hyperactive</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="90">
+                    <text>a role for SOS-1 in the signaling mediated by FGFR during the development of the Hyperactive signaling EGL-15 FGF receptor can ultimately resulted in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in the signaling mediated by FGFR during the development of the Hyperactive signaling EGL-15 FGF receptor</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="91">
+                    <text>a role for SOS-1 in the signaling mediated by FGFR during the development of the hyperactive signaling of FGF-15 receptors, as we have predicted, has the ability to result in a Clr phenotype.</text>
+                    <arg n="0">a role for SOS-1 in the signaling mediated by FGFR during the development of the hyperactive signaling of FGF-15 receptors</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="92">
+                    <text>a role of SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF will eventually result in a Clr phenotype.</text>
+                    <arg n="0">a role of SOS-1 in FGFR-mediated signaling during development Hyperactive signaling of FGF-15 receptors FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="93">
+                    <text>a role of SOS-1 in FGFR-mediated signaling during the development of FGF EGL-15 Hyperactive receptor signaling has the ability to eventually result in a Clr phenotype.</text>
+                    <arg n="0">a role of SOS-1 in FGFR-mediated signaling during the development of FGF EGL-15 Hyperactive receptor signaling</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="94">
+                    <text>a role of SOS-1 in FGFR-mediated signaling during the development of FGF Hyperactive EGL-15 FGF receptor signaling has resulted in a Clr phenotype.</text>
+                    <arg n="0">a role of SOS-1 in FGFR-mediated signaling during the development of FGF Hyperactive EGL-15 FGF receptor signaling</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="95">
+                    <text>a role of SOS-1 in FGFR-mediated signaling during the development of FGF Hyperactive EGL-15 FGF receptor signaling has the ability to result in a Clr phenotype.</text>
+                    <arg n="0">a role of SOS-1 in FGFR-mediated signaling during the development of FGF Hyperactive EGL-15 FGF receptor signaling</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="96">
+                    <text>a role of SOS-1 in the FGFR-mediated signaling during the development of hyperactive signaling EGL-15 receptor FGF may result in a Clr phenotype.</text>
+                    <arg n="0">a role of SOS-1 in the FGFR-mediated signaling during the development of hyperactive signaling EGL-15 receptor FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="97">
+                    <text>a role of SOS-1 in the FGFR-mediated signaling during the development of the hyperactive signaling receptor EGL-15 FGF, as we have predicted, will result in a Clr phenotype.</text>
+                    <arg n="0">a role of SOS-1 in the FGFR-mediated signaling during the development of the hyperactive signaling receptor EGL-15 FGF</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="REPLACE" no="98">
+                    <text>alternative of a single transcription cut may eventually result in difference in C-terminal 28 amino acids between proteins beta(1) and beta(2) may have been the result of A0 (alternative of a single transcription cut).</text>
+                    <arg n="0">alternative of a single transcription cut</arg>
+                    <arg n="1">difference in C-terminal 28 amino acids between proteins beta(1) and beta(2) may have been the result of A0 (alternative of a single transcription cut)</arg>
+                </example>
+                <example src="REPLACE" no="99">
+                    <text>both 5 and 3 splice local mutations, as predicted, will result in high ratios of mature RNAm containing introns.</text>
+                    <arg n="0">both 5 and 3 splice local mutations</arg>
+                    <arg n="1">high ratios of mature RNAm containing introns</arg>
+                </example>
+                <example src="REPLACE" no="100">
+                    <text>both 5 and 3 splice mutations, as predicted, can result in high ratios of mature RNAm containing introns.</text>
+                    <arg n="0">both 5 and 3 splice mutations</arg>
+                    <arg n="1">high ratios of mature RNAm containing introns</arg>
+                </example>
+                <example src="REPLACE" no="101">
+                    <text>both the mutations at the site of 5 and 3 splices cells is eventually able to result in of high proportion of mature mRNAs containing introns.</text>
+                    <arg n="0">both the mutations at the site of 5 and 3 splices</arg>
+                    <arg n="1">of high proportion of mature mRNAs containing introns</arg>
+                </example>
+                <example src="REPLACE" no="102">
+                    <text>both the mutations of 5 and 3 splices will result in of high proportion of mature mRNAs containing introns .</text>
+                    <arg n="0">both the mutations of 5 and 3 splices</arg>
+                    <arg n="1">of high proportion of mature mRNAs containing introns</arg>
+                </example>
+                <example src="REPLACE" no="103">
+                    <text>both the mutations of 5 and 3 splices, as predicted, can result in of high proportion of mature mRNA containing introns.</text>
+                    <arg n="0">both the mutations of 5 and 3 splices</arg>
+                    <arg n="1">of high proportion of mature mRNA containing introns</arg>
+                </example>
+                <example src="REPLACE" no="104">
+                    <text>cooperative binding of the repressor to its two sites will finally result in repression.</text>
+                    <arg n="0">cooperative binding of the repressor to its two sites</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="REPLACE" no="105">
+                    <text>decreases the EGL-15 signaling is shown to result in a phenotype of scrubbing body morphology.</text>
+                    <arg n="0">decreases the EGL-15 signaling</arg>
+                    <arg n="1">a phenotype of scrubbing body morphology</arg>
+                </example>
+                <example src="REPLACE" no="106">
+                    <text>differential splicing can eventually result in the existence of isoforms of NF-YA.</text>
+                    <arg n="0">differential splicing</arg>
+                    <arg n="1">the existence of isoforms of NF-YA</arg>
+                </example>
+                <example src="REPLACE" no="107">
+                    <text>failure to use the normal donor site of splice of intron 12 is likely to resulting in a variant.</text>
+                    <arg n="0">failure to use the normal donor site of splice of intron 12</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="108">
+                    <text>failure to use the normal site of the intron 12 splice donor has resulted in a variant.</text>
+                    <arg n="0">failure to use the normal site of the intron 12 splice donor</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="109">
+                    <text>multiple alternative subdomains resulted in a superrepetitor.</text>
+                    <arg n="0">multiple alternative subdomains</arg>
+                    <arg n="1">a superrepetitor</arg>
+                </example>
+                <example src="REPLACE" no="110">
+                    <text>reduced transcription of the csgA curlin encoder gene is shown to result in negative effect of the mutation cpxA.</text>
+                    <arg n="0">reduced transcription of the csgA curlin encoder gene</arg>
+                    <arg n="1">negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="111">
+                    <text>reduced transcription of the csgA curlin encoder gene, as we have predicted, has the ability to result in negative effect of the mutation cpxA.</text>
+                    <arg n="0">reduced transcription of the csgA curlin encoder gene</arg>
+                    <arg n="1">negative effect of the mutation cpxA</arg>
+                </example>
+                <example src="REPLACE" no="112">
+                    <text>reduction of EGL-15 signaling may eventually result in a dirty body morphology phenotype.</text>
+                    <arg n="0">reduction of EGL-15 signaling</arg>
+                    <arg n="1">a dirty body morphology phenotype</arg>
+                </example>
+                <example src="REPLACE" no="113">
+                    <text>reduction of the EGL-15 signaling cells is eventually able to result in bodys dirty morphology phenotype.</text>
+                    <arg n="0">reduction of the EGL-15 signaling</arg>
+                    <arg n="1">bodys dirty morphology phenotype</arg>
+                </example>
+                <example src="REPLACE" no="114">
+                    <text>reduction of the EGL-15 signaling may eventually result in bodys dirty morphology phenotype.</text>
+                    <arg n="0">reduction of the EGL-15 signaling</arg>
+                    <arg n="1">bodys dirty morphology phenotype</arg>
+                </example>
+                <example src="REPLACE" no="115">
+                    <text>the donor place of normal helix of intron 12 could not be used, as we have predicted, has the ability to result in a variant.</text>
+                    <arg n="0">the donor place of normal helix of intron 12 could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="116">
+                    <text>the donor place of normal helix of intron 12 could not be used, as we have result, is able to give rise to a variant.</text>
+                    <arg n="0">the donor place of normal helix of intron 12 could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="117">
+                    <text>the normal splice donor site of intron 12 could not be used has finally resulted in a variant.</text>
+                    <arg n="0">the normal splice donor site of intron 12 could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="118">
+                    <text>the normal splice donor site of the 12th intron could not be used may eventually result in a variant</text>
+                    <arg n="0">the normal splice donor site of the 12th intron could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+                <example src="REPLACE" no="119">
+                    <text>the normal splice donor site of the 12th intron could not be used resulted in a variant .</text>
+                    <arg n="0">the normal splice donor site of the 12th intron could not be used</arg>
+                    <arg n="1">a variant</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

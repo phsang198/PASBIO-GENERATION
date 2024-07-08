@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="transform">
+            <roleset id="transform.01" name="to cause (a cell) to undergo genetic transformation&#x0A;" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent/causer of transformation&#x0A;" />
+                    <role n="1" descr="entity undergoing transformation&#x0A;" />
+                    <role n="2" descr="effect of transformation/ end state&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>FGF8b, as we and others have shown, efficicently transforms the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>FGF8b, as we and others have shown, has the ability to efficicently transform the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>FGF8b, as we and others have shown, has transformed the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>FGF8b, as we and others have shown, is observed to transform the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>FGF8b, as we and others have shown, may efficicently transform the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>FGF8b, as we and others have shown, may have efficicently transformed the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>For expression of the recombinant protein, pET28a-5 has been shown to be efficiently transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>For expression of the recombinant protein, pET28a-5 has been shown to be transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>This construct can be transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>This construct is likely to be transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>This construct may be dramatically transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>This construct may have been dramatically transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>This construct, as our study suggested, can be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>This construct, as our study suggested, is able to be transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>This construct, as our study suggested, may be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>This construct, as our study suggested, will be transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>We and others have shown that FGF8b has been found to transform the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>We and others have shown that FGF8b has transformed the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>We and others have shown that FGF8b may have efficiently transformed the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>We and others have shown that FGF8b may transform the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>We and others have shown that FGF8b transforms the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>We and others have shown that FGF8b will efficiently transform the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>We and others have shown that FGF8b will efficiently transform the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.</text>
+                    <arg n="0">FGF8b</arg>
+                    <arg n="1">the midbrain</arg>
+                    <arg n="2">a cerebellum fate</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>pET28a-5, for expression of the recombinant protein, has been probably transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>pET28a-5, for expression of the recombinant protein, has been transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>pET28a-5, for expression of the recombinant protein, is likely to be transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>pET28a-5, for expression of the recombinant protein, is likely to be transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>pET28a-5, for expression of the recombinant protein, is observed to be transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>pET28a-5, for expression of the recombinant protein, may have been transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>This construct was transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>For expression of the recombinant protein, This construct has the ability to be transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>For expression of the recombinant protein, This construct is observed to be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>For expression of the recombinant protein, This construct is observed to be transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>For expression of the recombinant protein, This construct, as our study suggested, has the ability to be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>For expression of the recombinant protein, This construct, as our study suggested, is able to be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>For expression of the recombinant protein, This construct, as our study suggested, is efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>For expression of the recombinant protein, This construct, as our study suggested, is likely to be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>For expression of the recombinant protein, pET28a-5, for expression of the recombinant protein, is likely to be transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>For expression of the recombinant protein, pET28a-5, for expression of the recombinant protein, is observed to be efficiently transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>For expression of the recombinant protein, pET28a-5, for expression of the recombinant protein, is observed to be transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>For expression of the recombinant protein, pET28a-5, for expression of the recombinant protein, is transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>For expression of the recombinant protein, pET28a-5, for expression of the recombinant protein, may have been transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>For expression of the recombinant protein, pET28a-5, for expression of the recombinant protein, may have been transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>For expression of the recombinant protein, pET28a-5, for expression of the recombinant protein, was transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>This construct can be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>This construct has been proven to be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>This construct has the ability to be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>This construct is likely to be probably transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>This construct is likely to be probably transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>This construct may have been probably transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>This construct will be efficiently transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>This construct, as our study suggested, can be dramatically transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>This construct, as our study suggested, has been shown to be dramatically transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>This construct, as our study suggested, has been shown to be probably transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>This construct, as our study suggested, is able to be probably transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>This construct, as our study suggested, is observed to be dramatically transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>This construct, as our study suggested, is probably transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>This construct, as our study suggested, may be probably transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>This construct, as our study suggested, will be dramatically transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="1">This construct, as our study suggested,</arg>
+                    <arg n="2">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>pET28a-5 has been proven to be dramatically transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>pET28a-5 may be dramatically transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>pET28a-5 may have been efficiently transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>pET28a-5 will be efficiently transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>pET28a-5, for expression of the recombinant protein, has been proven to be transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>pET28a-5, for expression of the recombinant protein, is able to be efficiently transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>pET28a-5, for expression of the recombinant protein, is dramatically transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>pET28a-5, for expression of the recombinant protein, is observed to be efficiently transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>pET28a-5, for expression of the recombinant protein, may be dramatically transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>pET28a-5, for expression of the recombinant protein, was transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>pET28a-5, for expression of the recombinant protein, will be efficiently transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="1">pET28a-5, for expression of the recombinant protein,</arg>
+                    <arg n="2">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

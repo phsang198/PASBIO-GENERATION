@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="inhibit">
+            <roleset id="inhibit.01" name="" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent&#x0A;" />
+                    <role n="1" descr="the entity being inhibited by agent to get binding&#x0A;" />
+                    <role n="2" descr="the action or property being inhibited&#x0A;" />
+                </roles>
+                <example src="GREC" no="0">
+                    <text>CRP-cAMP inhibits sigma (54)-dependent glnAp2 strongly, by 21-fold.</text>
+                    <arg n="0">CRP-cAMP</arg>
+                    <arg n="1">sigma (54)-dependent glnAp2</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 in transiently transfected Jurkat T-leukemia cells was also inhibited by coexpression of MAD-3.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while GadW inhibits GadX-dependent activation.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that the CRP-cAMP complex inhibits the glnAp2 promoter activity.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="1">glnAp2 promoter</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>Moreover, Dam methylation inhibits binding of Lrp/PapI near the GATC1028 site and alters binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="translate">
+<roleset id="translate.03" name="translate into = be equivalent in effect
+" wordnet="6">
+<roles>
+  <role n="0" descr="theme
+"/>
+  <role n="1" descr="equivalence       		
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+In addition, our data show that the functions performed by these molecules/pathways in promoting cell survival or apoptosis/anoikis translate into complex, differential modulations of individual Bcl-2 homologs.
+
+</text>
+       <arg n="0">complex, differential modulations of individual Bcl-2 homologs
+</arg>
+       <arg n="1">the functions
+</arg>
+<fdg>
+1	In	in	cla:&gt;6	@ADVL %EH PREP
+2	addition	addition	pcomp:&gt;1	@&lt;P %NH N NOM SG
+3	,	,
+4	our	we	attr:&gt;5	@A&gt; %&gt;N PRON PERS GEN PL1
+5	data	data	subj:&gt;6	@SUBJ %NH N NOM
+6	show	show	main:&gt;0	@+FMAINV %VA V PRES
+7	that	that		@CS %CS CS
+8	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+9	functions	function		@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@I-OBJ %NH N NOM PL
+10	performed	perform	mod:&gt;9	@-FMAINV %VP EN
+11	by	by	ha:&gt;10	@ADVL %EH PREP
+12	these	this	det:&gt;13	@DN&gt; %&gt;N DET DEM PL
+13	molecules/pathways	molecules/pathway	pcomp:&gt;11	@&lt;P %NH &lt;?&gt; N NOM PL
+14	in	in		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+15	promoting	promote	pcomp:&gt;14	@&lt;P-FMAINV %VA ING
+16	cell	cell	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	survival	survival	obj:&gt;15	@OBJ %NH N NOM SG
+18	or	or		@CC %CC CC
+19	apoptosis/anoikis	apoptosis/anoiki	subj:&gt;20	@SUBJ %NH &lt;?&gt; N NOM PL
+20	translate	translate		@+FMAINV %VA V PRES
+21	into	into	ha:&gt;20	@ADVL %EH PREP
+22	complex	complex	cc:&gt;24	@A&gt; %&gt;N A ABS
+23	,	,
+24	differential	differential	attr:&gt;25	@A&gt; %&gt;N A ABS
+25	modulations	modulation	pcomp:&gt;21	@&lt;P %NH N NOM PL
+26	of	of	mod:&gt;25	@&lt;NOM-OF %N&lt; PREP
+27	individual	individual	attr:&gt;28	@A&gt; %&gt;N A ABS
+28	Bcl-2	bcl-2	qn:&gt;29	@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+29	homologs	homolog	pcomp:&gt;26	@&lt;P %NH N NOM PL
+30	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+This may translate into faster activation of the muscle fibres, thus partly explaining the increase in power output.
+
+</text>
+       <arg n="0">faster activation of the muscle fibres 
+</arg>
+       <arg n="1">This
+</arg>
+<fdg>
+1	This	this	subj:&gt;2	@SUBJ %NH PRON DEM SG
+2	may	may	v-ch:&gt;3	@+FAUXV %AUX V AUXMOD
+3	translate	translate	main:&gt;0	@-FMAINV %VA V INF
+4	into	into	goa:&gt;3	@ADVL %EH PREP
+5	faster	fast	attr:&gt;6	@A&gt; %&gt;N A CMP
+6	activation	activation	pcomp:&gt;4	@&lt;P %NH N NOM SG
+7	of	of	mod:&gt;6	@&lt;NOM-OF %N&lt; PREP
+8	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+9	muscle	muscle	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	fibres	fibre	pcomp:&gt;7	@&lt;P %NH N NOM PL
+11	,	,
+12	thus	thus	meta:&gt;14	@ADVL %EH ADV
+13	partly	partly		@ADVL %EH ADV
+14	explaining	explain		@-FMAINV %VA ING
+15	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+16	increase	increase	obj:&gt;14	@OBJ %NH N NOM SG
+17	in	in	mod:&gt;16	@&lt;NOM %N&lt; PREP
+18	power	power	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	output	output	pcomp:&gt;17	@&lt;P %NH N NOM SG
+20	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*3">
+<text>
+Persistent diuretic use results in dynamic changes in ECW and other body fluid compartments that translate into chronic blood pressure reduction.
+
+</text>
+       <arg n="0">chronic blood pressure reduction 
+</arg>
+       <arg n="1">dynamic changes in ECW and other body fluid compartments 
+</arg>
+<fdg>
+1	Persistent	persistent	attr:&gt;2	@A&gt; %&gt;N A ABS
+2	diuretic	diuretic	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	use	use	subj:&gt;4	@SUBJ %NH N NOM SG
+4	results	result	main:&gt;0	@+FMAINV %VA V PRES SG3
+5	in	in	loc:&gt;4	@ADVL %EH PREP
+6	dynamic	dynamic	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	changes	change	pcomp:&gt;5	@&lt;P %NH N NOM PL
+8	in	in	phr:&gt;4	@ADVL %EH PREP
+9	ECW	ecw	pcomp:&gt;8	@&lt;P %NH N NOM SG
+10	and	and	cc:&gt;9	@CC %CC CC
+11	other	other	det:&gt;14	@DN&gt; %&gt;N DET
+12	body	body	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+13	fluid	fluid	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	compartments	compartment	cc:&gt;9	@&lt;P %NH N NOM PL
+15	that	that	subj:&gt;16	@SUBJ %NH &lt;Rel&gt; PRON
+16	translate	translate	mod:&gt;14	@+FMAINV %VA V PRES
+17	into	into	goa:&gt;16	@ADVL %EH PREP
+18	chronic	chronic	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	blood	blood	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+20	pressure	pressure	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	reduction	reduction	pcomp:&gt;17	@&lt;P %NH N NOM SG
+22	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+The simple rules governing how local interactions among individuals translate into group behaviors are found across social groups, giving social insects the potential to have a profound impact on our understanding of the interplay between network dynamics and social evolution.
+
+</text>
+       <arg n="0">group behaviors 
+</arg>
+       <arg n="1">local interactions among individuals 
+</arg>
+<fdg>
+1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+2	simple	simple	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	rules	rule		@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@PCOMPL-S %NH N NOM PL
+4	governing	govern		@-FMAINV %VA ING
+5	how	how	man:&gt;10	@ADVL %EH ADV WH
+6	local	local	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	interactions	interaction	subj:&gt;10	@SUBJ %NH N NOM PL
+8	among	among	mod:&gt;7	@&lt;NOM %N&lt; PREP
+9	individuals	individual	pcomp:&gt;8	@&lt;P %NH N NOM PL
+10	translate	translate	obj:&gt;4	@+FMAINV %VA V PRES
+11	into	into	goa:&gt;10	@ADVL %EH PREP
+12	group	group	attr:&gt;13	@A&gt; %&gt;N N NOM
+13	behaviors	behavior	pcomp:&gt;11	@&lt;P %NH N NOM PL
+14	are	be	v-ch:&gt;15	@+FAUXV %AUX V PRES
+15	found	find		@-FMAINV %VP EN
+16	across	across	ha:&gt;15	@ADVL %EH PREP
+17	social	social	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	groups	group	pcomp:&gt;16	@&lt;P %NH N NOM PL
+19	,	,
+20	giving	give	man:&gt;15	@-FMAINV %VA ING
+21	social	social	attr:&gt;22	@A&gt; %&gt;N A ABS
+22	insects	insect	dat:&gt;20	@I-OBJ %NH N NOM PL
+23	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+24	potential	potential	obj:&gt;20	@OBJ %NH A ABS
+25	to	to	pm:&gt;26	@INFMARK&gt; %AUX INFMARK&gt;
+26	have	have	mod:&gt;24	@-FMAINV %VA V INF
+27	a	a	det:&gt;29	@DN&gt; %&gt;N DET SG
+28	profound	profound	attr:&gt;29	@A&gt; %&gt;N A ABS
+29	impact	impact	obj:&gt;26	@OBJ %NH N NOM SG
+30	on	on	mod:&gt;29	@&lt;NOM %N&lt; PREP
+31	our	we		@&lt;P %NH PRON PERS GEN PL1
+32	understanding	understand		@&lt;P-FMAINV %VA ING
+33	of	of	ha:&gt;32	@ADVL %EH PREP
+34	the	the	det:&gt;35	@DN&gt; %&gt;N DET
+35	interplay	interplay	pcomp:&gt;33	@&lt;P %NH N NOM SG
+36	between	between	mod:&gt;35	@&lt;NOM %N&lt; PREP
+37	network	network	attr:&gt;38	@A&gt; %&gt;N N NOM SG
+38	dynamics	dynamics	pcomp:&gt;36	@&lt;P %NH N NOM
+39	and	and	cc:&gt;38	@CC %CC CC
+40	social	social	attr:&gt;41	@A&gt; %&gt;N A ABS
+41	evolution	evolution	cc:&gt;38	@&lt;P %NH N NOM SG
+42	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+Interestingly, this reduction in liver injury failed to translate into improved survival.
+
+</text>
+       <arg n="0">improved survival
+</arg>
+       <arg n="1">this reduction in liver injury
+</arg>
+<fdg>
+1	Interestingly	interestingly	meta:&gt;8	@ADVL %EH ADV
+2	,	,
+3	this	this	det:&gt;4	@DN&gt; %&gt;N DET DEM SG
+4	reduction	reduction	subj:&gt;8	@SUBJ %NH N NOM SG
+5	in	in	mod:&gt;4	@&lt;NOM %N&lt; PREP
+6	liver	liver	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	injury	injury	pcomp:&gt;5	@&lt;P %NH N NOM SG
+8	failed	fail	main:&gt;0	@+FMAINV %VA V PAST
+9	to	to	pm:&gt;10	@INFMARK&gt; %AUX INFMARK&gt;
+10	translate	translate	obj:&gt;8	@-FMAINV %VA V INF
+11	into	into	goa:&gt;10	@ADVL %EH PREP
+12	improved	improved	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	survival	survival	pcomp:&gt;11	@&lt;P %NH N NOM SG
+14	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*6">
+<text>
+These changes further translate into altered expression levels and time kinetics of a number of early genes (peak expression at 2 h after stimulation).
+
+</text>
+       <arg n="0">altered expression levels and time kinetics of a number of early genes
+</arg>
+       <arg n="1">These changes 
+</arg>
+<fdg>
+1	These	this	det:&gt;2	@DN&gt; %&gt;N DET DEM PL
+2	changes	change	subj:&gt;4	@SUBJ %NH N NOM PL
+3	further	far	loc:&gt;4	@ADVL %EH ADV CMP
+4	translate	translate	main:&gt;0	@+FMAINV %VA V PRES
+5	into	into	goa:&gt;4	@ADVL %EH PREP
+6	altered	altered	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	expression	expression	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	levels	level	pcomp:&gt;5	@&lt;P %NH N NOM PL
+9	and	and	cc:&gt;8	@CC %CC CC
+10	time	time	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+11	kinetics	kinetics	cc:&gt;8	@&lt;P %NH N NOM SG
+12	of	of	mod:&gt;11	@&lt;NOM-OF %N&lt; PREP
+13	a	a	det:&gt;14	@DN&gt; %&gt;N DET SG
+14	number	number	pcomp:&gt;12	@&lt;P %NH N NOM
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	early	early	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	genes	gene	pcomp:&gt;15	@&lt;P %NH N NOM PL
+18	(	(
+19	peak	peak	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+20	expression	expression	mod:&gt;17	@NH %NH N NOM SG
+21	at	at	mod:&gt;20	@&lt;NOM %N&lt; PREP
+22	2	2	qn:&gt;23	@QN&gt; %&gt;N NUM CARD
+23	h	h	pcomp:&gt;21	@&lt;P %NH ABBR NOM SG
+24	after	after	mod:&gt;23	@&lt;NOM %N&lt; PREP
+25	stimulation	stimulation	pcomp:&gt;24	@&lt;P %NH N NOM SG
+26	)	)
+27	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="7">
+<text>
+Remarkably, differences between ligands that seem small in the [35S]GTPgammaS binding assay translate into huge differences in the magnitude of Ca2+ responses.
+
+</text>
+       <arg n="0">huge differences in the magnitude of Ca2+ responses
+</arg>
+       <arg n="1">differences between ligands that seem small in the [35S]GTPgammaS binding assay
+</arg>
+<fdg>
+1	Remarkably	remarkably	meta:&gt;17	@ADVL %EH ADV
+2	,	,
+3	differences	difference	subj:&gt;17	@SUBJ %NH N NOM PL
+4	between	between	mod:&gt;3	@&lt;NOM %N&lt; PREP
+5	ligands	ligand	pcomp:&gt;4	@&lt;P %NH N NOM PL
+6	that	that	subj:&gt;7	@SUBJ %NH &lt;Rel&gt; PRON
+7	seem	seem	mod:&gt;5	@+FMAINV %VA V PRES
+8	small	small	comp:&gt;7	@PCOMPL-S %NH A ABS
+9	in	in	loc:&gt;7	@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+10	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+11	[	[
+12	35S	35s	main:&gt;11	@NH %NH NUM CARD
+13	]	]
+14	GTPgammaS	gtpgammas		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+15	binding	bind		@-FMAINV %VA ING
+16	assay	assay	obj:&gt;15	@OBJ %NH N NOM SG
+17	translate	translate	main:&gt;0	@+FMAINV %VA V PRES
+18	into	into	goa:&gt;17	@ADVL %EH PREP
+19	huge	huge	attr:&gt;20	@A&gt; %&gt;N A ABS
+20	differences	difference	pcomp:&gt;18	@&lt;P %NH N NOM PL
+21	in	in	mod:&gt;20	@&lt;NOM %N&lt; PREP
+22	the	the	det:&gt;23	@DN&gt; %&gt;N DET
+23	magnitude	magnitude	pcomp:&gt;21	@&lt;P %NH N NOM SG
+24	of	of	mod:&gt;23	@&lt;NOM-OF %N&lt; PREP
+25	Ca2	ca2	pcomp:&gt;24	@&lt;P %NH N NOM SG
+26	+	+	cc:&gt;25	@CC %CC CC
+27	responses	response	cc:&gt;25	@&lt;P %NH N NOM PL
+28	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

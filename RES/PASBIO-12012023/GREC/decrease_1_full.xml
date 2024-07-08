@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="delete">
+            <roleset id="delete.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer mechanism&#x09;&#x09;&#x09;&#x09;// mutation, alternative splicing //&#x0A;" />
+                    <role n="1" descr="entity being removed&#x09;&#x09;&#x09;// exon, gene, chromosomal region, cell //&#x0A;" />
+                    <role n="2" descr="resultant product&#x09;&#x09;&#x09;// transcripts //&#x0A;" />
+                </roles>
+                <example src="GREC" no="0">
+                    <text>Mutation of the hns gene in E. coli has resulted in strong expression of the V. fischeri lux system at low cell density even in an rpoS deleted strain of E. coli that emits very low levels of luminescence.</text>
+                    <arg n="1">rpoS</arg>
+                    <arg n="2">strain of E. coli that emits very low levels of luminescence</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Studies with strains deleted for the micF locus showed that the marA-dependent reduction of OmpF required an intact micF locus.</text>
+                    <arg n="1">micF locus</arg>
+                    <arg n="2">strains</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>Study of the promoter-lacZ gene fusions introduced into the chromosome indicated that galS expression was elevated in cells in which the normal galS gene was interrupted, but not in cells in which the galR gene was deleted.</text>
+                    <arg n="1">the galR gene</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="transform">
+<roleset id="transform.01" name="to cause (a cell) to undergo genetic transformation
+" wordnet="2">
+<roles>
+  <role n="0" descr="agent/causer of transformation
+"/>
+  <role n="1" descr="entity undergoing transformation
+"/>
+  <role n="2" descr="effect of transformation/ end state
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+We and others have found that FGF8b can transform the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.
+
+</text>
+       <arg n="0">FGF8b 
+</arg>
+       <arg n="1">the midbrain
+</arg>
+       <arg n="2">[into] a cerebellum fate
+</arg>
+       <arg n="M-MOD">can
+</arg>
+<fdg>
+1	We	we	cc:&gt;3	@SUBJ %NH PRON PERS NOM PL1
+2	and	and	cc:&gt;3	@CC %CC CC
+3	others	other	subj:&gt;4	@SUBJ %NH PRON NOM PL
+4	have	have	v-ch:&gt;5	@+FAUXV %AUX V PRES
+5	found	find	main:&gt;0	@-FMAINV %VA EN
+6	that	that	pm:&gt;9	@CS %CS CS
+7	FGF8b	fgf8b	subj:&gt;8	@SUBJ %NH N NOM SG
+8	can	can	v-ch:&gt;9	@+FAUXV %AUX V AUXMOD
+9	transform	transform	obj:&gt;5	@-FMAINV %VA V INF
+10	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+11	midbrain	midbrain	obj:&gt;9	@OBJ %NH N NOM SG
+12	into	into	goa:&gt;9	@ADVL %EH PREP
+13	a	a	det:&gt;15	@DN&gt; %&gt;N DET SG
+14	cerebellum	cerebellum	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	fate	fate	pcomp:&gt;12	@&lt;P %NH N NOM SG
+16	,	,
+17	whereas	whereas	pm:&gt;20	@CS %CS CS
+18	FGF8a	fgf8a	subj:&gt;19	@SUBJ %NH N NOM SG
+19	can	can	v-ch:&gt;20	@+FAUXV %AUX V AUXMOD
+20	promote	promote	cnd:&gt;9	@-FMAINV %VA V INF
+21	midbrain	midbrain	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	development	development	obj:&gt;20	@OBJ %NH N NOM SG
+23	STOPPOINT
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+This construct was transformed into the yeast strain HF7c (Clontech).
+
+</text>
+       <arg n="1">This construct
+</arg>
+       <arg n="2">[into] the yeast strain HF7c (Clontech)
+</arg>
+       <arg n=""></arg>
+<fdg>
+2	construct	construct	subj:&gt;3	@SUBJ %NH N NOM SG
+3	was	be	v-ch:&gt;4	@+FAUXV %AUX V PAST
+4	transformed	transform	main:&gt;0	@-FMAINV %VP EN
+5	into	into	goa:&gt;4	@ADVL %EH PREP
+6	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+7	yeast	yeast	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	strain	strain	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	HF7c	hf7c	pcomp:&gt;5	@&lt;P %NH N NOM SG
+10	(	(
+11	Clontech	clontech	mod:&gt;9	@NH %NH &lt;?&gt; N NOM SG
+12	)	)
+13	STOPPOINT
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+For expression of the recombinant protein, pET28a-5 was transformed into Escherichia coli strain BL21(DE3).
+
+</text>
+       <arg n="1">pET28a-5
+</arg>
+       <arg n="2">[into] Escherichia coli strain BL21(DE3)
+</arg>
+       <arg n=""></arg>
+<fdg>
+2	expression	expression	pcomp:&gt;1	@&lt;P %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+5	recombinant	recombinant	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	protein	protein	pcomp:&gt;3	@&lt;P %NH N NOM SG
+7	,	,
+8	pET28a-5	pet28a-5	subj:&gt;9	@SUBJ %NH &lt;?&gt; NUM CARD
+9	was	be	v-ch:&gt;10	@+FAUXV %AUX V PAST
+10	transformed	transform	main:&gt;0	@-FMAINV %VP EN
+11	into	into	ha:&gt;10	@ADVL %EH PREP
+12	Escherichia	escherichia	attr:&gt;13	@A&gt; %&gt;N N NOM PL
+13	coli	coli	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	strain	strain	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	BL21(DE3	bl21(de3		@SUBJ %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+16	)	)
+17	STOPPOINT
+</fdg>
+</example>
+</roleset>
+<roleset id="transform.02" name="to transfer gene from source organism into target organism
+" wordnet="6">
+<roles>
+  <role n="1" descr="entity being inserted
+"/>
+  <role n="2" descr="organism or cell undergoing transformation
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+The DNA of budded viruses (BVs) was used to transform E.coli.
+
+</text>
+       <arg n="1">The DNA of budded viruses
+</arg>
+       <arg n="2">E.coli 
+</arg>
+<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	DNA	dna	subj:&gt;9	@SUBJ %NH ABBR NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	budded	budded	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	viruses	virus	pcomp:&gt;3	@&lt;P %NH N NOM PL
+6	(	(
+7	BVs	bvs	mod:&gt;5	@NH %NH &lt;?&gt; N NOM SG
+8	)	)
+9	was	be	v-ch:&gt;10	@+FAUXV %AUX V PAST
+10	used	use	main:&gt;0	@-FMAINV %VP EN
+11	to	to	pm:&gt;12	@INFMARK&gt; %AUX INFMARK&gt;
+12	transform	transform	cnt:&gt;10	@-FMAINV %VA V INF
+13	E.	e.	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	coli	coli	obj:&gt;12	@OBJ %NH N NOM SG
+15	STOPPOINT
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Expression plasmids of the combinations indicated (central panel) were transformed into yeast and selected for by growth on plates lacking leucine and tryptophan (left panel).
+
+</text>
+       <arg n="1">Expression plasmids of the combinations indicated (central panel)
+</arg>
+       <arg n="2">[into] yeast
+</arg>
+<fdg>
+1	Expression	expression	attr:&gt;2	@A&gt; %&gt;N N NOM SG
+2	plasmids	plasmid	subj:&gt;6	@SUBJ %NH N NOM PL
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+5	combinations	combination	pcomp:&gt;3	@&lt;P %NH N NOM PL
+6	indicated	indicate		@+FMAINV %VA V PAST
+7	(	(
+8	central	central	attr:&gt;9	@A&gt; %&gt;N A ABS
+9	panel	panel		@NH %NH N NOM SG	@APP %NH N NOM SG
+10	)	)
+11	were	be	v-ch:&gt;12	@+FAUXV %AUX V PAST PL
+12	transformed	transform		@-FMAINV %VP EN
+13	into	into	goa:&gt;12	@ADVL %EH PREP
+14	yeast	yeast	pcomp:&gt;13	@&lt;P %NH N NOM SG
+15	and	and	cc:&gt;12	@CC %CC CC
+16	selected	select	cc:&gt;12	@-FMAINV %VP EN
+17	for	for	ha:&gt;16	@ADVL %EH PREP
+18	by	by	mod:&gt;17	@ADVL %EH PREP
+19	growth	growth	pcomp:&gt;18	@&lt;P %NH N NOM SG
+20	on	on	mod:&gt;19	@&lt;NOM %N&lt; PREP
+21	plates	plate	pcomp:&gt;20	@&lt;P %NH N NOM PL
+22	lacking	lack	mod:&gt;21	@-FMAINV %VA ING
+23	leucine	leucine	obj:&gt;22	@OBJ %NH N NOM SG
+24	and	and	cc:&gt;23	@CC %CC CC
+25	tryptophan	tryptophan	cc:&gt;23	@OBJ %NH N NOM SG
+26	(	(
+27	left	leave	mod:&gt;25	@+FMAINV %VA V PAST
+28	panel	panel	obj:&gt;27	@OBJ %NH N NOM SG
+29	)	)
+30	STOPPOINT
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+This construct was transformed into the yeast strain HF7c (Clontech).
+
+</text>
+       <arg n="1">This construct
+</arg>
+       <arg n="2">[into] the yeast strain HF7c (Clontech)
+</arg>
+<fdg>
+1	This	this	det:&gt;2	@DN&gt; %&gt;N DET DEM SG
+2	construct	construct	subj:&gt;3	@SUBJ %NH N NOM SG
+3	was	be	v-ch:&gt;4	@+FAUXV %AUX V PAST
+4	transformed	transform	main:&gt;0	@-FMAINV %VP EN
+5	into	into	goa:&gt;4	@ADVL %EH PREP
+6	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+7	yeast	yeast	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	strain	strain	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	HF7c	hf7c	pcomp:&gt;5	@&lt;P %NH N NOM SG
+10	(	(
+11	Clontech	clontech	mod:&gt;9	@NH %NH &lt;?&gt; N NOM SG
+12	)	)
+13	STOPPOINT
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+For expression of the recombinant protein, pET28a-5 was transformed into Escherichia coli strain BL21(DE3).
+
+</text>
+       <arg n="1">pET28a-5
+</arg>
+       <arg n="2">[into] Escherichia coli strain BL21(DE3)
+</arg>
+<fdg>
+1	For	for	cla:&gt;10	@ADVL %EH PREP
+2	expression	expression	pcomp:&gt;1	@&lt;P %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+5	recombinant	recombinant	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	protein	protein	pcomp:&gt;3	@&lt;P %NH N NOM SG
+7	,	,
+8	pET28a-5	pet28a-5	subj:&gt;9	@SUBJ %NH &lt;?&gt; NUM CARD
+9	was	be	v-ch:&gt;10	@+FAUXV %AUX V PAST
+10	transformed	transform	main:&gt;0	@-FMAINV %VP EN
+11	into	into	ha:&gt;10	@ADVL %EH PREP
+12	Escherichia	escherichia	attr:&gt;13	@A&gt; %&gt;N N NOM PL
+13	coli	coli	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	strain	strain	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	BL21(DE3	bl21(de3		@SUBJ %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+16	)	)
+17	STOPPOINT
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+To generate GST fusion proteins, the relevant DNA fragments were cloned into pGex2T(Pharmacia) and transformed into the bacterial strains BL21 or TOPP (Stratagene).
+
+</text>
+       <arg n="1">the relevant DNA fragments
+</arg>
+       <arg n="2">[into] the bacterial strains BL21 or TOPP (Stratagene)
+</arg>
+<fdg>
+1	Bacterial	bacterial	cc:&gt;3	@A&gt; %&gt;N A ABS
+2	and	and	cc:&gt;3	@CC %CC CC
+3	in vitro	in vitro	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	protein	protein	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	expression	expression		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG
+6	To	to	pm:&gt;7	@INFMARK&gt; %AUX INFMARK&gt;
+7	generate	generate	mod:&gt;5	@-FMAINV %VA V INF
+8	GST	gst	attr:&gt;9	@A&gt; %&gt;N ABBR NOM SG
+9	fusion	fusion	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	proteins	protein	obj:&gt;7	@OBJ %NH N NOM PL
+11	,	,
+12	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+13	relevant	relevant	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	DNA	dna	attr:&gt;15	@A&gt; %&gt;N ABBR NOM SG
+15	fragments	fragment	subj:&gt;16	@SUBJ %NH N NOM PL
+16	were	be	v-ch:&gt;17	@+FAUXV %AUX V PAST PL
+17	cloned	clone		@-FMAINV %VP EN
+18	into	into	ha:&gt;17	@ADVL %EH PREP
+19	pGex2T	pgex2t	pcomp:&gt;18	@&lt;P %NH &lt;?&gt; N NOM SG
+20	(	(
+21	Pharmacia	pharmacia	mod:&gt;19	@NH %NH N NOM SG
+22	)	)
+23	and	and	cc:&gt;17	@CC %CC CC
+24	transformed	transform	cc:&gt;17	@-FMAINV %VP EN
+25	into	into	ha:&gt;24	@ADVL %EH PREP
+26	the	the	det:&gt;28	@DN&gt; %&gt;N DET
+27	bacterial	bacterial	attr:&gt;28	@A&gt; %&gt;N A ABS
+28	strains	strain	pcomp:&gt;25	@&lt;P %NH N NOM PL
+29	BL21	bl21	mod:&gt;28	@APP %NH N NOM SG
+30	or	or		@CC %CC CC
+31	TOPP	topp		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@&lt;P %NH N NOM SG
+32	(	(
+33	Stratagene	stratagene	mod:&gt;31	@NH %NH &lt;?&gt; N NOM SG
+34	)	)
+35	STOPPOINT
+</fdg>
+</example>
+<example src="EMBO" no="5">
+<text>
+Expression of recombinat proteins Full-lenght and C-terminal SBP2 constructs in pASK-IB7 were transformed into Escherichia coli BL21 (Promega)
+
+</text>
+       <arg n="1">Expression of recombinat proteins Full-lenght and C-terminal SBP2 constructs in pASK-IB7
+</arg>
+       <arg n="2">[into] Escherichia coli BL21 (Promega)
+</arg>
+<fdg>
+1	Expression	expression		@NH %NH N NOM SG	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	recombinant	recombinant	attr:&gt;4	@A&gt; %&gt;N N NOM SG
+4	proteins	protein	pcomp:&gt;2	@&lt;P %NH N NOM PL
+5	Full-length	full-length	cc:&gt;7	@A&gt; %&gt;N A ABS
+6	and	and	cc:&gt;7	@CC %CC CC
+7	C-terminal	c-terminal	attr:&gt;8	@A&gt; %&gt;N A ABS
+8	SBP2	sbp2		@SUBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+9	constructs	construct		@+FMAINV %VA V PRES SG3	@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@PCOMPL-S %NH N NOM PL	@&lt;P %NH N NOM PL
+10	in	in		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+11	pASK-IB7	pask-ib7	pcomp:&gt;10	@&lt;P %NH &lt;?&gt; NUM CARD
+12	were	be	v-ch:&gt;13	@+FAUXV %AUX V PAST PL
+13	transformed	transform		@-FMAINV %VP EN
+14	into	into	ha:&gt;13	@ADVL %EH PREP
+15	Escherichia	escherichia	attr:&gt;16	@A&gt; %&gt;N N NOM PL
+16	coli	coli	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	BL21	bl21	pcomp:&gt;14	@&lt;P %NH N NOM SG
+18	(	(
+19	Promega	promega	mod:&gt;17	@NH %NH &lt;?&gt; N NOM SG
+20	)	)
+21	STOPPOINT
+</fdg>
+</example>
+</roleset>
+
+</predicate>
+</frameset>

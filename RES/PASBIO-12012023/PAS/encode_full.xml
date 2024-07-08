@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="encode">
+            <roleset id="encode.01" name="to specify the genetic code for&#x0A;" wordnet="1">
+                <roles>
+                    <role n="0" descr="gene or rna&#x09;&#x09;&#x09;&#x09;//gene//&#x0A;" />
+                    <role n="1" descr="gene product&#x09; &#x09;&#x09;&#x09;//protein//&#x0A;" />
+                </roles>
+                <example src="EMBO" no="0">
+                    <text>Expression SBP2 Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 may be encoded by as many as three distinct transcripts.</text>
+                    <arg n="0">three distinct transcripts</arg>
+                    <arg n="1">SBP2</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>In plants it is estimated that between 1000 and 5000 chloroplast proteins are encoded by nuclear genes (Martin and Herrmann, 1998) and, by analogy, in Apicomplexa most of the protein content of the apicoplast will most likely also be nucleus encoded.</text>
+                    <arg n="0">nuclear genes</arg>
+                    <arg n="1">between 1000 and 5000 chloroplast proteins</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>In this vector the T.gondii dhfr-ts region was excised with BamHI and KpnI and replaced with human dhfr mutated to encode resistance to WR99210 (Fidock and Wellems, 1997).</text>
+                    <arg n="0">the T.gondii dhfr-ts region</arg>
+                    <arg n="1">resistance to WR99210</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>It is possible, therefore, that the added sequences in the larger forms of SBP2 mRNA are involved in regulating its expression of encoding proteins with other functions.</text>
+                    <arg n="0">the added sequences in the larger forms of SBP2 mRNA</arg>
+                    <arg n="1">proteins with other functions</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>Compound heterozygous or homozygous mutations spread over all six exons encoding the 6-pyruvoyl-tetrahydropterin synthase cause an autosomal recessively inherited variant of hyperphenylalaninemia, mostly accompanied by a deficiency of dopamine and serotonin.</text>
+                    <arg n="0">all six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>Supt4h2 encodes a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference, indicating extreme conservation of this expressed processed gene with the spliced gene over evolutionary time.</text>
+                    <arg n="0">Supt4h2</arg>
+                    <arg n="1">a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>The PRP17 gene of the yeast Saccharomyces cerevisiae encodes a protein that participates in the second step of the splicing reaction.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participates in the second step of the splicing reaction</arg>
+                </example>
+                <example src="MEDLINE" no="4">
+                    <text>The human SNRPN (small nuclear ribonucleoprotein polypeptide N) gene is one of a gene family that encode proteins involved in pre-mRNA splicing and maps to the smallest deletion region involved in the Prader-Willi syndrome (PWS) within chromosome 15q11-q13.</text>
+                    <arg n="0">a gene family</arg>
+                    <arg n="1">proteins involved in pre-mRNA splicing</arg>
+                </example>
+                <example src="MEDLINE" no="5">
+                    <text>This is the first known example of such mutations that has apparently abolished the functional splicing of a pre-mRNA encoding a multipass integral membrane protein.</text>
+                    <arg n="0">a pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="eliminate">
+            <roleset id="eliminate.01" name="remove&#x0A;" wordnet="1">
+                <roles>
+                    <role n="0" descr="entity removing&#x0A;" />
+                    <role n="1" descr="thing being removed&#x0A;" />
+                    <role n="2" descr="removed from&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A 6-bp insertion located within O2 or between OT and O1 eliminates repression of the glpTQ promoter, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>A 6-bp insertion located within O2 or between OT and O1 has eliminated repression of the glpTQ promoter, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>A 6-bp insertion located within O2 or between OT and O1 will eliminate repression of the glpTQ promoter, whereas significant repression will be maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>A 6-bp insertion which eliminated repression of the glpTQ promoter was located within O2 or between OT and O1, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>A 6-bp insertion which eliminates repression of the glpTQ promoter is located within O2 or between OT and O1, whereas significant repression is maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>All three sites eliminated make the same high level of activation of B-Raf occurs.</text>
+                    <arg n="1">all three sites</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>An asparagine residue within a kinase domain of the product is eliminated by a 3-bp in-frame deletion; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>An asparagine residue within a kinase domain of the product was eliminated by a 3-bp in-frame deletion; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>As illustrated in Figure 1, staurosporin (or genestein; data not shown) can not eliminate the stabilization seen with MG132.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>As illustrated in Figure 1, staurosporin (or genestein; data not shown) does not eliminate the stabilization seen with MG132.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>As illustrated in Figure 1, the stabilization seen with MG132 is not eliminated by staurosporin (or genestein; data not shown).</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>As illustrated in Figure 1, the stabilization seen with MG132 was not eliminated by staurosporin (or genestein; data not shown).</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>As illustrated in Figure 1, the stabilization seen with MG132 will not be eliminated by staurosporin (or genestein; data not shown).</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>At a molar ratio of 5:1, binding can be completely eliminated (Figure 7).</text>
+                    <arg n="0">a molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>At a molar ratio of 5:1, binding is completely eliminated (Figure 7).</text>
+                    <arg n="0">a molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>At a molar ratio of 5:1, binding is observed to be completely eliminated (Figure 7).</text>
+                    <arg n="0">a molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>At a molar ratio of 5:1, binding will be completely eliminated (Figure 7).</text>
+                    <arg n="0">a molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Binding of GntR to the operators has been eliminated by gluconate and also by 6-phosphogluconate at a 10-fold-higher concentration.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Binding of GntR to the operators was eliminated by gluconate and also by 6-phosphogluconate at a 10-fold-higher concentration.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Binding of GntR to the operators will be eliminated by gluconate and also by 6-phosphogluconate at a 10-fold-higher concentration.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Eliminating all three sites makes the same high level of activation of B-Raf occurs.</text>
+                    <arg n="1">all three sites</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Eliminating any deleterious effects that might be associated with stable HOXB4 gene transfer into human cells, we took advantage of the ability of HOX proteins to passively translocate through cell membranes.</text>
+                    <arg n="1">any deleterious effects</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>Exogenous H(2)O(2) is eliminated in transgenic plants by inhibition of any one of these molecules.</text>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>Exogenous H(2)O(2) was eliminated in transgenic plants by inhibition of any one of these molecules.</text>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>For eliminating any deleterious effects that might be associated with stable HOXB4 gene transfer into human cells, we took advantage of the ability of HOX proteins to passively translocate through cell membranes.</text>
+                    <arg n="1">any deleterious effects</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>In gel shift assay, anti-ref1 antibody eliminates formation of the nCaRE-protein complex.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>In gel shift assay, anti-ref1 antibody has eliminated formation of the nCaRE-protein complex.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>In gel shift assay, anti-ref1 antibody will eliminate formation of the nCaRE-protein complex.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Inhibition of any one of these molecules eliminate exogenous H(2)O(2) in transgenic plants.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Inhibition of any one of these molecules eliminated exogenous H(2)O(2) in transgenic plants.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>Inhibition of any one of these molecules is able to eliminate exogenous H(2)O(2) in transgenic plants.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>Inhibition of any one of these molecules may eliminate exogenous H(2)O(2) in transgenic plants.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, eliminated vital stem cells.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, eliminates vital stem cells.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, has eliminated vital stem cells.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>Inhibition of any one of these molecules, as may occur following caspase activation, is able to eliminate vital stem cells.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, can eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, eliminated the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>Microbe-detecting receptors activating immune cells, such as CD14, is able to eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>Mutation of T491 can eliminate the recognition by the anti-pT598 antibody while mutation at S494 has no effect (Figure 2C).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>Mutation of T491 eliminates the recognition by the anti-pT598 antibody while mutation at S494 has no effect (Figure 2C).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>Mutation of T491 has eliminated the recognition by the anti-pT598 antibody while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>One mutation can eliminate the BamHI site in exon 7.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>One mutation eliminated the BamHI site in exon 7.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>One mutation eliminates the BamHI site in exon 7.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>One mutation has eliminated the BamHI site in exon 7.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>One mutation would eliminate the BamHI site in exon 7.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>One of the remaining three families carried a 3-bp in-frame deletion eliminating an asparagine residue within a kinase domain of the product; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>One of the remaining three families carried a 3-bp in-frame deletion that eliminated an asparagine residue within a kinase domain of the product; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>One of the remaining three families carried a 3-bp in-frame deletion that eliminates an asparagine residue within a kinase domain of the product; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>One of the remaining three families carried a 3-bp in-frame deletion which eliminated an asparagine residue within a kinase domain of the product; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, Sec incorporation is completely eliminated by these same mutations.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, Sec incorporation was completely eliminated by these same mutations.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, these same mutations can completely eliminate Sec incorporation (Lesoon et al., 1997).</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, these same mutations completely eliminate Sec incorporation.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, these same mutations completely eliminated Sec incorporation.</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>That the inhibitory phosphorylation can be eliminated is sufficient to confer constitutive activity upon lin-45 Raf and induce multi-vulva phenotypes in C.elegans.</text>
+                    <arg n="1">the inhibitory phosphorylation</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>That the inhibitory phosphorylation has been eliminated is sufficient to confer constitutive activity upon lin-45 Raf and induce multi-vulva phenotypes in C.elegans.</text>
+                    <arg n="1">the inhibitory phosphorylation</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>That the inhibitory phosphorylation is eliminated is sufficient to confer constitutive activity upon lin-45 Raf and induce multi-vulva phenotypes in C.elegans.</text>
+                    <arg n="1">the inhibitory phosphorylation</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>That the inhibitory phosphorylation was eliminated is sufficient to confer constitutive activity upon lin-45 Raf and induce multi-vulva phenotypes in C.elegans.</text>
+                    <arg n="1">the inhibitory phosphorylation</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>The BamHI site is eliminated in exon 7 by one mutation.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>The BamHI site was eliminated in exon 7 by one mutation.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>The pathogens are eliminated by microbe-detecting receptors activating immune cells, such as CD14.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>The pathogens were eliminated by microbe-detecting receptors activating immune cells such as CD14.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>The recognition is eliminated by mutation of T491 through the anti-pT598 antibody while mutation at S494 has no effect (Figure 2C).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                    <arg n="2">the anti-pT598 antibody</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>The recognition was eliminated by mutation of T491 through the anti-pT598 antibody while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition</arg>
+                    <arg n="2">the anti-pT598 antibody</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>The requirement of induction is eliminated by mutation of a new locus, galS, resulting in constitutive and ultrainduced levels of gal expression.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>The requirement of induction was eliminated by mutation of a new locus, galS, resulting in constitutive and ultrainduced levels of gal expression.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>The same high level of activation of B-Raf occurs only when all three sites were eliminated.</text>
+                    <arg n="1">all three sites</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>They establish that inhibition of any one of these molecules, as may occur following caspase activation, can eliminate vital stem cells required for skeletal muscle regeneration during chronic catabolic conditions.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>This occurs by microbe-detecting receptors, such as CD14, that activate immune cells for eliminating the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>This occurs by microbe-detecting receptors, such as CD14, that activate immune cells to eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors, such as CD14, that activate immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>To eliminate all three sites make the same high level of activation of B-Raf occurs.</text>
+                    <arg n="1">all three sites</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>To eliminate the inhibitory phosphorylation is sufficient to confer constitutive activity upon lin-45 Raf and induce multi-vulva phenotypes in C.elegans.</text>
+                    <arg n="1">the inhibitory phosphorylation</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>Transgenic plants expressing AtNDK1 under control of the CaMV 35S promoter exhibited tolerance to paraquat and high ability for eliminating exogenous H(2)O(2).</text>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>Vital stem cells are eliminated by inhibition of any one of these molecules, as may occur following caspase activation.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>Vital stem cells were eliminated by inhibition of any one of these molecules,as may occur following caspase activation.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>formation of the nCaRE-protein complex is eliminated by anti-ref1 antibody.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>formation of the nCaRE-protein complex was eliminated by anti-ref1 antibody.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>gluconate and also by 6-phosphogluconate at a 10-fold-higher concentration eliminate Binding of GntR to the operators.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>gluconate and also by 6-phosphogluconate at a 10-fold-higher concentration eliminated Binding of GntR to the operators.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>mutation of a new locus, galS eliminated The requirement of induction resulting in constitutive and ultrainduced levels of gal expression.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>mutation of a new locus, galS eliminates The requirement of induction resulting in constitutive and ultrainduced levels of gal expression.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+                <example src="EGRAM" no="84">
+                    <text>the HindIII site is eliminated by the other in exon 11 of the phenylalanine hydroxylase gene.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                    <arg n="2">exon 11 of the phenylalanine hydroxylase gene</arg>
+                </example>
+                <example src="EGRAM" no="85">
+                    <text>the HindIII site was eliminated by the other in exon 11 of the phenylalanine hydroxylase gene.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                    <arg n="2">exon 11 of the phenylalanine hydroxylase gene</arg>
+                </example>
+                <example src="EGRAM" no="86">
+                    <text>the other can eliminate the HindIII site in exon 11 of the phenylalanine hydroxylase gene.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                    <arg n="2">exon 11 of the phenylalanine hydroxylase gene</arg>
+                </example>
+                <example src="EGRAM" no="87">
+                    <text>the other eliminated the HindIII site in exon 11 of the phenylalanine hydroxylase gene.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                    <arg n="2">exon 11 of the phenylalanine hydroxylase gene</arg>
+                </example>
+                <example src="EGRAM" no="88">
+                    <text>the other eliminates the HindIII site in exon 11 of the phenylalanine hydroxylase gene.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                    <arg n="2">exon 11 of the phenylalanine hydroxylase gene</arg>
+                </example>
+                <example src="EGRAM" no="89">
+                    <text>the other is able to eliminate the HindIII site in exon 11 of the phenylalanine hydroxylase gene.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                    <arg n="2">exon 11 of the phenylalanine hydroxylase gene</arg>
+                </example>
+                <example src="EGRAM" no="90">
+                    <text>the other would eliminate the HindIII site in exon 11 of the phenylalanine hydroxylase gene.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                    <arg n="2">exon 11 of the phenylalanine hydroxylase gene</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

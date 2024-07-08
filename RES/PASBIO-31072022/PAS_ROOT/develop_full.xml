@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="develop">
+            <roleset id="develop.01" name="" wordnet="10">
+                <roles>
+                    <role n="0" descr="non-intentional theme&#x0A;" />
+                    <role n="1" descr="thing developed&#x0A;" />
+                    <role n="2" descr="end result&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="*1">
+                    <text>Three new mutations, two missense and one nonsense, were detected: (1) a C-to-T transition in codon 44 in exon 2 replacing a threonine by an isoleucine (T44I) was found in a late-onset symptomatic female patient but not in her asymptomatic mother; (2) a C-to-T transition in codon 214 creating a new RsaI recognition site in exon 6 and substituting tyrosine for histidine (H214Y) was identified in an asymptomatic female carrier whose son developed acute neonatal onset of OTC deficiency; (3) a C-to-T transition in codon 320 (arginine) abolishing a TaqI recognition site and creating a new BclI site in exon 9 with generation of a stop codon (R320X) leading to premature termination in the enzyme.</text>
+                    <arg n="0">whose son</arg>
+                    <arg n="1">acute neonatal onset of OTC deficiency</arg>
+                </example>
+                <example src="EMBO" no="*1">
+                    <text>Although Pin1 -/- mice have previously been shown to develop normally (Fujimori et al., 1999), we have uncovered that they display a range of cell proliferative abnomalities, including decreased body size, retinal degenration and neurological abnormalities.</text>
+                    <arg n="0">mice</arg>
+                    <arg n="M-MAN">normally</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>Spinach sown in October develops into the rosette stage and grows through the end of November.</text>
+                    <arg n="1">Spinach sown in October</arg>
+                    <arg n="2">he rosette stage</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>It is planted from September up to the end of October, develops into the rosette stage and keeps on growing until the end of November.</text>
+                    <arg n="0">It</arg>
+                    <arg n="2">the rosette stage</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

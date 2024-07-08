@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="initiate">
+            <roleset id="Initiate.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent      //protein//&#x0A;" />
+                    <role n="1" descr="entity created      //transcription or translation or process//&#x0A;" />
+                    <role n="2" descr="specific location of tissue or cell  //mostly saying about exon or intron//&#x0A;" />
+                    <role n="3" descr="location as tissue or cell&#x0A;" />
+                    <role n="4" descr="method&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A0 initiates aggregation and secretion for activating G(q) protein-coupled receptors, thus increasing the cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating G(q) protein-coupled receptors</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>A3 cells (HeLa cells) are thought to initiate A1 transcription (transcription) into multiple site within exon 1 PSUR14 or no 5 oligonucleotides removed from most post-A1 RNAs (transcription).</text>
+                    <arg n="2">multiple site within exon 1 PSUR14</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Apparently, A3 cells (HeLa cells) are starting at transcription in multiple site within exon 1 RPS14 or initiating 5 oligonucleotides that have been removed from most post-transcription RNAs.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 RPS14</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Apparently, A3 cells (HeLa cells) were initiating into transcription in multiple site within exon 1 RPS14 or 5 oligonucleotides that were removed from most post-A1 RNAs (transcription).</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 RPS14</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Apparently, A3 cells (Hela) can initiate transcription in multiple site within exon 1 RPS14 or no 5 oligonucleotides that have been removed from most post-A1 RNAs (transcription).</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 RPS14</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Apparently, A3 cells (Hela) may have initiating transcription into multiple site within exon 1 PSUR14 or replace 5 oligonucleotides that have been removed from most S14 RNAs after transcription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 PSUR14</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Apparently, HeLa cells are able to initiate transcription into multiple site within exon 1 of RPS14 or cap 5 oligonucleotides that have been removed from most S14 RNAs post-transcription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 of RPS14</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Apparently, HeLa cells can initiate transcription to multi-site site within the exon RPS14 1 , or no 5 oligonucleotides have been removed from most post-A1 RNAs (transcription) S14.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multi-site site within the exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Apparently, HeLa cells either initiated Transcription into multiple sites within exon RPS14 1, or limited 5 oligonucleotides that were initiated from most postTranscription S14 mRNAs.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">multiple sites within exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>Apparently, HeLa cells have been initiating Transcription to multiple sites within exon RPS14 1, or capturing 5 oligonucleotides that were removed from most S14 mRNAs postTranscription.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">multiple sites within exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Apparently, HeLa cells have initiated Transcription into multiple sites within exon RPS14 1, or have captured 5 oligonucleotides that were removed from most postTranscription S14 mRNAs.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">multiple sites within exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>Apparently, HeLa cells have the ability to initiate transcription into multiple places within the exon 1 of PSUR14 or cap 5 oligonucleotides removed from most S14 RNAs post-transcription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple places within the exon 1 of PSUR14</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>Apparently, HeLa cells initiate the transcription transcription into multiple site within exon 1 RPS14 or the 5 oligonucleotides removed from most S14 RNAs after transcription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 RPS14</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>Apparently, HeLa cells initiated transcription into multi-site location within the exon RPS14 1, or captured 5 oligonucleotides that were removed from most of the RNAs post-transcription S14.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multi-site location within the exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Apparently, HeLa cells is initiate as A1 initiator (transcription) to multi-site site within the exon RPS14 1 , or no 5 oligonucleotides were removed from most S14 RNAs post-A1 (transcription).</text>
+                    <arg n="2">multi-site site within the exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Apparently, HeLa cells may have been either initiating Transcription at multiple sites within exon RPS14 1, or capturing 5 oligonucleotides that were removed from most postTranscription S14 mRNAs.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">multiple sites within exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Apparently, HeLa cells may have the ability to initiate Transcription into multiple sites within exon RPS14 1 , or no 5 oligonucleotides were removed from most postTranscription S14 mRNAs.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">multiple sites within exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Apparently, HeLa cells starts A1 transcription (transcription) into multiple site within exon 1 RPS14 or cap 5 oligonucleotides initiate from most S14 RNAs post-transcription.</text>
+                    <arg n="2">multiple site within exon 1 RPS14</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Apparently, HeLa cells starts transcription into multiple places within the exon RPS14 1 , or no 5 oligonucleotides that initiate been removed from most of the post-A1 RNAs (transcription) S14.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple places within the exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Apparently, HeLa cells starts transcription to multi-site location within the exon RPS14 1 or initiating 5 oligonucleotides that have been removed from most of the RNAs post-transcription S14.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multi-site location within the exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Apparently, Hela cells can initiate transcription to multi-site site within the exon RPS14 1, or no 5 oligonucleotides have been removed from most post-A1 RNAs (transcription) S14.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multi-site site within the exon RPS14 1</arg>
+                    <arg n="3">Hela cells</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Apparently, Hela cells initiated transcription into multiple sites within the exon RPS14 1, or reduced 5 oligonucleotides that were removed from most post-A1 RNAs (transcription) S14.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple sites within the exon RPS14 1</arg>
+                    <arg n="3">Hela cells</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>Apparently, Hela cells may have the ability to initiate transcription to multiple sites within the exon RPS14 1 , or no 5 oligonucleotides have been removed from most post-A1 RNAs (transcription) S14.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple sites within the exon RPS14 1</arg>
+                    <arg n="3">Hela cells</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>Apparently, Hela cells may initiate transcription in multiple site within exon 1 PSUR14 or in cap 5 oligonucleotides that have been removed from most S14 RNAs post-transcription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 PSUR14</arg>
+                    <arg n="3">Hela cells</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>Apparently, Hela cells will initiate transcription in multiple site within exon 1 PSUR14 or in cap 5 oligonucleotides that have been removed from most S14 RNAs post-transcription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 PSUR14</arg>
+                    <arg n="3">Hela cells</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>Apparently, heLa cells have the ability to initiate transcription in multiple sites within exon 1 of PSUR14 or no 5 oligonucleotides removed from most post-transcription RNAs.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple sites within exon 1 of PSUR14</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>As RTKs can initiate sinalage to recruit descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruit descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>As RTKs initiated sinalage to recruiting descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in RTK that are needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruiting descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>As RTKs initiated sinalage to recruitment of descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be first identified by identifying sequences in the RTK that are needed to activate the source sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruitment of descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>As RTKs initiates sinalage to recruit descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruit descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>As RTKs initiates sinalage to recruiting descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruiting descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>As RTKs initiating sinalage to recruiting descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are needed to activate A1 (signal) (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruiting descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>As RTKs is able to initiate sinalage by recruitment of descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Paw</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruitment of descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>As RTKs may have initiated sinalage to reporting descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">reporting descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>As sinalage can be initiated by RTKs by reporting components of descending flow of activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in RTK that are needed to activate the descending flow sinalage (Schlessinger and Ullrich, 1992; Paw</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">reporting components of descending flow of activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>FRS translation is able to be initiated by polymerases which can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">FRS translation</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>FRS translation is initiated by polymerases which can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">FRS translation</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>FRS translation was initiated by polymerases which can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">FRS translation</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>GlpTQ and glpACB operators, which are transcribed in a divergent manner initiated with located separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">GlpTQ and glpACB operators, which are transcribed in a divergent manner</arg>
+                    <arg n="2">located separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>HeLa cells are apparently able to initiate transcription into multiple site within exon 1 of RPS14 or no 5 oligonucleotides that have been removed from most post-A1 RNAs (transcription).</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 of RPS14</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>I kappa B-epsilon translation being initiated from an inner codon of ATG produces a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>I kappa B-epsilon translation can be initiated from an inner codon of ATG to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>I kappa B-epsilon translation from an inner codon of ATG results in a 45 kDa protein, which initiated as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>I kappa B-epsilon translation has been initiated from an internal ATG codon to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>I kappa B-epsilon translation initiated from an inner codon of ATG results in a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>I kappa B-epsilon translation that began with an inner codon of ATG results in a 45 kDa protein, which initiated as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>I kappa B-epsilon translation that has been initiated from an internal ATG codon results in a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>I kappa B-epsilon translation was initiated from an inner codon of ATG to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>I kappa B-epsilon translation which is initiated from an inner codon of ATG produces a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>I kappa B-epsilon translation which was initiated from an inner codon of ATG produces a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>I kappa B-epsilon translation which was initiated from an inner codon of ATG results in a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>I kappa B-epsilon translation will be initiated from an inner codon of ATG to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>I kappa B-epsilon translation, which is initiated from an inner codon of ATG, gives rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>It is believed that aggregation and secretion is initiated by platin agonists for activating receptors coupled to the protein G(q) , thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the protein G(q)</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>It is believed that aggregation and secretion is initiated by platinum agonists to activating receptors coupled to G(q) protein, thus increasing Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>It is initiated that I kappa B-epsilon translation starts from an internal ATG codon to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>It is initiated that I kappa B-epsilon translation starts from an internal codon of ATG to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>It is observed that A0 initiates aggregation and secretion for enables G(q) protein-coupled receptors, thus increasing the cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">enables G(q) protein-coupled receptors</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>It is observed that ranscription with FRS is initiated by polymerases which can only extend its transcriptions in the presence of fact (chromatin transcription unit).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with FRS</arg>
+                    <arg n="3">in the presence of fact (chromatin transcription unit)</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>It is observed that ranscription with RSF is initiated by polymerases that can only extend their A3 transcriptions (in the presence of fact (chromatin transcription facility) .</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with RSF</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>Ligand binding induces complex cell surface receptor formation and activates a cascade of intracellular intermediate phosphorylation events called Smads, which are observed to initiate transcriptional regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>Ligand binding induces the complex formation of cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called Smads, which are able to initiate transcriptional regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>Ligand binding induces the complex formation of cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called Smads, which can initiate translational regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">translational regulation</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>Ligand binding induces the complex formation of cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called Smads, which initiated translational regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">translational regulation</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>Ligand binding induces the complex formation of cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called Smads, which will initiate translational regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">translational regulation</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>Ligand binding induces the formation of a cell surface receptor complex and activates a cascade of intracellular intermediate phosphorylation events called smad that are able to initiate transcriptional regulation.</text>
+                    <arg n="0">smad</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>Ligand binding induces the formation of a cell surface receptor complex and activates a cascade of intracellular intermediate phosphorylation events called smads that are observed to initiate transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>Ligand binding induces the formation of a cell surface receptor complex and activates a cascade of intracellular intermediate phosphorylation events called smads that can initiate transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>Ligand binding induces the formation of a cell surface receptor complex and activates a cascade of intracellular intermediate phosphorylation events called smads that initiated transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>Our data initiate a new apical sorting pathway by which MV envelope glycoproteins are persecuted by the M protein and then start virus release at this surface.</text>
+                    <arg n="0">MV envelope glycoproteins</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>Our data initiate a new apical sorting pathway by which MV envelope glycoproteins that initiate virus release to this surface are persecuted by the M protein.</text>
+                    <arg n="0">MV envelope glycoproteins</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>Our data present a new apical initiating pathway by which MV envelope glycoproteins pierced by the protein M initiate virus release to this surface.</text>
+                    <arg n="0">MV envelope glycoproteins pierced by the protein M</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>Our data present a new apical ordering pathway by which the A0 glycoproteins (MV wrap) that initiating viral release in this surface are replaced by M protein.</text>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>Our data present a new apical sorting pathway by which MV envelope glycoproteins are persecuted by the M protein for initiating virus release to this surface.</text>
+                    <arg n="0">MV envelope glycoproteins</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>Our data present a new apical sorting pathway by which MV envelope glycoproteins are persecuted by the M protein to obtain the ability to initiate virus release to this surface.</text>
+                    <arg n="0">MV envelope glycoproteins are persecuted by the M protein</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>Our data present a new apical sorting pathway by which MV envelope glycoproteins pierced by protein M can initiate virus release to this surface.</text>
+                    <arg n="0">MV envelope glycoproteins pierced by protein M</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>Our data present a new apical sorting pathway by which MV envelope glycoproteins pierced by protein M has initiated virus release to this surface.</text>
+                    <arg n="0">MV envelope glycoproteins pierced by protein M</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>Our data present a new apical sorting pathway by which MV envelope glycoproteins pierced by protein M initiates virus release to this surface.</text>
+                    <arg n="0">MV envelope glycoproteins pierced by protein M</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>Our data present a new apical sorting pathway by which MV envelope glycoproteins pierced by the protein M is able to initiate virus release to this surface.</text>
+                    <arg n="0">MV envelope glycoproteins pierced by the protein M</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>Our data present a new apical sorting pathway by which MV envelope glycoproteins pierced by the protein M is observed to initiate virus release to this surface.</text>
+                    <arg n="0">MV envelope glycoproteins pierced by the protein M</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>Our data present a new apical sorting pathway by which MV envelope glycoproteins that initiate the release of A1 to A2 viruses (this surface) are persecuted by the M protein.</text>
+                    <arg n="0">MV envelope glycoproteins</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>Our data present a new apical sorting pathway by which MV wraps glycoproteins coupled to the M protein can initiate viral release into this surface.</text>
+                    <arg n="0">MV wraps glycoproteins coupled to the M protein</arg>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>Our data present a new apical sorting pathway whereby the A0 glycoproteins (VM envelopes) that initiating the viral release into this surface are replaced by the M protein.</text>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>PtsG transcript encoding the glucose-specific permease, the enzyme IICB (Glc) in Escherichia coli has the ability to initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">PtsG transcript encoding the glucose-specific permease</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="84">
+                    <text>PtsG transcript that codes the glucose-specific permease, the enzyme IICB (Glc) in Escherichia coli can be initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">PtsG transcript that codes the glucose-specific permease</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="85">
+                    <text>PtsG transcript that codes the glucose-specific permease, the enzyme IICB (Glc) in Escherichia coli may have been initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">PtsG transcript that codes the glucose-specific permease</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="86">
+                    <text>RSF transcription has been initiated by polymerases which can only extend its A3 transcripts (in fact presence (chromatin transcription facility).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">RSF transcription</arg>
+                </example>
+                <example src="EGRAM" no="87">
+                    <text>RSF transcription is initiated by polymerases that can only extend its A3 transcriptions (in fact presence (facility chromatin transcription) .</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">RSF transcription</arg>
+                </example>
+                <example src="EGRAM" no="88">
+                    <text>Repression can be initiated by sensitive phosphorylation of the sensory protein ArcB, followed by the transfer of the phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">sensitive phosphorylation of the sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="EGRAM" no="89">
+                    <text>Repression can be initiated by sensitive phosphorylation of the sensory protein ArcB, followed by transfer of phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">sensitive phosphorylation of the sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="EGRAM" no="90">
+                    <text>Repression could be initiated by sensitive phosphorylation of the sensory protein ArcB, followed by the transfer of the phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">sensitive phosphorylation of the sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="EGRAM" no="91">
+                    <text>Repression is able to be initiated by sensitive phosphorylation of sensory protein ArcB, followed by transfer of phosphorus group to ArcA regulator.</text>
+                    <arg n="0">sensitive phosphorylation of sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="EGRAM" no="92">
+                    <text>Repression is initiated by sensitive phosphorylation of the sensory protein ArcB, followed by the transfer of the phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">sensitive phosphorylation of the sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="EGRAM" no="93">
+                    <text>Repression may have been initiated by sensitive phosphorylation of the sensory protein ArcB, followed by the transfer of the phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">sensitive phosphorylation of the sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="EGRAM" no="94">
+                    <text>Repression was initiated by sensitive phosphorylation of the sensory protein ArcB, followed by the transfer of the phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">sensitive phosphorylation of the sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="EGRAM" no="95">
+                    <text>Repression will be initiated by sensitive phosphorylation of the sensory protein ArcB, followed by the transfer of the phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">sensitive phosphorylation of the sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="EGRAM" no="96">
+                    <text>SCF, as well as the other dimeric ligands, it is observed that signal transduction by direct dimerization of its receptor, Kit and the two juxtaposed receptors are submitted to autophosphorylation of tyrosine (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="97">
+                    <text>SCF, like other dimeric ligands, can initiate signal transduction by direct dimerization of its receptor, Kit, and the two juxtaposed receptors are submitted to autophosphorylation of tyrosine (Heldin, 1995; Broudy, 1997), which initiates intracellular downstream signaling.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="98">
+                    <text>SCF, like other dimeric ligands, can initiate signal translation by direct dimerization of its receptor, Kit, and the two juxtaposed receptors are subjected to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal translation</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="99">
+                    <text>SCF, like other dimeric ligands, initiates transduction to the A4 signal (by direct dimerization of its receptor), Kit, and the two juxtaposed receptors are subjected to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                </example>
+                <example src="EGRAM" no="100">
+                    <text>SCF, like other dimeric ligands, is able to initiate signal transduction by direct dimerization of its receptor, Kit and the two juxtaposed receptors are submitted to autophosphorylation of tyrosine (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="101">
+                    <text>SCF, like other dimeric ligands, is able to initiate signal transduction direct dimerization of its receptor, Kit, and the two juxtaposed receptors are submitted to autophosphorylation of tyrosine (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="102">
+                    <text>SCF, like other dimeric ligands, is observed to initiate transduction to the A4 signal (direct dimerization of its receptor), Kit, and the two juxtaposed receptors are subjected to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                </example>
+                <example src="EGRAM" no="103">
+                    <text>SCF, like other dimerized ligands, initiates the transduction of signals by direct dimerization of its receptor, Kit, and the two juxtaposed receptors experiment Heldin, 1995; Broudy, 1997, which initiated ascending intracellular signaling.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">ascending intracellular signaling</arg>
+                </example>
+                <example src="EGRAM" no="104">
+                    <text>SCF, like the other dimeric ligands, have initated transduction of the signal by direct dimerization of its receptor, Kit, and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">transduction of the signal</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="105">
+                    <text>SCF, like the other dimeric ligands, initated signal transduction by direct dimerization of its receptor, Kit, and the two juxtaposed receptors are submitted to autophosphorylation of tyrosine (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="106">
+                    <text>SCF, like the other dimeric ligands, transduction of the signal by direct dimerization of its receptor, Kit, and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">transduction of the signal</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="107">
+                    <text>SCF, like the other dimeric ligands, will initiate transduction of the signal by direct dimerization of its receptor, Kit, and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">transduction of the signal</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="108">
+                    <text>SCF, like the other dimerized ligands, initiates the transduction of signals by direct dimerization of its receptor, Kit, and the two juxtaposed receptors experiment Heldin, 1995; Broudy, 1997, which can initiate intracellular downward transmission.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">intracellular downward transmission</arg>
+                </example>
+                <example src="EGRAM" no="109">
+                    <text>SCF, like the other dimerized ligands, initiates the transduction of signals by direct dimerization of its receptor, Kit, and the two juxtaposed receptors experiment Heldin, 1995; Broudy, 1997, which is able to initiate ascending intracellular signaling.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">ascending intracellular signaling</arg>
+                </example>
+                <example src="EGRAM" no="110">
+                    <text>SCF, like the other dimerized ligands, initiates the transduction of signals by direct dimerization of its receptor, Kit, and the two juxtaposed receptors experiment Heldin, 1995; Broudy, 1997, which is observed to initiate ascending intracellular signaling.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">ascending intracellular signaling</arg>
+                </example>
+                <example src="EGRAM" no="111">
+                    <text>Since RTKs can initiate signaling for by recruiting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">by recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="112">
+                    <text>Since RTKs has initiated signaling for by recruiting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">by recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="113">
+                    <text>Since RTKs initiated signaling for re recruiting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be first identified by identifying sequences in the RTK that are required to activate the A1 source (signaling) (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">re recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="114">
+                    <text>Since RTKs initiating signaling for by recruiting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">by recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="115">
+                    <text>Since RTKs is capable of initiating signaling by re recruiting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">re recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="116">
+                    <text>Since RTKs is observed to initiate signaling for by recruiting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">by recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="117">
+                    <text>Since RTKs may have initiated signaling for rescripting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">rescripting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="118">
+                    <text>Since RTKs will initiate signaling for by recruiting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">by recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="119">
+                    <text>Since signaling can be initiated by RTKs by rescripting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">rescripting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="120">
+                    <text>Since signaling is initiated by RTKs by rescripting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">rescripting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="121">
+                    <text>Since signaling is observed to be initiated by RTKs by recruiting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="EGRAM" no="122">
+                    <text>Since sinalage is able to be initiated by RTKs by recruiting descending flow components to the activated receptor, proteins that are immediately downstream of an activated RTK can be identified by first identification of sequences in the RTK needed to activate sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruiting descending flow components to the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="123">
+                    <text>Since sinalage is able to be initiated by RTKs by recruitment of descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in RTK that are needed to activate the source of sinalage (Schlessinger and Ullrich, 1992</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruitment of descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="124">
+                    <text>Since sinalage is initiated by RTKs by recruitment of descending flow components of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in RTK that are needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Pawson</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruitment of descending flow components of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="125">
+                    <text>Since sinalage is initiated by RTKs by reporting components of descending flow of the activated receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in RTK that are needed to activate the descending flow sinalage (Schlessinger and Ullrich, 1992; Pa</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">reporting components of descending flow of the activated receptor</arg>
+                </example>
+                <example src="EGRAM" no="126">
+                    <text>Sxl is a key regulator of sex determination and dose compensation, whose transcription has been initiated only into embryos of female blastoderm.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">embryos of female blastoderm</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="127">
+                    <text>Sxl is a key regulator of sex determination and dose compensation, whose transcription was initiated only into embrybs of female blastoderm.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">embrybs of female blastoderm</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="128">
+                    <text>Sxl is a major regulator of sex determination and dose compensation, which transcription was initiated only in embrybs of female blastoderma.</text>
+                    <arg n="1">which transcription</arg>
+                    <arg n="3">embrybs of female blastoderma</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="129">
+                    <text>Sxl was a key regulator of sex determination and dose compensation, whose transcription can be initiated into only in embryos of female blastoderm.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">embryos of female blastoderm</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="130">
+                    <text>Sxl was a key regulator of sex determination and dose compensation, whose transcription is able to initiated only in embrybs of female blastoderm.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">embrybs of female blastoderm</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="131">
+                    <text>Sxl was a key regulator of sex determination and dose compensation, whose transcription may have been initiated only into embrybs of female blastoderm.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">embrybs of female blastoderm</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="132">
+                    <text>Sxl was a key regulator of sex determination and dose compensation, whose transcription was observed to initiated only in embrybs of female blastoderm.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">embrybs of female blastoderm</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="133">
+                    <text>Sxl was a key regulator of sex determination and dose compensation, whose transcription will be initiated only into embrybs of female blastoderm.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">embrybs of female blastoderm</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="134">
+                    <text>Sxl was a major regulator of sex determination and dose compensation, which transcription is able to initiated only in embrybs of female blastoderma.</text>
+                    <arg n="1">which transcription</arg>
+                    <arg n="3">embrybs of female blastoderma</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="135">
+                    <text>Sxl was a major regulator of sex determination and dose compensation, which transcription was observed to initiated only in embrybs of female blastoderma.</text>
+                    <arg n="1">which transcription</arg>
+                    <arg n="3">embrybs of female blastoderma</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="136">
+                    <text>Sxl was a major regulator of sex determination and dose compensation, which transcription will be initiated only in embrybs of female blastoderma.</text>
+                    <arg n="1">which transcription</arg>
+                    <arg n="3">embrybs of female blastoderma</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="137">
+                    <text>Sxl was a major regulator of sex determination and dose compensation, whose transcription may have been initiated only in embrybs of female blastoderma.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">embrybs of female blastoderma</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="138">
+                    <text>Sxl was an important regulator of gender determination and dose compensation, which transcription can be initiated in only in female blastodermal embryos.</text>
+                    <arg n="1">which transcription</arg>
+                    <arg n="3">female blastodermal embryos</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="139">
+                    <text>The SCF, as other dimeric ligands, initiated signal transduction by direct dimerization of its receptor, Kit, and the two combined receptors experiment Heldin, 1995; Broudy, 1997, which initiated intracellular ascending signaling.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">intracellular ascending signaling</arg>
+                </example>
+                <example src="EGRAM" no="140">
+                    <text>The SCF, like the other dimeric ligands, initiated the signal transduction by direct dimerization of its receptor, Kit, and the two combined receptors experiment Heldin, 1995; Broudy, 1997, which initiated in the formation of intracellular signals.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">in the formation of intracellular signals</arg>
+                </example>
+                <example src="EGRAM" no="141">
+                    <text>The SCF, like the other dimeric ligands, initiates the signal transduction by direct dimerization of its receptor, Kit and the two combined receptors experiment Heldin, 1995; Broudy, 1997, which can initiate descending intracellular transmission.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">descending intracellular transmission</arg>
+                </example>
+                <example src="EGRAM" no="142">
+                    <text>The SCF, like the other dimeric ligands, initiates the signal transduction by direct dimerization of its receptor, Kit, and the two combined receptors experiment Heldin, 1995; Broudy, 1997, which is able to initiate intracellular ascending signaling.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">intracellular ascending signaling</arg>
+                </example>
+                <example src="EGRAM" no="143">
+                    <text>The SCF, like the other dimeric ligands, initiates the signal transduction by direct dimerization of its receptor, Kit, and the two combined receptors experiment Heldin, 1995; Broudy, 1997, which is observed to initiate intracellular ascending signaling.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">intracellular ascending signaling</arg>
+                </example>
+                <example src="EGRAM" no="144">
+                    <text>The SCF, like the other dimerized ligands, initiates the transduction of signals by direct dimerization of its receptor, Kit, and the two juxtaposed receptors experiment Heldin, 1995; Broudy, 1997, which has initiated in the formation of intracellular signals.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">in the formation of intracellular signals</arg>
+                </example>
+                <example src="EGRAM" no="145">
+                    <text>The data show a new apical ordering pathway by which MV involves the glycoproteins pierced by M protein is able to initiate viral release to this surface.</text>
+                    <arg n="0">MV involves the glycoproteins pierced by M protein</arg>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="146">
+                    <text>The data show a new apical ordering pathway by which MV involves the perforated glycoproteins by M protein initiates viral release to this surface.</text>
+                    <arg n="0">MV involves the perforated glycoproteins by M protein</arg>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="147">
+                    <text>The data show a new apical ordering pathway by which the A0 envelope glycoproteins (MV) are coupled to the M protein to obtain the ability to initiate viral release into this surface.</text>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="148">
+                    <text>The data show a new apical ordering pathway by which the A0 glycoproteins (MV envelope) are followed by the M protein because they have the ability to initiate virus release to this surface.</text>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="149">
+                    <text>The data show a new apical ordering pathway by which the A0 glycoproteins (MV envelope) are followed by the M protein to initiating virus release to this surface.</text>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="150">
+                    <text>The data show a new apical ordering pathway by which the A0 glycoproteins (MV involved pierced by the protein M) initiating virus release to this surface.</text>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="151">
+                    <text>The data show a new apical ordering pathway by which the A0 glycoproteins (MV wrap) that initiate viral release to this surface are followed by M protein.</text>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="152">
+                    <text>The data show a new apical ordering pathway by which the A0 glycoproteins (MV wrapped) are followed by the M protein and then initiate virus release into this surface.</text>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="153">
+                    <text>The data show a new apical ordering pathway by which the A0 glycoproteins (MV wrapped) that initiate the release of A1 to A2 viruses (this surface) are followed by M protein.</text>
+                </example>
+                <example src="EGRAM" no="154">
+                    <text>The data show a new apical ordering pathway, where the A0 glycoproteins (MV envelope) are camouflaged by the M protein to initiate virus release to this surface.</text>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="155">
+                    <text>The data show a new apical sorting pathway by which MV wraps glycoproteins coupled to the M protein can initiate viral release into this surface.</text>
+                    <arg n="0">MV wraps glycoproteins coupled to the M protein</arg>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="156">
+                    <text>The data show a new apical sorting pathway by which MV wraps glycoproteins coupled to the M protein initiated viral release into this surface.</text>
+                    <arg n="0">MV wraps glycoproteins coupled to the M protein</arg>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="157">
+                    <text>The data show a new apical sorting pathway by which MV wraps glycoproteins coupled to the M protein is observed to initiate viral release into this surface.</text>
+                    <arg n="0">MV wraps glycoproteins coupled to the M protein</arg>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="158">
+                    <text>The data show a new apical sorting pathway by which the A0 glycoproteins (MV wrapped) will be coupled to the M protein to initiate viral release into this surface.</text>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="159">
+                    <text>The data show a new apical sorting pathway by which the A0 glycoproteins (wrapped MV) will be coupled to the M protein to have the ability to initiate viral release into this surface.</text>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="EGRAM" no="160">
+                    <text>The formation of a surface receptor complex induced by the bonding and activates a cascade of intracellular intermediate phosphorylation events called Smads, which initiated transcriptional regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="161">
+                    <text>The formation of surface receptors induced by the ligand bond activates a cascade of intracellular intermediate phosphorylation events called smads that initiated transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="162">
+                    <text>The formation of surface receptors induced by the ligand bond activates a cascade of intracellular intermediate phosphorylation events called smads that initiating transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="163">
+                    <text>The ligand binding induces complex formation of cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called smads, which are able to initiate transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="164">
+                    <text>The ligand binding induces complex formation of cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called smads, which initiates translational regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">translational regulation</arg>
+                </example>
+                <example src="EGRAM" no="165">
+                    <text>The ligand binding induces complex formation of cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called smads, which may initiate translational regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">translational regulation</arg>
+                </example>
+                <example src="EGRAM" no="166">
+                    <text>The ligand binding induces the formation of a cell surface receptor complex and activates a cascade of intracellular intermediate phosphorylation events called smads that are observed to initiate transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="167">
+                    <text>The ligand binding induces the formation of a cell surface receptor complex and activates a cascade of intracellular intermediate phosphorylation events called smads that initiated transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="168">
+                    <text>The ligand binding induces the formation of a cell surface receptor complex and activates a cascade of intracellular intermediate phosphorylation events called smads that may initiate transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="169">
+                    <text>The ligand binding induces the formation of a cell surface receptor complex and activates a cascade of phosphorylation events of intracellular intermediates called smads that are able to initiate transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="170">
+                    <text>The ligand binding induces the formation of complex cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called smads, initiating transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="171">
+                    <text>The ligand binding induces the formation of complex cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called smads, which are observed to initiate transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="172">
+                    <text>The ligand binding induces the formation of complex cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called smads, which initiated transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="173">
+                    <text>The ligand binding induces the formation of complex cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events initiated smads that initiate transcriptional regulation.</text>
+                    <arg n="0">smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="EGRAM" no="174">
+                    <text>The lx is an important regulator of sex determination and dosage compensation, whose transcription was initiated only in female blastoderm embryos.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">female blastoderm embryos</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="EGRAM" no="175">
+                    <text>The transcription of glpTQ and glpACB operons that are divergently transcribed will be initiated into separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are divergently transcribed</arg>
+                    <arg n="2">separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="176">
+                    <text>The translation I kappa B-epsilon can be initiated from an inner codon of ATG to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">I kappa B-epsilon</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="177">
+                    <text>The translation I kappa B-epsilon was initiated from an inner codon of ATG to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">I kappa B-epsilon</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="178">
+                    <text>The translation I kappa B-epsilon, initiated from an inner codon of ATG, results in a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">I kappa B-epsilon</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="179">
+                    <text>This has led to the prevalent interpretation that genetic changes, in addition to those present in the most advanced clone of the primary tumor, are required to initiating invasion, diffusion and growth in anatomically distant locations.</text>
+                    <arg n="1">invasion, diffusion and growth in anatomically distant locations</arg>
+                    <arg n="4">those present in the most advanced clone of the primary tumor</arg>
+                </example>
+                <example src="EGRAM" no="180">
+                    <text>This initiating to the predominant interpretation that genetic alterations, in addition to those that are present in the most advanced clone of the primary tumor, are necessary for the onset of invasion, dissemination and growth in distant anatomical sites .</text>
+                    <arg n="1">invasion, dissemination and growth in distant anatomical sites</arg>
+                    <arg n="4">those that are present in the most advanced clone of the primary tumor</arg>
+                </example>
+                <example src="EGRAM" no="181">
+                    <text>Transcription can be initiated from A2 (a sigma-dependent promoter (70) to the G residue of the GATC sequence upstream.</text>
+                    <arg n="1">Transcription</arg>
+                </example>
+                <example src="EGRAM" no="182">
+                    <text>Transcription has been initiated from A2 (a sigma-dependent promoter (70) to the G residue of the GATC sequence upstream.</text>
+                    <arg n="1">Transcription</arg>
+                </example>
+                <example src="EGRAM" no="183">
+                    <text>Transcription has the ability to initiated from A2 (a sigma-dependent promoter (70) to the G residue of the GATC sequence upstream.</text>
+                    <arg n="1">Transcription</arg>
+                </example>
+                <example src="EGRAM" no="184">
+                    <text>Transcription is able to be initiated from a sigma (70)-dependent promoter in the G residue of the GATC upstream sequence.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">a sigma (70)-dependent</arg>
+                </example>
+                <example src="EGRAM" no="185">
+                    <text>Transcription is initiated to start from A2 (a sigma-dependent promoter (70) to the G residue of the GATC sequence upstream.</text>
+                    <arg n="1">Transcription</arg>
+                </example>
+                <example src="EGRAM" no="186">
+                    <text>Transcription may have been initiated from A2 (a sigma-dependent promoter (70) to the G residue of the GATC sequence upstream.</text>
+                    <arg n="1">Transcription</arg>
+                </example>
+                <example src="EGRAM" no="187">
+                    <text>Transcription will initiated from A2 (a sigma-dependent promoter (70) to the G residue of the GATC sequence upstream.</text>
+                    <arg n="1">Transcription</arg>
+                </example>
+                <example src="EGRAM" no="188">
+                    <text>Tumors with breakpoints of only 5 to 1 exon, or distant from c-myc, have a normal A1 of 2.25 and 2.4 kb, which differ at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter A1 (c-myc mRNAs) (2.1-2.7 kb in Burkitt lines), which is initiated to start inside intron 1.</text>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="189">
+                    <text>Tumors with breakpoints only 5 to 1 exon, or distant from c-myc, have a normal A1 of 2.25 and 2.4 kb, which differ at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter A1 (c-myc mRNAs) (2.1-2.7 kb in Burkitt lines), which may have been initiated inside intron 1.</text>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="190">
+                    <text>Tumors with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs initiated inside intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="191">
+                    <text>Tumors with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs that can be initiated inside intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="192">
+                    <text>Tumors with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs that has been initiated inside intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="193">
+                    <text>Tumors with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs that initiated inside intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="194">
+                    <text>Tumors with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs that may have been initiated inside intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="195">
+                    <text>Tumors with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs which are initiated to start inside intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="196">
+                    <text>Tumors with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which initiated at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs that start inside intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="197">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-mix, have normal c-mix acrms of 2.25 and 2.4 kb, while tumors with limit values inside exon 1 or intro 1 alter c-mix acrms that are initiated to start inside intro 1.</text>
+                    <arg n="1">c-mix acrms</arg>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="198">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-my, have a normal A1 of 2.25 and 2.4 kb, which differ from their 5 ends, while tumors with limit values within exon 1 or intro 1 alter the A1 (crms ac) that can be initiated within intro 1.</text>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="199">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-my, have a normal A1 of 2.25 and 2.4 kb, which differ from their 5 ends, while tumors with limit values within exon 1 or intro 1 alter the A1 (crms ac) that may have been initiated within intro 1.</text>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="200">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-my, have normal cms ac of 2.25 and 2.4 kb, which differ from their 5 ends, while tumors with limit values inside exon 1 or intro 1 alter A1 (crems ac) that have initiated within intro 1.</text>
+                    <arg n="1">cms ac</arg>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="201">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-my, have normal cms ac of 2.25 and 2.4 kb, which differ from their 5 ends, while tumors with limit values inside exon 1 or intro 1 alter the A1 (crems ac) initiated within intro 1.</text>
+                    <arg n="1">cms ac</arg>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="202">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-myce, have A1 normal (arms c) of 2.25 and 2.4 kb, which differ from their 5 ends, while tumors with limit values inside exon 1 or intro 1 alter A1 (acrms c) (2.1-2.7 kb in Burkitt lines), which initiated inside Burkitt lines, which initiated inside</text>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="203">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-myce, have a normal A1 of 2.25 and 2.4 kb, which differ from their 5 ends, while tumors with limit values inside exon 1 or intro 1 alter A1 (acrms c) which are initiated to start inside intro 1.</text>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="204">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-myce, have a normal A1 of 2.25 and 2.4 kb, which differ from their 5 ends, while tumors with limit values inside exon 1 or intro 1 alter A1 (acrms c) which initiated inside intro 1.</text>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="205">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-myce, have a normal A1 of 2.25 and 2.4 kb, which initiated from their 5 ends, while tumors with limit values inside exon 1 or intro 1 alter A1 (acrms c) which starts within intro 1.</text>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="206">
+                    <text>Tumors with only 5 cutting values for exon 1 or distant c-mix have c-mix acrms normal of 2.25 and 2.4 kb, which differ from their 5 ends, while tumors with exon 1 or introduction 1 initiated c-mix acrms (2.1-2.7 kb to Burkitt lines), which will start inside</text>
+                    <arg n="1">c-mix acrms</arg>
+                    <arg n="2">introduction 1</arg>
+                </example>
+                <example src="EGRAM" no="207">
+                    <text>Tumors with rupture points of only 5 to 1 exon, or distant from c-myc, have normal A1 of 2.25 and 2.4 kb, which differ in its 5 ends, while tumors with rupture points within 1 or intron 1 alter A1 (c-myc mRNAs) (2.1-2.7 kb in Burkitt lines), which is initiated to start within intron 1.</text>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="208">
+                    <text>Tumors with rupture points only 5 to 1 exon, or distant from c-myc, have normal A1 of 2.25 and 2.4 kb, which differ in their 5 ends, while tumors with rupture points within 1 or intron 1 alter A1 (c-myc mRNAs) (2.1-2.7 kb in Burkitt lines), which may have been initiated within A2 (intron 1</text>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="209">
+                    <text>Tumours with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs (2.1-2.7 kb in Burkitt lines), which can be initiated inside intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="210">
+                    <text>Tumours with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which initiated at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs (2.1-2.7 kb in Burkitt lines), which start inside intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="211">
+                    <text>Tumours with breakpoints only 5 to exon 1, or distant from c-myc, have normal c-myc mRNAs of 2.25 and 2.4 kb, which initiated at their 5 ends, while tumors with breakpoints inside exon 1 or intron 1 alter c-myc mRNAs (2.1-2.7 kb in Burkitt lines), which starts within intron 1.</text>
+                    <arg n="1">c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="212">
+                    <text>Tumours with cutoff values of only 5 for exon 1, or distant from the c-myce, have normal acrms c of 2.25 and 2.4 kb, which differ from their 5 ends, while tumours with cutoff values within exon 1 or intro 1 alter acrms c (2.1-2.7 kb in Burkitt lines), which was initiated within</text>
+                    <arg n="1">acrms c</arg>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="213">
+                    <text>Tumours with cutoff values of only 5 for exon 1, or distant from the c-myce, have normal acrms c of 2.25 and 2.4 kb, which differ from their 5 ends, while tumours with cutoff values within exon 1 or intro 1 alter acrms c that are thought to be initiated within A2 (intro 1 ).</text>
+                    <arg n="1">acrms c</arg>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="214">
+                    <text>Tumours with only 5 cutoff values for exon 1 or distant from the c-mix have c-mix acrms normal of 2.25 and 2.4 kb, which differ from their 5 ends, while tumours with exon 1 or intro 1 change c-mix acrms (2.1-2.7 kb in Burkitts lines), which will be initiated within</text>
+                    <arg n="1">c-mix acrms</arg>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="215">
+                    <text>Tumours with rupture points only 5 for exon 1, or distant from c-myc, have acrms-c normal of 2.25 and 2.4 kb, which differ from their 5 ends, while tumours with rupture points within exon 1 or intron 1 alter acrms-c (2.1-2.7 kb in Burkitt lines), which can be initiated within</text>
+                    <arg n="1">acrms-c</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="216">
+                    <text>Tumours with rupture points only 5 for exon 1, or distant from c-myc, have acrms-c normal of 2.25 and 2.4 kb, which initiated from their 5 ends, while tumours with rupture points within exon 1 or intron 1 alter acrms-c (2.1-2.7 kb in Burkitt lines), which start within A2 (in</text>
+                    <arg n="1">acrms-c</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="217">
+                    <text>Tumours with rupture points only 5 for exon 1, or distant from c-myc, have acrms-c normal of 2.25 and 2.4 kb, which initiated from their 5 ends, while tumours with rupture points within exon 1 or intron 1 alter acrms-c (2.1-2.7 kb in Burkitt lines), which starts within A2 (</text>
+                    <arg n="1">acrms-c</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="218">
+                    <text>Tumours with rupture points only 5 for exon 1, or distant from c-myc, have acrms-c normal of 2.25 and 2.4 kb, which initiated in its 5 ends, while tumours with rupture points within exon 1 or intron 1 alter acrms-c (2.1-2.7 kb in Burkitt lines), which is able to start within</text>
+                    <arg n="1">acrms-c</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+                <example src="EGRAM" no="219">
+                    <text>Tumours with rupture values only 5 for exon 1, or distant from the c-mix, have c-mix acrms normal of 2.25 and 2.4 kb, which initiated from their 5 ends, while tumours with rupture values within exon 1 or intro 1 alter c-mix acrms (2.1-2.7 kb in Burkitt lines), which can</text>
+                    <arg n="1">c-mix acrms</arg>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="220">
+                    <text>Tumours with rupture values only 5 for exon 1, or distant from the c-myce, have normal acrms c of 2.25 and 2.4 kb, which differ from their 5 ends, while tumours with rupture values within exon 1 or intro 1 alter acrms c (2.1-2.7 kb in Burkitt lines), which is able to be initiated</text>
+                    <arg n="1">acrms c</arg>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="EGRAM" no="221">
+                    <text>aggregation and secretion can be initiated by platinum agonists by activating receptors coupled to the G(q) protein, thus increasing Ca(2+) Cytosolic, [Ca(2+)](i).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="222">
+                    <text>aggregation and secretion can be initiated with platquet agonists by A4 receptor activators (G-glutaral proteins activators G(q), thus increasing the Ca(2+), [Ca(2+)](i.</text>
+                    <arg n="0">platquet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                </example>
+                <example src="EGRAM" no="223">
+                    <text>aggregation and secretion has been initiated by platin agonists for activating receptor coupled to the protein G(q) , thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptor coupled to the protein G(q)</arg>
+                </example>
+                <example src="EGRAM" no="224">
+                    <text>aggregation and secretion is initiated by platin agonists for activating receptors coupled to the G(q) protein, thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="225">
+                    <text>aggregation and secretion is initiated by platquet agonists by A4 receptor activators (G-glutaral proteins activators G(q), thus increasing the cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platquet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                </example>
+                <example src="EGRAM" no="226">
+                    <text>aggregation and secretion was initiated by platelet agonists by coupled to G-protein G(q) receptors, thus increasing Ca(2+) cytosolic, [Ca(2+)](i).</text>
+                    <arg n="0">platelet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">coupled to G-protein G(q) receptors</arg>
+                </example>
+                <example src="EGRAM" no="227">
+                    <text>aggregation and secretion was initiated by platquet agonists by A4 receptor activators (G-glutaral proteins G(q), thus increasing the Citosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platquet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                </example>
+                <example src="EGRAM" no="228">
+                    <text>aggregation and secretion was initiated by platquet agonists for coupled to G-protein receptors G(q), thus increasing the cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platquet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">coupled to G-protein receptors G(q), thus increasing the cytosolic Ca(2+), [Ca(2+)](i)</arg>
+                </example>
+                <example src="EGRAM" no="229">
+                    <text>glpTQ transcription and glpACB operons that are divergently transcribed can be initiated into A2 (separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">glpTQ transcription and glpACB operons that are divergently transcribed</arg>
+                </example>
+                <example src="EGRAM" no="230">
+                    <text>glpTQ transcription and glpACB operons that are divergently transcribed is initiated to start in separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">glpTQ transcription and glpACB operons that are divergently transcribed</arg>
+                    <arg n="2">separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="231">
+                    <text>gpTQ and glpACB operations that are divergently transcribed can be initiated in places separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">gpTQ and glpACB operations that are divergently transcribed</arg>
+                    <arg n="2">places separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="232">
+                    <text>gpTQ and glpACB operations which are transcribed in a divergent manner has the ability to initiated with places separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">gpTQ and glpACB operations which are transcribed in a divergent manner</arg>
+                    <arg n="2">places separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="233">
+                    <text>gpTQ and glpACB operations, which are divergently transcribed may have been initiated in places separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">gpTQ and glpACB operations, which are divergently transcribed</arg>
+                    <arg n="2">places separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="234">
+                    <text>gpTQ and glpACB operations, which are transcribed in a divergent manner is able to be initiated in places separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">gpTQ and glpACB operations, which are transcribed in a divergent manner</arg>
+                    <arg n="2">places separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="235">
+                    <text>gpTQ and glpACB operators, which are transcribed in a divergent manner was initiated in places separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">gpTQ and glpACB operators, which are transcribed in a divergent manner</arg>
+                    <arg n="2">places separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="236">
+                    <text>plastine agonists initiated aggregation and secretion to activating the receptors coupled to the G(q) protein, thus increasing Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">plastine agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating the receptors coupled to the G(q) protein, thus increasing Ca(2+), [Ca(2+)](i)</arg>
+                </example>
+                <example src="EGRAM" no="237">
+                    <text>plastine agonists initiates the aggregation and secretion of A1 to activating the receptors coupled to the G(q) protein, thus increasing Ca(2+) Cytosolic, [Ca(2+)](i).</text>
+                    <arg n="0">plastine agonists</arg>
+                    <arg n="4">activating the receptors coupled to the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="238">
+                    <text>plastine agonists initiates the aggregation and secretion of A1 to activating the receptors coupled to the protein G(q), thus increasing Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">plastine agonists</arg>
+                    <arg n="4">activating the receptors coupled to the protein G(q), thus increasing Ca(2+), [Ca(2+)](i)</arg>
+                </example>
+                <example src="EGRAM" no="239">
+                    <text>plastine agonists is thought to initiate the aggregation and secretion of A1 to activating the receptors coupled to the G(q) protein, thus increasing Ca(2+) Cytosolic, [Ca(2+)](i).</text>
+                    <arg n="0">plastine agonists</arg>
+                    <arg n="4">activating the receptors coupled to the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="240">
+                    <text>plastine agonists may have initiated aggregation and secretion to G-protein-coupled receptor activator thus increasing Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">plastine agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">G-protein-coupled receptor activator</arg>
+                </example>
+                <example src="EGRAM" no="241">
+                    <text>plastine agonists may initiate the aggregation and secretion of A1 to activating the receptors coupled to the G(q) protein, thus elevating Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">plastine agonists</arg>
+                    <arg n="4">activating the receptors coupled to the G(q) protein, thus elevating Ca(2+), [Ca(2+)](i)</arg>
+                </example>
+                <example src="EGRAM" no="242">
+                    <text>platelet agonists initiated aggregation and secretion by activating G-protein-coupled receptors G(q), thus increasing Ca(2+) cytosolic, [Ca(2+)](i).</text>
+                    <arg n="0">platelet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating G-protein-coupled receptors G(q)</arg>
+                </example>
+                <example src="EGRAM" no="243">
+                    <text>platin agonists can initiate aggregation and secretion for activating coupled receptors on the G(q) protein, thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating coupled receptors on the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="244">
+                    <text>platin agonists is thought to initiate aggregation and secretion for activating the coupled receptors on the G(q) protein, thus lifting the Citosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating the coupled receptors on the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="245">
+                    <text>platin agonists may have initiated aggregation and secretion for activating receptor coupled to the G(q) protein, thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptor coupled to the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="246">
+                    <text>platinum agonists are able to initiate aggregation and secretion for activating receptors coupled to the G(q) protein, thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="247">
+                    <text>platinum agonists has the ability to initiate aggregation and secretion to activating receptors coupled to G(q) protein, thus increasing Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="248">
+                    <text>platinum agonists have initiated aggregation and secretion for activating coupled receptors on the G(q) protein, thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating coupled receptors on the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="249">
+                    <text>platinum agonists have the ability to initiate aggregation and secretion for activating receptors coupled to the G(q) protein, thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="250">
+                    <text>platinum agonists initiated the aggregation and secretion of A1 to activating the receptors coupled to the G(q) protein, thus increasing Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="4">activating the receptors coupled to the G(q) protein, thus increasing Ca(2+), [Ca(2+)](i)</arg>
+                </example>
+                <example src="EGRAM" no="251">
+                    <text>platinum agonists is able to initiate aggregation and secretion to activating receptors coupled to G(q) protein, thus increasing Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to G(q) protein</arg>
+                </example>
+                <example src="EGRAM" no="252">
+                    <text>polymerases is able to initiate translation with FRS and can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="253">
+                    <text>polymerases that are able to initiate ranscription with FRS can only extend its transcribed in the presence of fact (chromatin transcription unit).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with FRS</arg>
+                    <arg n="3">in the presence of fact (chromatin transcription unit)</arg>
+                </example>
+                <example src="EGRAM" no="254">
+                    <text>polymerases that are able to initiate translation with FRS can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="255">
+                    <text>polymerases that can initiate translation with FRS can only extend its A3 transcriptions (in fact presence (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                </example>
+                <example src="EGRAM" no="256">
+                    <text>polymerases that can initiate translation with FRS can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="257">
+                    <text>polymerases that have initiated ranscription with RSF can only extend their A3 transcriptions (in the presence of fact (chromatin transcription facility) .</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with RSF</arg>
+                </example>
+                <example src="EGRAM" no="258">
+                    <text>polymerases that have the ability to initiate translation with FRS can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="259">
+                    <text>polymerases that have the ability to initiate translation with FRS can only extend their A3 transcriptions (in fact presence (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                </example>
+                <example src="EGRAM" no="260">
+                    <text>polymerases that initiate translation with FRS can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="261">
+                    <text>polymerases that initiated ranscription with FRS can only extend their transcribed in the presence of fact (chromatin transcription unit).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with FRS</arg>
+                    <arg n="3">in the presence of fact (chromatin transcription unit)</arg>
+                </example>
+                <example src="EGRAM" no="262">
+                    <text>polymerases that initiated translation with FRS can only extend its A3 transcriptions (in fact presence (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                </example>
+                <example src="EGRAM" no="263">
+                    <text>polymerases that initiated translation with FRS can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="264">
+                    <text>polymerases that will initiate ranscription with RSF can only extend its A3 transcriptions (in fact presence (facility chromatin transcription) .</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with RSF</arg>
+                </example>
+                <example src="EGRAM" no="265">
+                    <text>polymerases with the ability to initiate translation with FRS can only extend its A3 transcriptions (in fact presence (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                </example>
+                <example src="EGRAM" no="266">
+                    <text>polymerases with the ability to initiate translation with FRS can only extend its transcriptions in the presence of FACT (facilitates chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">translation with FRS</arg>
+                    <arg n="3">in the presence of FACT (facilitates chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="267">
+                    <text>ranscription with FRS can be initiated by polymerases which can only extend its transcriptions in the presence of fact (facilitation of chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with FRS</arg>
+                    <arg n="3">in the presence of fact (facilitation of chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="268">
+                    <text>ranscription with FRS is able to be initiated by polymerases which can only extend its transcriptions in the presence of fact (facilitation of chromatin transcription).</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with FRS</arg>
+                    <arg n="3">in the presence of fact (facilitation of chromatin transcription)</arg>
+                </example>
+                <example src="EGRAM" no="269">
+                    <text>ranscription with RSF can be initiated by polymerases which can only extend its A3 transcriptions (in the presence of fact (facilitates chromatin transcription) .</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with RSF</arg>
+                </example>
+                <example src="EGRAM" no="270">
+                    <text>repression could be initiated by autophosphorylation of the ArcB sensor protein, followed by phosphoryl group transfer to the ArcA regulator.</text>
+                    <arg n="0">autophosphorylation of the ArcB sensor protein</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="EGRAM" no="271">
+                    <text>repression has been initiated by autophosphorylation of the ArcB sensor protein, followed by phosphoryl group transfer to the ArcA regulator.</text>
+                    <arg n="0">autophosphorylation of the ArcB sensor protein</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="EGRAM" no="272">
+                    <text>repression is able to be initiated by self-phosphorylation of sensor protein ArcB, followed by transfer of phosphorus group to ArcA regulator.</text>
+                    <arg n="0">self-phosphorylation of sensor protein ArcB</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="EGRAM" no="273">
+                    <text>repression is observed to be initiated by autophosphorylation of the ArcB sensor protein, followed by phosphoryl group transfer to the ArcA regulator.</text>
+                    <arg n="0">autophosphorylation of the ArcB sensor protein</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="EGRAM" no="274">
+                    <text>repression may have been initiated by autophosphorylation of the ArcB sensor protein, followed by phosphoryl group transfer to the ArcA regulator.</text>
+                    <arg n="0">autophosphorylation of the ArcB sensor protein</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="EGRAM" no="275">
+                    <text>repression was initiated by autophosphorylation of the ArcB sensor protein, followed by phosphoryl group transfer to the ArcA regulator.</text>
+                    <arg n="0">autophosphorylation of the ArcB sensor protein</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="EGRAM" no="276">
+                    <text>repression will be initiated by self-phosphorylation of the sensor protein ArcB, followed by transfer of phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">self-phosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="EGRAM" no="277">
+                    <text>sign transduction is able to be initiated by SCF by direct dimerization of its receptor, Kit, and the two juxtaposed receptors are submitted to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">sign transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="278">
+                    <text>signal transduction can be initiated by SCF direct dimerization of its receptor, Kit, and the two juxtaposed receptors are submitted to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="279">
+                    <text>signal transduction is able to be initiated by SCF by direct dimerization of its receptor , Kit, and the two juxtaposed receptors are submitted to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="280">
+                    <text>signal transduction is initiated by SCF by direct dimerization of its receptor, Kit, and the two juxtaposed receptors are submitted to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="281">
+                    <text>signal transduction was initiated by SCF by direct dimerization of its receptor , Kit, and the two juxtaposed receptors are submitted to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="282">
+                    <text>signal translation can be initiated by SCF direct dimerization of its receptor, Kit, and the two juxtaposed receptors are subjected to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal translation</arg>
+                    <arg n="4">direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="283">
+                    <text>signal translation is initiated by SCF by direct dimerization of its receptor, Kit, and the two juxtaposed receptors are subjected to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal translation</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="284">
+                    <text>signal translation was initiated by SCF by direct dimerization of its receptor, Kit, and the two juxtaposed receptors are subjected to tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiated intracellular signaling downstream.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal translation</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EGRAM" no="285">
+                    <text>the transcription of glucose-specific permease encoded by ptsG, the enzyme IICB (Glc) in Escherichia coli is capable of being initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">the transcription of glucose-specific permease encoded by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="286">
+                    <text>the transcription of glucose-specific permease encoded by ptsG, the enzyme IICB (Glc) in Escherichia coli is initiated to start from two promoters, P1 and P2.</text>
+                    <arg n="1">the transcription of glucose-specific permease encoded by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="287">
+                    <text>the transcription of glucose-specific permease encoded by ptsG, the enzyme IICB (Glc) in Escherichia coli will be initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">the transcription of glucose-specific permease encoded by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="288">
+                    <text>transcribed to glucose-specific permease encoded by ptsG, the enzyme IICB (Glc) in Escherichia coli was initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">transcribed to glucose-specific permease encoded by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="289">
+                    <text>transcription can be initiated from A2 (a sigma-dependent promoter (70) to the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">transcription</arg>
+                </example>
+                <example src="EGRAM" no="290">
+                    <text>transcription has the ability to initiated from A2 (a sigma-dependent promoter (70) for the G residue of the GATC upstream sequence.</text>
+                    <arg n="1">transcription</arg>
+                </example>
+                <example src="EGRAM" no="291">
+                    <text>transcription initiated from A2 (a sigma-dependent promoter (70) on the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">transcription</arg>
+                </example>
+                <example src="EGRAM" no="292">
+                    <text>transcription is initiated from A2 (a sigma-dependent promoter (70) to the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">transcription</arg>
+                </example>
+                <example src="EGRAM" no="293">
+                    <text>transcription is initiated from a sigma (70)-dependent promoter in the G residue of the GATC upstream sequence.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">a sigma (70)-dependent</arg>
+                </example>
+                <example src="EGRAM" no="294">
+                    <text>transcription may have been initiated from A2 (a sigma-dependent promoter (70) to the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">transcription</arg>
+                </example>
+                <example src="EGRAM" no="295">
+                    <text>transcription of glpTQ and glpACB operons that are divergently transcribed can be initiated in A2 (location separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are divergently transcribed</arg>
+                </example>
+                <example src="EGRAM" no="296">
+                    <text>transcription of glpTQ and glpACB operons that are divergently transcribed can be initiated in location separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are divergently transcribed</arg>
+                    <arg n="2">location separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="297">
+                    <text>transcription of glpTQ and glpACB operons that are divergently transcribed is observed to be initiated in location separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are divergently transcribed</arg>
+                    <arg n="2">location separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="298">
+                    <text>transcription of glpTQ and glpACB operons that are divergently transcribed may have been initiated in location separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are divergently transcribed</arg>
+                    <arg n="2">location separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="299">
+                    <text>transcription of glpTQ and glpACB operons that are divergently transcribed was initiated in location separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are divergently transcribed</arg>
+                    <arg n="2">location separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="300">
+                    <text>transcription of glpTQ and glpACB operons that are divergently transcribed will be initiated in location separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are divergently transcribed</arg>
+                    <arg n="2">location separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="EGRAM" no="301">
+                    <text>transcription of glpTQ and glpACB operons that are transcribed divergently has the ability to be initiated in A2 (location separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are transcribed divergently</arg>
+                </example>
+                <example src="EGRAM" no="302">
+                    <text>transcription of glpTQ and glpACB operons that are transcribed divergently is able to be initiated in A2 (location separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are transcribed divergently</arg>
+                </example>
+                <example src="EGRAM" no="303">
+                    <text>transcription of glpTQ and glpACB operons that are transcribed divergently is initiated in A2 (location separated by 132 base pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are transcribed divergently</arg>
+                </example>
+                <example src="EGRAM" no="304">
+                    <text>transcription of glpTQ and glpACB operons that are transcribed divergently was initiated in A2 (location separated by 132 bases pairs (bp) of DNA.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are transcribed divergently</arg>
+                </example>
+                <example src="EGRAM" no="305">
+                    <text>transcription of glucose-specific permease coding by ptsG, enzyme IICB (Glc) in Escherichia coli can be initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">transcription of glucose-specific permease coding by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="306">
+                    <text>transcription of glucose-specific permease coding by ptsG, enzyme IICB (Glc) in Escherichia coli has the ability to be initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">transcription of glucose-specific permease coding by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="307">
+                    <text>transcription of glucose-specific permease coding by ptsG, enzyme IICB (Glc) in Escherichia coli is able to be initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">transcription of glucose-specific permease coding by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="308">
+                    <text>transcription of glucose-specific permease coding by ptsG, enzyme IICB (Glc) in Escherichia coli is observed to be initiated from two promoters, P1 and P2 .</text>
+                    <arg n="1">transcription of glucose-specific permease coding by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="309">
+                    <text>transcription of glucose-specific permease coding by ptsG, enzyme IICB (Glc) in Escherichia coli may have been initiated from two promoters, P1 and P2 .</text>
+                    <arg n="1">transcription of glucose-specific permease coding by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="310">
+                    <text>transcription of glucose-specific permease coding by ptsG, enzyme IICB (Glc) in Escherichia coli was initiated from two promoters, P1 and P2 .</text>
+                    <arg n="1">transcription of glucose-specific permease coding by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="311">
+                    <text>transcription of the glucose-specific permease coding by ptsG, the enzyme IICB (Glc) in Escherichia coli will be initiated from two promoters, P1 and P2.</text>
+                    <arg n="1">transcription of the glucose-specific permease coding by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="EGRAM" no="312">
+                    <text>transcription was initiated from A2 (a sigma-dependent promoter (70) to the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">transcription</arg>
+                </example>
+                <example src="EGRAM" no="313">
+                    <text>transcription will be initiated from a sigma (70)-dependent promoter) in the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">a sigma (70)-dependent</arg>
+                </example>
+                <example src="EGRAM" no="314">
+                    <text>translation I kappa B-epsilon initiated from an inner codon of ATG produces a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">translation I kappa B-epsilon</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+                <example src="EGRAM" no="315">
+                    <text>translation I kappa B-epsilon will be initiated from an inner codon of ATG to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">translation I kappa B-epsilon</arg>
+                    <arg n="2">an inner codon of ATG</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

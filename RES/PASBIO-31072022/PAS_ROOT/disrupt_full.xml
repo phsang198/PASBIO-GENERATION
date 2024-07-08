@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="disrupt">
+            <roleset id="Disrupt.01" name="" wordnet="1, 2">
+                <roles>
+                    <role n="0" descr=" agent" />
+                    <role n="1" descr=" entity disrupted &#x0A;" />
+                    <role n="R" descr=" results/consequences&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="*1">
+                    <text>The 415G4 mutation disrupted a splicing enhancer sequence: (GAR)n-(GAR)n resulting in exon 5 skipping.</text>
+                    <arg n="0">The 415G4 mutation</arg>
+                    <arg n="1">splicing enhancer sequence: (GAR)n-(GAR)n</arg>
+                    <arg n="R">exon 5 skipping</arg>
+                </example>
+                <example src="MEDLINE" no="*2">
+                    <text>This deletion disrupted the consensus 5 splice signal and led to exon skipping.</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the consensus 5 splice signal</arg>
+                    <arg n="R">exon skipping</arg>
+                </example>
+                <example src="MEDLINE" no="*3">
+                    <text>A homozygous mutation that disrupts splicing has been identified in affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">A homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="MEDLINE" no="*4">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (the Gly188----Glu mutation disrupts an Ava II site, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">the Gly188----Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="MEDLINE" no="*5">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; this deletion disrupted the open reading frame.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading frame</arg>
+                </example>
+                <example src="MEDLINE" no="6">
+                    <text>R142X, located within a purine-rich segment at nt 62/116 of exon 5, caused skipping of the exon, possibly by disrupting a splicing enhancer.</text>
+                    <arg n="0">R142X</arg>
+                    <arg n="1">a splicing enhancer</arg>
+                    <arg n="R">skipping of the exon</arg>
+                </example>
+                <example src="MEDLINE" no="7">
+                    <text>Quantitative single-unit electrophysiology revealed that alcohol exposure disrupted ocular dominance plasticity while preserving robust visual responses.</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="MEDLINE" no="*8">
+                    <text>These mutations may be acting in a dominant-negative fashion to disrupt the ubiquitin-binding function, which could result in abnormal activation of the NF-kappaB pathway and the subsequent activation of the osteoclasts.</text>
+                    <arg n="0">These mutations</arg>
+                    <arg n="1">the ubiquitin-binding function</arg>
+                    <arg n="R">abnormal activation of the NF-kappaB pathway and the subsequent activation of the osteoclasts</arg>
+                </example>
+                <example src="MEDLINE" no="9">
+                    <text>Treatment of the systemic inflammatory response to CPB is also confounded by the fact that inhibition of inflammation might disrupt protective physiologic responses or result in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiologic responses</arg>
+                </example>
+                <example src="MEDLINE" no="*10">
+                    <text>Mutations in this region could disrupt keratin filament assembly, leading to degeneration or cytolysis of keratinocytes.</text>
+                    <arg n="0">Mutations in this region</arg>
+                    <arg n="1">keratin filament assembly</arg>
+                    <arg n="R">degeneration or cytolysis of keratinocytes</arg>
+                </example>
+                <example src="MEDLINE" no="*11">
+                    <text>Mutations in p53 disrupt checkpoint responses to DNA damage and result in the potential for destabilization of the genome.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">checkpoint responses to DNA damage</arg>
+                    <arg n="R">the potential for destabilization of the genome</arg>
+                </example>
+                <example src="MEDLINE" no="12">
+                    <text>Thus, attempts to disrupt the tumour vessels by manipulation of the Tie-2 system in tumours may result in side-effects in peripheral nerves.</text>
+                    <arg n="0">manipulation of the Tie-2 system in tumours</arg>
+                    <arg n="1">the tumour vessels</arg>
+                    <arg n="R">side-effects in peripheral nerves</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Arg99 and Arg253 can interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA to disrupt the pairing hydrogen bonds in the model.</text>
+                    <arg n="0">Arg99 and Arg253</arg>
+                    <arg n="1">the pairing hydrogen bonds in the model</arg>
+                </example>
+                <example src="EMBO" no="*2">
+                    <text>The zinc finger motif, which specifically recognizes the GO:C pair, is firmly fixed with respect to the C-terminal domain by the hydrogen bond network, so the Lys147Ala substitution would be expected to disrupt the interaction, resulting in a drastic decrease of activity against GO:C substrates.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                    <arg n="R">a drastic decrease of activity against GO:C substrates</arg>
+                </example>
+                <example src="EMBO" no="*3">
+                    <text>Importantly, the findings show that the knockout of MEKK1 or MEKK2 expression does not disrupt the overall integrity of MAPK pathway regulation.</text>
+                    <arg n="0">knockout of MEKK1 or MEKK2 expression</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

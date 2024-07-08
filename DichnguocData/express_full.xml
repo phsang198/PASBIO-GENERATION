@@ -1,0 +1,1542 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="express">
+            <roleset id="express.01" name="" wordnet="5">
+                <roles>
+                    <role n="0" descr="named entity being expressed&#09;&#09;&#09;&#09;&#09;// gene or gene products//&#10;" />
+                    <role n="1" descr="property of the existing name entity&#10;" />
+                    <role n="2" descr="location refering to organelle, cell or tissue&#10;" />
+                </roles>
+                <example src="EGRAM" no="0">
+					<text>a complementary DNA clone that encodes the large subunit of the essential component of the RNA pre-stressed mammalian RNA splicing component U2 snRNP auxiliary factor (U2AF65) is capable of being isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="0">
+					<text>a complementary DNA clone that encodes the large subunit of the essential component of RNA pre-messenger of the pre-stress mammal of RNA splicing component U2 snRNP auxiliary factor (U2AF65) is able to be isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="1">
+					<text>a complementary DNA clone encoding the large subunit of the essential component of RNA pre-messenger of the pre-stress mammal RNA splicing component U2 snRNP auxiliary factor (U2AF65) is isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="1">
+					<text>a complementary clone of DNA encodes the large subunit of the essential component of the RNA pre-stress RNA splicing component of the RNA splicing component U2 snRNP auxiliary factor (U2AF65) is isolated and expressed in vitro.</text>
+					<arg n="0">a complementary clone of DNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="2">
+					<text>a complementary DNA clone encoding the large subunit of the essential component of RNA pre-messenger of the pre-stress mammal RNA splicing component U2 snRNP auxiliary factor (U2AF65) has been isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="2">
+					<text>a complementary clone of DNA encoding the large subunit of the essential component of the RNA pre-stress RNA splicing component of the RNA splicing component U2 snRNP auxiliary factor (U2AF65) has been isolated and expressed in vitro.</text>
+					<arg n="0">a complementary clone of DNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="3">
+					<text>a complementary DNA clone that encodes the large subunit of the essential component of the U2 snRNP auxiliary component U2 may have been isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="3">
+					<text>a complementary DNA clone that codes the large subunit of the essential component of the premessenger RNA of U2 snRNP auxiliary component U2 may have been isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="4">
+					<text>a complementary DNA clone encoding the large subunit of the essential component of the premessenger RNA of U2 mammals snRNP auxiliary factor U2 was isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="4">
+					<text>a complementary DNA clone encoding the large subunit of the essential component of the RNA premeseentator U2 mammals snRNP auxiliary factor U2 was isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="5">
+					<text>a complementary DNA clone that codes the large subunit of the essential component of premessem-messenger RNA of U2 mammals snRNP auxiliary factor (U2AF65) will be isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="5">
+					<text>a complementary DNA clone codes the large subunit of the essential component of defocused DNA U2 snRNP auxiliary factor U2AF65 will be isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="6">
+					<text>a complementary DNA clone codes the large subunit of the essential component of pre-messenger RNA of the mammal pre-messenger splicing component U2 snRNP auxiliary factor (U2AF65) would be isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="6">
+					<text>a complementary DNA clone codes the large subunit of the essential component of defocused DNA U2 snRNP supporting factor U2-AF65 would be isolated and expressed in vitro.</text>
+					<arg n="0">a complementary DNA clone</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="7">
+					<text>BD73 messenger RNA was expressed as in a wide variety of tissues and cellular lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cellular lines</arg>
+				</example>
+				<example src="EGRAM" no="7">
+					<text>BD73 mRNA has been expressed as in a wide variety of tissues and cellular lines.</text>
+					<arg n="0">BD73 mRNA</arg>
+					<arg n="1">in a wide variety of tissues and cellular lines</arg>
+				</example>
+				<example src="EGRAM" no="8">
+					<text>BD73 messenger RNA is able to expressed in a wide variety of tissues and cell lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cell lines</arg>
+				</example>
+				<example src="EGRAM" no="8">
+					<text>BD73 messenger RNA is able to expressed itself as in a wide variety of tissues and cell lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cell lines</arg>
+				</example>
+				<example src="EGRAM" no="9">
+					<text>BD73 messenger RNA is predicted to be expressed as in a wide variety of tissues and cellular lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cellular lines</arg>
+				</example>
+				<example src="EGRAM" no="9">
+					<text>BD73 messenger RNA is predicted to be expressed as in a wide variety of tissues and cellular lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cellular lines</arg>
+				</example>
+				<example src="EGRAM" no="10">
+					<text>BD73 messenger RNA is expressed as in a wide variety of tissues and cellular lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cellular lines</arg>
+				</example>
+				<example src="EGRAM" no="10">
+					<text>BD73 messenger RNA is demonstrated to be expressed as in a wide variety of tissues and cell lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cell lines</arg>
+				</example>
+				<example src="EGRAM" no="11">
+					<text>BD73 messenger RNA may have been expressed in a wide variety of tissues and cell lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cell lines</arg>
+				</example>
+				<example src="EGRAM" no="11">
+					<text>BD73 messenger RNA may have been expressed as in a wide variety of tissues and cellular lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cellular lines</arg>
+				</example>
+				<example src="EGRAM" no="12">
+					<text>BD73 messenger RNA was expressed in a wide variety of tissues and cell lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cell lines</arg>
+				</example>
+				<example src="EGRAM" no="12">
+					<text>BD73 messenger RNA was expressed as in a wide variety of tissues and cellular lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cellular lines</arg>
+				</example>
+				<example src="EGRAM" no="13">
+					<text>BD73 messenger RNA will be expressed in a wide variety of tissues and cell lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cell lines</arg>
+				</example>
+				<example src="EGRAM" no="13">
+					<text>BD73 messenger RNA will be expressed as in a wide variety of tissues and cellular lines.</text>
+					<arg n="0">BD73 messenger RNA</arg>
+					<arg n="1">in a wide variety of tissues and cellular lines</arg>
+				</example>
+				<example src="EGRAM" no="14">
+					<text>In these cells on the cell surface, two A0 are produced (in the structure &#945; chain transcriptions) but only has been expressed .</text>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="14">
+					<text>In these cells on the cell surface, two in the transcription structure of the &#945; chain are produced, but only has been expressed.</text>
+					<arg n="0">in the transcription structure of the &#945; chain</arg>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="15">
+					<text>In these cells on the cell surface, two A0 transcriptions are produced (in the &#945; structure in the chain) but only shows one that is expressed.</text>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="15">
+					<text>In these cells on the cell surface, two transcriptions of A0 are produced (in the &#945; structure of the chain), but only shows one that is expressed.</text>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="16">
+					<text>In these cells on the cell surface, two A0 were produced (in the &#945; structure strand transcriptions) but M-ADV was expresses (only) as one of them.</text>
+					<arg n="2">these cells on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="16">
+					<text>In these cells on the cell surface, two in the &#945; transcription structure of the chain were produced, but M-ADV was expresses (only) as one of them.</text>
+					<arg n="0">in the &#945; transcription structure of the chain</arg>
+					<arg n="2">these cells on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="17">
+					<text>In these cells on the cell surface, two A0 were produced (in the &#945; structure chain transcriptions) but only has been expressed.</text>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="17">
+					<text>In these cells on the cell surface, two A0 were produced (in the transcriptions of the &#945; structure chain), but only was expressed.</text>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="18">
+					<text>In these cells on the cell surface, two in the transcription structure of the &#945; chain were produced, but only can be expressed.</text>
+					<arg n="0">in the transcription structure of the &#945; chain</arg>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="18">
+					<text>In such cells on the cell surface, two &#945;-chain transcribed in frame were produced, but one is able to be expressed.</text>
+					<arg n="0">&#945;-chain transcribed in frame</arg>
+					<arg n="2">such cells on the cell surface</arg>
+					<arg n="M-ADV">one</arg>
+				</example>
+				<example src="EGRAM" no="19">
+					<text>In such cells on the cell surface, two &#945;-chain transcribed in frame were produced, but one of them can be expressed.</text>
+					<arg n="0">&#945;-chain transcribed in frame</arg>
+					<arg n="2">such cells on the cell surface</arg>
+					<arg n="M-ADV">one of them</arg>
+				</example>
+				<example src="EGRAM" no="19">
+					<text>In these cells on the cell surface, two A0 were produced (in the structure &#945; chain transcriptions) but only one can expressed one of them.</text>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="20">
+					<text>In such cells on the cell surface, two &#945;-chain transcribed in frame were produced, but one of them was observed to be expressed.</text>
+					<arg n="0">&#945;-chain transcribed in frame</arg>
+					<arg n="2">such cells on the cell surface</arg>
+					<arg n="M-ADV">one of them</arg>
+				</example>
+				<example src="EGRAM" no="20">
+					<text>In these cells on the cell surface, two in the transcription structure of the &#945; chain were produced, but only is observed to expressed one of them.</text>
+					<arg n="0">in the transcription structure of the &#945; chain</arg>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="21">
+					<text>In these cells on the cell surface, two A0 were produced (in the structure &#945; chain transcriptions) but only one was expressed.</text>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="21">
+					<text>In these cells on the cell surface, two in the transcription structure of the &#945; chain were produced, but only one was expressed.</text>
+					<arg n="0">in the transcription structure of the &#945; chain</arg>
+					<arg n="2">these cells on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="22">
+					<text>In summary, NNT-1/BSF-3 was expressed as PtT/GF follicles of follicle blood cells and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">PtT/GF follicles of follicle blood cells</arg>
+				</example>
+				<example src="EGRAM" no="22">
+					<text>In short, NNT-1/BSF-3 has been expressed in PtT/GF folliculostellated pituitary blood cells and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">PtT/GF folliculostellated pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="23">
+					<text>In summary, NNT-1/BSF-3 was induced by PKC, PKA and ERK1/2-dependent mechanisms and expressed as TtT/GF follicles of follicular pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF follicles of follicular pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="23">
+					<text>In short, NNT-1/BSF-3 has been induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in TtT/GF folliculostellated pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF folliculostellated pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="24">
+					<text>In summary, NNT-1/BSF-3 can be expressed as PtT/GF follicles of piliculoske blood cells and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">PtT/GF follicles of piliculoske blood cells</arg>
+				</example>
+				<example src="EGRAM" no="24">
+					<text>In summary, NNT-1/BSF-3 is able to be expressed in pituitary follicle cells TtT/GF and induced by PKC, PKA and ERK1/2-dependent mechanisms.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">pituitary follicle cells TtT/GF</arg>
+				</example>
+				<example src="EGRAM" no="25">
+					<text>In summary, NNT-1/BSF-3 is able to be induced by PKC, PKA and ERK1/2-dependent mechanisms and expressed as pituitary folliculitis TtT/GF.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">pituitary folliculitis TtT/GF</arg>
+				</example>
+				<example src="EGRAM" no="25">
+					<text>In summary, NNT-1/BSF-3 is able to be induced by mechanisms dependent on PKC, PKA and ERK1/2 and expressed in TtT/GF follicles of follicle pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF follicles of follicle pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="26">
+					<text>In summary, NNT-1/BSF-3 was expressed in PtT/GF follicles of follicle cells and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">PtT/GF follicles of follicle cells</arg>
+				</example>
+				<example src="EGRAM" no="26">
+					<text>In summary, NNT-1/BSF-3  is shown to be expressed in PtT/GF folliculostellated pituitary blood cells and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+					<arg n="0">NNT-1/BSF-3 </arg>
+					<arg n="2">PtT/GF folliculostellated pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="27">
+					<text>In summary, NNT-1/BSF-3 shows that it is induced by the dependent mechanisms PKC, PKA and ERK1/2 and expressed in TtT/GF pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="27">
+					<text>In short, NNT-1/BSF-3 shows that it is induced by the dependent mechanisms PKC, PKA and ERK1/2 and expressed in TtT/GF pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="28">
+					<text>In short, NNT-1/BSF-3 was expressed in pytuitary folliculary blood cells TtT/GF and induced by dependent mechanisms PKC, PKA and ERK1/2.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">pytuitary folliculary blood cells TtT/GF</arg>
+				</example>
+				<example src="EGRAM" no="28">
+					<text>In short, NNT-1/BSF-3 was expressed in pytuited follicle cells TtT/GF and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">pytuited follicle cells TtT/GF</arg>
+				</example>
+				<example src="EGRAM" no="29">
+					<text>In summary, NNT-1/BSF-3 was induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in TtT/GF pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="29">
+					<text>In short, NNT-1/BSF-3 was induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in TtT/GF pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="30">
+					<text>In summary, NNT-1/BSF-3 will be expressed in pituitary follicle TtT/GF cells and induced by PKC, PKA and ERK1/2-dependent mechanisms.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">pituitary follicle TtT/GF cells</arg>
+				</example>
+				<example src="EGRAM" no="30">
+					<text>In summary, NNT-1/BSF-3 will be expressed in ttT/GF blood cells and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">ttT/GF blood cells</arg>
+				</example>
+				<example src="EGRAM" no="31">
+					<text>In summary, NNT-1/BSF-3 will be induced by PKC, PKA and ERK1/2-dependent mechanisms and expressed as TtT/GF follicles of follicular pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF follicles of follicular pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="31">
+					<text>In short, NNT-1/BSF-3 will be induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in TtT/GF folliculostellated pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF folliculostellated pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="32">
+					<text>In the adult animal cortex, Reln was expressed mainly in A2 neurons (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="32">
+					<text>In the cortex of adult animals, Reln was expressed mainly in A2 (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal nets.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="33">
+					<text>In the adult animal cortex, Reln is able to expressed primarily in A2 neurons (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">primarily</arg>
+				</example>
+				<example src="EGRAM" no="33">
+					<text>In the cortex of adult animals, Reln is able to expressed mainly in A2 (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="34">
+					<text>In the adult animal cortex, Reln was expressed mainly in A2 neurons (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="34">
+					<text>In the cortex of adult animals, Reln was expressed mainly in A2 (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal nets.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="35">
+					<text>In the cortex of adult animals, Reln was shown to be expressed mainly in A2 (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="35">
+					<text>In the cortex of adult animals, Reln was demonstrated to be expressed as mainly in A2 neurons (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="36">
+					<text>The patient expressed NNT-1/BSF-3, which was induced by PKC, PKA and ERK1/2, mechanisms dependent on TtT/GF of pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF of pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="36">
+					<text>He expressed NNT-1/BSF-3, which was induced by PKC, PKA and ERK1/2, dependent mechanisms in TtT/GF pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="37">
+					<text>Express NNT-1/BSF-3, which is expresses by PKC, PKA and ERK1/2, dependent mechanisms in TtT/GF folliculostellated pituitary blood cells.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2">TtT/GF folliculostellated pituitary blood cells</arg>
+				</example>
+				<example src="EGRAM" no="37">
+					<text>The expression NNT-1/BSF-3, which is expresses by mechanisms dependent on PKC, PKA and ERK1/2, in  pituitary folliar cells TtT/GF.</text>
+					<arg n="0">NNT-1/BSF-3</arg>
+					<arg n="2"> pituitary folliar cells TtT/GF</arg>
+				</example>
+				<example src="EGRAM" no="38">
+					<text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously demonstrated that this receptor can be expressed by classical variant and SCCL.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical variant and SCCL</arg>
+				</example>
+				<example src="EGRAM" no="38">
+					<text>It has been assumed that this peptide exerts its mitochondrial influences through the V1a vasopressin receptor, and we have previously shown that this receptor can be expressed by classical and SCCL variant.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical and SCCL variant</arg>
+				</example>
+				<example src="EGRAM" no="39">
+					<text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously demonstrated that this receptor was expressed by classical variant and SCCL.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical variant and SCCL</arg>
+				</example>
+				<example src="EGRAM" no="39">
+					<text>It has been assumed that this peptide exerts its mitochondrial influences through the V1a vasopressin receptor, and we have previously shown that this receptor has been expressed by classical and SCCL variant.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical and SCCL variant</arg>
+				</example>
+				<example src="EGRAM" no="40">
+					<text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously demonstrated that this receptor may have been expressed by classical variant and SCCL.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical variant and SCCL</arg>
+				</example>
+				<example src="EGRAM" no="40">
+					<text>It has been assumed that this peptide exerts its mitochondrial influences through the V1a vasopressin receptor, and we have previously shown that this receptor may have been expressed by classical and SCCL variant.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical and SCCL variant</arg>
+				</example>
+				<example src="EGRAM" no="41">
+					<text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously demonstrated that this receptor was able to be expressed by classical variant and SCCL.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical variant and SCCL</arg>
+				</example>
+				<example src="EGRAM" no="41">
+					<text>It has been assumed that this peptide exerts its mitochondrial influences through the V1a vasopressin receptor, and we have previously shown that this receptor was able to be expressed by classical and SCCL variant.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical and SCCL variant</arg>
+				</example>
+				<example src="EGRAM" no="42">
+					<text>We suppose that this peptide exerts its mitogenic influences through the vasopressin receptor V1a, and we have previously demonstrated that this receptor was expressed by classic and SCCL variant.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classic and SCCL variant</arg>
+				</example>
+				<example src="EGRAM" no="42">
+					<text>It has been assumed that this peptide exerts its mitochondrial influences through the V1a vasopressin receptor, and we have previously shown that this receptor was expressed by classical and SCCL variant.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical and SCCL variant</arg>
+				</example>
+				<example src="EGRAM" no="43">
+					<text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously shown that this receptor was expressed by classical variant and SCCL.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical variant and SCCL</arg>
+				</example>
+				<example src="EGRAM" no="43">
+					<text>It has been assumed that this peptide exerts its mitochondrial influences through the V1a vasopressin receptor, and we have previously shown that this receptor was expressed by classical and SCCL variant.</text>
+					<arg n="0">this receptor</arg>
+					<arg n="2">classical and SCCL variant</arg>
+				</example>
+				<example src="EGRAM" no="44">
+					<text>It has mainly expressed Reln, which is secreted into perineuronal networks, in neurons Aminobutyric acid &#947;-aminobutyric acid (GABA).</text>
+					<arg n="0">Reln</arg>
+					<arg n="2">Aminobutyric acid &#947;-aminobutyric acid (GABA)</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="44">
+					<text>It has the expression of mainly Reln, which is expressed in perineuronal networks, in A2 neurons (&#947;-aminobutyric acid (GABA).</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="45">
+					<text>mainly expressed Reln, which was secreted in perineuronal networks, in erogenic neurons &#947;-aminobutyric acid (GABA).</text>
+					<arg n="0">Reln</arg>
+					<arg n="2">&#947;-aminobutyric acid (GABA)</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="45">
+					<text>mainly expressed Reln, which was secreted in perineuronal networks, in neurons &#947;-aminobutyric acid (GABA).</text>
+					<arg n="0">Reln</arg>
+					<arg n="2">&#947;-aminobutyric acid (GABA)</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="46">
+					<text>primarily expresses Reln, which is expresses in perineuronal networks, in A2 neurons (&#947;-aminobutyric acid (GABA).</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">primarily</arg>
+				</example>
+				<example src="EGRAM" no="46">
+					<text>mainly expresses Reln, which is expresses in perineuronal networks, in neurons &#947;-aminobutyric acid (GABA).</text>
+					<arg n="0">Reln</arg>
+					<arg n="2">&#947;-aminobutyric acid (GABA)</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="47">
+					<text>most of the elements Girapsum Ty3/animal, on the other hand, encoded gags and pole in separate reading frames, and had the ability to express pol by +1 or -1 frame shift.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most of the elements Girapsum Ty3/animal</arg>
+				</example>
+				<example src="EGRAM" no="47">
+					<text>most of the Ty3/gypsy animal retroelements, on the other hand, encoded gag and pole in separate reading frames, and had the ability to express pol through +1 or -1 frame shift.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+				</example>
+				<example src="EGRAM" no="48">
+					<text>most of the elements Girapsum Ty3/animal, on the other hand, encoded gags and pole in separate reading frames, and probably expressed pol by +1 or -1 frame shift.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most of the elements Girapsum Ty3/animal</arg>
+				</example>
+				<example src="EGRAM" no="48">
+					<text>most of the Ty3/gypsy animal retroelements, on the other hand, encoded gag and pole in separate reading frames, and probably expressed pol through +1 or -1 frame shift.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+				</example>
+				<example src="EGRAM" no="49">
+					<text>most animal backelements Ty3/gypsum, on the other hand, coded gags and poles in separate reading frames, and it was likely to express pol by +1 or -1 frames.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most animal backelements Ty3/gypsum</arg>
+				</example>
+				<example src="EGRAM" no="49">
+					<text>most of the Ty3/gypsy animal retroelements, on the other hand, encoded gag and pole in separate reading frames, and was likely to express pol through +1 or -1 frame shift.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+				</example>
+				<example src="EGRAM" no="50">
+					<text>most of the later elements of Ty3/animal plasters, on the other hand, encoded gags and pole in separate reading frames, and probably expressed pol by +1 or -1 frame shift.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most of the later elements of Ty3/animal plasters</arg>
+				</example>
+				<example src="EGRAM" no="50">
+					<text>most of the Ty3/gypsy animal retroelements, on the other hand, encoded gag and pole in separate reading frames, and probably expressed pol through +1 or -1 frame shift.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+				</example>
+				<example src="EGRAM" no="51">
+					<text>The analysis of the northern spots reveals that BNIP3alpha was expressed omnipresently in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="51">
+					<text>Analysis of northern spots reveals that BNIP3alpha has been expressed omnipresently in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="52">
+					<text>Analysis of northern spots reveals that BNIP3alpha has been shown to be ubiquitously expressed in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="52">
+					<text>The analysis of the northern bblot reveals that BNIP3alpha has been shown to be ubiquitously expressed in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="53">
+					<text>The analysis of northern cutoff points reveals that BNIP3alpha is able to expressed itself ubiquitously in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="53">
+					<text>The analysis of the northern bblot reveals that BNIP3alpha is able to be expressed ubiquitously in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="54">
+					<text>The analysis of the northern bblot reveals that BNIP3alpha was expressed ubiquitously in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="54">
+					<text>The analysis of the northern spots reveals that BNIP3alpha was expressed ubiquitously in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="55">
+					<text>The analysis of the northern bblot reveals that BNIP3alpha will be expressed ubiquitously in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="55">
+					<text>The analysis of the northern spots reveals that BNIP3alpha will be expressed omnipresently in most human tissues.</text>
+					<arg n="0">BNIP3alpha</arg>
+					<arg n="1">most human tissues</arg>
+				</example>
+				<example src="EGRAM" no="56">
+					<text>The analysis of the northern spots with mRNA from eight different human tissues showed that the enzyme was expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="56">
+					<text>Analysis of northern spots with the mRNA of eight different human tissues showed that the enzyme has been expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="57">
+					<text>The analysis of the northern staining with mRNA of eight different human tissues showed that the enzyme expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="57">
+					<text>Analysis of the northern stain with the mRNA of eight different human tissues showed that the enzyme has been shown to expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="58">
+					<text>Analysis of the northern stain with the mRNA of eight different human tissues showed that the enzyme is capable of being expressed exclusively in brain steel, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain steel</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="58">
+					<text>The analysis of the northern spot with mRNA of eight different human tissues showed that the enzyme is able to be expressed exclusively in brain steel, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain steel</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="59">
+					<text>The analysis of the northern spot with the RNAm of eight different human tissues showed that the enzyme is expressed exclusively in brain steel, with two RNAm isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two RNAm isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain steel</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="59">
+					<text>Analysis of the northern stain with the mRNA of eight different human tissues showed that the enzyme is expressed exclusively in brain steel, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain steel</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="60">
+					<text>The analysis of the northern staining with mRNA of eight different human tissues showed that the enzyme could have been expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="60">
+					<text>Analysis of the northern stain with the mRNA of eight different human tissues showed that the enzyme could have been expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="61">
+					<text>Analysis of the northern stain with the mRNA of eight different human tissues showed that the enzyme is expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="61">
+					<text>The analysis of rnp with mRNA from eight different human tissues showed that the enzyme will be expressed exclusively in brain, with two isoforms of mRNA of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two isoforms of mRNA of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="62">
+					<text>Analysis of the northern stain with the mRNA of eight different human tissues showed that the enzyme was expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="62">
+					<text>The analysis of rnp with mRNA from eight different human tissues demonstrated that the enzyme would be expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+					<arg n="0">the enzyme</arg>
+					<arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+					<arg n="2">brain</arg>
+					<arg n="M-MAN">exclusively</arg>
+				</example>
+				<example src="EGRAM" no="63">
+					<text>Northern and inverse PCR transcriptase trials with oligonucleotide probes and transcript-specific firsts showed that the isoform identical to Ran/TC4 has been expressed in both somatic tissues and testis, while the variant was transcribed only in testis.</text>
+					<arg n="0">the isoform identical to Ran/TC4</arg>
+					<arg n="2">both somatic tissues and testis</arg>
+				</example>
+				<example src="EGRAM" no="63">
+					<text>The transcription-PCR assays of northern and reverse origin with oligonucleotide probes and primers specific for each transcription showed that isoform identical to Ran/TC4 was expressed in both somatic and testicle testicles, while the variant form was transcribed only in the testicles.</text>
+					<arg n="0">isoform identical to Ran/TC4</arg>
+					<arg n="2">both somatic and testicle testicles</arg>
+				</example>
+				<example src="EGRAM" no="64">
+					<text>The transcription-PCR assays of northern and reverse origin with oligonucleotide probes and primers specific for each transcription showed that isoform identical to the Ran/TC4 has been expressed in both somatic and testicle, while the variant form was transcribed only in the testicles.</text>
+					<arg n="0">isoform identical to the Ran/TC4</arg>
+					<arg n="2">both somatic and testicle</arg>
+				</example>
+				<example src="EGRAM" no="64">
+					<text>Northern blotting and reverse-PCR transcriptase trials with oligonucleotide probes and transcription-specific firsts showed that the isoform identical to Ran/TC4 has been shown to be expressed in both somatic tissues and testis, while the variant was transcribed only in testis.</text>
+					<arg n="0">the isoform identical to Ran/TC4</arg>
+					<arg n="2">both somatic tissues and testis</arg>
+				</example>
+				<example src="EGRAM" no="65">
+					<text>Transcription-PCR tests of north and reverse origin with oligonucleotide probes and first specific to each transcript showed that isoform identical to Ran/TC4 can be expressed in both somatic and testicle, while the variant was transcribed only in testicles.</text>
+					<arg n="0">isoform identical to Ran/TC4</arg>
+					<arg n="2">both somatic and testicle</arg>
+				</example>
+				<example src="EGRAM" no="65">
+					<text>The transcription-PCR assays of northern and reverse origin with oligonucleotide probes and primers specific for each transcription showed that isoform identical to Ran/TC4 is able to be expressed in both somatic and testicle, while the variant form was transcribed only in the testicles.</text>
+					<arg n="0">isoform identical to Ran/TC4</arg>
+					<arg n="2">both somatic and testicle</arg>
+				</example>
+				<example src="EGRAM" no="66">
+					<text>Northern and inverse PCR transcriptase trials with oligonucleotide probes and transcript-specific firsts showed that the isoform identical to Ran/TC4 is expressed in both somatic tissues and testis, while the variant was transcribed only in testis.</text>
+					<arg n="0">the isoform identical to Ran/TC4</arg>
+					<arg n="2">both somatic tissues and testis</arg>
+				</example>
+				<example src="EGRAM" no="66">
+					<text>The randomized transcription-PCR assays of north and reverse origin with oligonucleotide probes and primers specific for each transcription showed that isoform identical to Ran/TC4 is expressed in both somatic and testicle, while the variant form was transcribed only in the testicles.</text>
+					<arg n="0">isoform identical to Ran/TC4</arg>
+					<arg n="2">both somatic and testicle</arg>
+				</example>
+				<example src="EGRAM" no="67">
+					<text>Northern and inverse PCR transcriptase trials with oligonucleotide probes and first specific for each transcript showed that the isoform identical to Ran/TC4 was expressed in both somatic tissues and testis, while the variant was transcribed only in testis.</text>
+					<arg n="0">the isoform identical to Ran/TC4</arg>
+					<arg n="2">both somatic tissues and testis</arg>
+				</example>
+				<example src="EGRAM" no="67">
+					<text>The randomized transcription-PCR assays of north and reverse origin with oligonucleotide probes and primers specific for each transcription demonstrated that isoform identical to Ran/TC4 would be expressed in both somatic and testicle, while the variant form was transcribed only in the testicles.</text>
+					<arg n="0">isoform identical to Ran/TC4</arg>
+					<arg n="2">both somatic and testicle</arg>
+				</example>
+				<example src="EGRAM" no="68">
+					<text>one or the other of the two available CRTs is expressed only by T cells of double-transgenic CRT mice on the cell surface.</text>
+					<arg n="0">one or the other of the two available CRTs</arg>
+					<arg n="2">T cells of double-transgenic CRT mice on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="68">
+					<text>one or the other of the two available TCRs are expressed only for T cells of double TCR transgenic mice on the cell surface.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="2">T cells of double TCR transgenic mice on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="69">
+					<text>one or the other of the two available TCRs is shown to expressed only for T cells of double TCR transgenic mice on the cell surface.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="2">T cells of double TCR transgenic mice on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="69">
+					<text>one or the other of the two available CRTs is demonstrated to be expressed only by T-cells of double-transgenic CRT mice on the cell surface.</text>
+					<arg n="0">one or the other of the two available CRTs</arg>
+					<arg n="2">T-cells of double-transgenic CRT mice on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="70">
+					<text>one or the other of the two available CRTs was expressed only by T cells of double-transgenic CRT mice on the cell surface.</text>
+					<arg n="0">one or the other of the two available CRTs</arg>
+					<arg n="2">T cells of double-transgenic CRT mice on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="70">
+					<text>one or the other of the two available TCRs have been expressed only for T cells of double TCR transgenic mice on the cell surface.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="2">T cells of double TCR transgenic mice on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="71">
+					<text>one or the other of the two available CRTs was expressed only for T cells of double transgenic CRT mice on the cell surface.</text>
+					<arg n="0">one or the other of the two available CRTs</arg>
+					<arg n="2">T cells of double transgenic CRT mice on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="71">
+					<text>one or the other of the two available TCRs were expressed only for T cells of double TCR transgenic mice on the cell surface.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="2">T cells of double TCR transgenic mice on the cell surface</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="72">
+					<text>Pol was probably expressed by +1 or -1 compensation schemes for most Ty3/ gypsy animal back-elements.</text>
+					<arg n="0">Pol</arg>
+					<arg n="2">most Ty3/ gypsy animal back-elements</arg>
+				</example>
+				<example src="EGRAM" no="72">
+					<text>Pol has probably been expressed through +1 or -1 frame offset for most of the Ty3/gypsy animal retroelements.</text>
+					<arg n="0">Pol</arg>
+					<arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+				</example>
+				<example src="EGRAM" no="73">
+					<text>pol is probably expressed by +1 or -1 compensation schemes for most Ty3/ gypsy animal back-elements.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most Ty3/ gypsy animal back-elements</arg>
+				</example>
+				<example src="EGRAM" no="73">
+					<text>pol is likely to be expressed through +1 or -1 frame offset for most of the Ty3/gypsy animal retroelements.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+				</example>
+				<example src="EGRAM" no="74">
+					<text>A 0 (pol) was probably expressed by +1 or -1 compensation schemes for most Ty3/ gypsy animal back-elements.</text>
+					<arg n="2">most Ty3/ gypsy animal back-elements</arg>
+				</example>
+				<example src="EGRAM" no="74">
+					<text>pol is shown to be likely to be expressed through +1 or -1 frame offset for most of the Ty3/gypsy animal retroelements.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+				</example>
+				<example src="EGRAM" no="75">
+					<text>Pol may have been expressed probably through +1 or -1 frame shift for most of the Ty3/gypsy animal retroelements.</text>
+					<arg n="0">Pol</arg>
+					<arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+				</example>
+				<example src="EGRAM" no="75">
+					<text>Pol may have been expressed probably by +1 or -1 substitution schemes for most Ty3/ gypsy animal back-elements.</text>
+					<arg n="0">Pol</arg>
+					<arg n="2">most Ty3/ gypsy animal back-elements</arg>
+				</example>
+				<example src="EGRAM" no="76">
+					<text>pol is probably expressed by +1 or -1 compensation schemes for most Ty3/ gypsy animal back-elements.</text>
+					<arg n="0">pol</arg>
+					<arg n="2">most Ty3/ gypsy animal back-elements</arg>
+				</example>
+				<example src="EGRAM" no="76">
+					<text>Pol would probably be expressed by frameshifting +1 or -1 by most Ty3/snakeback elements.</text>
+					<arg n="0">Pol</arg>
+					<arg n="2">most Ty3/snakeback elements</arg>
+				</example>
+				<example src="EGRAM" no="77">
+					<text>RCAS viruses infect only cells and engineering is used to express ectopia avian retroviral receptor, AVT.</text>
+					<arg n="0">avian retroviral receptor</arg>
+					<arg n="2">cells</arg>
+					<arg n="M-MAN">ectopia</arg>
+				</example>
+				<example src="EGRAM" no="77">
+					<text>RCAS viruses infect only cells and engineering is used to express ectopy retroviral avian receptor, AVT.</text>
+					<arg n="0">retroviral avian receptor</arg>
+					<arg n="2">cells</arg>
+					<arg n="M-MAN">ectopy</arg>
+				</example>
+				<example src="EGRAM" no="78">
+					<text>RCAS viruses infect only cells and are expressing in the expression of ectopia retroviral avian receptor, AVT.</text>
+					<arg n="0">retroviral avian receptor</arg>
+					<arg n="2">cells</arg>
+					<arg n="M-MAN">ectopia</arg>
+				</example>
+				<example src="EGRAM" no="78">
+					<text>RCAS viruses infect only cells and are expressing in the expression of ectopia avian retroviral receptor, AVT.</text>
+					<arg n="0">avian retroviral receptor</arg>
+					<arg n="2">cells</arg>
+					<arg n="M-MAN">ectopia</arg>
+				</example>
+				<example src="EGRAM" no="79">
+					<text>RCAS viruses infect only cells engendered to expressing ectopia retroviral avian receptor, AVT.</text>
+					<arg n="0">retroviral avian receptor</arg>
+					<arg n="2">cells</arg>
+					<arg n="M-MAN">ectopia</arg>
+				</example>
+				<example src="EGRAM" no="79">
+					<text>RCAS viruses infect only cells designed to expressing ectopically the retroviral receptor avian, TVA.</text>
+					<arg n="0">the retroviral receptor avian</arg>
+					<arg n="2">cells</arg>
+					<arg n="M-MAN">ectopically</arg>
+				</example>
+				<example src="EGRAM" no="80">
+					<text>RNA and protein for the four TCR transgenic proteins is expressed by T cells.</text>
+					<arg n="0">RNA and protein for the four TCR transgenic proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="80">
+					<text>RNA and protein for all four transgenic TCR proteins are expressed by T cells.</text>
+					<arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="81">
+					<text>A 0 (RNA and protein for the four TCR transgenic proteins) was demonstrated to be expressed by T cells.</text>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="81">
+					<text>RNA and protein for all four transgenic TCR proteins is shown to be expressed by T cells.</text>
+					<arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="82">
+					<text>RNA and protein for the four transgenic proteins TCR was expressed by T cells.</text>
+					<arg n="0">RNA and protein for the four transgenic proteins TCR</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="82">
+					<text>RNA and protein for all four transgenic TCR proteins has been expressed by T cells.</text>
+					<arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="83">
+					<text>RNA and protein for the four TCR transgenic proteins may have been expressed by T cells.</text>
+					<arg n="0">RNA and protein for the four TCR transgenic proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="83">
+					<text>RNA and protein for all four transgenic TCR proteins may have been expressed by T cells.</text>
+					<arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="84">
+					<text>RNA and protein for the four TCR transgenic proteins was expressed by T cells.</text>
+					<arg n="0">RNA and protein for the four TCR transgenic proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="84">
+					<text>RNA and protein for all four transgenic TCR proteins were expressed by T cells.</text>
+					<arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="85">
+					<text>NN and protein for the four transgenic proteins TCR will be expressed by T cells.</text>
+					<arg n="0">NN and protein for the four transgenic proteins TCR</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="85">
+					<text>NN and protein for the four TCR transgenic proteins will be expressed by T cells.</text>
+					<arg n="0">NN and protein for the four TCR transgenic proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="86">
+					<text>Reln was expressed mainly in A2 (a &#947;-aminobutyric acid (GABA) and secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="86">
+					<text>Reln has been expressed mainly in a &#947;-aminobutyric acid (GABA) erogenic neurons and secreted into perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="2">a &#947;-aminobutyric acid (GABA) erogenic neurons</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="87">
+					<text>Reln is expressed primarily in A2 (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">primarily</arg>
+				</example>
+				<example src="EGRAM" no="87">
+					<text>Reln is expressed mainly in A2 (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="88">
+					<text>Reln may have been expressed mainly in A2 (&#947;-aminobutyric acid (GABA) and secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="88">
+					<text>Reln may have been expressed primarily in A2 neurons (&#947;-aminobutyric acid (GABA) and secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">primarily</arg>
+				</example>
+				<example src="EGRAM" no="89">
+					<text>Reln is expressed mainly in A2 (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">mainly</arg>
+				</example>
+				<example src="EGRAM" no="89">
+					<text>Reln will be expressed primarily in A2 (&#947;-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+					<arg n="0">Reln</arg>
+					<arg n="M-MAN">primarily</arg>
+				</example>
+				<example src="EGRAM" no="90">
+					<text>A2 cells (T cells of double TCR transgenic mice on the cell surface) are able to express only one or the other of the two available TCRs.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="90">
+					<text>A2 cells (T cells of double transgenic TCR mice on the cell surface) are able to express only one or the other of the two available TCRs.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="91">
+					<text>A2 cells (T cells of double transgeny TCR mice on the cell surface) are shown to express only one or the other of the two available TCRs.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="91">
+					<text>A2 cells (T cells of double TCR transgenic mice on the cell surface) are shown to express only one or the other of the two available TCRs.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="92">
+					<text>A2 cells (T cells of double-transgenic TCR mice on the cell surface) expressed only one or the other of the two available TCR.</text>
+					<arg n="0">one or the other of the two available TCR</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="92">
+					<text>A2 cells (T cells of double TCR transgenic mice on the cell surface) have expressed only one or the other of the two available TCRs.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="93">
+					<text>A2 cells (T cells of double-transgenic TCR mice on the cell surface) may express only one or the other of the two available TCR.</text>
+					<arg n="0">one or the other of the two available TCR</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="93">
+					<text>A2 cells (T cells of double TCR transgenic mice on the cell surface) can express only one or the other of the two available TCRs.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="94">
+					<text>T cells of double TCR transgenic mice on the cell surface may have expressed only one or the other of the two available TCRs.</text>
+					<arg n="0">one or the other of the two available TCRs</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="94">
+					<text>T cells of double transgenic TCR mice on the cell surface may have expressed only one or the other of the two available TCR.</text>
+					<arg n="0">one or the other of the two available TCR</arg>
+					<arg n="M-ADV">only</arg>
+				</example>
+				<example src="EGRAM" no="95">
+					<text>T cells in mice with TCR encoding proteins TCR &#945; and &#946; are predominantly expressed transgen-coded TCR proteins.</text>
+					<arg n="0">transgen-coded TCR proteins</arg>
+				</example>
+				<example src="EGRAM" no="95">
+					<text>T cells in mice on the cell surface that carry transgenites encoding TCR proteins &#945; and &#946; are predominantly shown to express transgen-encoded TCR proteins.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+				</example>
+				<example src="EGRAM" no="96">
+					<text>T cells in mice on the cell surface with transgenic cells TCR &#945; and &#946; expressed predominantly TCR transgenic cells.</text>
+					<arg n="0">TCR transgenic cells</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="96">
+					<text>T cells in mice on the cell surface carrying transgenes encoding TCR proteins &#945; and &#946; expressed predominantly transgen-encoded TCR proteins.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="97">
+					<text>T cells in mice on the cell surface carry transgenes encoding TCR proteins &#945; and &#946; predominantly expressed transgen-encoded TCR proteins.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+				</example>
+				<example src="EGRAM" no="97">
+					<text>T cells in mice on the cell surface carry transgenic acids that codify TCR &#945; and &#946; proteins expressed predominantly transgen-coded TCR proteins.</text>
+					<arg n="0">transgen-coded TCR proteins</arg>
+				</example>
+				<example src="EGRAM" no="98">
+					<text>T cells in mice on the cell surface, which carry transgenes that code TCR &#945; and &#946; proteins, mainly, may have expressed transgen- coded TCR proteins.</text>
+					<arg n="0">transgen- coded TCR proteins</arg>
+				</example>
+				<example src="EGRAM" no="98">
+					<text>T cells in mice on the cell surface, which carry transgenes encoding TCR proteins &#945; and &#946;, predominantly, may have expressed transgen-encoded TCR proteins.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+				</example>
+				<example src="EGRAM" no="99">
+					<text>the avian retroviral receptor can be equally expressed by cells infected with clonal viruses.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">cells infected with clonal viruses</arg>
+					<arg n="M-MAN">equally</arg>
+				</example>
+				<example src="EGRAM" no="99">
+					<text>the avian retroviral receptor can be ectopically expressed by cells infected by RCAS virus.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">cells infected by RCAS virus</arg>
+					<arg n="M-MAN">ectopically</arg>
+				</example>
+				<example src="EGRAM" no="100">
+					<text>the avian retroviral receptor is able to be echocally expressed by clonal virus-infected cells.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">clonal virus-infected cells</arg>
+					<arg n="M-MAN">echocally</arg>
+				</example>
+				<example src="EGRAM" no="100">
+					<text>the avian retroviral receptor is able to be echocally expressed by clonal virus-infected cells.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">clonal virus-infected cells</arg>
+					<arg n="M-MAN">echocally</arg>
+				</example>
+				<example src="EGRAM" no="101">
+					<text>the avian retroviral receptor is echocally expressed by clonal virus-infected cells.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">clonal virus-infected cells</arg>
+					<arg n="M-MAN">echocally</arg>
+				</example>
+				<example src="EGRAM" no="101">
+					<text>the avian retroviral receptor is ectopically expressed by cells infected by RCAS virus.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">cells infected by RCAS virus</arg>
+					<arg n="M-MAN">ectopically</arg>
+				</example>
+				<example src="EGRAM" no="102">
+					<text>the avian retroviral receptor was the M-MAN receptor (equally) expressed by cells infected with clonal viruses.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">cells infected with clonal viruses</arg>
+				</example>
+				<example src="EGRAM" no="102">
+					<text>the avian retroviral receptor was ectopically expressed by cells infected by RCAS virus.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">cells infected by RCAS virus</arg>
+					<arg n="M-MAN">ectopically</arg>
+				</example>
+				<example src="EGRAM" no="103">
+					<text>the avian retroviral receptor was shown to be echocally expressed by clonal virus-infected cells.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">clonal virus-infected cells</arg>
+					<arg n="M-MAN">echocally</arg>
+				</example>
+				<example src="EGRAM" no="103">
+					<text>the avian retroviral receptor was shown to be ectopically expressed by cells infected by RCAS virus.</text>
+					<arg n="0">the avian retroviral receptor</arg>
+					<arg n="2">cells infected by RCAS virus</arg>
+					<arg n="M-MAN">ectopically</arg>
+				</example>
+				<example src="EGRAM" no="104">
+					<text>the human mitochondrial termination factor (mTERF) cDNA is capable of being cloned and expressed in vitro, and two alternative protein precursors have been imported only to mitochondria and processed to mature the protein.</text>
+					<arg n="0">the human mitochondrial termination factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="104">
+					<text>The human mitochondrial transcription ending factor (mTERF) cDNA is able to be cloned and expressed in vitro, and two alternative precursors of the protein have been imported into mitochondria alone and processed to mature protein.</text>
+					<arg n="0">The human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="105">
+					<text>human mitochondrial transcription ending factor (mTERF) cDNA is able to be expressed and cloned into vitro, and two alternative protein precursors have been imported to mitochondria alone and processed to mature protein.</text>
+					<arg n="0">human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="105">
+					<text>The human mitochondrial transcription ending factor (mTERF) cDNA is able to be expressed and cloned in vitro, and two alternative precursors of the protein have been imported into mitochondria alone and processed to mature protein.</text>
+					<arg n="0">The human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="106">
+					<text>the termination factor of human mitochondrial transcription (mTERF) cDNA is cloned and expressed in vitro, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+					<arg n="0">the termination factor of human mitochondrial transcription (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="106">
+					<text>The human mitochondrial transcription ending factor (mTERF) cDNA is cloned and expressed in vitro, and two alternative precursors of the protein have been imported into mitochondria alone and processed to mature protein.</text>
+					<arg n="0">The human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="107">
+					<text>the termination factor of human mitochondrial transcription (mTERF) cDNA is expressed and cloned in vitro, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+					<arg n="0">the termination factor of human mitochondrial transcription (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="107">
+					<text>The human mitochondrial transcription ending factor (mTERF) cDNA is expressed and cloned into vitro, and two alternative precursors of the protein have been imported into mitochondria alone and processed to mature protein.</text>
+					<arg n="0">The human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="108">
+					<text>Human mitochondrial transcription ending factor (mTERF) cDNA was cloned and expressed in vitro, and two alternative precursors of the protein were imported to mitochondria alone and processed to mature protein.</text>
+					<arg n="0">Human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="108">
+					<text>the termination factor of human mitochondrial transcription (mTERF) cDNA was cloned and expressed in vitro, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+					<arg n="0">the termination factor of human mitochondrial transcription (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="109">
+					<text>The human mitochondrial transcription ending factor (mTERF) cDNA was expressed and cloned in vitro, and two alternative precursors of the protein were imported to mitochondrial isolation and processed to mature protein.</text>
+					<arg n="0">The human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="109">
+					<text>the termination factor of human mitochondrial transcription (mTERF) cDNA was expressed and cloned in vitro, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+					<arg n="0">the termination factor of human mitochondrial transcription (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="110">
+					<text>The human mitochondrial transcription ending factor (mTERF) cDNA was shown to be cloned and expressed in vitro, and two alternative precursors of the protein were imported to mitochondria alone and processed to mature protein.</text>
+					<arg n="0">The human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="110">
+					<text>the termination factor of human mitochondrial transcription (mTERF) cDNA was shown to be cloned and expressed in vitro, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+					<arg n="0">the termination factor of human mitochondrial transcription (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="111">
+					<text>human mitochondrial transcription ending factor (mTERF) cDNA has been shown to be expressed and cloned into vitro, and two alternative protein precursors were imported to mitochondrial isolation and processed to mature protein.</text>
+					<arg n="0">human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="111">
+					<text>It was shown that the termination factor of human mitochondrial transcription (mTERF) cDNA was expressed and cloned in vitro, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+					<arg n="0">the termination factor of human mitochondrial transcription (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="112">
+					<text>The human mitochondrial transcription ending factor (mTERF) cDNA would be cloned and expressed in vitro, and two alternative precursors of the protein were imported into mitochondria alone and processed to mature protein.</text>
+					<arg n="0">The human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="112">
+					<text>the termination factor of human mitochondrial transcription (mTERF) cDNA would be cloned and expressed in vitro, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+					<arg n="0">the termination factor of human mitochondrial transcription (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="113">
+					<text>the termination factor of human mitochondrial transcription (mTERF) cDNA is expressed and cloned in vitro, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+					<arg n="0">the termination factor of human mitochondrial transcription (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="113">
+					<text>The human mitochondrial transcription ending factor (mTERF) cDNA would be expressed and cloned into vitro, and two alternative precursors of the protein were imported into mitochondria alone and processed to mature protein.</text>
+					<arg n="0">The human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+					<arg n="2">vitro</arg>
+				</example>
+				<example src="EGRAM" no="114">
+					<text>The mechanical transduction mechanism for this signaling can directly or indirectly involve the distrophin complex, since FGM cannot be expressed in response to the overcharge for Distropical muscles.</text>
+					<arg n="0">FGM</arg>
+					<arg n="2">Distropical muscles</arg>
+				</example>
+				<example src="EGRAM" no="114">
+					<text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystrophin complex, since MGF could not be expressed in response to the overload by dystrophic muscle.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="115">
+					<text>The mechanical transduction mechanism of this signaling may directly or indirectly involve the dystrophin complex, as it has been shown that FGM is not expressed in response to the overload for tropical muscle.</text>
+					<arg n="0">FGM</arg>
+					<arg n="2">tropical muscle</arg>
+				</example>
+				<example src="EGRAM" no="115">
+					<text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystropin complex, since MGF has not been demonstrated to be expressed in response to the overload by dystrophic muscle.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="116">
+					<text>The mechanotransduction mechanism of this signaling can directly or indirectly involve the distrophin complex, since FGM cannot be expressed in response to the overload for Distrophic muscles.</text>
+					<arg n="0">FGM</arg>
+					<arg n="2">Distrophic muscles</arg>
+				</example>
+				<example src="EGRAM" no="116">
+					<text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystrophin complex, since MGF is not able to be expressed in response to the overload by dystrophic muscle.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="117">
+					<text>The mechanical transduction mechanism for this signaling may directly or indirectly involve the distrophin complex, since FGM was not able to be expressed in response to the overload for Distrophic muscles.</text>
+					<arg n="0">FGM</arg>
+					<arg n="2">Distrophic muscles</arg>
+				</example>
+				<example src="EGRAM" no="117">
+					<text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystrophin complex, since MGF was not able to be expressed in response to the overload by dystrophic muscle.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="118">
+					<text>The mechanical transduction mechanism for this signaling can directly or indirectly involve the distropin complex, since FGM was not able to be expressed in response to the overload for Distrophic muscles.</text>
+					<arg n="0">FGM</arg>
+					<arg n="2">Distrophic muscles</arg>
+				</example>
+				<example src="EGRAM" no="118">
+					<text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystropin complex, since MGF was not able to be expressed in response to the overload by dystrophic muscle.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="119">
+					<text>The mechanotransduction mechanism of this signaling may directly or indirectly involve the distrophin complex as distrophic muscles, unlike the normal muscle, it cannot express MGF in response to overcharge.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">distrophic muscles</arg>
+				</example>
+				<example src="EGRAM" no="119">
+					<text>The mechanical transduction mechanism of this signaling may directly or indirectly involve the dystrophic complex such as dystrophic muscle, unlike the normal muscle, it cannot express MGF in response to overload.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="120">
+					<text>The mechanical transduction mechanism of this signaling may directly or indirectly involve the dystrophic complex such as dystropheric muscle, unlike the normal muscle, it does not have the ability to express MGF in response to overload.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystropheric muscle</arg>
+				</example>
+				<example src="EGRAM" no="120">
+					<text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystrophin complex such as dystrophic muscle, unlike the normal muscle, it does not have the ability to express MGF in response to overload.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="121">
+					<text>The mechanical transduction mechanism of this signaling may directly or indirectly involve the dystrophic complex as dystrophic muscle, unlike the normal muscle, it has been shown not to express MGF in response to overload.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="121">
+					<text>The mechanical transduction mechanism for this signaling may directly or indirectly involve the dystrophin complex such as dystrophic muscle, unlike the normal muscle, it has shown not to express MGF in response to overload.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="122">
+					<text>The mechanical transduction mechanism for this signaling may directly or indirectly involve the distrophin complex as distrophic muscles, unlike the normal muscle, was not able to express MGF in response to overcharge.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">distrophic muscles</arg>
+				</example>
+				<example src="EGRAM" no="122">
+					<text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystrophin complex such as dystrophic muscle, unlike the normal muscle, was not able to express MGF in response to overload.</text>
+					<arg n="0">MGF</arg>
+					<arg n="2">dystrophic muscle</arg>
+				</example>
+				<example src="EGRAM" no="123">
+					<text>The operon of pfl was expressed in high anaerobic levels.</text>
+					<arg n="0">high anaerobic levels</arg>
+				</example>
+				<example src="EGRAM" no="123">
+					<text>The pfl operon has been expressed in high anaerobically .</text>
+					<arg n="0">high anaerobically </arg>
+				</example>
+				<example src="EGRAM" no="124">
+					<text>The operon of pfl was expressed in high anaerobic levels.</text>
+					<arg n="0">high anaerobic levels</arg>
+				</example>
+				<example src="EGRAM" no="124">
+					<text>The pfl operon has been shown to be expressed in high anaerobically .</text>
+					<arg n="0">high anaerobically </arg>
+				</example>
+				<example src="EGRAM" no="125">
+					<text>The pfl operon can be expressed in high anaerobic levels.</text>
+					<arg n="0">high anaerobic levels</arg>
+				</example>
+				<example src="EGRAM" no="125">
+					<text>The operon of pfl is able to be expressed in high anaerobic levels.</text>
+					<arg n="0">high anaerobic levels</arg>
+				</example>
+				<example src="EGRAM" no="126">
+					<text>The pfl operon is shown expressed in high anaerobic levels.</text>
+					<arg n="0">high anaerobic levels</arg>
+				</example>
+				<example src="EGRAM" no="126">
+					<text>The operon of pfl is shown to be expressed in high anaerobic levels.</text>
+					<arg n="0">high anaerobic levels</arg>
+				</example>
+				<example src="EGRAM" no="127">
+					<text>The operon of pfl may have been expressed in high anaerobic levels.</text>
+					<arg n="0">high anaerobic levels</arg>
+				</example>
+				<example src="EGRAM" no="127">
+					<text>The pfl operon may have been expressed in high anaerobic levels.</text>
+					<arg n="0">high anaerobic levels</arg>
+				</example>
+				<example src="EGRAM" no="128">
+					<text>The operon of pfl was expressed in high anaerobic levels.</text>
+					<arg n="0">high anaerobic levels</arg>
+				</example>
+				<example src="EGRAM" no="128">
+					<text>The pfl operon was expressed at high anaerobically tier.</text>
+					<arg n="0">high anaerobically tier</arg>
+				</example>
+				<example src="EGRAM" no="129">
+					<text>transgen-coded TCR proteins is able to be predominantly expressed by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-coded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="129">
+					<text>transgen-coded TCR proteins is able to be predominantly expressed by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-coded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="130">
+					<text>transgen-encoded TCR proteins is expressed predominantly by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="130">
+					<text>transgenic-encoded TCR proteins are expressed predominantly by T cells in mice on the cell surface.</text>
+					<arg n="0">transgenic-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="131">
+					<text>transgen-encoded TCR proteins is shown to be expressed predominantly by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="131">
+					<text>transgen-coded TCR proteins has been shown to be expressed predominantly by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-coded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="132">
+					<text>transgen-encoded TCR proteins was expressed predominantly by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="132">
+					<text>transgen-encoded TCR proteins have been expressed predominantly for T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="133">
+					<text>transgenic-encoded TCR proteins may have been expressed predominantly for T cells in mice on the cell surface.</text>
+					<arg n="0">transgenic-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="133">
+					<text>transgen-coded TCR proteins may have been predominantly expressed by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-coded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="134">
+					<text>transgen-encoded TCR proteins was expressed predominantly by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="134">
+					<text>transgenic-encoded TCR proteins were expressed predominantly by T cells in mice on the cell surface.</text>
+					<arg n="0">transgenic-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="135">
+					<text>transgen-encoded TCR proteins are expressed predominantly by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-encoded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="135">
+					<text>transgen-coded TCR proteins will predominantly be expressed by T cells in mice on the cell surface.</text>
+					<arg n="0">transgen-coded TCR proteins</arg>
+					<arg n="2">T cells in mice on the cell surface</arg>
+				</example>
+				<example src="EGRAM" no="136">
+					<text>This functional exclusion of alleles is apparently due to the control of the assembly process of the CRT, since these T cells are able to express A0 (RNA and protein for the four transgenic proteins of the CRT.</text>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="136">
+					<text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these T cells are able to express RNA and protein for the four transgenic TCR proteins.</text>
+					<arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="137">
+					<text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these T cells are expressing RNA and protein for the four transgenic TCR proteins.</text>
+					<arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+					<arg n="2">T</arg>
+				</example>
+				<example src="EGRAM" no="137">
+					<text>This functional exclusion of alleles is apparently due to the control of the assembly process of the CRT, since these T cells are expressing A0 (RNA and protein for the four transgenic proteins of the CRT.</text>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="138">
+					<text>This functional exclusion of alleles is apparently due to the control of the assembly process of the CRT, since these T cells are expressing in the expression of A0 (RNA and protein for the four transgenic proteins of the CRT.</text>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="138">
+					<text>This functional allelic exclusion is apparently due to expressing of the TCR assembly process because these T cells are involved in the expression of RNA and protein for the four transgenic TCR proteins.</text>
+					<arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+					<arg n="2">T</arg>
+				</example>
+				<example src="EGRAM" no="139">
+					<text>This functional allele exclusion is apparently due to control of the TCR assembly process because these T cells have been shown to express RNA and protein for the four transgenic TCR proteins.</text>
+					<arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="139">
+					<text>This functional exclusion of the allele is apparently due to the control of the assembly process of the CRT, since these T cells have demonstrated to express RNA and protein for the four transgenic proteins of the CRT.</text>
+					<arg n="0">RNA and protein for the four transgenic proteins of the CRT</arg>
+				</example>
+				<example src="EGRAM" no="140">
+					<text>This functional exclusion of alleles is apparently due to the control of the assembly process of the CRT, since these T cells expressed A0 (RNA and protein for the four transgenic proteins of the CRT.</text>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="140">
+					<text>This functional allele exclusion is apparently due to control of the TCR assembly process because these T cells have expressed RNA and protein for the four transgenic TCR proteins.</text>
+					<arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="141">
+					<text>This functional allele exclusion is apparently due to control of the TCR assembly process because these T cells have the ability to express RNA and protein for the four transgenic TCR proteins.</text>
+					<arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+					<arg n="2">T cells</arg>
+				</example>
+				<example src="EGRAM" no="141">
+					<text>This functional exclusion of the allele is apparently due to the control of the assembly process of the CRT, since these T cells have the ability to express RNA and protein for the four transgenic proteins of the CRT.</text>
+					<arg n="0">RNA and protein for the four transgenic proteins of the CRT</arg>
+				</example>
+				<example src="EGRAM" no="142">
+					<text>Two equally plentiful mRNA for il8ra, 2.0 and 2.4 kilobases of length, can be expressed in neutrophils and arise from the use of two alternative polyadenylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases of length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="142">
+					<text>Two mRNAs for il8ra, 2 and 2.4 kilograms in length are able to be expressed in neutrophils and arise from the use of two alternative polyadnylation signals.</text>
+					<arg n="0">mRNAs for il8ra</arg>
+					<arg n="1">2 and 2.4 kilograms in length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="143">
+					<text>Two equally abundant mRNA for il8ra, 2.0 and 2.4 kilobases in length, are expressed in neutrophils and arise from the use of two alternative polyadnylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases in length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="143">
+					<text>Two equally abundant mRNA for il8ra, 2.0 and 2.4 kilobases of length, are shown expressed in neutrophils and arise from the use of two alternative polyadenylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases of length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="144">
+					<text>Two equally abundant mRNA for il8ra, 2.0 and 2.4 kilobases in length were expressed in neutrophils and arise from the use of two alternative polyadnylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases in length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="144">
+					<text>Two equally abundant mRNA for il8ra, 2.0 and 2.4 kilobases of length, have been expressed in neutrophils and arise from the use of two alternative polyadenylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases of length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="145">
+					<text>Two mRNAs for il8ra, 2 and 2.4 kilograms in length also abundant, may have been expressed in neutrophils and arise from the use of two alternative polyadnylation signals.</text>
+					<arg n="0">mRNAs for il8ra</arg>
+					<arg n="1">2 and 2.4 kilograms in length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="145">
+					<text>Two equally plentiful mRNA for il8ra, 2.0 and 2.4 kilobases long, may have been expressed in neutrophils and arise from the use of two alternative polyadenylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases long</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="146">
+					<text>Two equally abundant mRNA for il8ra, 2.0 and 2.4 kilobases in length were expressed in neutrophils and arise from the use of two alternative polyadnylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases in length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="146">
+					<text>Two equally abundant mRNA for il8ra, 2.0 and 2.4 kilobases long, were expressed in neutrophils and arise from the use of two alternative polyadenylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases long</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="147">
+					<text>Two equally abundant mRNA for il8ra, 2.0 and 2.4 kilobases of length, are expressed in neutrophils and arise from the use of two alternative polyadenylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases of length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+				<example src="EGRAM" no="147">
+					<text>Two equally abundant mRNA for il8ra, 2.0 and 2.4 kilobases in length, are expressed in neutrophils and arise from the use of two alternative polyadnylation signals.</text>
+					<arg n="0">mRNA for il8ra</arg>
+					<arg n="1">2.0 and 2.4 kilobases in length</arg>
+					<arg n="2">neutrophils</arg>
+				</example>
+			</roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

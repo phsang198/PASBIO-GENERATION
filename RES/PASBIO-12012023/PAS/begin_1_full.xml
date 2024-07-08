@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="begin">
+            <roleset id="begin.01" name="start existing" wordnet="2">
+                <roles>
+                    <role n="0" descr="theme" />
+                    <role n="1" descr="start point of occurence" />
+                </roles>
+                <example src="EMBO" no="0">
+                    <text>Both SRF subunits in the ternary complex bend the two DNA half sites to the same extent, resulting in bending of 31 into the major groove over the CC and CT base pair steps beginning and ending the CArG-box, and 15 into the minor groove over the five central TA, AA and AT base pair steps.</text>
+                    <arg n="0">bending of 31 into the major groove over the CC and CT base pair steps</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>The electron density of each of the four copies of the SRF polypeptide in the asymmetric unit begins variably between amino acids 136 and 140, and continues to the C-terminus.</text>
+                    <arg n="0">The electron density of each of the four copies of the SRF polypeptide in the asymmetric unit</arg>
+                    <arg n="1">between amino acids 136 and 140</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>On the other hand, the only transcript beginning at exon 1a was observed in normal cells.</text>
+                    <arg n="0">the only transcript</arg>
+                    <arg n="1">at exon 1a</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

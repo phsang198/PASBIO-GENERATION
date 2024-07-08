@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="skip">
+            <roleset id="Skip.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent, causer&#x09;&#x09;&#x09;// mutation, cell, molecule//&#x0A;" />
+                    <role n="1" descr="entity skipped           &#x09;// exon, intron, process  //&#x0A;" />
+                    <role n="R" descr="results/consequences&#x0A;" />
+                </roles>
+                <example src="PERMUTATE" no="0">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA enter mitosis but are likely to skip the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA enter mitosis but are observed to skip the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA enter mitosis but can skip the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA enter mitosis but have been shown to skip the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA enter mitosis but have the ability to skip the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA enter mitosis but may have skipped the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA enter mitosis but skip the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA enter mitosis but will be able to skip the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA enter mitosis but will skip the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA entered mitosis but have skipped the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Tg Xist RNA entered mitosis but skipped the ectopic Xic.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA enter mitosis but are likely to skip the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA enter mitosis but are observed to skip the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA enter mitosis but can skip the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA enter mitosis but have been shown to skip the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA enter mitosis but have the ability to skip the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA enter mitosis but may have skipped the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA enter mitosis but skip the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA enter mitosis but will be able to skip the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA enter mitosis but will skip the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA entered mitosis but have skipped the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which Xist RNA entered mitosis but skipped the Xic Tg.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the Xic Tg are able to be skipped by Xist RNA.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the Xic Tg are observed to be skipped by Xist RNA.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the Xic Tg are skipped by Xist RNA.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the Xic Tg can be skipped by Xist RNA.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the Xic Tg has been shown to be skipped by Xist RNA.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the Xic Tg have been skipped by Xist RNA.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the Xic Tg may have been skipped by Xist RNA.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the Xic Tg were skipped by Xist RNA.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the ectopic Xic are able to be skipped by Tg Xist RNA.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the ectopic Xic are observed to be skipped by Tg Xist RNA.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the ectopic Xic are skipped by Tg Xist RNA.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the ectopic Xic can be skipped by Tg Xist RNA.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the ectopic Xic has been shown to be skipped by Tg Xist RNA.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the ectopic Xic have been skipped by Tg Xist RNA.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the ectopic Xic may have been skipped by Tg Xist RNA.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the ectopic Xic were skipped by Tg Xist RNA.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>Tg Xist RNA coated the autosome but has skipped the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>Tg Xist RNA coated the autosome but skipped the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>Tg Xist RNA coated the autosome but, as we predicted, has skipped the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>Tg Xist RNA coats the autosome but can skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>Tg Xist RNA coats the autosome but has been shown to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>Tg Xist RNA coats the autosome but has the ability to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>Tg Xist RNA coats the autosome but is able to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>Tg Xist RNA coats the autosome but is observed to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Tg Xist RNA coats the autosome but skips the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Tg Xist RNA coats the autosome but will skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, can skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, has been shown to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, has the ability to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, is able to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, is observed to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, skips the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, will skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>The observation that Xist RNA can efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>The observation that Xist RNA can skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>The observation that Xist RNA efficiently skipped the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>The observation that Xist RNA has been shown to efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>The observation that Xist RNA has been shown to skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>The observation that Xist RNA has efficiently skipped the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>The observation that Xist RNA has skipped the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>The observation that Xist RNA has the ability to efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>The observation that Xist RNA has the ability to skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="64">
+                    <text>The observation that Xist RNA has the probability of efficiently skipping the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="65">
+                    <text>The observation that Xist RNA has the probability of skipping the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="66">
+                    <text>The observation that Xist RNA is able to efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="67">
+                    <text>The observation that Xist RNA is able to skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="68">
+                    <text>The observation that Xist RNA is likely to efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="69">
+                    <text>The observation that Xist RNA is likely to skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="70">
+                    <text>The observation that Xist RNA is observed to efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="71">
+                    <text>The observation that Xist RNA is observed to skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="72">
+                    <text>The observation that Xist RNA may have efficiently skipped the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="73">
+                    <text>The observation that Xist RNA may have skipped the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="74">
+                    <text>The observation that Xist RNA skipped the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="75">
+                    <text>The observation that Xist RNA skips the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="76">
+                    <text>The observation that Xist RNA will efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="77">
+                    <text>The observation that Xist RNA will skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="78">
+                    <text>The observation that the Xic Tg can be efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="79">
+                    <text>The observation that the Xic Tg can be skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="80">
+                    <text>The observation that the Xic Tg has been efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="81">
+                    <text>The observation that the Xic Tg has been shown to be efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="82">
+                    <text>The observation that the Xic Tg has been shown to be skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="83">
+                    <text>The observation that the Xic Tg has been skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="84">
+                    <text>The observation that the Xic Tg has the ability to be efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="85">
+                    <text>The observation that the Xic Tg has the ability to be skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="86">
+                    <text>The observation that the Xic Tg is able to be efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="87">
+                    <text>The observation that the Xic Tg is able to be skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="88">
+                    <text>The observation that the Xic Tg is efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="89">
+                    <text>The observation that the Xic Tg is likely to be efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="90">
+                    <text>The observation that the Xic Tg is likely to be skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="91">
+                    <text>The observation that the Xic Tg is observed to be efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="92">
+                    <text>The observation that the Xic Tg is observed to be skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="93">
+                    <text>The observation that the Xic Tg is skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="94">
+                    <text>The observation that the Xic Tg may have been efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="95">
+                    <text>The observation that the Xic Tg may have been skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="96">
+                    <text>The observation that the Xic Tg was efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="97">
+                    <text>The observation that the Xic Tg was skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="98">
+                    <text>The observation that the Xic Tg will be efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="99">
+                    <text>The observation that the Xic Tg will be skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a large region of the leader containing a putative RNA encapsidation signal are able to be skipped by ribosomes.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a large region of the leader containing a putative RNA encapsidation signal are observed to be skipped by ribosomes.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a large region of the leader containing a putative RNA encapsidation signal are skipped by ribosomes.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a large region of the leader containing a putative RNA encapsidation signal can be skipped by ribosomes.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a large region of the leader containing a putative RNA encapsidation signal has been shown to be skipped by ribosomes.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a large region of the leader containing a putative RNA encapsidation signal have been skipped by ribosomes.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a large region of the leader containing a putative RNA encapsidation signal may have been skipped by ribosomes.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a large region of the leader containing a putative RNA encapsidation signal were skipped by ribosomes.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) enter mitosis but are likely to skip exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) enter mitosis but are observed to skip exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) enter mitosis but can skip exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) enter mitosis but have been shown to skip exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) enter mitosis but have the ability to skip exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) enter mitosis but may have skipped exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) enter mitosis but skip exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) enter mitosis but will be able to skip exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) enter mitosis but will skip exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) entered mitosis but have skipped exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a splice-site mutation in intron 3 (IVS3+1G--&gt;A) entered mitosis but skipped exon 3.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a stop codon-containing exon (exon 4) are able to be skipped by alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a stop codon-containing exon (exon 4) are observed to be skipped by alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a stop codon-containing exon (exon 4) are skipped by alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a stop codon-containing exon (exon 4) can be skipped by alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a stop codon-containing exon (exon 4) has been shown to be skipped by alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a stop codon-containing exon (exon 4) have been skipped by alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a stop codon-containing exon (exon 4) may have been skipped by alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which a stop codon-containing exon (exon 4) were skipped by alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing enter mitosis but are likely to skip a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing enter mitosis but are observed to skip a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing enter mitosis but can skip a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing enter mitosis but have been shown to skip a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing enter mitosis but have the ability to skip a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing enter mitosis but may have skipped a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing enter mitosis but skip a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing enter mitosis but will be able to skip a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing enter mitosis but will skip a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="37">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing entered mitosis but have skipped a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="38">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which alternative splicing entered mitosis but skipped a stop codon-containing exon (exon 4).</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="REPLACE" no="39">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII enter mitosis but are likely to skip the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="40">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII enter mitosis but are observed to skip the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="41">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII enter mitosis but can skip the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="42">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII enter mitosis but have been shown to skip the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="43">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII enter mitosis but have the ability to skip the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="44">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII enter mitosis but may have skipped the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="45">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII enter mitosis but skip the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="46">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII enter mitosis but will be able to skip the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="47">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII enter mitosis but will skip the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="48">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII entered mitosis but have skipped the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="49">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which an acyl-enzyme intermediate on PikAIII entered mitosis but skipped the last extension step.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="50">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which exon 3 are able to be skipped by a splice-site mutation in intron 3 (IVS3+1G--&gt;A).</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="51">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which exon 3 are observed to be skipped by a splice-site mutation in intron 3 (IVS3+1G--&gt;A).</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="52">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which exon 3 are skipped by a splice-site mutation in intron 3 (IVS3+1G--&gt;A).</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="53">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which exon 3 can be skipped by a splice-site mutation in intron 3 (IVS3+1G--&gt;A).</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="54">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which exon 3 has been shown to be skipped by a splice-site mutation in intron 3 (IVS3+1G--&gt;A).</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="55">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which exon 3 have been skipped by a splice-site mutation in intron 3 (IVS3+1G--&gt;A).</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="56">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which exon 3 may have been skipped by a splice-site mutation in intron 3 (IVS3+1G--&gt;A).</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="57">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which exon 3 were skipped by a splice-site mutation in intron 3 (IVS3+1G--&gt;A).</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="REPLACE" no="58">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes enter mitosis but are likely to skip a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="59">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes enter mitosis but are observed to skip a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="60">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes enter mitosis but can skip a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="61">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes enter mitosis but have been shown to skip a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="62">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes enter mitosis but have the ability to skip a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="63">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes enter mitosis but may have skipped a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="64">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes enter mitosis but skip a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="65">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes enter mitosis but will be able to skip a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="66">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes enter mitosis but will skip a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="67">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes entered mitosis but have skipped a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="68">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which ribosomes entered mitosis but skipped a large region of the leader containing a putative RNA encapsidation signal.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="REPLACE" no="69">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the last extension step are able to be skipped by an acyl-enzyme intermediate on PikAIII.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="70">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the last extension step are observed to be skipped by an acyl-enzyme intermediate on PikAIII.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="71">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the last extension step are skipped by an acyl-enzyme intermediate on PikAIII.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="72">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the last extension step can be skipped by an acyl-enzyme intermediate on PikAIII.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="73">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the last extension step has been shown to be skipped by an acyl-enzyme intermediate on PikAIII.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="74">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the last extension step have been skipped by an acyl-enzyme intermediate on PikAIII.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="75">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the last extension step may have been skipped by an acyl-enzyme intermediate on PikAIII.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="REPLACE" no="76">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the last extension step were skipped by an acyl-enzyme intermediate on PikAIII.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="mutate">
+            <roleset id="Mutate.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="physical location where mutation happen// exon, intron //&#x0A;" />
+                    <role n="1" descr="mutated entity   // gene //&#x0A;" />
+                    <role n="2" descr="changes at molecular level/* always use prepositional phrase */&#x0A;" />
+                    <role n="3" descr="changes at phenotype level /* secondary predication */  &#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>PDK1 phosphorylation has not been altered by treatment of cells with a growth factor similar to insulin-I and four sites are remarkably mutated without loss of activity.</text>
+                    <arg n="0">four sites</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Plasmid cotransfections expressing WT-1, WTAR (a mutated form of WT-1), p53, and a mutated form of p53 revealed a complex regulatory pattern with an induction of 3 folds with WT-1, an induction of 7 folds with p53 that will be mutated, and a 4-fold repression with p53.</text>
+                    <arg n="0">p53</arg>
+                    <arg n="2">an induction of 7 folds</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Plasmid cotransfections expressing WT-1, WTAR (a mutated form of WT-1), p53, and a mutated form of p53 revealed a complex regulatory pattern with an induction of 3 folds with WT-1, an induction of 7 folds with p53, and a 4-fold repression with p53.</text>
+                    <arg n="0">p53</arg>
+                    <arg n="2">an induction of 7 folds</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>The A1 mutation (EE(437 and 438) to AA amino acids will mutate the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">AA</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>The in vivo transcription analyses of agn-lacZ with sma target sequences mutated in line with this conclusion.</text>
+                    <arg n="1">sma target sequences</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>To determine how activators interact with the complex and examine the importance of these interactions, in relation to other potential orientation mechanisms, for the SWI/SNF function, we will identify and mutate the activator interaction domains in the complex.</text>
+                    <arg n="1">the activator interaction domains in the complex</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>A1 mutation (EE amino acids(437 and 438) in abolition of FEG-stimulated phosphorylation and FEG-induced mobility change is able to mutating the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">abolition of FEG-stimulated phosphorylation and FEG-induced mobility change</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Analyses of the in vivo transcription of agn-lacZ with dam target sequences that can be mutated support this conclusion.</text>
+                    <arg n="1">dam target sequences</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>SOX9 are significantly mutated by the two phosphorylation sites PKA (S (64) and S (211) have already been mutated), adherence in Q62696 using the Swiss PDB Viewer software (Guex and Peitsch, 1997).</text>
+                    <arg n="0">SOX9</arg>
+                    <arg n="1">the two phosphorylation sites PKA (S (64) and S (211) have already been mutated)</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>SOX9 could be significantly mutated by the two phosphorylation sites PKA (S (64) and S (211) have the ability to be significantly mutated), adherence in Q62696 using the Swiss PDB Viewer program (Guex and Peitsch, 1997).</text>
+                    <arg n="0">SOX9</arg>
+                    <arg n="1">the two phosphorylation sites PKA (S (64) and S (211) have the ability to be significantly mutated)</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Snippets of template are significantly mutated by the SAP97 RAT sequence, adherence in Q62696 using the Swiss PDB Viewer software (Guex and Peitsch, 1997).</text>
+                    <arg n="0">Snippets of template</arg>
+                    <arg n="1">the SAP97 RAT sequence</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>The A0 mutation (the C-terminal-Kinase sites of MAP (T235 and T239), for example, essentially mutating to abolition of increased FEG-stimulated phosphorylation and reduction of FEG-induced mobility (figure 5C, bands 7 and 8).</text>
+                    <arg n="2">abolition of increased FEG-stimulated phosphorylation and reduction of FEG-induced mobility</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>The A1 gene that has the ability to mutated into last infertile neural lipofuscinosis (LN6) and in nclf mutant mice codified a new predefined transmembrane protein.</text>
+                    <arg n="2">last infertile neural lipofuscinosis (LN6) and in nclf mutant mice</arg>
+                    <arg n="3">a new predefined transmembrane protein</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>The analyses of in vivo transcription of agn-lacZ with active interaction domains in the complex that may have mutated mutations support this conclusion.</text>
+                    <arg n="1">active interaction domains in the complex</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>The analyses of in vivo transcription of agn-lacZ with complex activation interaction domains that may have mutated mutations support this conclusion.</text>
+                    <arg n="1">complex activation interaction domains</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>The in vivo transcription analyses of agn-lacZ with complex activation interaction domains that mutated mutations support this conclusion.</text>
+                    <arg n="1">complex activation interaction domains</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>The mutation A1 (EE(437 and 438) to abolited EGF increase and increased EGF-induced phosphorylation and mobility may have mutate the DNA-binding mutant (Stat5aEE-AA of Stat5a may have been caused by the DNA mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">abolited EGF increase and increased EGF-induced phosphorylation and mobility</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>The mutation A1 (EE(437 and 438) to loss of transcriptional repression of the lacZ gene mutate the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">loss of transcriptional repression of the lacZ gene</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>The template fragments may have been significantly mutated by the SAP97 RAT sequence, adherence to Q62696 using the Swiss PDB Viewer software (Guex and Peitsch, 1997).</text>
+                    <arg n="0">The template fragments</arg>
+                    <arg n="1">the SAP97 RAT sequence</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>This epitope, which is restricted to HLA-A2, includes cDNA alpha chain in COS-1 cells that are commonly able to mutate (V82A and I84V) in enzymatic activity deficiency.</text>
+                    <arg n="1">cDNA alpha chain in COS-1 cells</arg>
+                    <arg n="3">enzymatic activity deficiency</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>This epitope, which is restricted to HLA-A2, includes cDNA alpha chain in COS-1 cells that are observed to frequently mutate (V82A and I84V) in enzymatic activity deficiency.</text>
+                    <arg n="1">cDNA alpha chain in COS-1 cells</arg>
+                    <arg n="3">enzymatic activity deficiency</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>We identify a gene in the A0 domain (extracellular ALK4 domain) (Leu40, Ile70, Val73, Leu75 and Pro77) which, when completely mutated to variant under the neural lipofuscinosis variant cerebroide (CLN6) and in nclf mutant mice, a new predefined transmembrane protein.</text>
+                    <arg n="1">a gene</arg>
+                    <arg n="2">variant under the neural lipofuscinosis variant cerebroide (CLN6) and in nclf mutant mice</arg>
+                    <arg n="3">a new predefined transmembrane protein</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>the template fragments are able to be significantly mutated by the SAP97 RAT sequence, adherence no.Q62696 using the Swiss PDB Viewer program (Guex and Peitsch, 1997).</text>
+                    <arg n="0">the template fragments</arg>
+                    <arg n="1">the SAP97 RAT sequence</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>A1 mutation (EE amino acids(437 and 438) in Lipfuscinosis of late infertile neural lipofuscinosis (CLN6) and in nclf mutant mice is able to mutating the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">Lipfuscinosis of late infertile neural lipofuscinosis (CLN6) and in nclf mutant mice</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>A1 mutation (EE amino acids(437 and 438) in abolition of FEG-stimulated phosphorylation and prevented FEG-induced mobility is able to mutating the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">abolition of FEG-stimulated phosphorylation and prevented FEG-induced mobility</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Analyses of the in vivo transcription of Agn-lacZ with a mutated gene that are mutated support this conclusion.</text>
+                    <arg n="1">a mutated gene</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Analyses of the in vivo transcription of Agn-lacZ with pairs of waste positions mutated support this conclusion.</text>
+                    <arg n="1">pairs of waste positions</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Analyses of the in vivo transcription of Agn-lacZ with pairs of waste positions that have been mutated support this conclusion.</text>
+                    <arg n="1">pairs of waste positions</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Analyses of the in vivo transcription of Agn-lacZ with pairs of waste positions that were mutated support this conclusion.</text>
+                    <arg n="1">pairs of waste positions</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>For example, the A0 mutation (the C-terminal kinase sites of MAP (T235 and T239) essentially mutating to late infection variations in neuronal lipofuscinosis and nclf mice (figure 5C, bands 7 and 8).</text>
+                    <arg n="2">late infection variations in neuronal lipofuscinosis and nclf mice</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>In COS-7 cotransfects with plasma expression PKA-Calfa and the C-terminal MAP kinase sites (T235 and T239), PKA improved the phosphorylation of the wild type SOX9, but did not affect the phosphorylation of a protein SOX9 in which it was observed that A1 (the two phosphorylation sites PKA (S (64) and S (211) were significantly mutated.</text>
+                    <arg n="0">the C-terminal MAP kinase sites (T235 and T239)</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>In cos-7 cotransfects with plasma expression PKA-Calfa and a preserved phenylalanine, PKA improved the phosphorylation of the wild type SOX9, but did not affect the phosphorylation of a protein SOX9 where A1 (the two phosphorylation sites PKA (S (64) and S (211) can be significantly mutated.</text>
+                    <arg n="0">a preserved phenylalanine</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Induction of a mutation in the A0 gene (LacI), in contrast, has the ability to mutated in abolition of FEG-stimulated phosphorylation and prevented FEG-induced mobility, which is the cell mutation.</text>
+                    <arg n="2">abolition of FEG-stimulated phosphorylation and prevented FEG-induced mobility</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Our study showed that A0 mutation (the C-terminal sites of MAP kinase (T235 and T239) essentially mutate to abolished the stimulated increase of EGF in phosphorylation and preventing the change in mobility introduced by EGF (figure 5C, bands 7 and 8).</text>
+                    <arg n="2">abolished the stimulated increase of EGF in phosphorylation and preventing the change in mobility introduced by EGF</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>PDK1 phosphorylation was not mutated by treatment of cells with growth factor similar to insulin-I and a preserved phenylalanine, as we predicted, has the ability to be changed remarkably without loss of activity.</text>
+                    <arg n="0">a preserved phenylalanine</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>The A0 mutation (the C-terminal-Kinase sites of MAP (T235 and T239), for example, essentially mutating to increasing above the stimulated phosphorylation and change of mobility induced by FEG (figure 5C, bands 7 and 8).</text>
+                    <arg n="2">increasing above the stimulated phosphorylation and change of mobility induced by FEG</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>The A0 mutation (the sites of the C-terminal kinase of MAP (T235 and T239), in contrast, is mutating as one of the main responsible for abolited increase of EGF-stimulated phosphorylation and EGF-induced mobility change (figure 5C, bands 7 and 8).</text>
+                    <arg n="2">abolited increase of EGF-stimulated phosphorylation and EGF-induced mobility change</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>The A1 gene that has the ability to mutated in late infection variant ceroid neuronal lipofuscinosis (CLN6) and mutant nclf mice codes a newly predicted transmembrane protein.</text>
+                    <arg n="2">late infection variant ceroid neuronal lipofuscinosis (CLN6) and mutant nclf mice</arg>
+                    <arg n="3">a newly predicted transmembrane protein</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>The A1 mutation (EE amino acids(437 and 438) in late infection variations in neuronal lipofuscinosis and nclf mice mutating the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">late infection variations in neuronal lipofuscinosis and nclf mice</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>The A1 mutation (EE amino acids(437 and 438) to late infectious variant neuronal lipofuscinosis (CLN6) and mutant nclf mice mutate the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">late infectious variant neuronal lipofuscinosis (CLN6) and mutant nclf mice</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>The A1 mutation (EE(437 and 438)) to Lipfuscinosis of late infertile neural lipofuscinosis (CLN6) and in nclf mutant mice is able to mutate the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">Lipfuscinosis of late infertile neural lipofuscinosis (CLN6) and in nclf mutant mice</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>The A1 mutation (EE(437 and 438)) to Lipfuscinosis of late infertile neural lipofuscinosis (CLN6) and in nclf mutant mice would mutating the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">Lipfuscinosis of late infertile neural lipofuscinosis (CLN6) and in nclf mutant mice</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>The DNA-binding mutant (Stat5aEE-abolited increase of FEG-stimulated phosphorylation and FEG-induced mobility change) of Stat5a is observed to be mutating by the A1 mutation (EE amino acids(437 and 438)) to AA.</text>
+                    <arg n="2">abolited increase of FEG-stimulated phosphorylation and FEG-induced mobility change</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>The a preserved phenylalanine was mutated by the the sequence eh1/GEH, adherence to Q62696 using the Swiss PDB display software (Guex and Peitsch, 1997).</text>
+                    <arg n="0">a preserved phenylalanine</arg>
+                    <arg n="1">the sequence eh1/GEH</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>The analyses of in vivo transcription of agn-lacZ with the two phosphorylation sites PKA (S 64) and S (211) have already been mutated that can be mutated support this conclusion.</text>
+                    <arg n="1">the two phosphorylation sites PKA (S 64) and S (211) have already been mutated</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>The exon 5 will be mutated by the rice, adherence to Q62696 using the Swiss PDB display program (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">rice</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>The exon 8 may have been significantly mutated by the alpha-chain cDNA into COS-1 cells, adhering to Q62696 using the Swiss PDB display software (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha-chain cDNA into COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>The exon 8 would be mutated by the acDR DNA of the alpha chain cDNA in the 1-cells, adherence to Q62696 using the Swiss PDB display software (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">acDR DNA of the alpha chain cDNA in the 1-cells</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>The in vivo transcription analyses of Agn-lacZ with parts of residue positions mutated this conclusion.</text>
+                    <arg n="1">parts of residue positions</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>The induction of a mutation in the A0 gene (LacI) has the ability to mutated in late infection variant neuronal neural lipofuscinosis (CLN6) and mutant nclf mice, which is the cell mutation.</text>
+                    <arg n="2">late infection variant neuronal neural lipofuscinosis (CLN6) and mutant nclf mice</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>The induction of a mutation in the A0 gene (LacI) will mutated in abolited increase of EGF-stimulated phosphorylation and EGF-induced mobility change, which is the cell mutation.</text>
+                    <arg n="2">abolited increase of EGF-stimulated phosphorylation and EGF-induced mobility change</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>The mutation A1 (EE(437 and 438) to increasing above the increased phosphorylation stimulated by EGF and change of mobility induced by the EGF could mutating the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">increasing above the increased phosphorylation stimulated by EGF and change of mobility induced by the EGF</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>The mutation A1 (EE(437 and 438) to late infection variant neuronal lipofuscinosis and mutant nclf mice may have mutating the DNA-binding mutant (Stat5aEE-AA of Stat5a.</text>
+                    <arg n="2">late infection variant neuronal lipofuscinosis and mutant nclf mice</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>The transient expression of exon 8 may have mutation alpha strand cDNA DNA in COS-1 cells mutated in enzyme deficiency.</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha strand cDNA DNA in COS-1 cells</arg>
+                    <arg n="3">enzyme deficiency</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>a gene that was mutated into late neural lipofuscinosis variant (LLC6) and nclf mutant mice was A3 (a new transmembrane protein predicted.</text>
+                    <arg n="1">a gene</arg>
+                    <arg n="2">late neural lipofuscinosis variant (LLC6) and nclf mutant mice</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>exon 5 have been significantly mutated by alele, ascent No. 62696 using the Swiss PDB Viewer program (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 5</arg>
+                    <arg n="1">alele</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>exon 8 are able to be significantly mutated by alpha strand cDNA DNA in cells-1, adherence no.Q62696 using the Swiss PDB Viewer program (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha strand cDNA DNA in cells-1</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>exon 8 can be mutated by acDR DNA of alpha chain cDNA in COS-1 cells, adhesion to Q62696 using the Swiss PDB display program (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">acDR DNA of alpha chain cDNA in COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>exon 8 can be mutated by cDNA alpha chain in COS-1 cells, adhesion to Q62696 using the Swiss PDB display program (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">cDNA alpha chain in COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="37">
+                    <text>exon 8 can be mutated by the sequence alpha cDNA chain in COS-1 cells, adherence no.D62696 using the Swiss PDB Viewer software (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha cDNA chain in COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="38">
+                    <text>exon 8 can be significantly mutated by the sequence alpha strand cDNA in COS-1 cells, adherence no.D62696 using the Swiss PDB Viewer program (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha strand cDNA in COS-1 cells</arg>
+                </example>
+                <example src="REPLACE" no="39">
+                    <text>exon 8 may have been significantly mutated by alpha strand cDNA DNA in cells-1, adherence to Q62696 using the Swiss PDB Viewer software (Guex and Peitsch, 1997).</text>
+                    <arg n="0">exon 8</arg>
+                    <arg n="1">alpha strand cDNA DNA in cells-1</arg>
+                </example>
+                <example src="REPLACE" no="40">
+                    <text>gen mutated in late infectious variant lipofuscinosis neuronal lipofuscinosis (CLN6) and in mutant nclf mice was coded in a newly predicted transmembrane protein.</text>
+                    <arg n="1">gen</arg>
+                    <arg n="2">late infectious variant lipofuscinosis neuronal lipofuscinosis (CLN6) and in mutant nclf mice</arg>
+                    <arg n="3">a newly predicted transmembrane protein</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="disrupt">
+            <roleset id="Disrupt.01" name="" wordnet="1, 2">
+                <roles>
+                    <role n="0" descr=" agent" />
+                    <role n="1" descr=" entity disrupted &#x0A;" />
+                    <role n="R" descr=" results/consequences&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A homozygous mutation that disrupted splicing has been identified in affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">A homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Importantly, the findings show that the knockout of MEKK1 or MEKK2 expression could not disrupt the overall integrity of MAPK pathway regulation.</text>
+                    <arg n="0">knockout of MEKK1 or MEKK2 expression</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Mutations in p53 disrupting checkpoint responses to DNA damage can result in the potential for destabilization of the genome.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">checkpoint responses to DNA damage</arg>
+                    <arg n="R">the potential for destabilization of the genome</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Mutations in this region are able to disrupt keratin filament assembly, leading to degeneration or cytolysis of keratinocytes.</text>
+                    <arg n="0">Mutations in this region</arg>
+                    <arg n="1">keratin filament assembly</arg>
+                    <arg n="R">degeneration or cytolysis of keratinocytes</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Mutations in this region can disrupt keratin filament assembly, leading to degeneration or cytolysis of keratinocytes.</text>
+                    <arg n="0">Mutations in this region</arg>
+                    <arg n="1">keratin filament assembly</arg>
+                    <arg n="R">degeneration or cytolysis of keratinocytes</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Quantitative single-unit electrophysiology revealed that alcohol exposure has been shown to disrupt ocular dominance plasticity while preserving robust visual responses.</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (the Gly188----Glu mutation having disrupted an Ava II site, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">the Gly188----Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>The zinc finger motif, which specifically recognizes the GO:C pair, is firmly fixed with respect to the C-terminal domain by the hydrogen bond network, so the Lys147Ala substitution has the ability to disrupt the interaction, resulting in a drastic decrease of activity against GO:C substrates.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                    <arg n="R">a drastic decrease of activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>The zinc finger motif, which specifically recognizes the GO:C pair, is firmly fixed with respect to the C-terminal domain by the hydrogen bond network, so the Lys147Ala substitution would be found to disrupt the interaction, resulting in a drastic decrease of activity against GO:C substrates.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                    <arg n="R">a drastic decrease of activity against GO:C substrates</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>This deletion is able to disrupt the consensus 5 splice signal and led to exon skipping.</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the consensus 5 splice signal</arg>
+                    <arg n="R">exon skipping</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Thus, the act of disrupting the tumour vessels by manipulation of the Tie-2 system in tumours may result in side-effects in peripheral nerves.</text>
+                    <arg n="0">manipulation of the Tie-2 system in tumours</arg>
+                    <arg n="1">the tumour vessels</arg>
+                    <arg n="R">side-effects in peripheral nerves</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>Treatment of the systemic inflammatory response to CPB is also confounded by the fact that inhibition of inflammation may have disrupted protective physiologic responses or result in immunosuppression.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiologic responses</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>When both genes has been observed to be disrupted, galS expression was further elevated.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">galS expression was further elevated</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>A homozygous mutation that disrupts splicing has been identified in affected siblings with classical abetalipoproteinemia.</text>
+                    <arg n="0">A homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>This deletion disrupted the consensus 5 splice signal and led to exon skipping.</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the consensus 5 splice signal</arg>
+                    <arg n="R">exon skipping</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>Thus, attempts to disrupt the tumour vessels by manipulation of the Tie-2 system in tumours may result in side-effects in peripheral nerves.</text>
+                    <arg n="0">manipulation of the Tie-2 system in tumours</arg>
+                    <arg n="1">the tumour vessels</arg>
+                    <arg n="R">side-effects in peripheral nerves</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Importantly, the findings show that the Arg99 and Arg253 could not disrupt the pairing hydrogen bonds in the model.</text>
+                    <arg n="0">Arg99 and Arg253</arg>
+                    <arg n="1">the pairing hydrogen bonds in the model</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Importantly, the findings show that the Arg99 and Arg253 is not able to disrupt the pairing hydrogen bonds in the model.</text>
+                    <arg n="0">Arg99 and Arg253</arg>
+                    <arg n="1">the pairing hydrogen bonds in the model</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Importantly, the findings show that the alcohol exposure could not disrupt ocular dominance plasticity.</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Importantly, the findings show that the the Gly188----Glu mutation is not able to disrupt an Ava II site.</text>
+                    <arg n="0">the Gly188----Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Quantitative single-unit electrophysiology revealed that knockout of MEKK1 or MEKK2 expression disrupted the overall integrity of MAPK pathway regulation while preserving robust visual responses.</text>
+                    <arg n="0">knockout of MEKK1 or MEKK2 expression</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Quantitative single-unit electrophysiology revealed that the Gly188----Glu mutation disrupted an Ava II site while preserving robust visual responses.</text>
+                    <arg n="0">the Gly188----Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Quantitative single-unit electrophysiology revealed that this deletion disrupts the open reading frame while preserving robust visual responses.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading frame</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Quantitative single-unit electrophysiology revealed that this deletion has been shown to disrupt the open reading frame while preserving robust visual responses.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading frame</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Quantitative single-unit electrophysiology revealed that this deletion has disrupted the open reading frame while preserving robust visual responses.</text>
+                    <arg n="0">this deletion</arg>
+                    <arg n="1">the open reading frame</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; Arg99 and Arg253 disrupts the pairing hydrogen bonds in the model.&#x09;</text>
+                    <arg n="0">Arg99 and Arg253</arg>
+                    <arg n="1">the pairing hydrogen bonds in the model</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; alcohol exposure has disrupted ocular dominance plasticity.&#x09;</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; alcohol exposure is able to disrupt ocular dominance plasticity.&#x09;</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; alcohol exposure may have disrupted ocular dominance plasticity.&#x09;</text>
+                    <arg n="0">alcohol exposure</arg>
+                    <arg n="1">ocular dominance plasticity</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; knockout of MEKK1 or MEKK2 expression has disrupted the overall integrity of MAPK pathway regulation.&#x09;</text>
+                    <arg n="0">knockout of MEKK1 or MEKK2 expression</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; the Gly188----Glu mutation may have disrupted an Ava II site.&#x09;</text>
+                    <arg n="0">the Gly188----Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>When both genes are shown to be disrupted, galS expression was further elevated.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">galS expression was further elevated</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>When both genes has been disrupted, galS expression is further elevated.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">galS expression is further elevated</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>When both genes were disrupted, galS expression is further elevated.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="2">galS expression is further elevated</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>knockout of MEKK1 or MEKK2 expression that interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA can disrupt the overall integrity of MAPK pathway regulation.</text>
+                    <arg n="0">knockout of MEKK1 or MEKK2 expression</arg>
+                    <arg n="1">the overall integrity of MAPK pathway regulation</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>the Gly188----Glu mutation that interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA can disrupt an Ava II site.</text>
+                    <arg n="0">the Gly188----Glu mutation</arg>
+                    <arg n="1">an Ava II site</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Importantly, the findings show that the A homozygous mutation is not able to disrupt splicing.</text>
+                    <arg n="0">A homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Importantly, the findings show that the Mutations in this region is not able to disrupt keratin filament assembly.</text>
+                    <arg n="0">Mutations in this region</arg>
+                    <arg n="1">keratin filament assembly</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Importantly, the findings show that the R142X does not disrupt a splicing enhancer.</text>
+                    <arg n="0">R142X</arg>
+                    <arg n="1">a splicing enhancer</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Importantly, the findings show that the R142X is not able to disrupt a splicing enhancer.</text>
+                    <arg n="0">R142X</arg>
+                    <arg n="1">a splicing enhancer</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Importantly, the findings show that the The 415G4 mutation has not disrupt splicing enhancer sequence: (GAR)n-(GAR)n.</text>
+                    <arg n="0">The 415G4 mutation</arg>
+                    <arg n="1">splicing enhancer sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Importantly, the findings show that the The 415G4 mutation is not able to disrupt splicing enhancer sequence: (GAR)n-(GAR)n.</text>
+                    <arg n="0">The 415G4 mutation</arg>
+                    <arg n="1">splicing enhancer sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Importantly, the findings show that the These mutations is not able to disrupt the ubiquitin-binding function.</text>
+                    <arg n="0">These mutations</arg>
+                    <arg n="1">the ubiquitin-binding function</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Importantly, the findings show that the inhibition of inflammation could not disrupt protective physiologic responses.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiologic responses</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Importantly, the findings show that the inhibition of inflammation did not disrupt protective physiologic responses.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiologic responses</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Importantly, the findings show that the the Lys147Ala substitution did not disrupt the interaction.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Importantly, the findings show that the the Lys147Ala substitution will not disrupt the interaction.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Importantly, the findings show that the the Lys147Ala substitution will not disrupt the interaction.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Mutations in p53 can interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA and disrupt checkpoint responses to DNA damage.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">checkpoint responses to DNA damage</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Mutations in p53 can interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA to disrupt checkpoint responses to DNA damage.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">checkpoint responses to DNA damage</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>Mutations in this region that interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA can disrupt keratin filament assembly.</text>
+                    <arg n="0">Mutations in this region</arg>
+                    <arg n="1">keratin filament assembly</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>Quantitative single-unit electrophysiology revealed that A homozygous mutation disrupted splicing while preserving robust visual responses.</text>
+                    <arg n="0">A homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>Quantitative single-unit electrophysiology revealed that Mutations in p53 disrupts checkpoint responses to DNA damage while preserving robust visual responses.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">checkpoint responses to DNA damage</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>Quantitative single-unit electrophysiology revealed that The 415G4 mutation disrupts splicing enhancer sequence: (GAR)n-(GAR)n while preserving robust visual responses.</text>
+                    <arg n="0">The 415G4 mutation</arg>
+                    <arg n="1">splicing enhancer sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>Quantitative single-unit electrophysiology revealed that The 415G4 mutation has been shown to disrupt splicing enhancer sequence: (GAR)n-(GAR)n while preserving robust visual responses.</text>
+                    <arg n="0">The 415G4 mutation</arg>
+                    <arg n="1">splicing enhancer sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>Quantitative single-unit electrophysiology revealed that The 415G4 mutation is able to disrupt splicing enhancer sequence: (GAR)n-(GAR)n while preserving robust visual responses.</text>
+                    <arg n="0">The 415G4 mutation</arg>
+                    <arg n="1">splicing enhancer sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>Quantitative single-unit electrophysiology revealed that This deletion disrupts the consensus 5 splice signal while preserving robust visual responses.</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the consensus 5 splice signal</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>Quantitative single-unit electrophysiology revealed that inhibition of inflammation has disrupted protective physiologic responses while preserving robust visual responses.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiologic responses</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>R142X that interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA can disrupt a splicing enhancer.</text>
+                    <arg n="0">R142X</arg>
+                    <arg n="1">a splicing enhancer</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; A homozygous mutation disrupted splicing.</text>
+                    <arg n="0">A homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; A homozygous mutation disrupts splicing.&#x09;</text>
+                    <arg n="0">A homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; These mutations has been shown to disrupt the ubiquitin-binding function.&#x09;</text>
+                    <arg n="0">These mutations</arg>
+                    <arg n="1">the ubiquitin-binding function</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; These mutations is able to disrupt the ubiquitin-binding function.&#x09;</text>
+                    <arg n="0">These mutations</arg>
+                    <arg n="1">the ubiquitin-binding function</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; This deletion has been shown to disrupt the consensus 5 splice signal.&#x09;</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the consensus 5 splice signal</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; This deletion has been shown to disrupt the consensus 5 splice signal.&#x09;</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the consensus 5 splice signal</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; This deletion is able to disrupt the consensus 5 splice signal.&#x09;</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the consensus 5 splice signal</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; inhibition of inflammation has been shown to disrupt protective physiologic responses.&#x09;</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiologic responses</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; inhibition of inflammation may have disrupted protective physiologic responses.&#x09;</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiologic responses</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; the Lys147Ala substitution disrupts the interaction.&#x09;</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>Sequencing of cloned polymerase chain reaction amplified fragments of the AMH gene revealed a 14-bp deletion in the second exon of the maternal allele; the Lys147Ala substitution has been shown to disrupt the interaction.&#x09;</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (A homozygous mutation that can disrupt splicing, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">A homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (A homozygous mutation that can disrupt splicing, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">A homozygous mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="REPLACE" no="37">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (Mutations in p53 being able to disrupt checkpoint responses to DNA damage, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">checkpoint responses to DNA damage</arg>
+                </example>
+                <example src="REPLACE" no="38">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (Mutations in p53 being able to disrupt checkpoint responses to DNA damage, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">checkpoint responses to DNA damage</arg>
+                </example>
+                <example src="REPLACE" no="39">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (Mutations in p53 being able to disrupt checkpoint responses to DNA damage, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">Mutations in p53</arg>
+                    <arg n="1">checkpoint responses to DNA damage</arg>
+                </example>
+                <example src="REPLACE" no="40">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (Mutations in this region disrupts keratin filament assembly, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">Mutations in this region</arg>
+                    <arg n="1">keratin filament assembly</arg>
+                </example>
+                <example src="REPLACE" no="41">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (Mutations in this region which have disrupted keratin filament assembly, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">Mutations in this region</arg>
+                    <arg n="1">keratin filament assembly</arg>
+                </example>
+                <example src="REPLACE" no="42">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (R142X being able to disrupt a splicing enhancer, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">R142X</arg>
+                    <arg n="1">a splicing enhancer</arg>
+                </example>
+                <example src="REPLACE" no="43">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (These mutations disrupts the ubiquitin-binding function, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">These mutations</arg>
+                    <arg n="1">the ubiquitin-binding function</arg>
+                </example>
+                <example src="REPLACE" no="44">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (This deletion that can disrupt the consensus 5 splice signal, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">This deletion</arg>
+                    <arg n="1">the consensus 5 splice signal</arg>
+                </example>
+                <example src="REPLACE" no="45">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (inhibition of inflammation being able to disrupt protective physiologic responses, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiologic responses</arg>
+                </example>
+                <example src="REPLACE" no="46">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (inhibition of inflammation having disrupted protective physiologic responses, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">inhibition of inflammation</arg>
+                    <arg n="1">protective physiologic responses</arg>
+                </example>
+                <example src="REPLACE" no="47">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (manipulation of the Tie-2 system in tumours disrupts the tumour vessels, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">manipulation of the Tie-2 system in tumours</arg>
+                    <arg n="1">the tumour vessels</arg>
+                </example>
+                <example src="REPLACE" no="48">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (manipulation of the Tie-2 system in tumours which have disrupted the tumour vessels, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">manipulation of the Tie-2 system in tumours</arg>
+                    <arg n="1">the tumour vessels</arg>
+                </example>
+                <example src="REPLACE" no="49">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (the Lys147Ala substitution having disrupted the interaction, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                </example>
+                <example src="REPLACE" no="50">
+                    <text>Studies using polymerase chain reaction, restriction enzyme digestion (the Lys147Ala substitution having disrupted the interaction, the Arg243----His mutation, a Hha I site, and the Asp250----Asn mutation, a Taq I site), and allele-specific oligonucleotide hybridization confirmed that the patients were indeed compound heterozygous for the respective mutations.</text>
+                    <arg n="0">the Lys147Ala substitution</arg>
+                    <arg n="1">the interaction</arg>
+                </example>
+                <example src="REPLACE" no="51">
+                    <text>The 415G4 mutation can interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA and disrupt splicing enhancer sequence: (GAR)n-(GAR)n.</text>
+                    <arg n="0">The 415G4 mutation</arg>
+                    <arg n="1">splicing enhancer sequence: (GAR)n-(GAR)n</arg>
+                </example>
+                <example src="REPLACE" no="52">
+                    <text>These mutations can interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA and disrupt the ubiquitin-binding function.</text>
+                    <arg n="0">These mutations</arg>
+                    <arg n="1">the ubiquitin-binding function</arg>
+                </example>
+                <example src="REPLACE" no="53">
+                    <text>manipulation of the Tie-2 system in tumours can interact with the keto groups of the GO and C base pair(blue) in both sides of dsDNA to disrupt the tumour vessels.</text>
+                    <arg n="0">manipulation of the Tie-2 system in tumours</arg>
+                    <arg n="1">the tumour vessels</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

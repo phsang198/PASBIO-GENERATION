@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="transcribe">
+            <roleset id="Transcribe.01" name="convert DNA into RNA&#x0A;" wordnet="5">
+                <roles>
+                    <role n="0" descr="causer, agent &#x09;&#x09;&#x09;&#x09;&#x09;&#x09;// protein ...low chances to be mentioned //&#x0A;" />
+                    <role n="1" descr="entity transcribed &#x09;&#x09;&#x09;&#x09;&#x09;// gene, DNA //&#x0A;" />
+                    <role n="2" descr="transcription site&#x09;&#x09;&#x09; &#x09;&#x09;// promoter //&#x0A;" />
+                    <role n="3" descr="entity after transcription&#x0A;" />
+                    <role n="4" descr="location as organ or tissue expressing transcription&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="*1">
+                    <text>The gene is transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a large variety of organs and tissues</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, transcribes two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcripts</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="MEDLINE" no="*3">
+                    <text>The 7.5- and 3.5-kb FZD5 mRNAs were transcribed probably due to alternative splicing.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs</arg>
+                </example>
+                <example src="MEDLINE" no="*4">
+                    <text>The fNF-E2 isoform is transcribed from an alternative promoter located in the 3 end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.</text>
+                    <arg n="2">an alternative promoter located in the 3 end of the first intron</arg>
+                    <arg n="3">The fNF-E2 isoform</arg>
+                </example>
+                <example src="MEDLINE" no="*5">
+                    <text>This antisense-BCMA RNA is transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.</text>
+                    <arg n="2">the same locus as BCMA</arg>
+                    <arg n="3">This antisense-BCMA RNA</arg>
+                </example>
+                <example src="EMBO" no="*1">
+                    <text>The plastid genome is known to be transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).</text>
+                    <arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>NEP-2 specifically transcribes the rrn operon in the presence of the transcription factor CDF2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>Subsequently, the negative-strand RNAs are used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72 77 nucleotides and 3_ co-terminal polyadenylated ends.</text>
+                    <arg n="1">the negative-strand RNAs</arg>
+                    <arg n="3">mRNAs</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that transcribes the rrn operon at PC.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                    <arg n="2">PC</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

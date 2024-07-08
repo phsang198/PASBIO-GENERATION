@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="mutate">
+            <roleset id="Mutate.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="physical location where mutation happen// exon, intron //&#x0A;" />
+                    <role n="1" descr="mutated entity   // gene //&#x0A;" />
+                    <role n="2" descr="changes at molecular level/* always use prepositional phrase */&#x0A;" />
+                    <role n="3" descr="changes at phenotype level /* secondary predication */  &#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>We have identified five hydrophobic amino acid residues on the ALK4 extracellular domain (Leu40, Ile70, Val73, Leu75, and Pro77) that, when mutated to alanine, have substantial effects on ALK4-trunc dominant negative activity.</text>
+                    <arg n="0">ALK4 extracellular domain</arg>
+                    <arg n="1">Leu40, Ile70, Val73, Leu75, and Pro77</arg>
+                    <arg n="2">alanine</arg>
+                    <arg n="3">have substantial effects on ALK4-trunc dominant negative activity</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>In COS-7 cells cotransfected with PKA-Calpha and SOX9 expression plasmids, PKA enhanced the phosphorylation of wild-type SOX9 but did not affect phosphorylation of a SOX9 protein in which the two PKA phosphorylation sites (S (64) and S (211)) were mutated.</text>
+                    <arg n="0">SOX9 protein</arg>
+                    <arg n="1">S (64) and S (211)</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>Analyses of transcription in vivo of agn-lacZ with mutated Dam target sequences support this conclusion.</text>
+                    <arg n="0">Dam target sequences</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>Induction of a mutation in the lacI gene will result in the loss of transcriptional repression of the lacZ gene in mutated cells.</text>
+                    <arg n="0">LacI</arg>
+                    <arg n="3">the loss of transcriptional repression of the lacZ gene in mutated cells</arg>
+                </example>
+                <example src="GREC" no="5">
+                    <text>Cotransfections with plasmids expressing WT-1, WTAR (a mutated form of WT-1), p53, and a mutated form of p53 revealed a complex pattern of regulation with a 3-fold induction with WT-1, a 7-fold induction with mutated p53, and a 4-fold repression with wild-type p53.</text>
+                    <arg n="0">p53</arg>
+                    <arg n="3">a 7-fold induction</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

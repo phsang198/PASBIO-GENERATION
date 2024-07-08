@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="block">
+            <roleset id="block.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="causer agent&#x0A;" />
+                    <role n="1" descr="theme (process or entity being stopped)&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A downstream kinase appears to be essential for agrin-mediated signaling, since agrin-induced AChR clustering and phosphorylation can be blocked by staurosporine without inhibiting MuSK phosphorylation (Wallace, 1994; Fuhrer et al., 1997).</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Alanine can block the action of a postulated repressor.</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Alanine will block the action of a postulated repressor.</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Alanine would block the action of a postulated repressor.</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that antibodies to RAP1 were able to block merozoite invasion in vitro (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that merozoite invasion in vitro was believed to be blocked by antibodies to RAP1 (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that merozoite invasion in vitro was believed to be blocked by antibodies to RAP1 (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Both RAP1 and 2 are important vaccine candidates because merozoite invasion in vitro is shown to be blocked by antibodies to RAP1 (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>It can block membranes in TBST (Tris-buffered saline, 0.05% Tween-20) containing 5% bovine serum albumin (for anti-phosphoryrosine blots) or skimmed milk and probed with antibodies.</text>
+                    <arg n="1">Membranes</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide was specific since pre-incubation of the antibodies with the phosphopeptide could have blocked labeling.</text>
+                    <arg n="0">pre-incubation of the antibodies with the phosphopeptide</arg>
+                    <arg n="1">labeling</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation blocks myeloid colony formation.</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>Step II is believed to be specifically blocked by mutations at the 3 splice site which do not affect the association of hPrps 16 and 17 with the spliceosome, indicating that these factors may function at a stage of step II prior to recognition of the 3 splice site.</text>
+                    <arg n="0">Mutations at the 3 splice site</arg>
+                    <arg n="1">step II</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that antibodies to RAP1 are able to block merozoite invasion in vitro (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Both RAP1 and 2 are important vaccine candidates because Alanine are shown to be able to block the action of a postulated repressor (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Both RAP1 and 2 are important vaccine candidates because Alanine are shown to block the action of a postulated repressor (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Both RAP1 and 2 are important vaccine candidates because RNA polymerase during elongation is shown to be blocked by Tagetin (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Both RAP1 and 2 are important vaccine candidates because inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation are shown to be able to block myeloid colony formation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Both RAP1 and 2 are important vaccine candidates because inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation have been shown to have blocked myeloid colony formation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that RNA polymerase during elongation was believed to be blocked by Tagetin (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that RNA polymerase during elongation would be blocked by Tagetin (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that Tagetin block RNA polymerase during elongation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that Tagetin blocked RNA polymerase during elongation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that Tagetin blocked RNA polymerase during elongation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that inhibition of translation may block elevation of GR by 14-3-3eta (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">inhibition of translation</arg>
+                    <arg n="1">elevation of GR by 14-3-3eta</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that labeling can be blocked by pre-incubation of the antibodies with the phosphopeptide (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">pre-incubation of the antibodies with the phosphopeptide</arg>
+                    <arg n="1">labeling</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that labeling can be blocked by pre-incubation of the antibodies with the phosphopeptide (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">pre-incubation of the antibodies with the phosphopeptide</arg>
+                    <arg n="1">labeling</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that labeling was blocked by pre-incubation of the antibodies with the phosphopeptide (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">pre-incubation of the antibodies with the phosphopeptide</arg>
+                    <arg n="1">labeling</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that myeloid colony formation has been blocked by inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that myeloid colony formation is believed to be blocked by inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that myeloid colony formation is blocked by inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that the action of a postulated repressor can be blocked by Alanine (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that the action of a postulated repressor is blocked by Alanine (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>Both RAP1 and 2 are important vaccine candidates because myeloid colony formation was shown to be blocked by inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>Both RAP1 and 2 are important vaccine candidates because the action of a postulated repressor was shown to be blocked by Alanine (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since Alanine is able to block the action of a postulated repressor.</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since Tagetin will block RNA polymerase during elongation.</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since Tagetin will block RNA polymerase during elongation.</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since antibodies to RAP1 blocked merozoite invasion in vitro.</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since antibodies to RAP1 may have blocked merozoite invasion in vitro.</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since elevation of GR by 14-3-3eta is able to be blocked by inhibition of translation.</text>
+                    <arg n="0">inhibition of translation</arg>
+                    <arg n="1">elevation of GR by 14-3-3eta</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since elevation of GR by 14-3-3eta is believed to be blocked by inhibition of translation.</text>
+                    <arg n="0">inhibition of translation</arg>
+                    <arg n="1">elevation of GR by 14-3-3eta</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation have blocked myeloid colony formation.</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide was specific since Alanine could have blocked the action of a postulated repressor.</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide was specific since RNA polymerase during elongation was blocked by Tagetin.</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and Alanine can block the action of a postulated repressor.</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and Alanine is proven to have blocked the action of a postulated repressor.</text>
+                    <arg n="0">Alanine</arg>
+                    <arg n="1">the action of a postulated repressor</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and Tagetin is proven to have blocked RNA polymerase during elongation.</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and Tagetin will block RNA polymerase during elongation.</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and antibodies to RAP1 blocks merozoite invasion in vitro.</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and labeling will be blocked by pre-incubation of the antibodies with the phosphopeptide.</text>
+                    <arg n="0">pre-incubation of the antibodies with the phosphopeptide</arg>
+                    <arg n="1">labeling</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>PU.1 was upregulated early during commitment of multipotential progenitors to the myeloid lineages and inhibition of translation blocked elevation of GR by 14-3-3eta.</text>
+                    <arg n="0">inhibition of translation</arg>
+                    <arg n="1">elevation of GR by 14-3-3eta</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>Proteasomal inhibition does not induce any synergistic effect on the 14-3-3eta-induced increase in GR in response to glucocorticoid, and merozoite invasion in vitro can not be blocked by antibodies to RAP1, indicating that 14-3-3eta induces stabilization of GR.</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>Tagetin could have blocked RNA polymerase during elongation.</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>Tagetin is able to block RNA polymerase during elongation.</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>antibodies to RAP1 is more specific for distinguishing between different RNA polymerases because it is able to block merozoite invasion in vitro (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>antibodies to RAP1 is more specific for distinguishing between different RNA polymerases because merozoite invasion in vitro can be blocked by it (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>antibodies to RAP1 is more specific for distinguishing between different RNA polymerases because merozoite invasion in vitro is blocked by it (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>antibodies to RAP1 is thought to act as an inducer to block merozoite invasion in vitro.</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation can have blocked myeloid colony formation.</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation is more specific for distinguishing between different RNA polymerases because it blocked myeloid colony formation (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation is thought to act as an inducer to block myeloid colony formation.</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation is more specific for distinguishing between different RNA polymerases because myeloid colony formation is blocked by it (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation is thought to act as an inducer to block myeloid colony formation.</text>
+                    <arg n="0">inhibition of PU.1 function in human CD34+ progenitors prior to this-upregulation</arg>
+                    <arg n="1">myeloid colony formation</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>inhibition of translation is more specific for distinguishing between different RNA polymerases because it can block elevation of GR by 14-3-3eta (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.</text>
+                    <arg n="0">inhibition of translation</arg>
+                    <arg n="1">elevation of GR by 14-3-3eta</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>inhibition of translation was believed to block elevation of GR by 14-3-3eta.</text>
+                    <arg n="0">inhibition of translation</arg>
+                    <arg n="1">elevation of GR by 14-3-3eta</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>pre-incubation of the antibodies with the phosphopeptide is more specific for distinguishing between different RNA polymerases because it blocked labeling (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.</text>
+                    <arg n="0">pre-incubation of the antibodies with the phosphopeptide</arg>
+                    <arg n="1">labeling</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>pre-incubation of the antibodies with the phosphopeptide is more specific for distinguishing between different RNA polymerases because it is able to block labeling (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.</text>
+                    <arg n="0">pre-incubation of the antibodies with the phosphopeptide</arg>
+                    <arg n="1">labeling</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that a positive regulator in the glucocorticoid signal pathway are able to block the degradation of GR and inducing an elevation of GR (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">a positive regulator in the glucocorticoid signal pathway</arg>
+                    <arg n="1">the degradation of GR and inducing an elevation of GR</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that agrin-induced AChR clustering and phosphorylation might be blocked by staurosporine (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that staurosporine were able to block agrin-induced AChR clustering and phosphorylation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that the degradation of GR and inducing an elevation of GR blocked 14-3-3eta functions (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">the degradation of GR and inducing an elevation of GR</arg>
+                    <arg n="1">14-3-3eta functions</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that the degradation of GR and inducing an elevation of GR may block 14-3-3eta functions (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">the degradation of GR and inducing an elevation of GR</arg>
+                    <arg n="1">14-3-3eta functions</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that the degradation of GR and inducing an elevation of GR might be blocked by a positive regulator in the glucocorticoid signal pathway (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">a positive regulator in the glucocorticoid signal pathway</arg>
+                    <arg n="1">the degradation of GR and inducing an elevation of GR</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Both RAP1 and 2 are important vaccine candidates because staurosporine have been shown to block agrin-induced AChR clustering and phosphorylation (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Both RAP1 and 2 are important vaccine candidates because step II was shown to be blocked by Mutations at the 3 splice site (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">Mutations at the 3 splice site</arg>
+                    <arg n="1">step II</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Both RAP1 and 2 are important vaccine candidates because the degradation of GR and inducing an elevation of GR are shown to be able to block 14-3-3eta functions (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">the degradation of GR and inducing an elevation of GR</arg>
+                    <arg n="1">14-3-3eta functions</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Both RAP1 and 2 are important vaccine candidates because the degradation of GR and inducing an elevation of GR is shown to be blocked by a positive regulator in the glucocorticoid signal pathway (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">a positive regulator in the glucocorticoid signal pathway</arg>
+                    <arg n="1">the degradation of GR and inducing an elevation of GR</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since Mutations at the 3 splice site is able to block step II.</text>
+                    <arg n="0">Mutations at the 3 splice site</arg>
+                    <arg n="1">step II</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide was specific since a positive regulator in the glucocorticoid signal pathway might have blocked the degradation of GR and inducing an elevation of GR.</text>
+                    <arg n="0">a positive regulator in the glucocorticoid signal pathway</arg>
+                    <arg n="1">the degradation of GR and inducing an elevation of GR</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide was specific since staurosporine would block agrin-induced AChR clustering and phosphorylation.</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Mutations at the 3 splice site blocks step II.</text>
+                    <arg n="0">Mutations at the 3 splice site</arg>
+                    <arg n="1">step II</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>Mutations at the 3 splice site might have blocked step II.</text>
+                    <arg n="0">Mutations at the 3 splice site</arg>
+                    <arg n="1">step II</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and a positive regulator in the glucocorticoid signal pathway blocks the degradation of GR and inducing an elevation of GR.</text>
+                    <arg n="0">a positive regulator in the glucocorticoid signal pathway</arg>
+                    <arg n="1">the degradation of GR and inducing an elevation of GR</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>PU.1 is upregulated early during commitment of multipotential progenitors to the myeloid lineages and the degradation of GR and inducing an elevation of GR is believed to be blocked by a positive regulator in the glucocorticoid signal pathway.</text>
+                    <arg n="0">a positive regulator in the glucocorticoid signal pathway</arg>
+                    <arg n="1">the degradation of GR and inducing an elevation of GR</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>PU.1 was upregulated early during commitment of multipotential progenitors to the myeloid lineages and 14-3-3eta functions was blocked by the degradation of GR and inducing an elevation of GR.</text>
+                    <arg n="0">the degradation of GR and inducing an elevation of GR</arg>
+                    <arg n="1">14-3-3eta functions</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>PU.1 was upregulated early during commitment of multipotential progenitors to the myeloid lineages and the degradation of GR and inducing an elevation of GR was blocked by a positive regulator in the glucocorticoid signal pathway.</text>
+                    <arg n="0">a positive regulator in the glucocorticoid signal pathway</arg>
+                    <arg n="1">the degradation of GR and inducing an elevation of GR</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>a positive regulator in the glucocorticoid signal pathway might block the degradation of GR and inducing an elevation of GR.</text>
+                    <arg n="0">a positive regulator in the glucocorticoid signal pathway</arg>
+                    <arg n="1">the degradation of GR and inducing an elevation of GR</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>agrin-induced AChR clustering and phosphorylation can be blocked by staurosporine.</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>staurosporine might have blocked agrin-induced AChR clustering and phosphorylation.</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>staurosporine was believed to block agrin-induced AChR clustering and phosphorylation.</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>staurosporine will block agrin-induced AChR clustering and phosphorylation.</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>the degradation of GR and inducing an elevation of GR can block 14-3-3eta functions.</text>
+                    <arg n="0">the degradation of GR and inducing an elevation of GR</arg>
+                    <arg n="1">14-3-3eta functions</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

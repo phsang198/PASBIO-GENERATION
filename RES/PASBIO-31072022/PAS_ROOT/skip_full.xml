@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="skip">
+            <roleset id="Skip.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent, causer&#x09;&#x09;&#x09;// mutation, cell, molecule//&#x0A;" />
+                    <role n="1" descr="entity skipped           &#x09;// exon, intron, process  //&#x0A;" />
+                    <role n="R" descr="results/consequences&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="*1">
+                    <text>Direct sequencing of the PAF-2 gene revealed a homozygous 1-bp insertion at nucleotide 511 (511 insT) in one patient with group C Zellweger syndrome (ZS), which introduces a premature termination codon in the PAF-2 gene, and, in the second patient, revealed a splice-site mutation in intron 3 (IVS3+1G--&gt;A), which skipped exon 3, an event that leads to peroxisome deficiency.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="MEDLINE" no="*2">
+                    <text>Finally, a stop codon-containing exon (exon 4) can be skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the cells enter mitosis but skip anaphase B and cytokinesis.</text>
+                    <arg n="0">the cells</arg>
+                    <arg n="1">anaphase B and cytokinesis</arg>
+                </example>
+                <example src="MEDLINE" no="*4">
+                    <text>In the case of the 12-membered ring macrolide, an acyl-enzyme intermediate on PikAIII is able to efficiently skip the last extension step and is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="PNAS" no="*1">
+                    <text>Translation of this RNA is initiated by a ribosome shunt mechanism, in which ribosomes translate the most 5′-proximal short ORF (sORF A), then skip a large region of the leader containing a putative RNA encapsidation signal and reinitiate translation at the first long viral ORF.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="PNAS" no="2">
+                    <text>Xist RNA coated the autosome but skipped the Xic Tg, raising the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PNAS" no="3">
+                    <text>The centromere was skipped on all Tg autosomes as on the female Xi.</text>
+                    <arg n="1">The centromere</arg>
+                </example>
+                <example src="PNAS" no="4">
+                    <text>The observation that Tg Xist RNA skips the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

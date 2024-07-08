@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="initiate">
+            <roleset id="Initiate.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent      //protein//&#x0A;" />
+                    <role n="1" descr="entity created      //transcription or translation or process//&#x0A;" />
+                    <role n="2" descr="specific location of tissue or cell  //mostly saying about exon or intron//&#x0A;" />
+                    <role n="3" descr="location as tissue or cell&#x0A;" />
+                    <role n="4" descr="method&#x0A;" />
+                </roles>
+                <example src="EMBO" no="0">
+                    <text>Our data present a novel apical sorting pathway by which MV envelope glycoproteins are chaperoned by the M protein to initiate virus release at that surface.</text>
+                    <arg n="0">MV envelope glycoproteins</arg>
+                    <arg n="1">virus release</arg>
+                    <arg n="2">that surface</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>SCF, like the other dimeric ligands, initates signal transduction by direct dimerization of its receptor, Kit,and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates downstream intracellular signaling.</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal transduction</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>SCF, like the other dimeric ligands, initates signal transduction by direct dimerization of its receptor, Kit,and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates downstream intracellular signaling.</text>
+                    <arg n="0">tyrosine autophosphorylation</arg>
+                    <arg n="1">downstream intracellular signaling</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>Since RTKs initiate signaling by recruiting downstream components to the activated receptor, proteins that are immediately downstream of an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">recruiting downstream components to the activated receptor</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>Sxl is a key regulator of sex determination and dosage compensation, whose transcription is initiated only in female blastoderm embryos.</text>
+                    <arg n="1">whose transcription</arg>
+                    <arg n="3">female blastoderm embryos</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>Apparently HeLa cells either initiate transcription at multiple sites within RPS14 exon 1, or capped 5 oligonucleotides are removed from most S14 mRNAs posttranscription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple sites within RPS14 exon 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>I kappa B-epsilon translation is initiated from an internal ATG codon to give rise to a protein of 45 kDa, which exists as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>Ligand binding induces cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed Smads, which initiate transcriptional regulation.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">transcriptional regulation</arg>
+                </example>
+                <example src="MEDLINE" no="4">
+                    <text>Platelet agonists initiate aggregation and secretion by activating receptors coupled to the G-protein G(q), thereby raising cytosolic Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">Platelet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G-protein G(q)</arg>
+                </example>
+                <example src="MEDLINE" no="5">
+                    <text>This has led to the prevailing interpretation that genetic changes, in addition to those present in the most advanced clone of the primary tumor, are required to initiate invasion, dissemination, and growth at anatomically distant sites.</text>
+                    <arg n="1">invasion, dissemination, and growth at anatomically distant sites</arg>
+                    <arg n="3"></arg>
+                    <arg n="4">those present in the most advanced clone of the primary tumor</arg>
+                </example>
+                <example src="MEDLINE" no="6">
+                    <text>Tumours with breakpoints just 5 to exon 1, or distant from c-myc, had normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5 ends, while tumours with breakpoints within exon 1 or intron 1 had altered c-myc mRNAs (2.1-2.7 kb in Burkitt lines), initiated within intron 1.</text>
+                    <arg n="1">altered c-myc mRNAs</arg>
+                    <arg n="2">intron 1</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

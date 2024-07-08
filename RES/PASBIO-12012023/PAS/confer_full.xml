@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="confer">
+            <roleset id="confer.01" name="" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent&#x09;&#x09;// mechanism, process, entity(imply to condition or property in that entity) // &#x0A;" />
+                    <role n="1" descr="given biological property&#x09;&#x0A;" />
+                    <role n="2" descr="entity receiving the biological property&#x09;         // gene product, celll, tissue, etc. //&#x0A;" />
+                </roles>
+                <example src="EMBO" no="0">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that substitutions at Gly156 and Lys165 confer resistance to 06-BG through backbone distortions.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Human 06-alkylguaning-DNA alkyltransferase (AGT), which directly reverses endogenous alkylation at the 06-position of guanine, confers resistance to alkylation chemotherapies and is therefore an active anticancer drug target.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and transfection of AGT confers resistance to alkylation-sensitive cells (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">transfection of AGT</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation-sensitive cells</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), explaining the 06-BG resistance conferred by these mutations (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>The data from the chimeras indicate that the difference is due to the absence of carboxyl sequences in Stat1, since the Stat5 phenotype of stability in the presence of MG132 can be conferred on Stat1 by simply replacing the C-terminus with that of Stat5.</text>
+                    <arg n="0">simply replacing the C-terminus with that of Stat5</arg>
+                    <arg n="1">the Stat5 phenotype of stability in the presence of MG132</arg>
+                    <arg n="2">Stat1</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EMBO" no="5">
+                    <text>The portion of the STATs conferring specificity for either a MAPK or a MAPK substrate kinase (MAPKAP) has not been determined.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>In addition to clear loss-of-function mutations conferred by nonsense or frameshift alterations in the coding sequence or by splice variants, genetic screening has revealed a large number of missense codons with less obvious functional consequences.</text>
+                    <arg n="0">nonsense or frameshift alterations in the coding sequence or by splice variants</arg>
+                    <arg n="1">loss-of-function mutations</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>In itself, the gene variant does not confer an increased risk of diabetes.</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="recognize">
+            <roleset id="recognize.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="agent&#x0A;" />
+                    <role n="1" descr="thing being identified&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A monoclonal antibody that recognizes STAT1 N-terminus is purchased from Transduction Laboratories (Lexington, KY).</text>
+                    <arg n="0">A monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>A0 (the eukaryotic binding factor upstream (UBF), has recognized the promoter of the RNA ribosomal gene and activated the RNA polymerase I-mediated transcription through cooperative interactions with the specific factor of the species, SL1.</text>
+                    <arg n="1">the promoter of the RNA ribosomal gene</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>A0 (the eukaryotic binding factor upstream (UBF), recognized the promoter of the RNA ribosomal gene and activated the transcription mediated by RNA polymerase I through cooperative interactions with the specific factor of the species, SL1.</text>
+                    <arg n="1">the promoter of the RNA ribosomal gene</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>A0 (the eukaryotic binding factor upstream (UBF), will recognize the promoter of the ribosomal RNA gene and activate RNA polymerase I-mediated transcription through cooperative interactions with the specific factor of the species, SL1.</text>
+                    <arg n="1">the promoter of the ribosomal RNA gene</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>A0 (the upstream eukaryotic binding factor (UBF) will recognize the ribosomal RNA promoter and activate the RNN polymerase I-mediated transcription through cooperative interactions with the species-specific factor, SL1.</text>
+                    <arg n="1">the ribosomal RNA promoter</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>A0 (the upstream eukaryotic binding factor (UBF), recognized the promoter of the RNA ribosomal gene and activated RNA polymerase I-mediated transcription through cooperative interactions with the species specific factor, SL1.</text>
+                    <arg n="1">the promoter of the RNA ribosomal gene</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>A0 (the upstream eukaryotic binding factor (UBF), recognized the promoter of the RNA ribosomal gene and activated RNA-mediated transcription polymerase I through cooperative interactions with the species specific factor, SL1.</text>
+                    <arg n="1">the promoter of the RNA ribosomal gene</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>A1 (the two forms of Stat3 (Stat3fm and Stat3sm) that are recognized by this antibody in PKR+/+MEFs are the ones indicated.</text>
+                    <arg n="0">this antibody in PKR+/+MEFs</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>A1 (the two forms of Stat3 (Stat3fm and Stat3sm) that can be recognized by this antibody in PKR+/+MEFs are indicated.</text>
+                    <arg n="0">this antibody in PKR+/+MEFs</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>A1 (the two forms of Stat3 (Stat3fm and Stat3sm) that can be recognized by this antibody in PKR+/+MEFs are the ones indicated.</text>
+                    <arg n="0">this antibody in PKR+/+MEFs</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>A1 (the two forms of Stat3 (Stat3fm and Stat3sm) that have been recognized by this antibody in PKR+/+MEFs are as given.</text>
+                    <arg n="0">this antibody in PKR+/+MEFs</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>A1 (the two forms of Stat3 (Stat3fm and Stat3sm) that have been recognized by this antibody in PKR+/+MEFs are the ones indicated.</text>
+                    <arg n="0">this antibody in PKR+/+MEFs</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>A1 (the two forms of Stat3 (Stat3fm and Stat3sm) that were recognized by this antibody in PKR+/+MEFs are the ones indicated.</text>
+                    <arg n="0">this antibody in PKR+/+MEFs</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>A1 (the two forms of Stat3 (Stat3fm and Stat3sm) that will be recognized by this antibody in PKR+/+MEFs are indicated.</text>
+                    <arg n="0">this antibody in PKR+/+MEFs</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>A1 (the two forms of Stat3 (Stat3fm and Stat3sm) that will be recognized by this antibody in PKR+/+MEFs are the ones indicated.</text>
+                    <arg n="0">this antibody in PKR+/+MEFs</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>As a result of alternate splicing and subsequent frameshift, the reported g16 protein is 603 amino acids shorter than the NY-LU-12 product (1123 residues) in its COOH terminus and therefore A1 would be missing (the epitopes) that autologous serum is able to recognize.</text>
+                    <arg n="0">autologous serum</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>As a result of alternate splicing and subsequent frameshift, the reported g16 protein is 603 amino acids shorter than the NY-LU-12 product (1123 residues) in its COOH terminus and therefore does not have the epitopes that have been recognized by autologous serum.</text>
+                    <arg n="0">autologous serum</arg>
+                    <arg n="1">the epitopes</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>As a result of alternate splicing and subsequent frameshift, the reported g16 protein is 603 amino acids shorter than the NY-LU-12 product (1123 residues) in its COOH terminus and therefore, A1 would be missing (the epitopes) that are recognized by autologous serum.</text>
+                    <arg n="0">autologous serum</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>As a result of alternative splicing and post-frame shifting, the reported g16 protein is 603 amino acids shorter than the product NY-LU-12 (1123 residues) in its COOH terminal and therefore does not have epitopes that autological serum recognized.</text>
+                    <arg n="0">autological serum</arg>
+                    <arg n="1">epitopes</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>As a result of alternative splicing and rear frame shifting, the reported g16 protein is 603 amino acids shorter than the product NY-LU-12 (1123 residues) in its COOH terminal and would therefore lack epiptopes that are recognized by the autological serum.</text>
+                    <arg n="0">the autological serum</arg>
+                    <arg n="1">epiptopes</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>As a result of alternative splicing and rear frame shifting, the reported g16 protein is 603 amino acids shorter than the product NY-LU-12 (1123 residues) in its COOH terminal and would therefore lack epitopes that the autologous serum has recognized.</text>
+                    <arg n="0">the autologous serum</arg>
+                    <arg n="1">epitopes</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>As a result of alternative splicing and subsequent frame shifting, the reported g16 protein is 603 amino acids shorter than the product NY-LU-12 (1123 residues) in its COOH terminal and would therefore lack epiptopes that were recognized by the autological serum.</text>
+                    <arg n="0">the autological serum</arg>
+                    <arg n="1">epiptopes</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>As a result of splicing derivation and retrospective frames, the reported g16 protein is 603 amino acids shorter than the NY-LU-12 product (1123 residues) in its COOH terminal and therefore does not have epitopes that autologous serum is able to recognize.</text>
+                    <arg n="0">autologous serum</arg>
+                    <arg n="1">epitopes</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>Blots were surveyed with anti-LMP-1 antisembly purified recognizing epiptopes in the C-terminal of LMP-1 at a dilution 1:200.</text>
+                    <arg n="0">anti-LMP-1 antisembly purified</arg>
+                    <arg n="1">epiptopes in the C-terminal of LMP-1 at a dilution 1:200</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>C-term of CD40 at a 1:500 dilution is recognized by polyclonal anti-CD40 anti-rabbit antisound that the litters were probed.</text>
+                    <arg n="0">polyclonal anti-CD40 anti-rabbit antisound</arg>
+                    <arg n="1">C-term of CD40 at a 1:500 dilution</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>Class I melanoma-specific T cells recognize the isolation of a number of Ags, raising the hope that this will lead to the development of improved therapies.</text>
+                    <arg n="1">a number of Ags</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>Class I melanoma-specific T cells recognized a number of Ags by isolation, raising the hope that this will lead to the development of better therapies.</text>
+                    <arg n="0">Class I melanoma-specific T cells</arg>
+                    <arg n="1">a number of Ags</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Class I melanoma-specific T cells recognized a series of Ags isolated, which raised the hope that this will lead to the development of better therapies.</text>
+                    <arg n="0">Class I melanoma-specific T cells</arg>
+                    <arg n="1">a series of Ags</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Exactly, it is not clear how specific A1 sites have been recognized during the processing of RNA precursor complexes.</text>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Exactly, it is not clear how specific A1 sites will be recognized during the processing of the precursor RNA complex.</text>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>Exactly, it is unclear how specific A1 sites were recognized during the processing of RNA precursor complexes.</text>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>Exactly, it is unclear how specific A1 sites will be recognized during the processing of the complex RNA precursor messenger.</text>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>Footprint tests have suggested that these regulators protect a stretch of up to 20 bp in goal promoters, and multiple alignments of binding sites for a number of regulators have shown that proteins can recognize short motives within the protected region.</text>
+                    <arg n="0">proteins</arg>
+                    <arg n="1">short motives within the protected region</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>Footprint tests have suggested that these regulators protect a tranche of up to 20 bp in goal promoters, and multiple alignments of binding sites for a number of regulators have shown that proteins has recognized short motives within the protected region.</text>
+                    <arg n="0">proteins</arg>
+                    <arg n="1">short motives within the protected region</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>Footprint tests have suggested that these regulators protect a tranche of up to 20 bp in goal promoters, and multiple alignments of binding sites for a number of regulators have shown that proteins recognized short motives within the protected region.</text>
+                    <arg n="0">proteins</arg>
+                    <arg n="1">short motives within the protected region</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>Individual cell clones were analyzed for the expression STAT1 by immunofluorescence where STAT1 N-terminus is recognized by a monoclonal antibody.</text>
+                    <arg n="0">a monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>Individual cell clones were analyzed for the expression STAT1 by immunofluorescence where STAT1 N-terminus was recognized by a monoclonal antibody.</text>
+                    <arg n="0">a monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>Individual cell clones were analyzed for the expression STAT1 by immunofluorescence with a monoclonal antibody which recognized the STAT1 N-terminal, and by Western blotting</text>
+                    <arg n="0">a monoclonal antibody</arg>
+                    <arg n="1">the STAT1 N-terminal</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>Individual cell clones were analyzed for the expression STAT1 by immunofluorescence with a monoclonal antibody which recognizes the STAT1 N-terminal, and by Western blotting</text>
+                    <arg n="0">a monoclonal antibody</arg>
+                    <arg n="1">the STAT1 N-terminal</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>Individual cell clones were analyzed for the expression STAT1 by immunofluorescence with monoclonal antibody which recognized N-terminus STAT1 and by the western inflorescence.</text>
+                    <arg n="0">monoclonal antibody</arg>
+                    <arg n="1">N-terminus STAT1</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>Individual cell clones were analyzed for the expression STAT1 by immunofluorescence, where STAT1 N-terminal was recognized by monoclonal antibody.</text>
+                    <arg n="0">monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminal</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>It is shown that the activator complex cAMP-CRP has recognized two sites in tsx-p2 that are separated by 33 bp : a high affinity site (CRP-1) overlaps the region-35, and a low affinity site (CRP-2) is centered around the position-74 bp.</text>
+                    <arg n="0">the activator complex cAMP-CRP</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>NarL protein also binds to these sites 7-2-7, but, unlike NarP, it also recognized heptameric in other arrangements.</text>
+                    <arg n="0">NarL protein</arg>
+                    <arg n="1">heptameric in other arrangements</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>NarL protein also binds to these sites 7-2-7, but, unlike NarP, it also recognized heptamers in other arrangements .</text>
+                    <arg n="0">NarL protein</arg>
+                    <arg n="1">heptamers in other arrangements</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>NarL protein binds to these sites 7-2-7, but, unlike NarP, it also recognizes heptamers in other arrangements .</text>
+                    <arg n="0">NarL protein</arg>
+                    <arg n="1">heptamers in other arrangements</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>Paperprinting tests have suggested that these regulators protect a segment of up to 20 bp in target promoters, and various alignments of binding sites for a number of regulators have shown that proteins are able to recognize short reasons within the protected region.</text>
+                    <arg n="0">proteins</arg>
+                    <arg n="1">short reasons within the protected region</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>Paperprinting tests have suggested that these regulators protect a segment of up to 20 bp in target promoters, and various alignments of binding sites for a number of regulators have shown that proteins can recognize short reasons within the protected region.</text>
+                    <arg n="0">proteins</arg>
+                    <arg n="1">short reasons within the protected region</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>Paperprinting tests have suggested that these regulators protect a segment of up to 20 bp in target promoters, and various alignments of binding sites for a number of regulators have shown that proteins has recognized short reasons within the protected region.</text>
+                    <arg n="0">proteins</arg>
+                    <arg n="1">short reasons within the protected region</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>Paperprinting tests have suggested that these regulators protect a segment of up to 20 bp in target promoters, and various alignments of binding sites for a number of regulators have shown that proteins recognized short reasons within the protected region.</text>
+                    <arg n="0">proteins</arg>
+                    <arg n="1">short reasons within the protected region</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>Printing tests have suggested that these regulators protect a segment of up to 20 bp in goal promoters, and several alignments of binding sites for various regulators have shown that proteins are able to recognize short reasons within the protected region.</text>
+                    <arg n="0">proteins</arg>
+                    <arg n="1">short reasons within the protected region</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>STAT1 N-terminus is recognized by A monoclonal antibody by purchasing Transduction Laboratories (Lexington, KY).</text>
+                    <arg n="0">A monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>STAT1 N-terminus is recognized by monoclonal antibody by the acquisition of transduction laboratories (Lexington, KY).</text>
+                    <arg n="0">monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>STAT1 N-terminus was recognized by A monoclonal antibody by purchasing Transduction Laboratories (Lexington, KY).</text>
+                    <arg n="0">A monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>T-cells specific for class I melanoma recognize the isolation of a series of Ags, increasing the hope that this will lead to the development of better therapies.</text>
+                    <arg n="1">a series of Ags</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>The STAT1 N-terminus was recognized by the monoclonal antibody acquired in transduction laboratories (Lexington, KY).</text>
+                    <arg n="0">monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>The a polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle, and smooth muscle was recognized by the D1 antibody of anti-64kD human autoantigen.</text>
+                    <arg n="0">D1 antibody of anti-64kD human autoantigen</arg>
+                    <arg n="1">a polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle, and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>The blots were investigated with anti-LMP-1 anti-LMP-1 purified affinity that recognized epiptopes in the C-terminal of LMP-1 at a 1:200 dilution.</text>
+                    <arg n="0">anti-LMP-1 anti-LMP-1 purified affinity</arg>
+                    <arg n="1">epiptopes in the C-terminal of LMP-1 at a 1:200 dilution</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>The blots were probed with anti-LMP-1 anti-LMP-1 purified affinity that can recognize epitopes in the terminal C of LMP-1 at a 1:200 dilution.</text>
+                    <arg n="0">anti-LMP-1 anti-LMP-1 purified affinity</arg>
+                    <arg n="1">epitopes in the terminal C of LMP-1 at a 1:200 dilution</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>The blots were probed with polyclonal anti-LMP-1 affinity antiserum recognizing A1 (epitopes in the C muscle of LMP-1 in 1:200 dilution.</text>
+                    <arg n="0">polyclonal anti-LMP-1 affinity antiserum</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>The blots were probed with polyclonal anti-LMP-1 purified affinity antiserum that can recognize A1 (epitopes in the C muscle of LMP-1 in a 1:200 dilution.</text>
+                    <arg n="0">polyclonal anti-LMP-1 purified affinity antiserum</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>The blots were probed with polyclonal anti-LMP-1 purified affinity antiserum that recognized A1 (epitopes in the C muscle of LMP-1 in a 1:200 dilution.</text>
+                    <arg n="0">polyclonal anti-LMP-1 purified affinity antiserum</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>The individual cell clones were analyzed for STAT1 expression by immunofluorescence with monoclonal antibody that recognizes STAT1 N-terminus and by western blotting.</text>
+                    <arg n="0">monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>The individual cell clones were analyzed for the expression of STAT1 by immunofluorescence, where STAT1 N-terminus is recognized by monoclonal antibody.</text>
+                    <arg n="0">monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>The sequence (YPYDVPDYA) at a dilution 1:500 is recognized by the A0 (a monoclonal anti-HA RAT antibody (Boehringer-Ingelheim) with which the rostes were sounded.</text>
+                    <arg n="1">sequence (YPYDVPDYA) at a dilution 1:500</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>The term C of CD40 at a dilution 1:500 is recognized by the anti-CD40 anti-rabbit polyclonal anti-CD40 anti-rabbit that the garbage was surveyed.</text>
+                    <arg n="0">anti-CD40 anti-rabbit polyclonal anti-CD40 anti-rabbit</arg>
+                    <arg n="1">term C of CD40 at a dilution 1:500</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>These bands can be detected with four different specific antibodies that recognize A1 (the different non-muscle heavy chain isoforms of myosin (A and B)</text>
+                    <arg n="0">four different specific antibodies</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>These bands can be detected with four different specific antibodies that recognized A1 (the different non-muscle heavy chain isoforms of myosin (A and B)</text>
+                    <arg n="0">four different specific antibodies</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>These bands can be detected with four different specific antibodies that recognized A1 (the different non-muscular myosin heavy chain isoforms (A and B)</text>
+                    <arg n="0">four different specific antibodies</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>These mutations, identified by standard reverse transcription methods, PCR, dioxy-caine chain termination, and cycle sequencing, alter highly conserved sequences at the intron/exon boundaries and cause the RNA supply apparatus to fail to recognize the normal splice binding.</text>
+                    <arg n="0">the RNA supply apparatus</arg>
+                    <arg n="1">the normal splice binding</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>These mutations, identified by standard reverse transcription methods, PCR, dioxy-caine chain termination, and cycle sequencing, alter highly conserved sequences at the intron/exon boundaries and cause the RNA supply apparatus to fail to recognized the normal splice binding.</text>
+                    <arg n="0">the RNA supply apparatus</arg>
+                    <arg n="1">the normal splice binding</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>These mutations, identified by standard reverse transcription methods, PCR, dioxy-caine chain termination, and cycle sequencing, alter highly conserved sequences at the intron/exon boundaries and prevent the normal splice binding from being duly recognized by the RNA supply apparatus.</text>
+                    <arg n="0">the RNA supply apparatus</arg>
+                    <arg n="1">the normal splice binding</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>These mutations, identified by standardized methods of reverse transcription, PCR, dideoxy chain termination and cycle sequencing, alter highly conserved sequences at intron/exon limits and cause the normal junction of slice not to be properly recognized by the reverse transcription apparatus.</text>
+                    <arg n="0">the reverse transcription apparatus</arg>
+                    <arg n="1">the normal junction of slice</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>These mutations, identified by the methods of standard reverse transcription, PCR, dioxy-caine chain termination and cycle sequencing, alter highly conserved sequences at the intron/exon edges and cause normal slice ligation not to be properly recognized by RNA supply apparatus.</text>
+                    <arg n="0">RNA supply apparatus</arg>
+                    <arg n="1">normal slice ligation</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>These mutations, identified by the methods of standard reverse transcription, PCR, dioxy-caine chain termination and cycle sequencing, alter the highly conserved sequences at the intron/exon edges and cause the RNA supply apparatus not to recognize the normal splice binding.</text>
+                    <arg n="0">the RNA supply apparatus</arg>
+                    <arg n="1">the normal splice binding</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>These mutations, identified by the methods of standard reverse transcription, PCR, dioxy-caine chain termination and cycle sequencing, alter the highly conserved sequences at the intron/exon edges and cause the RNA supply apparatus not to recognized the normal splice binding.</text>
+                    <arg n="0">the RNA supply apparatus</arg>
+                    <arg n="1">the normal splice binding</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>These mutations, identified by the methods of standard reverse transcription, PCR, dioxy-caine chain termination and cycle sequencing, alter the highly conserved sequences at the intron/exon edges and prevent normal slice ligation from being properly recognized by RNA supply apparatus.</text>
+                    <arg n="0">RNA supply apparatus</arg>
+                    <arg n="1">normal slice ligation</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>To define the subcellular location of HVDAC isoforms, the HVDAC genes were modified so that the encoded proteins contain COOH-terminal epitopes that are recognized by one of two monoclonal antibodies.</text>
+                    <arg n="0">one of two monoclonal antibodies</arg>
+                    <arg n="1">COOH-terminal epitopes</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>To define the subcellular location of HVDAC isoforms, the HVDAC genes were modified so that the encoded proteins contain COOH-terminal epitopes that can be recognized by one of the two monoclonal antibodies.</text>
+                    <arg n="0">one of the two monoclonal antibodies</arg>
+                    <arg n="1">COOH-terminal epitopes</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>To define the subcellular location of HVDAC isoforms, the HVDAC genes were modified so that the encoded proteins contain COOH-terminal epitopes that have been recognized by one of the two monoclonal antibodies.</text>
+                    <arg n="0">one of the two monoclonal antibodies</arg>
+                    <arg n="1">COOH-terminal epitopes</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>To define the subcellular location of HVDAC isoforms, the HVDAC genes were modified so that the encoded proteins contain COOH-terminal epitopes that were recognized by one of the two monoclonal antibodies.</text>
+                    <arg n="0">one of the two monoclonal antibodies</arg>
+                    <arg n="1">COOH-terminal epitopes</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>To define the subcellular location of HVDAC isoforms, the HVDAC genes were modified so that the encoded proteins contain COOH-terminal epitopes that were recognized by one of two monoclonal antibodies.</text>
+                    <arg n="0">one of two monoclonal antibodies</arg>
+                    <arg n="1">COOH-terminal epitopes</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>To define the subcellular location of HVDAC isoforms, the HVDAC genes were modified so that the encoded proteins contain cooled-terminal epitopes that were recognized by one of two monoclonal antibodies.</text>
+                    <arg n="0">one of two monoclonal antibodies</arg>
+                    <arg n="1">cooled-terminal epitopes</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>We show that activating complex cAMP-CRP recognized two sites in tsx-p2 that are separated by 33 bp: a high-affinity site (CRP-1) overlaps the 35 bp region, and a low-affinity site (CRP-2) is centered in the 74 bp position.</text>
+                    <arg n="0">activating complex cAMP-CRP</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>We show that activating complex cAMP-CRP recognized two sites in tsx-p2 that separate by 33 bp: a high-affinity site (CRP-1) overlaps the 35 bp region, and a low-affinity site (CRP-2) is centered in the 74 bp position.</text>
+                    <arg n="0">activating complex cAMP-CRP</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+                <example src="EGRAM" no="84">
+                    <text>We show that activator complex cAMP-CRP will recognize two sites in tsx-p2 that are separated by 33 bp: a high-affinity site (CRP-1) overlaps the 35 bp region, and a low-affinity site (CRP-2) is centered in the 74 bp position.</text>
+                    <arg n="0">activator complex cAMP-CRP</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+                <example src="EGRAM" no="85">
+                    <text>We show that activator complex cAMP-CRP will recognize two sites in tsx-p2 that are separated by 33 bp: a high-affinity site (CRP-1) overlaps the region-35, and a low-affinity site (CRP-2) is centered on position-74 bp.</text>
+                    <arg n="0">activator complex cAMP-CRP</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+                <example src="EGRAM" no="86">
+                    <text>We show that the cAMP-CRP activator complex recognized two sites in tsx-p2 that are separated by 33 bp : a high affinity site (CRP-1) overlaps the region-35, and a low affinity site (CRP-2) focuses on the position-74 bp.</text>
+                    <arg n="0">the cAMP-CRP activator complex</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+                <example src="EGRAM" no="87">
+                    <text>a monoclonal antibody that has recognized STAT1 N-terminus was acquired from Transduction Laboratories (Lexington, KY).</text>
+                    <arg n="0">a monoclonal antibody</arg>
+                    <arg n="1">STAT1 N-terminus</arg>
+                </example>
+                <example src="EGRAM" no="88">
+                    <text>a polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle, and smooth muscle has been recognized by D1 antibody of anti-64kD human autoantigen.</text>
+                    <arg n="0">D1 antibody of anti-64kD human autoantigen</arg>
+                    <arg n="1">a polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle, and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="89">
+                    <text>a polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle, and smooth muscle is recognized by D1 antibody of anti-64kD human autoantigen.</text>
+                    <arg n="0">D1 antibody of anti-64kD human autoantigen</arg>
+                    <arg n="1">a polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle, and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="90">
+                    <text>a polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle, and smooth muscle will be recognized by the D1 antibody of anti-64kD human autoantigen.</text>
+                    <arg n="0">D1 antibody of anti-64kD human autoantigen</arg>
+                    <arg n="1">a polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle, and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="91">
+                    <text>a series of Ags recognized by class I melanoma-specific T cells has recently been isolated, which raises the hope that this will lead to the development of better therapies.</text>
+                    <arg n="0">class I melanoma-specific T cells</arg>
+                    <arg n="1">a series of Ags</arg>
+                </example>
+                <example src="EGRAM" no="92">
+                    <text>a series of Ags that has been recognized by Class I melanoma-specific T cells has recently been isolated, raising the hope that this will lead to the development of better therapies.</text>
+                    <arg n="0">Class I melanoma-specific T cells</arg>
+                    <arg n="1">a series of Ags</arg>
+                </example>
+                <example src="EGRAM" no="93">
+                    <text>a series of Ags that has been recognized by Class and T cells specific to melanoma has recently been isolated, raising the hope that this will lead to the development of better therapies.</text>
+                    <arg n="0">Class and T cells specific to melanoma</arg>
+                    <arg n="1">a series of Ags</arg>
+                </example>
+                <example src="EGRAM" no="94">
+                    <text>a series of Ags that is recognized by Class I melanoma-specific T cells has recently been isolated, raising the hope that this will lead to the development of better therapies.</text>
+                    <arg n="0">Class I melanoma-specific T cells</arg>
+                    <arg n="1">a series of Ags</arg>
+                </example>
+                <example src="EGRAM" no="95">
+                    <text>anti-64kD antibodies of human autoantigen D1 specifically recognized a polypeptide approximately 70kD in western blots of extraocular muscle, sternotirio muscle, and smooth muscle.</text>
+                    <arg n="0">anti-64kD antibodies of human autoantigen D1</arg>
+                    <arg n="1">a polypeptide approximately 70kD in western blots of extraocular muscle, sternotirio muscle, and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="96">
+                    <text>anti-64kD antibodies of human autoantigen D1 specifically recognized polypeptide approximately 70kD in western areas of extraocular muscle, sternotirio muscle, and smooth muscle.</text>
+                    <arg n="0">anti-64kD antibodies of human autoantigen D1</arg>
+                    <arg n="1">polypeptide approximately 70kD in western areas of extraocular muscle, sternotirio muscle, and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="97">
+                    <text>anti-LMP-1 antisumption of affinity recognized A1 (epitopes in the C muscle of LMP-1 in dilution 1:200.</text>
+                    <arg n="0">anti-LMP-1 antisumption of affinity</arg>
+                </example>
+                <example src="EGRAM" no="98">
+                    <text>anti-LMP-1 purified affinity antiserum recognized epictopes in the C-terminal of LMP-1 at a dilution 1:200.</text>
+                    <arg n="0">anti-LMP-1 purified affinity antiserum</arg>
+                    <arg n="1">epictopes in the C-terminal of LMP-1 at a dilution 1:200</arg>
+                </example>
+                <example src="EGRAM" no="99">
+                    <text>anti-LMP-1 purified affinity antiserum recognizes epiptopes in the C-terminal of LMP-1 at a dilution 1:200.</text>
+                    <arg n="0">anti-LMP-1 purified affinity antiserum</arg>
+                    <arg n="1">epiptopes in the C-terminal of LMP-1 at a dilution 1:200</arg>
+                </example>
+                <example src="EGRAM" no="100">
+                    <text>epiptopes in the C-terminal of LMP-1 at a dilution 1:200 are recognized by anti-LMP-1 antisembly purified with which the threads were probed.</text>
+                    <arg n="0">anti-LMP-1 antisembly purified</arg>
+                    <arg n="1">epiptopes in the C-terminal of LMP-1 at a dilution 1:200</arg>
+                </example>
+                <example src="EGRAM" no="101">
+                    <text>epitoped in the C-terminal of LMP-1 in a 1:200 dilution are recognized by anti-LMP-1 antisembly purified with which the wires were probed.</text>
+                    <arg n="0">anti-LMP-1 antisembly purified</arg>
+                    <arg n="1">epitoped in the C-terminal of LMP-1 in a 1:200 dilution</arg>
+                </example>
+                <example src="EGRAM" no="102">
+                    <text>monoclonal antibody that recognized N-terminus STAT1 was acquired in transduction laboratories (Lexington, KY).</text>
+                    <arg n="0">monoclonal antibody</arg>
+                    <arg n="1">N-terminus STAT1</arg>
+                </example>
+                <example src="EGRAM" no="103">
+                    <text>monoclonal antibody that recognizes N-terminus STAT1 is purchased in transduction laboratories (Lexington, KY).</text>
+                    <arg n="0">monoclonal antibody</arg>
+                    <arg n="1">N-terminus STAT1</arg>
+                </example>
+                <example src="EGRAM" no="104">
+                    <text>most of the regulators belonging to the AraC/XylS family can recognize multiple connection site in regulated promoters.</text>
+                    <arg n="0">most of the regulators belonging to the AraC/XylS family</arg>
+                    <arg n="1">multiple connection site</arg>
+                </example>
+                <example src="EGRAM" no="105">
+                    <text>most of the regulators belonging to the AraC/XylS family can recognize multiple-link location in regulated promoters.</text>
+                    <arg n="0">most of the regulators belonging to the AraC/XylS family</arg>
+                    <arg n="1">multiple-link location</arg>
+                </example>
+                <example src="EGRAM" no="106">
+                    <text>most of the regulators belonging to the AraC/XylS family is able to recognize multiple connection site in regulated promoters.</text>
+                    <arg n="0">most of the regulators belonging to the AraC/XylS family</arg>
+                    <arg n="1">multiple connection site</arg>
+                </example>
+                <example src="EGRAM" no="107">
+                    <text>most of the regulators belonging to the AraC/XylS family recognized multi-binding sites in the regulated promoters.</text>
+                    <arg n="0">most of the regulators belonging to the AraC/XylS family</arg>
+                    <arg n="1">multi-binding sites</arg>
+                </example>
+                <example src="EGRAM" no="108">
+                    <text>most of the regulators belonging to the AraC/XylS family recognized multiple connection site in regulated promoters.</text>
+                    <arg n="0">most of the regulators belonging to the AraC/XylS family</arg>
+                    <arg n="1">multiple connection site</arg>
+                </example>
+                <example src="EGRAM" no="109">
+                    <text>most of the regulators belonging to the AraC/XylS family recognized multiple linkage site in regulated promoters.</text>
+                    <arg n="0">most of the regulators belonging to the AraC/XylS family</arg>
+                    <arg n="1">multiple linkage site</arg>
+                </example>
+                <example src="EGRAM" no="110">
+                    <text>most of the regulators belonging to the AraC/XylS family will recognize multiple-link location in regulated promoters.</text>
+                    <arg n="0">most of the regulators belonging to the AraC/XylS family</arg>
+                    <arg n="1">multiple-link location</arg>
+                </example>
+                <example src="EGRAM" no="111">
+                    <text>most regulators belonging to the AraC/XylS family are able to recognize multiple binding sites in regulated promoters.</text>
+                    <arg n="0">most regulators belonging to the AraC/XylS family</arg>
+                    <arg n="1">multiple binding sites</arg>
+                </example>
+                <example src="EGRAM" no="112">
+                    <text>most regulators belonging to the AraC/XylS family will recognize multiple binding sites in regulated promoters.</text>
+                    <arg n="0">most regulators belonging to the AraC/XylS family</arg>
+                    <arg n="1">multiple binding sites</arg>
+                </example>
+                <example src="EGRAM" no="113">
+                    <text>polyclonal anti-LMP-1 affinity antisumption recognizes epitopes in the C muscle of LMP-1 at a dilution of 1:200.</text>
+                    <arg n="0">polyclonal anti-LMP-1 affinity antisumption</arg>
+                    <arg n="1">epitopes in the C muscle of LMP-1 at a dilution of 1:200</arg>
+                </example>
+                <example src="EGRAM" no="114">
+                    <text>polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle and smooth muscle is recognized by D1 antibody of human autoantigen anti-64kD.</text>
+                    <arg n="0">D1 antibody of human autoantigen anti-64kD</arg>
+                    <arg n="1">polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="115">
+                    <text>polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle and smooth muscle was recognized by D1 anti-64kD human autoantigen.</text>
+                    <arg n="0">D1 anti-64kD human autoantigen</arg>
+                    <arg n="1">polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="116">
+                    <text>polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle and smooth muscle was recognized by D1 antibody of human autoantigen anti-64kD.</text>
+                    <arg n="0">D1 antibody of human autoantigen anti-64kD</arg>
+                    <arg n="1">polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="117">
+                    <text>polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle and smooth muscle will be recognized by D1 antibody of human autoantigen anti-64kD.</text>
+                    <arg n="0">D1 antibody of human autoantigen anti-64kD</arg>
+                    <arg n="1">polypeptide approximately 70kD in the western muscles of the extraocular muscle, sternotirio muscle and smooth muscle</arg>
+                </example>
+                <example src="EGRAM" no="118">
+                    <text>sequence (YPYDVPDYA) in a 1:500 dilution is recognized by A0 (monoclonal anti-HA RAT antibody (Boehringer-Ingelheim) with which the screws were sound.</text>
+                    <arg n="1">sequence (YPYDVPDYA) in a 1:500 dilution</arg>
+                </example>
+                <example src="EGRAM" no="119">
+                    <text>the NarL protein also binds to these 727 sites but, unlike NarP, also recognized heptamers in other arrangements.</text>
+                    <arg n="0">the NarL protein</arg>
+                    <arg n="1">heptamers in other arrangements</arg>
+                </example>
+                <example src="EGRAM" no="120">
+                    <text>the NarL protein binds to these 727 sites but, unlike NarP, will also recognize heptamers in other arrangements.</text>
+                    <arg n="0">the NarL protein</arg>
+                    <arg n="1">heptamers in other arrangements</arg>
+                </example>
+                <example src="EGRAM" no="121">
+                    <text>the NarL protein has also joined these 727 sites but, unlike NarP, has also recognized heptamers in other arrangements.</text>
+                    <arg n="0">the NarL protein</arg>
+                    <arg n="1">heptamers in other arrangements</arg>
+                </example>
+                <example src="EGRAM" no="122">
+                    <text>the RNA ribosomal gene promoter is recognized by the upstream eukaryotic binding factor (UBF).</text>
+                    <arg n="0">the upstream eukaryotic binding factor (UBF)</arg>
+                    <arg n="1">the RNA ribosomal gene promoter</arg>
+                </example>
+                <example src="EGRAM" no="123">
+                    <text>the lowest form of Stat3, Stat3Beta could be recognized in immunoprecipitatio with anti-Stat3 pAb, since it was elevated against a C-terminal region of Stat3 that lacks Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                </example>
+                <example src="EGRAM" no="124">
+                    <text>the lowest form of Stat3, Stat3Beta was recognized in the immunoprecipitatome with anti-Stat3 pAb, because it is a location of elevation against a C-terminal region of Stat3 that lacks Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                </example>
+                <example src="EGRAM" no="125">
+                    <text>the lowest form of Stat3, Stat3Beta will be recognized in immunoprecipitatio with anti-Stat3 pAb, since it arises against a C-terminal region of Stat3 that lacks Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                </example>
+                <example src="EGRAM" no="126">
+                    <text>the lowest form of Stat3, Stat3Beta, cannot is recognized in immunoprecipitatio with anti-Stat3 pAb, as it is high against a C-terminal region of Stat3 that is missing at Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="127">
+                    <text>the lowest form of Stat3, Stat3Beta, cannot is recognized in the immunoprecipitaiton with anti-Stat3 pAb as it rises against a C-terminal region of Stat3 that is missing at Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="128">
+                    <text>the lowest form of Stat3, Stat3Beta, could be recognized in the immunoprecipitaiton with anti-Stat3 pAb as it was raised against a C-terminal region of Stat3 that is missing at Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                </example>
+                <example src="EGRAM" no="129">
+                    <text>the lowest form of Stat3, Stat3Beta, has been recognized in the immunoprecipitaiton with anti-Stat3 pAb as it was raised against a C-terminal region of Stat3 that is missing at Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                </example>
+                <example src="EGRAM" no="130">
+                    <text>the lowest form of Stat3, Stat3Beta, was not recognized in the immunoprecipitaiton with anti-Stat3 pAb as it was raised against a C-terminal region of Stat3 that is missing at Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="131">
+                    <text>the lowest form of Stat3, Stat3Beta, was unrecognized in immunoprecipitatio with anti-Stat3 pAb, because it is susceptible to a C-terminal region of Stat3 that is recognized in Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                    <arg n="M-NEG">unrecognized</arg>
+                </example>
+                <example src="EGRAM" no="132">
+                    <text>the lowest form of Stat3, Stat3Beta, will be recognized in the immunoprecipitaiton with anti-Stat3 pAb as it arises against a C-terminal region of Stat3 that is missing at Stat3Beta.</text>
+                    <arg n="0">anti-Stat3 pAb</arg>
+                    <arg n="1">the lowest form of Stat3, Stat3Beta</arg>
+                </example>
+                <example src="EGRAM" no="133">
+                    <text>the promoter of the RNA ribosomal gene is recognized by the eukaryotic binding factor upstream (UBF).</text>
+                    <arg n="0">the eukaryotic binding factor upstream (UBF)</arg>
+                    <arg n="1">the promoter of the RNA ribosomal gene</arg>
+                </example>
+                <example src="EGRAM" no="134">
+                    <text>the promoter of the RNA ribosomal gene was recognized by the eukaryotic binding factor upstream (UBF).</text>
+                    <arg n="0">the eukaryotic binding factor upstream (UBF)</arg>
+                    <arg n="1">the promoter of the RNA ribosomal gene</arg>
+                </example>
+                <example src="EGRAM" no="135">
+                    <text>the promoter of the RNA ribosomal gene was recognized by the upstream eukaryotic binding factor (UBF).</text>
+                    <arg n="0">the upstream eukaryotic binding factor (UBF)</arg>
+                    <arg n="1">the promoter of the RNA ribosomal gene</arg>
+                </example>
+                <example src="EGRAM" no="136">
+                    <text>two sites in tsx-p2 are recognized by the cAMP-CRP activator complex.</text>
+                    <arg n="0">the cAMP-CRP activator complex</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+                <example src="EGRAM" no="137">
+                    <text>two sites in tsx-p2 is recognized by activating the cAMP-CRP complex.</text>
+                    <arg n="0">activating the cAMP-CRP complex</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+                <example src="EGRAM" no="138">
+                    <text>two sites in tsx-p2 was recognized by activating the cAMP-CRP complex.</text>
+                    <arg n="0">activating the cAMP-CRP complex</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+                <example src="EGRAM" no="139">
+                    <text>two sites in tsx-p2 were recognized by the cAMP-CRP activator complex.</text>
+                    <arg n="0">the cAMP-CRP activator complex</arg>
+                    <arg n="1">two sites in tsx-p2</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

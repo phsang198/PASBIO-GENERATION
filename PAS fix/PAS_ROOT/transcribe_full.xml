@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+	<predicate lemma="transcribe">
+		<roleset id="Transcribe.01" name="convert DNA into RNA
+" wordnet="5">
+			<roles>
+				<role n="0" descr="causer, agent 						// protein ...low chances to be mentioned //
+"/>
+				<role n="1" descr="entity transcribed 					// gene, DNA //
+"/>
+				<role n="2" descr="transcription site			 		// promoter //
+"/>
+				<role n="3" descr="entity after transcription
+"/>
+				<role n="4" descr="location as organ or tissue expressing transcription
+"/>
+			</roles>
+			<example src="MEDLINE" no="*1">
+				<text>
+The gene is transcribed in a large variety of organs and tissues and shows differential splicing of two exons, giving rise to at least three different transcripts.   
+
+</text>
+				<arg n="0">- 
+</arg>
+				<arg n="1">the gene
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">-
+</arg>
+				<arg n="4">a large variety of organs and tissues
+</arg>
+				<fdg>
+					<line>     1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+</line>
+					<line>     2	gene	gene	subj:&gt;3	@SUBJ %NH N NOM SG
+</line>
+					<line>     3	is	be	v-ch:&gt;4	@+FAUXV %AUX V PRES SG3
+</line>
+					<line>     4	transcribed	transcribe	main:&gt;0	@-FMAINV %VP EN
+</line>
+					<line>     5	in	in	loc:&gt;4	@ADVL %EH PREP
+</line>
+					<line>     6	a	a	det:&gt;8	@DN&gt; %&gt;N DET SG
+</line>
+					<line>     7	large	large	attr:&gt;8	@A&gt; %&gt;N A ABS
+</line>
+					<line>     8	variety	variety	pcomp:&gt;5	@&lt;P %NH N NOM SG
+</line>
+					<line>     9	of	of	mod:&gt;8	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>     10	organs	organ	pcomp:&gt;9	@&lt;P %NH N NOM PL
+</line>
+					<line>     11	and	and	cc:&gt;10	@CC %CC CC
+</line>
+					<line>     12	tissues	tissue	cc:&gt;10	@&lt;P %NH N NOM PL
+</line>
+					<line>     13	and	and	cc:&gt;4	@CC %CC CC
+</line>
+					<line>     14	shows	show	cc:&gt;4	@+FMAINV %VA V PRES SG3
+</line>
+					<line>     15	differential	differential	attr:&gt;16	@A&gt; %&gt;N A ABS
+</line>
+					<line>     16	splicing	splicing	obj:&gt;14	@OBJ %NH N NOM SG
+</line>
+					<line>     17	of	of	mod:&gt;16	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>     18	two	two	qn:&gt;19	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>     19	exons	exon	pcomp:&gt;17	@&lt;P %NH &lt;?&gt; N NOM PL
+</line>
+					<line>     20	,	,
+</line>
+					<line>     21	giving	give	man:&gt;14	@-FMAINV %VA ING
+</line>
+					<line>     22	rise	rise	obj:&gt;21	@OBJ %NH N NOM SG
+</line>
+					<line>     23	to	to	goa:&gt;21	@ADVL %EH PREP
+</line>
+					<line>     24	at least	at least	ad:&gt;25	@AD-A&gt; %E&gt; ADV
+</line>
+					<line>     25	three	three	qn:&gt;27	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>     26	different	different	attr:&gt;27	@A&gt; %&gt;N A ABS
+</line>
+					<line>     27	transcripts	transcript	pcomp:&gt;23	@&lt;P %NH N NOM PL
+</line>
+					<line>     28	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="2">
+				<text>
+KLK14 is approximately 5.4 kb in length spanning seven exons and, by Northern blot analysis, transcribes two alternative transcripts present only in prostate (1.5 kb) and skeletal muscle (1.9 kb). 
+
+</text>
+				<arg n="0">-
+</arg>
+				<arg n="1">KLK14 
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">two alternative transcripts 
+</arg>
+				<arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)
+</arg>
+				<fdg>
+					<line>     1	Here	here		@ADVL %EH ADV
+</line>
+					<line>     2	we	we	subj:&gt;3	@SUBJ %NH PRON PERS NOM PL1
+</line>
+					<line>     3	report	report	main:&gt;0	@+FMAINV %VA V PRES
+</line>
+					<line>     4	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+</line>
+					<line>     5	identification	identification	obj:&gt;3	@OBJ %NH N NOM SG
+</line>
+					<line>     6	and	and	cc:&gt;5	@CC %CC CC
+</line>
+					<line>     7	characterization	characterization	cc:&gt;5	@OBJ %NH N NOM SG
+</line>
+					<line>     8	of	of	mod:&gt;7	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>     9	KLK14	klk14	pcomp:&gt;8	@&lt;P %NH N NOM SG
+</line>
+					<line>     10	,	,
+</line>
+					<line>     11	a	a	det:&gt;14	@DN&gt; %&gt;N DET SG
+</line>
+					<line>     12	novel	novel	attr:&gt;13	@A&gt; %&gt;N A ABS
+</line>
+					<line>     13	kallikrein	kallikrein	attr:&gt;14	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>     14	gene	gene	mod:&gt;9	@APP %NH N NOM SG
+</line>
+					<line>     15	located	locate	mod:&gt;14	@-FMAINV %VP EN
+</line>
+					<line>     16	within	within	ha:&gt;15	@ADVL %EH PREP
+</line>
+					<line>     17	the	the	det:&gt;20	@DN&gt; %&gt;N DET
+</line>
+					<line>     18	human	human	attr:&gt;19	@A&gt; %&gt;N A ABS
+</line>
+					<line>     19	kallikrein	kallikrein	attr:&gt;20	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>     20	locus	locus	pcomp:&gt;16	@&lt;P %NH N NOM SG
+</line>
+					<line>     21	at	at		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+</line>
+					<line>     22	19q13	19q13	qn:&gt;23	@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+</line>
+					<line>     23	.4	.4	pcomp:&gt;21	@&lt;P %NH NUM CARD
+</line>
+					<line>     24	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*3">
+				<text>
+The 7.5- and 3.5-kb FZD5 mRNAs were transcribed probably due to alternative splicing.
+
+</text>
+				<arg n="0">alternative splicing
+</arg>
+				<arg n="1">-
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">The 7.5- and 3.5-kb FZD5 mRNAs
+</arg>
+				<arg n="4">-
+</arg>
+				<fdg>
+					<line/>
+					<line>         1	The	the		@DN&gt; %&gt;N DET
+</line>
+					<line>         2	7.5-	7.5-	cc:&gt;4	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>         3	and	and	cc:&gt;4	@CC %CC CC
+</line>
+					<line>         4	3.5	3.5	qn:&gt;8	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>         5	-	-
+</line>
+					<line>         6	kb	kb	attr:&gt;7	@A&gt; %&gt;N ABBR NOM SG
+</line>
+					<line>         7	FZD5	fzd5	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         8	mRNAs	mrna	subj:&gt;9	@SUBJ %NH &lt;?&gt; N NOM PL
+</line>
+					<line>         9	were	be	v-ch:&gt;10	@+FAUXV %AUX V PAST PL
+</line>
+					<line>         10	transcribed	transcribe	main:&gt;0	@-FMAINV %VP EN
+</line>
+					<line>         11	probably	probably	man:&gt;10	@ADVL %EH ADV
+</line>
+					<line>         12	due to	due to	ha:&gt;10	@ADVL %EH PREP
+</line>
+					<line>         13	alternative	alternative	attr:&gt;14	@A&gt; %&gt;N A ABS
+</line>
+					<line>         14	splicing	splicing	pcomp:&gt;12	@&lt;P %NH N NOM SG
+</line>
+					<line>         15	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*4">
+				<text>
+The fNF-E2 isoform is transcribed from an alternative promoter located in the 3&apos; end of the first intron and joined by alternative splicing to the second and third exons, which are shared by both RNA isoforms.
+
+</text>
+				<arg n="0">-
+</arg>
+				<arg n="1">-
+</arg>
+				<arg n="2">an alternative promoter located in the 3&apos; end of the first intron
+</arg>
+				<arg n="3">The fNF-E2 isoform
+</arg>
+				<arg n="4">-
+</arg>
+				<fdg>
+					<line>         1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+</line>
+					<line>         2	fNF-E2	fnf-e2	attr:&gt;3	@A&gt; %&gt;N &lt;?&gt; NUM CARD
+</line>
+					<line>         3	isoform	isoform	subj:&gt;4	@SUBJ %NH &lt;?&gt; N NOM SG
+</line>
+					<line>         4	is	be	v-ch:&gt;5	@+FAUXV %AUX V PRES SG3
+</line>
+					<line>         5	transcribed	transcribe	main:&gt;0	@-FMAINV %VP EN
+</line>
+					<line>         6	from	from	sou:&gt;5	@ADVL %EH PREP
+</line>
+					<line>         7	an	an	det:&gt;9	@DN&gt; %&gt;N DET SG
+</line>
+					<line>         8	alternative	alternative	attr:&gt;9	@A&gt; %&gt;N A ABS
+</line>
+					<line>         9	promoter	promoter	pcomp:&gt;6	@&lt;P %NH N NOM SG
+</line>
+					<line>         10	located	locate	mod:&gt;9	@-FMAINV %VP EN
+</line>
+					<line>         11	in	in	ha:&gt;10	@ADVL %EH PREP
+</line>
+					<line>         12	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+</line>
+					<line>         13	3	3	qn:&gt;15	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>         14	&apos;	&apos;
+</line>
+					<line>         15	end	end	pcomp:&gt;11	@&lt;P %NH N NOM SG
+</line>
+					<line>         16	of	of	mod:&gt;15	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>         17	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+</line>
+					<line>         18	first	first	attr:&gt;19	@A&gt; %&gt;N NUM ORD
+</line>
+					<line>         19	intron	intron	pcomp:&gt;16	@&lt;P %NH N NOM SG
+</line>
+					<line>         20	and	and	cc:&gt;10	@CC %CC CC
+</line>
+					<line>         21	joined	join	cc:&gt;10	@-FMAINV %VP EN
+</line>
+					<line>         22	by	by	man:&gt;21	@ADVL %EH PREP
+</line>
+					<line>         23	alternative	alternative	attr:&gt;24	@A&gt; %&gt;N A ABS
+</line>
+					<line>         24	splicing	splicing	pcomp:&gt;22	@&lt;P %NH N NOM SG
+</line>
+					<line>         25	to	to	tmp:&gt;21	@ADVL %EH PREP
+</line>
+					<line>         26	the	the	det:&gt;27	@DN&gt; %&gt;N DET
+</line>
+					<line>         27	second	second	pcomp:&gt;25	@&lt;P %NH NUM ORD
+</line>
+					<line>         28	and	and	cc:&gt;27	@CC %CC CC
+</line>
+					<line>         29	third	third	attr:&gt;30	@A&gt; %&gt;N NUM ORD
+</line>
+					<line>         30	exons	exon	cc:&gt;27	@&lt;P %NH &lt;?&gt; N NOM PL
+</line>
+					<line>         31	,	,
+</line>
+					<line>         32	which	which	subj:&gt;33	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+					<line>         33	are	be	mod:&gt;30	@+FMAINV %VA V PRES
+</line>
+					<line>         34	shared	share		@-FMAINV %VP EN
+</line>
+					<line>         35	by	by	agt:&gt;34	@ADVL %EH PREP
+</line>
+					<line>         36	both	both	det:&gt;38	@DN&gt; %&gt;N DET PL
+</line>
+					<line>         37	RNA	rna	attr:&gt;38	@A&gt; %&gt;N ABBR NOM SG
+</line>
+					<line>         38	isoforms	isoform	pcomp:&gt;35	@&lt;P %NH &lt;?&gt; N NOM PL
+</line>
+					<line>         39	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="*5">
+				<text>
+This antisense-BCMA RNA is transcribed from the same locus as BCMA, and exhibits mRNA characteristic features, e.g.polyadenylation and splicing.
+
+</text>
+				<arg n="0">-
+</arg>
+				<arg n="1">-
+</arg>
+				<arg n="2">the same locus as BCMA 
+</arg>
+				<arg n="3">This antisense-BCMA RNA
+</arg>
+				<arg n="4">-
+</arg>
+				<fdg>
+					<line>     1	This	this	det:&gt;3	@DN&gt; %&gt;N DET DEM SG
+</line>
+					<line>     2	antisense-BCMA	antisense-bcma	attr:&gt;3	@A&gt; %&gt;N &lt;?&gt; A ABS
+</line>
+					<line>     3	RNA	rna	subj:&gt;4	@SUBJ %NH ABBR NOM SG
+</line>
+					<line>     4	is	be	v-ch:&gt;5	@+FAUXV %AUX V PRES SG3
+</line>
+					<line>     5	transcribed	transcribe	main:&gt;0	@-FMAINV %VP EN
+</line>
+					<line>     6	from	from	sou:&gt;5	@ADVL %EH PREP
+</line>
+					<line>     7	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+</line>
+					<line>     8	same	same	attr:&gt;9	@A&gt; %&gt;N A ABS
+</line>
+					<line>     9	locus	locus	pcomp:&gt;6	@&lt;P %NH N NOM SG
+</line>
+					<line>     10	as	as	copred:&gt;5	@ADVL %EH PREP
+</line>
+					<line>     11	BCMA	bcma	pcomp:&gt;10	@&lt;P %NH N NOM SG
+</line>
+					<line>     12	,	,
+</line>
+					<line>     13	and	and	cc:&gt;11	@CC %CC CC
+</line>
+					<line>     14	exhibits	exhibit	attr:&gt;15	@A&gt; %&gt;N N NOM PL
+</line>
+					<line>     15	mRNA	mrna	attr:&gt;16	@A&gt; %&gt;N ABBR NOM SG
+</line>
+					<line>     16	characteristic	characteristic	attr:&gt;17	@A&gt; %&gt;N A ABS
+</line>
+					<line>     17	features	feature	cc:&gt;11	@&lt;P %NH N NOM PL
+</line>
+					<line>     18	,	,
+</line>
+					<line>     19	e.g.	e.g.	meta:&gt;20	@ADVL %EH ADV
+</line>
+					<line>     20	polyadenylation	polyadenylation	mod:&gt;17	@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+					<line>     21	and	and	cc:&gt;20	@CC %CC CC
+</line>
+					<line>     22	splicing	splicing	cc:&gt;20	@&lt;P %NH A ABS
+</line>
+					<line>     23	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="EMBO" no="*1">
+				<text>
+The plastid genome is known to be transcribed by a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP).
+
+</text>
+				<arg n="0">a plastid-encoded prokaryotic-type RNA polymerase (PEP) and a nucleus-encoded phage-type RNA polymerase (NEP)
+</arg>
+				<arg n="1">The plastid genome
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">-
+</arg>
+				<arg n="4">-
+</arg>
+				
+</example>
+<example src="EMBO" no="2">
+	<text>
+NEP-2 specifically transcribes the rrn operon in the presence of the transcription factor CDF2.
+
+</text>
+	<arg n="0">NEP-2
+</arg>
+	<arg n="1">the rrn operon
+</arg>
+	<arg n="2">-
+</arg>
+	<arg n="3">-
+</arg>
+	<arg n="4">-
+</arg>
+	
+</example>
+<example src="EMBO" no="3">
+	<text>
+Subsequently, the negative-strand RNAs are used as templates to transcribe mRNAs, which include a genomic-sized RNA and a nested set of subgenomic mRNA transcripts, all with an identical 5_ non-translated leader sequence of 72&amp;#8211; 77 nucleotides and 3_ co-terminal polyadenylated ends.
+
+</text>
+	<arg n="0">-
+</arg>
+	<arg n="1">the negative-strand RNAs
+</arg>
+	<arg n="2">-
+</arg>
+	<arg n="3">mRNAs	
+</arg>
+	<arg n="4">-
+</arg>
+	
+</example>
+<example src="EMBO" no="4">
+	<text>
+They also indicate that spinach harvested in March should contain preferentially NEP, i.e. the enzyme that transcribes the rrn operon at PC.
+
+</text>
+	<arg n="0">the enzyme
+</arg>
+	<arg n="1">the rrn operon
+</arg>
+	<arg n="2">PC
+</arg>
+	<arg n="3">-
+</arg>
+	<arg n="4">-
+</arg>
+	
+</example>
+</roleset>
+</predicate>
+</frameset>

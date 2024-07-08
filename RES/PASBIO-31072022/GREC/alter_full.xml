@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="alter">
+            <roleset id="alter.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer of transformation&#x09;&#x09;// mutation, protein //&#x0A;" />
+                    <role n="1" descr="thing changing&#x09;&#x09;&#x09;&#x09;// codon, exon, premRNA //&#x0A;" />
+                    <role n="2" descr="end state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="3" descr="start state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="4" descr="location refering to tissue, organelle, person, gene&#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>Mutations which prevent repressor binding to either site or alter the phasing of the binding sites result in simultaneous derepression of both genes.</text>
+                    <arg n="0">Mutations</arg>
+                    <arg n="1">the phasing of the binding sites</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>Moreover, Dam methylation inhibits binding of Lrp/PapI near the GATC1028 site and alters binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>Moreover, a fruR null mutation altered the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>The results provide insight into a mechanism whereby altered expression of Bcl-3 leads to tumorigenic potential.</text>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

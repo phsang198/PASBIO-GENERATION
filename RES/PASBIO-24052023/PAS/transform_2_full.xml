@@ -1,0 +1,1679 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="transform">
+            <roleset id="transform.02" name="to transfer gene from source organism into target organism&#x0A;" wordnet="6">
+                <roles>
+                    <role n="0" descr="entity being inserted&#x0A;" />
+                    <role n="1" descr="organism or cell undergoing transformation&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>BVs DNA is observed to be used to completely transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>BVs can be used to completely transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>BVs can be used to transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>BVs is able to be used to completely transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>BVs is able to transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>BVs is likely to be used to completely transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>BVs is likely to be used to transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>BVs is transform to be used in the transformation of E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>BVs is used to completely transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>BVs is used to transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>BVs may have been used to completely transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>BVs may have been used to transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>BVs was used to transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>BVs will be used to completely transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>BVs will be used to transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>DNA BVs is observed to be used to completely transform E.coli.</text>
+                    <arg n="0">BVs</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>DNA for outbreak viruses, as mentioned above, will be used to completely transform E.coli.</text>
+                    <arg n="0">DNA for outbreak viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>DNA for outbreaks of viruses, as mentioned above, has been used to completely transform E.coli.</text>
+                    <arg n="0">DNA for outbreaks of viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>DNA for outbreaks of viruses, as mentioned above, has been used to transform E.coli.</text>
+                    <arg n="0">DNA for outbreaks of viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>DNA for outbreaks of viruses, as mentioned above, is used to transform E.coli.</text>
+                    <arg n="0">DNA for outbreaks of viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>DNA for outbreaks of viruses, as mentioned above, will be used to transform E.coli.</text>
+                    <arg n="0">DNA for outbreaks of viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>DNA for protuberance virus (BVs) has been used to completely transform E.coli.</text>
+                    <arg n="0">DNA for protuberance virus</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>DNA for protuberance virus (BVs) was used to completely transform E.coli.</text>
+                    <arg n="0">DNA for protuberance virus</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>DNA from virus origin (BVs) has been shown to be used to completely transform E.coli.</text>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>DNA from viruses of origin (BVs) has been shown to be used to transform E.coli.</text>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>DNA of outbreak viruses, as mentioned above, can be used to transform E.coli.</text>
+                    <arg n="0">DNA of outbreak viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>Expression Panel of the given combinations (Central Panel) , however, has been shown to transformed into the yeast and is selected for growth in plates that do not have leucine and tryptophan (Left Panel).</text>
+                    <arg n="0">Expression Panel of the given combinations (Central Panel)</arg>
+                    <arg n="1">the yeast</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Expression of SBP2 full-length and C-terminal proteins, built in pASK-IB7 may have been transformed into A1 (Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of SBP2 full-length and C-terminal proteins, built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Expression of SBP2 full-length and C-terminal proteins, built in pASK-IB7 will be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of SBP2 full-length and C-terminal proteins, built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Expression of full-lenght and C-terminal SBP2 proteins built in pASK-IB7 , as suggested by our study, have been specifically transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of full-lenght and C-terminal SBP2 proteins built in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>Expression of full-lenght and C-terminal SBP2 reombined proteins built in pASK-IB7 have been specifically transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of full-lenght and C-terminal SBP2 reombined proteins built in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>Expression of full-length SBP2 proteins and C-terminal, constructed in pASK-IB7 may have been specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of full-length SBP2 proteins and C-terminal, constructed in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>Expression of recombinant proteins of total and C-terminal length of PASK-IB7 constructs has the ability to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total and C-terminal length of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>Expression of recombinant proteins of total length and C-terminal of PASK-IB7 construction, as suggested by our study, are able to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of PASK-IB7 construction</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>Expression of recombinant proteins of total length and C-terminal of PASK-IB7 construction, as suggested by our study, are able to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of PASK-IB7 construction</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>Expression of recombinant proteins of total length and C-terminal of PASK-IB7 construction, as suggested by our study, can be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of PASK-IB7 construction</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>Expression of recombinant proteins of total length and C-terminal of PASK-IB7 construction, as suggested by our study, may have been specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of PASK-IB7 construction</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>Expression of recombinant proteins of total length and C-terminal of PASK-IB7 constructions has the ability to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>Expression of recombinant proteins of total length and C-terminal of the PASK-IB7 construction, as suggested by our study, can be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>Expression of recombinant proteins of total length and C-terminal of the PASK-IB7 construction, as suggested by our study, can be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>Expression of recombinant proteins of total length and C-terminal of the PASK-IB7 construction, as suggested by our study, has been shown to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>Expression of recombinant proteins of total length and C-terminal of the PASK-IB7 construction, as suggested by our study, is likely to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>Expression of recombinant proteins of total length and C-terminal of the PASK-IB7 construction, as suggested by our study, may have been specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>Expression of recombinant proteins of total length and C-terminal of the PASK-IB7 construction, as suggested by our study, will probably be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>Expression of recombinant proteins of total length and C-terminal of the PASK-IB7 construction, as suggested, has the ability to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>Expression of recombinant proteins of total length and C-terminal of the PASK-IB7 construction, as suggested, may have been transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant proteins of total length and C-terminal of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>Expression of recombinant total length proteins and PASK2 in pASK-IB7, as suggested by our study, has the ability to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant total length proteins and PASK2 in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>Expression of recombinant total length proteins and PASK2 in pASK-IB7, as suggested by our study, will be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinant total length proteins and PASK2 in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>Expression of the total recombinant length and C-terminal proteins of the PASK-IB7 constructions, as suggested, will be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of the total recombinant length and C-terminal proteins of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>Expression of the total recombinant length and C-terminal proteins of the PASK-IB7 constructions, as suggested, will be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of the total recombinant length and C-terminal proteins of the PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>Expression of total and C-terminal SBP2 proteins, built in pASK-IB7 can be specifically transformed into A1 (Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal SBP2 proteins, built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>Expression of total and C-terminal SBP2 proteins, built in pASK-IB7, as suggested by our study, is likely to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal SBP2 proteins, built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>Expression of total and C-terminal SBP2 proteins, built in pASK-IB7, as suggested by our study, is likely to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal SBP2 proteins, built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>Expression of total and C-terminal SBP2 proteins, built in pASK-IB7, as suggested by our study, may have been transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal SBP2 proteins, built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>Expression of total and C-terminal SBP2 proteins, built in pASK-IB7, as suggested by our study, were specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal SBP2 proteins, built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs can be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs has the ability to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs is able to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs is able to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs is likely to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs is observed to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs is specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs is transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs was shown to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs was transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs will be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs, as suggested by our study, are observed as transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total and C-terminal recombinant proteins of PASK-IB7 constructs</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions can be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions can be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions has the ability to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions is capable of being transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions is likely to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions is likely to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions is observed to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions is specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions is transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions may have been specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions may have been transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions was shown to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions was transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions were specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions will be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>Expression of total recombinant proteins and C-terminals of PASK-IB7 constructions will be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of total recombinant proteins and C-terminals of PASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>Expression panels of given combinations (central plaphon) , however, they are observed to be efficiently transformed into letter and selected for growth in plates that do not have leucine and tryptophan (left platoon).</text>
+                    <arg n="0">Expression panels of given combinations (central plaphon)</arg>
+                    <arg n="1">letter</arg>
+                </example>
+                <example src="EGRAM" no="84">
+                    <text>Expression plasmids of the given combinations (central plaphon) are likely to be efficiently transformed into leaven and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">leaven</arg>
+                </example>
+                <example src="EGRAM" no="85">
+                    <text>Expression plasmids of the given combinations (central plaphon) are transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="86">
+                    <text>Expression plasmids of the given combinations (central plaphon) can be transformed into law and selected by growth into plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="87">
+                    <text>Expression plasmids of the given combinations (central plaphon) have been shown to be efficiently transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="88">
+                    <text>For the generation of GST fusion proteins, it has been shown that relevant DNA fragments clones in pGex2T (Pharmacy) and transformed completely into BBL21 or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="89">
+                    <text>For the generation of GST fusion proteins, it has been shown that relevant DNA fragments clones in pGex2T (Pharmacy) and transformed into BBL21 or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="90">
+                    <text>For the generation of GST fusion proteins, it is likely that relevant DNA fragments will be transformed in pGex2T(Pharmacy) and will become completely BBL21 or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="91">
+                    <text>For the generation of GST fusion proteins, it is likely that relevant DNA fragments will be transformed into BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="92">
+                    <text>For the generation of GST fusion proteins, it is observed that relevant DNA fragments is cloned in pGex2T(Pharmacy) and completely transformed into BBL21 bacterial strains or TOPP (stuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="93">
+                    <text>For the generation of GST fusion proteins, it is observed that relevant DNA fragments is cloned in pGex2T(Pharmacy) and transformed into BBL21 bacterial strains or TOPP (stuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="94">
+                    <text>For the generation of GST fusion proteins, it is observed that relevant DNA fragments is completely transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="95">
+                    <text>For the generation of GST fusion proteins, it is observed that relevant DNA fragments is transformed into BBL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="96">
+                    <text>For the generation of GST fusion proteins, it is observed that relevant DNA fragments is transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="97">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments are cloned in pGex2T (Pharmacy) and transformed completely into bacterial strains BL21 or TOPP (estuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="98">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments are cloned in pGex2T (Pharmacy) and transformed into bacterial strains BL21 or TOPP (estuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="99">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments are completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="100">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments are completely transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="101">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be cloned in pGex2T(Pharmacy) and completely transformed into bacterial strains BL21 or TOPP (estuagen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuagen)</arg>
+                </example>
+                <example src="EGRAM" no="102">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be cloned into pGex2T(Pharmacy) and completely transformed into BBL21 bacterial strains or TOPP (stuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="103">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be cloned into pGex2T(Pharmacy) and completely transformed into BBL21 bacterial strains or TOPP (stugen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stugen)</arg>
+                </example>
+                <example src="EGRAM" no="104">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be cloned into pGex2T(Pharmacy) and transformed into BBL21 bacterial strains or TOPP (stuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="105">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be cloned into pGex2T(Pharmacy) and transformed into BBL21 bacterial strains or TOPP (stugen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stugen)</arg>
+                </example>
+                <example src="EGRAM" no="106">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be cloned into pGex2T(Pharmacy) and transformed into bacterial strains BL21 or TOPP (estuagen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuagen)</arg>
+                </example>
+                <example src="EGRAM" no="107">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be completely transformed into BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="108">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be completely transformed into bacterial strains BL21 or TOPP (strain strain).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (strain strain)</arg>
+                </example>
+                <example src="EGRAM" no="109">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be completely transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="110">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be transformed into BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="111">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be transformed into bacterial strains BL21 or TOPP (strain strain).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (strain strain)</arg>
+                </example>
+                <example src="EGRAM" no="112">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments can be transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="113">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments has been shown to be completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP</arg>
+                </example>
+                <example src="EGRAM" no="114">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments has been shown to be transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP</arg>
+                </example>
+                <example src="EGRAM" no="115">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is able to be cloned in pGex2T(Pharmacy) and completely transformed into BBL21 bacterial strains or TOPP (stuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="116">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is able to be cloned in pGex2T(Pharmacy) and completely transformed into bacterial strains BL21 or TOPP (estuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="117">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is able to be cloned in pGex2T(Pharmacy) and transformed into BBL21 bacterial strains or TOPP (stuarhegen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stuarhegen)</arg>
+                </example>
+                <example src="EGRAM" no="118">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is able to be cloned in pGex2T(Pharmacy) and transformed into bacterial strains BL21 or TOPP (estuarhegene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuarhegene)</arg>
+                </example>
+                <example src="EGRAM" no="119">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is able to be completely transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="120">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is able to be transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="121">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is likely to be transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="122">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is likely to be transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="123">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="124">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments is transformed into bacterial strains BLL21 or TOPP (strain strain).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BLL21 or TOPP (strain strain)</arg>
+                </example>
+                <example src="EGRAM" no="125">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments may have been cloned in pGex2T(Pharmacy) and completely transformed into BBL21 bacterial strains or TOPP (stugen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stugen)</arg>
+                </example>
+                <example src="EGRAM" no="126">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments may have been cloned in pGex2T(Pharmacy) and transformed into BBL21 bacterial strains or TOPP (stugen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stugen)</arg>
+                </example>
+                <example src="EGRAM" no="127">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments may have been completely transformed into BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="128">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments may have been completely transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="129">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments may have been transformed into bacterial strains BL21 or TOPP (strain strain).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (strain strain)</arg>
+                </example>
+                <example src="EGRAM" no="130">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments may have been transformed into the BL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="131">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments were cloned in pGex2T (Pharmacy) and completely transformed into bacterial strains BL21 or TOPP (estuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="132">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments were cloned in pGex2T (Pharmacy) and transformed into bacterial strains BL21 or TOPP (estuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="133">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments were completely transformed into BBL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="134">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments were completely transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="135">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments were transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="136">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments will be cloned in pGex2T(Pharmacy) and completely transformed into BBL21 bacterial strains or TOPP (stugen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stugen)</arg>
+                </example>
+                <example src="EGRAM" no="137">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments will be cloned in pGex2T(Pharmacy) and transformed into BBL21 bacterial strains or TOPP (stuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="138">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments will be cloned in pGex2T(Pharmacy) and transformed into bacterial strains BL21 or TOPP (estuarhea).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuarhea)</arg>
+                </example>
+                <example src="EGRAM" no="139">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments will be completely transformed into BBL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="140">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments will be completely transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="141">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments will be transformed into BBL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="142">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments will be transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="143">
+                    <text>For the generation of GST fusion proteins, relevant DNA fragments will probably be cloned in pGex2T(Pharmacy) and transformed into BBL21 bacterial strains or TOPP (stuarhegen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (stuarhegen)</arg>
+                </example>
+                <example src="EGRAM" no="144">
+                    <text>However, it is observed that plasmids of expression of the given combinations (central plaphon) are transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="145">
+                    <text>It has been shown that expression of Full-lenght and C-terminal SBP2 reombined proteins built in pASK-IB7 is specifically transformed into Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">expression of Full-lenght and C-terminal SBP2 reombined proteins built in pASK-IB7</arg>
+                    <arg n="1">Scherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="146">
+                    <text>It is observed that expression of total and C-terminal re-ombined proteins SBP2 in pASK-IB7 is specifically transformed into A1 (Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">expression of total and C-terminal re-ombined proteins SBP2 in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="147">
+                    <text>It is observed that total length rhymbinate and C-terminal of SBP2 proteins built in pASK-IB7 is transformed into A1 (Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">total length rhymbinate and C-terminal of SBP2 proteins built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="148">
+                    <text>Origin virus DNA (VBs) has been shown to be transform for A1 transformation (E. coli).</text>
+                </example>
+                <example src="EGRAM" no="149">
+                    <text>Plasmids of certain combinations (central plasmid) have the ability to be transformed into law and selected for the growth of plaques that do not contain leucine and tryptophan (left plasmid).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="150">
+                    <text>Plasmids of certain combinations (central plasmonium) are transformed into yeast and selected for growth of plaques that do not contain leucine and tryptophan (left plasmonium).</text>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="EGRAM" no="151">
+                    <text>Plasmids of expression of certain combinations (central plasmid) are likely to be transformed into law and selected for growth in plates that do not contain leucine and tryptophan (left plasmid).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="152">
+                    <text>Plasmids of expression of given combinations (central plaphon) are able to be transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="153">
+                    <text>Plasmids of expression of given combinations (central plaphon) are observed to be transformed into the yeast and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">the yeast</arg>
+                </example>
+                <example src="EGRAM" no="154">
+                    <text>Plasmids of expression of given combinations (central plaphon) can, however, be transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="155">
+                    <text>Plasmids of expression of indicated combinations (central plaphon) are observed to be efficiently transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="156">
+                    <text>Plasmids of expression of indicated combinations (central plaphon) have the ability to be efficiently transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="157">
+                    <text>The DNA of budded viruses , as previously mentioned, is able to be used to completely transform E.coli .</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="158">
+                    <text>The DNA of budded viruses , as previously mentioned, is able to be used to transform E.coli .</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="159">
+                    <text>The DNA of budded viruses , as previously mentioned, is likely to be used to transform E.coli .</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="160">
+                    <text>The DNA of budded viruses , as previously mentioned, is observed to be used to completely transform E.coli .</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="161">
+                    <text>The DNA of budded viruses, as previously mentioned, can be used to completely transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="162">
+                    <text>The DNA of budded viruses, as previously mentioned, can be used to transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="163">
+                    <text>The DNA of budded viruses, as previously mentioned, is likely to be used to completely transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="164">
+                    <text>The DNA of budded viruses, as previously mentioned, is used to completely transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="165">
+                    <text>The DNA of budded viruses, as previously mentioned, will be used to completely transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="166">
+                    <text>The DNA of budded viruses, as previously mentioned, will be used to transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="167">
+                    <text>The DNA of the viruses sprouted, as mentioned above, has been used to completely transform E.coli.</text>
+                    <arg n="0">The DNA of the viruses sprouted</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="168">
+                    <text>The DNA of the viruses sprouted, as mentioned above, has been used to transform E.coli.</text>
+                    <arg n="0">The DNA of the viruses sprouted</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="169">
+                    <text>The DNA of the viruses sprouted, as mentioned above, is likely to be used to transform E.coli.</text>
+                    <arg n="0">The DNA of the viruses sprouted</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="170">
+                    <text>The DNA of the viruses that have been sprouted, as mentioned above, is likely to be used to completely transform E.coli.</text>
+                    <arg n="0">The DNA of the viruses that have been sprouted</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="171">
+                    <text>The Expression Panel for the dada combinations (central plafon), however, has the ability to be efficiently transformed into yeast and selected for the growth of plates that do not contain leucine and tryptophan (left plate).</text>
+                    <arg n="0">Expression Panel for the dada combinations (central plafon)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="EGRAM" no="172">
+                    <text>The Expression Panel for the data combinations (central plafon), however, may have been transformed into law and selected for growth in plates without leucine and tryptophan (left plateau).</text>
+                    <arg n="0">Expression Panel for the data combinations (central plafon)</arg>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="173">
+                    <text>The Expression Panel for the data combinations (central plafon), however, was transformed into law and selected for growth in plates that do not contain leucine and tryptophan (left plateau).</text>
+                    <arg n="0">Expression Panel for the data combinations (central plafon)</arg>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="174">
+                    <text>The Expression Panel for the given combinations (central plaphon) , however, has been transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plateau).</text>
+                    <arg n="0">Expression Panel for the given combinations (central plaphon)</arg>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="175">
+                    <text>The Expression Panel for the given combinations (central plaphon) , however, has the ability to be transformed efficiently into the yeast and selected for growth in plates that do not have leucine and tryptophan (left platoon).</text>
+                    <arg n="0">Expression Panel for the given combinations (central plaphon)</arg>
+                    <arg n="1">the yeast</arg>
+                </example>
+                <example src="EGRAM" no="176">
+                    <text>The Expression Panel of the dada combinations (central plafon), however, may have been efficiently transformed into letter and selected for growth in plates that do not contain leucine and tryptophan (left plafon).</text>
+                    <arg n="0">Expression Panel of the dada combinations (central plafon)</arg>
+                    <arg n="1">letter</arg>
+                </example>
+                <example src="EGRAM" no="177">
+                    <text>The Expression Panel of the dada combinations can, however, be transformed into yeast and is selected by growth in plates that do not contain leucine and tryptophan (left plafon).</text>
+                    <arg n="0">Expression Panel of the dada combinations</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="EGRAM" no="178">
+                    <text>The Expression Panel of the given combinations (central plaphon) , however, can be transformed into the yeast and is selected by growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="0">Expression Panel of the given combinations (central plaphon)</arg>
+                    <arg n="1">the yeast</arg>
+                </example>
+                <example src="EGRAM" no="179">
+                    <text>The Expression Panel of the given combinations (central plaphon) , however, is efficiently transformed into letter and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="0">Expression Panel of the given combinations (central plaphon)</arg>
+                    <arg n="1">letter</arg>
+                </example>
+                <example src="EGRAM" no="180">
+                    <text>The Expression Panel of the given combinations (central plaphon) , however, is likely to be efficiently transformed into letter and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="0">Expression Panel of the given combinations (central plaphon)</arg>
+                    <arg n="1">letter</arg>
+                </example>
+                <example src="EGRAM" no="181">
+                    <text>The Expression Panel of the given combinations (central plaphon) , however, is likely to be transformed into the yeast and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="0">Expression Panel of the given combinations (central plaphon)</arg>
+                    <arg n="1">the yeast</arg>
+                </example>
+                <example src="EGRAM" no="182">
+                    <text>The Expression Panel of the given combinations (central plaphon) , however, may have been efficiently transformed into letter and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="0">Expression Panel of the given combinations (central plaphon)</arg>
+                    <arg n="1">letter</arg>
+                </example>
+                <example src="EGRAM" no="183">
+                    <text>The Places of Expression of the given combinations (central plaphon) , however, is transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="0">Places of Expression of the given combinations (central plaphon)</arg>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="184">
+                    <text>The Places of Expression of the given combinations (central plaphon) , however, will be transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plateau).</text>
+                    <arg n="0">Places of Expression of the given combinations (central plaphon)</arg>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="185">
+                    <text>The combination expression plasmids (central plasmid) are likely to be transformed into central plasmid and selected for the growth of plates that do not contain leucine and tryptophan (left plasmid).</text>
+                    <arg n="1">central plasmid</arg>
+                </example>
+                <example src="EGRAM" no="186">
+                    <text>The combination expression plasmids (central sign) are able to be efficiently transformed into mild and selected for the growth of plates without leucine and tryptophan (left sign).</text>
+                    <arg n="1">mild</arg>
+                </example>
+                <example src="EGRAM" no="187">
+                    <text>The combination expression plasmids (central sign) can be efficiently transformed into law and selected for the growth of plates that do not contain leucine and tryptophan (left sign).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="188">
+                    <text>The combination expression plasmids (central sign) can be transformed into law and selected by growth in plates that do not contain leucine and tryptophan (left sign).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="189">
+                    <text>The expression plasmids of certain combinations (central plasmid) are able to be transformed into law and selected for the growth of plates that do not contain leucine and tryptophan (left plasmid).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="190">
+                    <text>The expression plasmids of certain combinations (central plasmid) may, however, be transformed into law and selected for the growth of plaques that do not contain leucine and tryptophan (left plasmid).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="191">
+                    <text>The expression plasmids of the combinations (central plafon) have been shown to be efficiently transformed into law and selected for the growth of plates that do not contain leucine and tryptophan (left plafon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="192">
+                    <text>The expression plasmids of the combinations (central plafon) were efficiently transformed into yeast and selected for the growth of plates that do not contain leucine and tryptophan (left plafon).</text>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="EGRAM" no="193">
+                    <text>The expression plasmids of the combinations (central plasmid) are efficiently transformed into law and selected for the growth of plates that do not contain leucine and tryptophan (left plasmid).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="194">
+                    <text>The expression plasmids of the combinations (central plasmid) are transformed into law and selected for the growth of plates that do not contain leucine and tryptophan (left plasmid).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="195">
+                    <text>The expression plasmids of the combinations (central sign) were transformed into law and selected for the growth of plates that do not contain leucine and tryptophan (left sign).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="196">
+                    <text>The expression plasmids of the indicated combinations (central plasmid) are efficiently transformed into law and selected for the growth of plaques that do not contain leucine and tryptophan (left plasmid).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="197">
+                    <text>The piphorisms of expression of the given combinations (central plaphon) , however, can be efficiently transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="0">piphorisms of expression of the given combinations (central plaphon)</arg>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="198">
+                    <text>The piphorisms of expression of the given combinations (central plaphon) , however, has been efficiently transformed into letter and selected for growth in plates without leucine and tryptophan (left plaphon).</text>
+                    <arg n="0">piphorisms of expression of the given combinations (central plaphon)</arg>
+                    <arg n="1">letter</arg>
+                </example>
+                <example src="EGRAM" no="199">
+                    <text>The plasmids of expression of the given combinations (central plaphon) are able to be efficiently transformed into leaven and selected for growth in plates without leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">leaven</arg>
+                </example>
+                <example src="EGRAM" no="200">
+                    <text>The plasmids of expression of the given combinations (central plaphon) can be efficiently transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="201">
+                    <text>The plasmids of expression of the given combinations (central plaphon) have been efficiently transformed into the yeast and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">the yeast</arg>
+                </example>
+                <example src="EGRAM" no="202">
+                    <text>The plasmids of expression of the given combinations (central plaphon) have been transformed into law and selected for growth in plates that do not have leucine and tryptophan (left plaphon).</text>
+                    <arg n="1">law</arg>
+                </example>
+                <example src="EGRAM" no="203">
+                    <text>To generate GST fusion proteins, it has been shown that relevant DNA fragments clone in pGex2T(Pharmacia) and transformed completely into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="204">
+                    <text>To generate GST fusion proteins, it has been shown that relevant DNA fragments clone in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="205">
+                    <text>To generate GST fusion proteins, it is likely that relevant DNA fragments will clone into pGex2T(Pharmacia) and transformed completely into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="206">
+                    <text>To generate GST fusion proteins, it is likely that the relevant DNA fragments will be cloned into pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="207">
+                    <text>To generate GST fusion proteins, it is likely that the relevant DNA fragments will be completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="208">
+                    <text>To generate GST fusion proteins, it is observed that the relevant DNA fragments are cloned in pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="209">
+                    <text>To generate GST fusion proteins, it is observed that the relevant DNA fragments are cloned in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="210">
+                    <text>To generate GST fusion proteins, relevant DNA fragments are cloned in pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="211">
+                    <text>To generate GST fusion proteins, relevant DNA fragments are cloned in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="212">
+                    <text>To generate GST fusion proteins, relevant DNA fragments can be cloned into pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="213">
+                    <text>To generate GST fusion proteins, relevant DNA fragments can be cloned into pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="214">
+                    <text>To generate GST fusion proteins, relevant DNA fragments can be completely transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="215">
+                    <text>To generate GST fusion proteins, relevant DNA fragments has been shown to be completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="216">
+                    <text>To generate GST fusion proteins, relevant DNA fragments has been shown to be transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="217">
+                    <text>To generate GST fusion proteins, relevant DNA fragments have been cloned in egex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="218">
+                    <text>To generate GST fusion proteins, relevant DNA fragments have been cloned in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="219">
+                    <text>To generate GST fusion proteins, relevant DNA fragments have been transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="220">
+                    <text>To generate GST fusion proteins, relevant DNA fragments will be cloned into pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="221">
+                    <text>To generate GST fusion proteins, the relevant DNA fragments is observed to be completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="222">
+                    <text>To generate GST fusion proteins, the relevant DNA fragments may have been cloned in pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="223">
+                    <text>To generate GST fusion proteins, the relevant DNA fragments may have been cloned in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="224">
+                    <text>Virus-derived DNA (VBs) has been shown to be used to completely transform E. coli.</text>
+                    <arg n="1">E. coli</arg>
+                </example>
+                <example src="EGRAM" no="225">
+                    <text>expression of total and C-terminal re-ombined proteins SBP2 in pASK-IB7 can be specifically transformed into A1 (Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">expression of total and C-terminal re-ombined proteins SBP2 in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="226">
+                    <text>expression of total and C-terminal re-ordinated proteins SBP2 in pASK-IB7 has been shown to be specifically transformed into A1 (Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">expression of total and C-terminal re-ordinated proteins SBP2 in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="227">
+                    <text>expression of total length recombinant proteins and C-terminal SBP2 in pASK-IB7 is likely to be transformed into A1 (Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">expression of total length recombinant proteins and C-terminal SBP2 in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="228">
+                    <text>expression of totally re-obined SBP2 proteins and C-terminal is constituted of pASK-IB7, as suggested in our study, will be transformed into A1 (Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">expression of totally re-obined SBP2 proteins and C-terminal</arg>
+                </example>
+                <example src="EGRAM" no="229">
+                    <text>plasmides of the given combinations has the ability to be efficiently transformed into letter and selected for the growth of plates without leucine and tryptophan (left plaphon).</text>
+                    <arg n="0">plasmides of the given combinations</arg>
+                    <arg n="1">letter</arg>
+                </example>
+                <example src="EGRAM" no="230">
+                    <text>plasmides of the given combinations has the ability to be transformed into letter and selected for the growth of plates without leucine and tryptophan (left platoon).</text>
+                    <arg n="0">plasmides of the given combinations</arg>
+                    <arg n="1">letter</arg>
+                </example>
+                <example src="EGRAM" no="231">
+                    <text>plasmids of central expression in relief may have been efficiently transformed into letter and selected for the growth of plates that do not contain leucine and tryptophan (left plasmid).</text>
+                    <arg n="0">plasmids of central expression in relief</arg>
+                    <arg n="1">letter</arg>
+                </example>
+                <example src="EGRAM" no="232">
+                    <text>plasmids of the given combinations (central sign) , however, they are observed to be transformed into segell and selected for the growth of plates without leucine and tryptophan (left sign).</text>
+                    <arg n="0">plasmids of the given combinations (central sign)</arg>
+                    <arg n="1">segell</arg>
+                </example>
+                <example src="EGRAM" no="233">
+                    <text>plasmids of the given combinations (central sign), however, they are able to transformed into always and selected for the growth of plates without leucine and tryptophan (left sign).</text>
+                    <arg n="0">plasmids of the given combinations (central sign)</arg>
+                    <arg n="1">always</arg>
+                </example>
+                <example src="EGRAM" no="234">
+                    <text>plasmids of the indicated combinations (central panel) is likely to be transformed into yeast and selected for growth into plates without leucine and tryptophan (left panel).</text>
+                    <arg n="0">plasmids of the indicated combinations (central panel)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="EGRAM" no="235">
+                    <text>plasmids of the indicated combinations (central sign), however, may have been transformed into yeast and selected for growth in plates without leucine and tryptophan (left sign).</text>
+                    <arg n="0">plasmids of the indicated combinations (central sign)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="EGRAM" no="236">
+                    <text>relevant DNA fragments for generating GST fusion proteins are able to be completely transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="237">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are able to be cloned in pGex2T (Farmacy) and transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="238">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are able to be cloned into egex2T (Pharmacy) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="239">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are able to be transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="240">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are completely transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="241">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are likely cloned in pGex2T (Farmacy) and transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="242">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are likely to be transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="243">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are likely to be transformed into bacterial strains BL21 or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="244">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are observed to be completely transformed into BBL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="245">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are observed to clone in pGex2T(Pharmacy) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="246">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins are transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="247">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins can be cloned in pGex2T(Pharmacy) and transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="248">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins can be cloned in pGex2T(Pharmacy) and transformed into bacterial strains BL21 or TOPP (estuagen).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">bacterial strains BL21 or TOPP (estuagen)</arg>
+                </example>
+                <example src="EGRAM" no="249">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins can be cloned into pGex2T(Pharmacy) and completely transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="250">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins can be cloned into pGex2T(Pharmacy) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="251">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins can be completely transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="252">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins can be completely transformed into BBL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="253">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins can be completely transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="254">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins can be transformed into BBL21 strains bacteria or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 strains bacteria or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="255">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins has been shown to be transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="256">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins may have been cloned in pGex2T(Pharmacy) and transformed into BBL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="257">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins may have been cloned into pGex2T(Pharmacy) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="258">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins may have been completely transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="259">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins may have been transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="260">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins was shown to be cloned in pGex2T(Pharmacy) and completely transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="261">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins was shown to be cloned in pGex2T(Pharmacy) and transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="262">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins were completely transformed into BBL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="263">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins will be cloned in pGex2T(Pharmacy) and transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="264">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins will be cloned into egex2T(Pharmacy) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="265">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins will be completely transformed into BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="266">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins will be transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="267">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins, the transformation into BBL21 or TOPP into A1 strains (BBL21 or TOPP) is transformed.</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP</arg>
+                </example>
+                <example src="EGRAM" no="268">
+                    <text>relevant DNA fragments for the generation of GST fusion proteins, they are observed to be cloned in pGex2T (Farmacy) and completely transformed into BBL21 or TOPP bacterial strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP bacterial strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="269">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, are cloned in pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="270">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, are cloned in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="271">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, are completely transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="272">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, are transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="273">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, can be cloned in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="274">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, can be cloned into egex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="275">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, can be cloned into pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="276">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, can be cloned into pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="277">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, can be completely transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="278">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, can be transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="279">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, has been shown to be transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="280">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, has been shown to clone in pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="281">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, has been shown to clone in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="282">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, has been shown to completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="283">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, has been transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="284">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, have been cloned in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="285">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, have been cloned into egex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="286">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, is likely to be completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="287">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, is likely to be transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="288">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, is likely to clone in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="289">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, is observed to be completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="290">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, is observed to be transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="291">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, may have been cloned in pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="292">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, may have been completely transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="293">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, may have been transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="294">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, will be cloned in pGex2T(Pharmacia) and completely transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="295">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, will be cloned in pGex2T(Pharmacia) and transformed into BBL21 or TOPP strains (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="296">
+                    <text>relevant DNA fragments, to generate GST fusion proteins, will be transformed into BBL21 bacterial strains or TOPP (Stratagene).</text>
+                    <arg n="0">relevant DNA fragments</arg>
+                    <arg n="1">BBL21 bacterial strains or TOPP (Stratagene)</arg>
+                </example>
+                <example src="EGRAM" no="297">
+                    <text>the DNA of outbreaks, as mentioned above, has been shown to be used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="298">
+                    <text>the DNA of outbreaks, as mentioned above, has been shown to be used to transform E.coli.</text>
+                    <arg n="0">the DNA of outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="299">
+                    <text>the DNA of outbreaks, as mentioned above, has the ability to be used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="300">
+                    <text>the DNA of outbreaks, as mentioned above, has the ability to be used to transform E.coli.</text>
+                    <arg n="0">the DNA of outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="301">
+                    <text>the DNA of outbreaks, as mentioned above, has the ability to transform E.coli.</text>
+                    <arg n="0">the DNA of outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="302">
+                    <text>the DNA of outbreaks, as mentioned above, is observed to be used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="303">
+                    <text>the DNA of outbreaks, as mentioned above, is observed to be used to transform E.coli.</text>
+                    <arg n="0">the DNA of outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="304">
+                    <text>the DNA of outbreaks, as mentioned above, is transform to be used in the transformation of E.coli.</text>
+                    <arg n="0">the DNA of outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="305">
+                    <text>the DNA of protuberance viruses (BVs) can be used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of protuberance viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="306">
+                    <text>the DNA of protuberance viruses (BVs) can be used to transform E.coli.</text>
+                    <arg n="0">the DNA of protuberance viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="307">
+                    <text>the DNA of protuberance viruses (BVs) has been used to transform E.coli.</text>
+                    <arg n="0">the DNA of protuberance viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="308">
+                    <text>the DNA of protuberance viruses (BVs) is likely to be used to transform E.coli.</text>
+                    <arg n="0">the DNA of protuberance viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="309">
+                    <text>the DNA of protuberance viruses (BVs) is used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of protuberance viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="310">
+                    <text>the DNA of protuberance viruses (BVs) is used to transform E.coli.</text>
+                    <arg n="0">the DNA of protuberance viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="311">
+                    <text>the DNA of root viruses (BVs) can be used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of root viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="312">
+                    <text>the DNA of root viruses (BVs) can be used to transform E.coli.</text>
+                    <arg n="0">the DNA of root viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="313">
+                    <text>the DNA of root viruses (BVs) has the ability to be used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of root viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="314">
+                    <text>the DNA of root viruses (BVs) has the ability to be used to transform E.coli.</text>
+                    <arg n="0">the DNA of root viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="315">
+                    <text>the DNA of root viruses (BVs) is observed to be used to transform E.coli.</text>
+                    <arg n="0">the DNA of root viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="316">
+                    <text>the DNA of root viruses (BVs) may have been used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of root viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="317">
+                    <text>the DNA of root viruses (BVs) may have been used to transform E.coli.</text>
+                    <arg n="0">the DNA of root viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="318">
+                    <text>the DNA of the outbreaks, as mentioned above, can be used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of the outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="319">
+                    <text>the DNA of the outbreaks, as mentioned above, can be used to transform E.coli.</text>
+                    <arg n="0">the DNA of the outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="320">
+                    <text>the DNA of the outbreaks, as mentioned above, has been used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of the outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="321">
+                    <text>the DNA of the outbreaks, as mentioned above, has been used to transform E.coli.</text>
+                    <arg n="0">the DNA of the outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="322">
+                    <text>the DNA of the outbreaks, as mentioned above, may have been used to completely transform E.coli.</text>
+                    <arg n="0">the DNA of the outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="323">
+                    <text>the DNA of the outbreaks, as mentioned above, may have been used to transform E.coli.</text>
+                    <arg n="0">the DNA of the outbreaks</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="324">
+                    <text>the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7 , as suggested by our study, has been shown to be transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="325">
+                    <text>the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7 , as suggested by our study, have been transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="326">
+                    <text>the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7 , as suggested in our study, are specifically transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="327">
+                    <text>the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7 , as suggested in our study, have the ability to be transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="328">
+                    <text>the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7 , as suggested in our study, is observed to be transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="329">
+                    <text>the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7 , as suggested in our study, transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of recombinant proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="330">
+                    <text>the expression of recombinant total and C-terminal length proteins SBP2 is built in pASK-IB7, as suggested in our study, is specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of recombinant total and C-terminal length proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="331">
+                    <text>the expression of recombined proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7 , as suggested in our study, is shown to be specifically transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of recombined proteins Full-lenght and C-terminal SBP2 is built in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="332">
+                    <text>the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7, as suggested by our study, can be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="333">
+                    <text>the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7, as suggested by our study, can be transformed into A1 (Scherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="334">
+                    <text>the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7, as suggested by our study, has been shown to be specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="335">
+                    <text>the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7, as suggested by our study, has been shown to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="336">
+                    <text>the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7, as suggested by our study, was transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="337">
+                    <text>the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7, as suggested in our study, can be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="338">
+                    <text>the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7, as suggested in our study, has the ability to be transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="339">
+                    <text>the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7, as suggested in our study, is specifically transformed into A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="340">
+                    <text>the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7, as suggested in our study, transformed A1 (Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">the expression of total and C-terminal recombinant proteins SBP2 is built in pASK-IB7</arg>
+                </example>
+                <example src="EGRAM" no="341">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins are cloned in pGex2T (Pharmacy) and transformed completely into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="342">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins are cloned in pGex2T (Pharmacy) and transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="343">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins are likely to be cloned in pGex2T(Pharmacy) and completely transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="344">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins has been shown to be completely transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="345">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins is likely to be cloned in pGex2T(Pharmacy) and completely transformed into BBL21 or TOPP strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">BBL21 or TOPP strains</arg>
+                </example>
+                <example src="EGRAM" no="346">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins is observed to be cloned in pGex2T(Pharmacy) and transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="347">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins may have been cloned in pGex2T(Pharmacy) and transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="348">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins were cloned in pGex2T (Pharmacy) and completely transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="349">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins were cloned in pGex2T (Pharmacy) and transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="350">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins were completely transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="351">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins were transformed into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="352">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins will be completely transformed into the BL21 or TOPP bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP bacterial strains</arg>
+                </example>
+                <example src="EGRAM" no="353">
+                    <text>the relevant DNA fragments for the generation of GST fusion proteins, it is observed that they are cloned in pGex2T (Pharmacy) and transformed completely into the BL21 or TOPP (Stratagene) bacterial strains.</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the BL21 or TOPP (Stratagene) bacterial strains</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

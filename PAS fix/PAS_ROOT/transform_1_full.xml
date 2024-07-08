@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="transform">
+<roleset id="transform.01" name="to cause (a cell) to undergo genetic transformation
+" wordnet="2">
+<roles>
+  <role n="0" descr="agent/causer of transformation
+"/>
+  <role n="1" descr="entity undergoing transformation
+"/>
+  <role n="2" descr="effect of transformation/ end state
+"/>
+</roles>
+<example src="MEDLINE" no="*1">
+<text>
+We and others have found that FGF8b can transform the midbrain into a cerebellum fate, whereas FGF8a can promote midbrain development.
+
+</text>
+       <arg n="0">FGF8b 
+</arg>
+       <arg n="1">the midbrain
+</arg>
+       <arg n="2">a cerebellum fate
+</arg>
+       <arg n="M-MOD">can
+</arg>
+<fdg>
+1	We	we	cc:&gt;3	@SUBJ %NH PRON PERS NOM PL1
+2	and	and	cc:&gt;3	@CC %CC CC
+3	others	other	subj:&gt;4	@SUBJ %NH PRON NOM PL
+4	have	have	v-ch:&gt;5	@+FAUXV %AUX V PRES
+5	found	find	main:&gt;0	@-FMAINV %VA EN
+6	that	that	pm:&gt;9	@CS %CS CS
+7	FGF8b	fgf8b	subj:&gt;8	@SUBJ %NH N NOM SG
+8	can	can	v-ch:&gt;9	@+FAUXV %AUX V AUXMOD
+9	transform	transform	obj:&gt;5	@-FMAINV %VA V INF
+10	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+11	midbrain	midbrain	obj:&gt;9	@OBJ %NH N NOM SG
+12	into	into	goa:&gt;9	@ADVL %EH PREP
+13	a	a	det:&gt;15	@DN&gt; %&gt;N DET SG
+14	cerebellum	cerebellum	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	fate	fate	pcomp:&gt;12	@&lt;P %NH N NOM SG
+16	,	,
+17	whereas	whereas	pm:&gt;20	@CS %CS CS
+18	FGF8a	fgf8a	subj:&gt;19	@SUBJ %NH N NOM SG
+19	can	can	v-ch:&gt;20	@+FAUXV %AUX V AUXMOD
+20	promote	promote	cnd:&gt;9	@-FMAINV %VA V INF
+21	midbrain	midbrain	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	development	development	obj:&gt;20	@OBJ %NH N NOM SG
+23	STOPPOINT
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+This construct was transformed into the yeast strain HF7c (Clontech).
+
+</text>
+       <arg n="1">This construct
+</arg>
+       <arg n="2">the yeast strain HF7c (Clontech)
+</arg>
+       <arg n=""></arg>
+<fdg>
+2	construct	construct	subj:&gt;3	@SUBJ %NH N NOM SG
+3	was	be	v-ch:&gt;4	@+FAUXV %AUX V PAST
+4	transformed	transform	main:&gt;0	@-FMAINV %VP EN
+5	into	into	goa:&gt;4	@ADVL %EH PREP
+6	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+7	yeast	yeast	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	strain	strain	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	HF7c	hf7c	pcomp:&gt;5	@&lt;P %NH N NOM SG
+10	(	(
+11	Clontech	clontech	mod:&gt;9	@NH %NH &lt;?&gt; N NOM SG
+12	)	)
+13	STOPPOINT
+</fdg>
+</example>
+<example src="MEDLINE" no="*3">
+<text>
+For expression of the recombinant protein, pET28a-5 was transformed into Escherichia coli strain BL21(DE3).
+
+</text>
+       <arg n="1">pET28a-5
+</arg>
+       <arg n="2">Escherichia coli strain BL21(DE3)
+</arg>
+       <arg n=""></arg>
+<fdg>
+2	expression	expression	pcomp:&gt;1	@&lt;P %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+5	recombinant	recombinant	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	protein	protein	pcomp:&gt;3	@&lt;P %NH N NOM SG
+7	,	,
+8	pET28a-5	pet28a-5	subj:&gt;9	@SUBJ %NH &lt;?&gt; NUM CARD
+9	was	be	v-ch:&gt;10	@+FAUXV %AUX V PAST
+10	transformed	transform	main:&gt;0	@-FMAINV %VP EN
+11	into	into	ha:&gt;10	@ADVL %EH PREP
+12	Escherichia	escherichia	attr:&gt;13	@A&gt; %&gt;N N NOM PL
+13	coli	coli	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	strain	strain	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	BL21(DE3	bl21(de3		@SUBJ %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+16	)	)
+17	STOPPOINT
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

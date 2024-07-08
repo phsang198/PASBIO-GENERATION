@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="transcribe">
+            <roleset id="Transcribe.01" name="convert DNA into RNA&#x0A;" wordnet="5">
+                <roles>
+                    <role n="0" descr="causer, agent &#x09;&#x09;&#x09;&#x09;&#x09;&#x09;// protein ...low chances to be mentioned //&#x0A;" />
+                    <role n="1" descr="entity transcribed &#x09;&#x09;&#x09;&#x09;&#x09;// gene, DNA //&#x0A;" />
+                    <role n="2" descr="transcription site&#x09;&#x09;&#x09; &#x09;&#x09;// promoter //&#x0A;" />
+                    <role n="3" descr="entity after transcription&#x0A;" />
+                    <role n="4" descr="location as organ or tissue expressing transcription&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Analysis of the restriction endonuclease division of these two plasmids showed that glpD and glpR were divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Subsequently, negative strand RNA can be used as templates for transcribing mRNA, which includes a genomic-sized RNA and a nested set of subgenomic mRNA transcriptions, all with an identical 5_ untranslated sequence of 72 77 nucleotides and coterminal polyadenylate ends.</text>
+                    <arg n="1">negative strand RNA</arg>
+                    <arg n="3">mRNA</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>The analysis of A4 restrictions (these two plasmids) showed that glpD and glpR were transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>The analysis of the division of A4 restriction endonuclease (these two plasmids) showed that glpD and glpR can be transcribed divergently.</text>
+                    <arg n="1">glpD and glpR</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>The plastid genome is transcribed by a prokaryotic RNA polymerase coded by plain (PEP) and a nucleus-type RNA polymerase coded by plain (NEP).</text>
+                    <arg n="0">a prokaryotic RNA polymerase coded by plain (PEP) and a nucleus-type RNA polymerase coded by plain (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>The plastid genome was transcribed in a divergent manner by a prokaryotic RNA polymerase coded by plain species (PEP) and a nucleus-type RNA polymerase coded by plain species (NEP).</text>
+                    <arg n="0">a prokaryotic RNA polymerase coded by plain species (PEP) and a nucleus-type RNA polymerase coded by plain species (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>glpTQ-glpACB operons of Scherichia coli K-12s have been variously transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Scherichia coli K-12s</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>negative chain RNAs, subsequently may have been transcribe as a model for A3 transcription (mRNAs), which include a genomic RNA size and a subgenomic RNAm transcription set, all with a non-translated leader sequence of 72 77 nucleotides and 3- co-terminal polyadhenilated purposes.</text>
+                    <arg n="1">negative chain RNAs, subsequently</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>this operon, activated by growth in glucolate, can be transcribed efficiently as a single message and is under the positive control of GlcC coded by a divergent gene.</text>
+                    <arg n="0">glucolate</arg>
+                    <arg n="1">this operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Analysis of A4 constraints (these two plasmids) showed that the two genes were divergently transcribed.</text>
+                    <arg n="1">the two genes</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Analysis of A4 constraints (these two plasmids) suggested that negative chain RNAs, subsequently have been transcribed.</text>
+                    <arg n="1">negative chain RNAs, subsequently</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>GlpTQ-glpACB operons of Escherichia coli K-12s are transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">GlpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Interaction at a distance between various operators controls the adjacent, it can transcribe both genes from E. coli.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="4">E. coli</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>KLK14 is approximately 5.4 kb in length, with seven exons and, by analysis of the northern spot, is capable of transcribing two alternative transcriptions present only in prostate 1.5 kb and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcriptions</arg>
+                    <arg n="4">prostate 1.5 kb</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>KLK14 of prostate (1.5 kb) and skeletal muscle (1.9 kb) have the ability to be transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="4">prostate (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>KLK14 of state 1.5 kb are divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="4">state 1.5 kb</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>NEP-2 can specifically transcribe the operon rrn in the presence of the CDF2 transcription factor.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the operon rrn</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Restriction analysis Escherichia coli K-12s suggested that glpTQ-glpACB be transcribed.</text>
+                    <arg n="1">glpTQ-glpACB</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Subsequently, glypD and glpR can be transcribe as a model for A3 transcription (mRNA), which includes a genomic-sized RNA and a subgenomic transcription set of mRNA, all with an identical 5-untranslated sequence of 72 77 nucleotides and coterminal polyadylate.</text>
+                    <arg n="1">glypD and glpR</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Subsequently, negative RNAs, subsequently was transcribe as a model for A3 transcription (mRNA), which includes a genomic-sized RNA and a subgenomic transcription set of mRNA, all with an identical 5-untranslated sequence of 72 77 nucleotides and coterminal polyadylates.</text>
+                    <arg n="1">negative RNAs, subsequently</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Subsequently, ulaG and ulaABCDEF has been chosen to be used as templates for transcribing table regulation, which includes a genomic-sized RNA and a nested set of subgenomic transcriptions of mRNA, all with an identical 5_ untranslated sequence of 72 77 nucleotides and coterminal polyadenylate ends.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">table regulation</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>The analysis of A4 restriction (both plasmids) showed that negative chain RNAs, subsequently is able to be transcribed.</text>
+                    <arg n="1">negative chain RNAs, subsequently</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>The analysis of A4 restriction (both plasmids) showed that the two genes is able to be transcribed divergently.</text>
+                    <arg n="1">the two genes</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>The analysis of the division of A4 restriction endonuclease (these two plasmids) showed that the negative strand RNAs, subsequently are transcribed divergently.</text>
+                    <arg n="1">the negative strand RNAs, subsequently</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>The fhlA gene is close to the HydB gene at 59 min in state 1.5 kb and KLK14 will be interestingly transcribed in opposite directions.</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="4">state 1.5 kb</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>The fhlA gene is close to the hydB gene at 59 min in chromosome Scherichia coli K-12s and GlpTQ-glpACB operons may have been transcribed in opposite directions.</text>
+                    <arg n="1">GlpTQ-glpACB operons</arg>
+                    <arg n="4">Scherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>The fhlA gene is close to the hydB gene at 59 min in these two plasmids and glypD and glpR have been shown to be interestingly transcribed in opposite directions.</text>
+                    <arg n="1">glypD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>The interaction at a distance between multiple operators controls the adjacent and is able to divergently transcribe operons glpTQ-glpACB from Scherichia coli K-12s.</text>
+                    <arg n="1">operons glpTQ-glpACB</arg>
+                    <arg n="4">Scherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>The interaction at a distance between multiple operators controls the adjacent one, having the ability to transcribe glpTQ-glpACB operons from Scherichia coli K-12s.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Scherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>The interaction at a distance between multiple operators controls the adjacent one, will transcribe in a divergent way KLK14 of state 1.5 kb.</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="4">state 1.5 kb</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>The interaction at a distance between multiple operators is able to divergently transcribe glpTQ-glpACB from Scherichia coli K-12s.</text>
+                    <arg n="1">glpTQ-glpACB</arg>
+                    <arg n="4">Scherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>The interaction at a distance between various operators controls the adjacent one, it has been shown to transcribe glpTQ-glpACB from Escherichia coli K-12s.</text>
+                    <arg n="1">glpTQ-glpACB</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>The interaction of a distance between multiple operators controls the adjacent one and transcribes glpACB-glpTQ perons from Escherichia coli K-12.</text>
+                    <arg n="1">glpACB-glpTQ perons</arg>
+                    <arg n="4">Escherichia coli K-12</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>The interaction of a distance between multiple operators has the ability to divergently transcribe both genes from E. coli.</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="4">E. coli</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>The interaction of a distance between multiple operators will divergently transcribe GlpTQ-glpACB operons from Scherichia coli K-12s.</text>
+                    <arg n="1">GlpTQ-glpACB operons</arg>
+                    <arg n="4">Scherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>Then, both genes was transcribe as a model for A3 transcription (mRNA), which includes a genomic-sized RNA and a subgenomic transcription set of mRNA, all with identical 5-untranslated sequence of 72 77 nucleotides and coterminal polyadylate.</text>
+                    <arg n="1">both genes</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>a prokaryotic RNA polymerase coded by plain (PEP) and a nucleus-type RNA polymerase coded by plain (NEP) is thought to specifically transcribe The plastid genome in the presence of the CDF2 transcription factor.</text>
+                    <arg n="0">a prokaryotic RNA polymerase coded by plain (PEP) and a nucleus-type RNA polymerase coded by plain (NEP)</arg>
+                    <arg n="1">The plastid genome</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>a prokaryotic RNA polymerase coded by plastid (PEP) and a kernel-type RNA polymerase (NEP) can specifically transcribe the plastid genome in the presence of the CDF2 transcription factor.</text>
+                    <arg n="0">a prokaryotic RNA polymerase coded by plastid (PEP) and a kernel-type RNA polymerase (NEP)</arg>
+                    <arg n="1">the plastid genome</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>a prokaryotic plastid-coded RNA polymerase (PEP) and a fasage-type RNA polymerase coded by nucleus (NEP) transcribe the capability to transcreate the plastid genome in the presence of the CDF2 transcription factor.</text>
+                    <arg n="0">a prokaryotic plastid-coded RNA polymerase (PEP) and a fasage-type RNA polymerase coded by nucleus (NEP)</arg>
+                    <arg n="1">the plastid genome</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>a prokaryotic plastid-coded RNA polymerase (PEP) and a phago-type RNA polymerase coded by core (NEP) is transcribe for the specific transcription of the plastid genome in the presence of the CDF2 transcription factor.</text>
+                    <arg n="0">a prokaryotic plastid-coded RNA polymerase (PEP) and a phago-type RNA polymerase coded by core (NEP)</arg>
+                    <arg n="1">the plastid genome</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>both genes is approximately 5.4 kb in length, with seven exons and A3 transcribed in a diverging manner (two alternative transcriptions) present only in e. coli and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">both genes</arg>
+                    <arg n="4">e. coli</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>glpACB glpTQ operators of Scherichia coli K-12s may have been divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpACB glpTQ operators</arg>
+                    <arg n="4">Scherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>glpACB-glpTQ perons of Escherichia coli K-12 has the ability to be transcribed by the one-way interaction between multiple operators.</text>
+                    <arg n="1">glpACB-glpTQ perons</arg>
+                    <arg n="4">Escherichia coli K-12</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>glpD and glpR of these two plasmids are observed to be transcribed by one-distance interaction between multiple operators.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>glpD and glpR of these two plasmids are transcribed divergently by the interaction of a distance between multiple operators.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>glpTQ-glpACB of Escherichia coli K-12s have been transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glpTQ-glpACB</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>glypD and glpR of these two plasmids are capable of being transcribed in a diverging way by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glypD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>glypD and glpR of these two plasmids can be transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">glypD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>gpD and glpR of both plasmids are observed to be transcribed by one-distance interaction between multiple operators.</text>
+                    <arg n="1">gpD and glpR</arg>
+                    <arg n="4">both plasmids</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>mRNA can be formed by two operons that are divergently transcribed, negative strand RNA, later.</text>
+                    <arg n="1">negative strand RNA, later</arg>
+                    <arg n="3">mRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>operons glpTQ-glpACB of Scherichia coli K-12s have the ability to be transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">operons glpTQ-glpACB</arg>
+                    <arg n="4">Scherichia coli K-12s</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>the operon rrn was transcribed in a divergent manner by NEP-2.</text>
+                    <arg n="0">NEP-2</arg>
+                    <arg n="1">the operon rrn</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>the plastid genome has been shown to be transcribed divergently by a prokaryotic plastid-coded RNA polymerase (PEP) and a phago-type RNA polymerase coded by core (NEP).</text>
+                    <arg n="0">a prokaryotic plastid-coded RNA polymerase (PEP) and a phago-type RNA polymerase coded by core (NEP)</arg>
+                    <arg n="1">the plastid genome</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>ulaG and ulaABCDEF is approximately 5.4 kb in length, with seven exons and will transcribe divergently table regulation present only in Escherichia coli.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">table regulation</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Analysis of A4 constraints (these two plasmids) showed that from now called &quot;negative ribbon appearances&quot; could have been divergently transcribed.</text>
+                    <arg n="1">from now called &quot;negative ribbon appearances&quot;</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Analysis of the restriction endonuclease division of a wide variety of organs and tissues showed that The gene, as our study predicted are divergently transcribed.</text>
+                    <arg n="1">The gene, as our study predicted</arg>
+                    <arg n="4">a wide variety of organs and tissues</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>It has been shown that The gene, as our study predicted of a wide variety of organs and tissues is divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">The gene, as our study predicted</arg>
+                    <arg n="4">a wide variety of organs and tissues</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>KLK14 is approximately 5.4 kb in length, with seven exons and has the ability to transcribe two alternative transcriptions present only in prostatograph (1.5 kb) and skeletal muscle (1.9 kb) and skeletal muscle (1.9 kb).</text>
+                    <arg n="1">KLK14</arg>
+                    <arg n="3">two alternative transcriptions</arg>
+                    <arg n="4">prostatograph (1.5 kb) and skeletal muscle (1.9 kb)</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Subsequently, The gene, as predicted by our study can be transcribe as a model for A3 transcription (mRNA), which includes a genomic-sized RNA and a subgenomic transcription set of mRNA, all with an identical 5-untranslated sequence of 72 77 nucleotides and coterminal polyadylate.</text>
+                    <arg n="1">The gene, as predicted by our study</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Subsequently, glpTQ-glpACB was transcribe as a model for A3 transcription (mRNA), which includes a genomic-sized RNA and a subgenomic transcription set of mRNA, all with an identical 5-untranslated sequence of 72 77 nucleotides and coterminal polyadylates.</text>
+                    <arg n="1">glpTQ-glpACB</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>The A4 restriction analysis (these two plasmids) suggested that the gene, as predicted by our study will be transcribed.</text>
+                    <arg n="1">the gene, as predicted by our study</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>The analysis of A4 restrictions (these two plasmids) showed that The gene, as our study predicted was transcribed in a divergent manner.</text>
+                    <arg n="1">The gene, as our study predicted</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>The analysis of A4 restrictions (these two plasmids) showed that The gene, as predicted by our study was transcribed.</text>
+                    <arg n="1">The gene, as predicted by our study</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>The analysis of A4 restrictions (these two plasmids) showed that the gene, as predicted by our study, will be transcribed.</text>
+                    <arg n="1">the gene, as predicted by our study,</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>The analysis of A4 restrictions (these two plasmids) showed that the plastid genome are transcribed.</text>
+                    <arg n="1">the plastid genome</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>The analysis of A4 restrictions (these two plasmids) showed that the plastid genome was transcribed.</text>
+                    <arg n="1">the plastid genome</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>The fhlA gene is close to the hydB gene at 59 min in a wide variety of organs and tissues and the gene, as predicted by our study, and may be interestingly transcribed in opposite directions.</text>
+                    <arg n="1">the gene, as predicted by our study,</arg>
+                    <arg n="4">a wide variety of organs and tissues</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>The gene, as our study predicted of a wide variety of organs and tissues are divergently transcribed by interaction at a distance between multiple operators.</text>
+                    <arg n="1">The gene, as our study predicted</arg>
+                    <arg n="4">a wide variety of organs and tissues</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>The interaction of a distance between multiple operators can divergently transcribe the gene from a wide variety of organs and tissues.</text>
+                    <arg n="1">the gene</arg>
+                    <arg n="4">a wide variety of organs and tissues</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>The interaction of a distance between multiple operators transcribes the peritoneal adjacent transcriptors and divergently The gene, as predicted by our study of a wide variety of organs and tissues.</text>
+                    <arg n="1">The gene, as predicted by our study</arg>
+                    <arg n="4">a wide variety of organs and tissues</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>Then, the gene, as predicted by our study is transcribe to be used as a model for A3 transcription (mRNA), which includes a genomic-sized RNA and a subgenomic transcription set of mRNA, all with an identical 5-untranslated sequence of 72 77 nucleotides and coterminal polyadylate.</text>
+                    <arg n="1">the gene, as predicted by our study</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>from now called &quot;negative ribbon appearances&quot; can be transcribe as a model for A3 transcription (mRNAs), which include a genomic RNA size and a subgenomic RNAm transcription set, all with a non-translated leader sequence of 72 77 nucleotides and 3- polyally annealed co-terminal.</text>
+                    <arg n="1">from now called &quot;negative ribbon appearances&quot;</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>glpTQ-glpACB are probably transcribe as models for A3 transcription (mRNAs), which include a genomic RNA size and a subgenomic RNAm transcription set, all with an identical 5-non-translation sequence of 72 77 nucleotides and 3- co-terminal polyadylene ends.</text>
+                    <arg n="1">glpTQ-glpACB</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>the enzyme is transcribe for the specific transcription of the rrn operon in the presence of the CDF2 transcription factor.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">the rrn operon</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>the plastid genome may have been transcribed divergently by a prokaryotic RNA polymerase encoded by plastidi (PEP) and a phage-type RNA polymerase encoded by nucleus (NEP).</text>
+                    <arg n="0">a prokaryotic RNA polymerase encoded by plastidi (PEP) and a phage-type RNA polymerase encoded by nucleus (NEP)</arg>
+                    <arg n="1">the plastid genome</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>this operon is able to be transcribed by glycolate.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">this operon</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>this operon will be transcribed divergently by glycolate.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">this operon</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>ulaG and ulaABCDEF is approximately 5.4 kb in length, with seven exons and will transcribe divergently ula regulon present only in Escherichia coli.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="delete">
+<roleset id="delete.01" name="" wordnet="1">
+<roles>
+  <role n="0" descr="causer mechanism				// mutation, alternative splicing //
+"/>
+  <role n="1" descr="entity being removed			// exon, gene, chromosomal region, cell //
+"/>
+  <role n="2" descr="resultant product			// transcripts //
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Alternative mRNA splicing in the coding region (encoded by exons 3-12) generates transcripts which delete exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and that encode distinct protein isoforms (delta25, delta52 and delta56 aa, respectively).
+
+</text>
+       <arg n="0">- 					 
+</arg>
+       <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)
+</arg>
+       <arg n="2">transcripts
+</arg>
+<fdg>
+1	Alternative	alternative	attr:&gt;2	@A&gt; %&gt;N N NOM SG
+2	mRNA	mrna	subj:&gt;14	@SUBJ %NH ABBR NOM SG
+3	splicing	splice	mod:&gt;2	@-FMAINV %VA ING
+4	in	in	ha:&gt;3	@ADVL %EH PREP
+5	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+6	coding	coding	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	region	region	pcomp:&gt;4	@&lt;P %NH N NOM SG
+8	(	(
+9	encoded	encode		@-FMAINV %VP EN
+10	by	by	ha:&gt;9	@ADVL %EH PREP
+11	exons	exon	pcomp:&gt;10	@&lt;P %NH &lt;?&gt; N NOM PL
+12	3-12	3-12		@NH %NH &lt;?&gt; NUM CARD	@OBJ %NH &lt;?&gt; NUM CARD	@A&gt; %&gt;N &lt;?&gt; NUM CARD	@ADVL %EH 
+
+&lt;?&gt; NUM CARD
+13	)	)
+14	generates	generate	main:&gt;0	@+FMAINV %VA V PRES SG3
+15	transcripts	transcript	obj:&gt;14	@OBJ %NH N NOM PL
+16	which	which	subj:&gt;17	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+17	delete	delete	mod:&gt;15	@+FMAINV %VA V PRES
+18	exons	exon	obj:&gt;17	@OBJ %NH &lt;?&gt; N NOM PL
+19	8	8	mod:&gt;18	@&lt;NOM %N&lt; NUM CARD
+20	(	(
+21	75	75	attr:&gt;22	@A&gt; %&gt;N NUM CARD
+22	nt	nt		@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG
+23	)	)
+24	,	,
+25	7+8	7+8	mod:&gt;19	@&lt;NOM %N&lt; NUM CARD
+26	(	(
+27	156	156	attr:&gt;28	@A&gt; %&gt;N NUM CARD
+28	nt	nt		@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG
+29	)	)
+30	or	or	cc:&gt;25	@CC %CC CC
+31	8+9	8+9	cc:&gt;25	@&lt;NOM %N&lt; NUM CARD
+32	(	(
+33	168	168	attr:&gt;34	@A&gt; %&gt;N NUM CARD
+34	nt	nt		@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG
+35	)	)
+36	and	and	cc:&gt;17	@CC %CC CC
+37	that	that	subj:&gt;38	@SUBJ %NH &lt;Rel&gt; PRON
+38	encode	encode	cc:&gt;17	@+FMAINV %VA V PRES
+39	distinct	distinct	attr:&gt;40	@A&gt; %&gt;N A ABS
+40	protein	protein	attr:&gt;41	@A&gt; %&gt;N N NOM SG
+41	isoforms	isoform	obj:&gt;38	@OBJ %NH &lt;?&gt; N NOM PL
+42	(	(
+43	delta25	delta25	mod:&gt;41	@NH %NH N NOM SG
+44	,	,
+45	delta52	delta52	cc:&gt;43	@NH %NH N NOM SG
+46	and	and	cc:&gt;45	@CC %CC CC
+47	delta56	delta56	attr:&gt;48	@A&gt; %&gt;N N NOM SG
+48	aa	aa	cc:&gt;45	@NH %NH ABBR NOM SG
+49	,	,
+50	respectively	respectively		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV
+51	)	)
+52	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+Of note, the V82F mutation, which occurs adjacent to the 5&apos; donor site of intron 4, resulted in approximately 54% aberrantly spliced transcripts with exon 4 deleted.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">exon 4
+</arg>
+       <arg n="2">aberrantly spliced transcripts 
+</arg>
+<fdg>
+ 
+1	Of	of		@&lt;NOM-OF %N&lt; PREP	@ADVL %EH PREP
+2	note	note	pcomp:&gt;1	@&lt;P %NH N NOM SG
+3	,	,
+4	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+5	V82F	v82f	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	mutation	mutation	mod:&gt;2	@APP %NH N NOM SG
+7	,	,
+8	which	which	subj:&gt;9	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+9	occurs	occur	mod:&gt;6	@+FMAINV %VA V PRES SG3
+10	adjacent	adjacent	copred:&gt;9	@&lt;NOM %N&lt; A ABS
+11	to	to	mod:&gt;10	@&lt;NOM %N&lt; PREP
+12	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+13	5	5	qn:&gt;16	@QN&gt; %&gt;N NUM CARD
+14	&apos;	&apos;
+15	donor	donor	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	site	site	pcomp:&gt;11	@&lt;P %NH N NOM SG
+17	of	of	mod:&gt;16	@&lt;NOM-OF %N&lt; PREP
+18	intron	intron	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	4	4	pcomp:&gt;17	@&lt;P %NH NUM CARD
+20	,	,
+21	resulted	result	mod:&gt;19	@-FMAINV %VP EN
+22	in	in	phr:&gt;21	@ADVL %EH PREP
+23	approximately	approximately	ad:&gt;24	@AD-A&gt; %E&gt; ADV
+24	54%	54%		@SUBJ %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@ADVL %EH 
+
+NUM CARD
+25	aberrantly	aberrantly	ad:&gt;26	@AD-A&gt; %E&gt; ADV
+26	spliced	spliced	attr:&gt;27	@A&gt; %&gt;N A ABS
+27	transcripts	transcript	subj:&gt;31	@SUBJ %NH N NOM PL
+28	with	with	mod:&gt;27	@&lt;NOM %N&lt; PREP
+29	exon	exon	attr:&gt;30	@A&gt; %&gt;N N NOM SG
+30	4	4	pcomp:&gt;28	@&lt;P %NH NUM CARD
+31	deleted	delete		@+FMAINV %VA V PAST
+32	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+Of the splicing mutations, the IVS2+1 allele produced a single transcript with exon 2 deleted, whereas the IVS9 delta A+4 allele was alternatively spliced, approximately 26% being normal transcripts and the remainder with exon 9 deleted.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">exon 9
+</arg>
+       <arg n="2">the remainder
+</arg>
+<fdg>
+1	Of	of	cla:&gt;10	@ADVL %EH PREP
+2	the	the	det:&gt;4	@DN&gt; %&gt;N DET
+3	splicing	splicing	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	mutations	mutation	pcomp:&gt;1	@&lt;P %NH N NOM PL
+5	,	,
+6	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+7	IVS2	ivs2	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	+1	+1	attr:&gt;9	@A&gt; %&gt;N NUM CARD
+9	allele	allele	subj:&gt;10	@SUBJ %NH N NOM SG
+10	produced	produce	main:&gt;0	@+FMAINV %VA V PAST
+11	a	a	det:&gt;13	@DN&gt; %&gt;N DET SG
+12	single	single	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	transcript	transcript	obj:&gt;10	@OBJ %NH N NOM SG
+14	with	with	ha:&gt;10	@ADVL %EH PREP
+15	exon	exon	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	2	2	pcomp:&gt;14	@&lt;P %NH NUM CARD
+17	deleted	delete		@-FMAINV %VP EN
+18	,	,
+19	whereas	whereas	pm:&gt;28	@CS %CS CS
+20	the	the	det:&gt;25	@DN&gt; %&gt;N DET
+21	IVS9	ivs9	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	delta	delta	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+23	A	a	attr:&gt;24	@A&gt; %&gt;N ABBR NOM SG
+24	+4	+4	attr:&gt;25	@A&gt; %&gt;N NUM CARD
+25	allele	allele	subj:&gt;26	@SUBJ %NH N NOM SG
+26	was	be	v-ch:&gt;28	@+FAUXV %AUX V PAST
+27	alternatively	alternatively	meta:&gt;28	@ADVL %EH ADV
+28	spliced	splice	cnd:&gt;17	@-FMAINV %VP EN
+29	,	,
+30	approximately	approximately	ad:&gt;31	@AD-A&gt; %E&gt; ADV
+31	26%	26%		@QN&gt; %&gt;N NUM CARD
+32	being	be		@-FMAINV %VA ING
+33	normal	normal	attr:&gt;34	@A&gt; %&gt;N A ABS
+34	transcripts	transcript	comp:&gt;32	@PCOMPL-S %NH N NOM PL
+35	and	and	cc:&gt;34	@CC %CC CC
+36	the	the	det:&gt;37	@DN&gt; %&gt;N DET
+37	remainder	remainder	cc:&gt;34	@PCOMPL-S %NH N NOM SG
+38	with	with	mod:&gt;37	@&lt;NOM %N&lt; PREP
+39	exon	exon	attr:&gt;40	@A&gt; %&gt;N N NOM SG
+40	9	9	pcomp:&gt;38	@&lt;P %NH NUM CARD
+41	deleted	delete	mod:&gt;40	@-FMAINV %VP EN
+42	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+From both the man and mouse we have isolated an alternative spliced form of Dmc1 cDNA (Dmc1-d), which is deleted for a region between the two motifs involved in nucleotide binding.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1"> an alternative spliced form of Dmc1 cDNA (Dmc1-d)
+</arg>
+       <arg n="2"> [for] a region between the two motifs 
+</arg>
+<fdg>
+1	From	from	cla:&gt;23	@ADVL %EH PREP
+2	both	both		@ADVL %EH ADV
+3	the	the	det:&gt;4	@DN&gt; %&gt;N DET
+4	man	man		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@&lt;P %NH N NOM SG
+5	and	and		@CC %CC CC
+6	mouse	mouse		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-S 
+
+%NH N NOM SG	@&lt;P %NH N NOM SG
+7	we	we	subj:&gt;8	@SUBJ %NH PRON PERS NOM PL1
+8	have	have	v-ch:&gt;9	@+FAUXV %AUX V PRES
+9	isolated	isolate		@-FMAINV %VA EN
+10	an	an	det:&gt;13	@DN&gt; %&gt;N DET SG
+11	alternative	alternative	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	spliced	spliced	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	form	form	obj:&gt;9	@OBJ %NH N NOM SG
+14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+15	Dmc1	dmc1	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	cDNA	cdna	pcomp:&gt;14	@&lt;P %NH ABBR NOM SG
+17	(	(
+18	Dmc1-d	dmc1-d		@NH %NH &lt;?&gt; N NOM SG
+19	)	)
+20	,	,
+21	which	which	subj:&gt;22	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+22	is	be	v-ch:&gt;23	@+FAUXV %AUX V PRES SG3
+23	deleted	delete	main:&gt;0	@-FMAINV %VP EN
+24	for	for	ha:&gt;23	@ADVL %EH PREP
+25	a	a	det:&gt;26	@DN&gt; %&gt;N DET SG
+26	region	region	pcomp:&gt;24	@&lt;P %NH N NOM SG
+27	between	between	mod:&gt;26	@&lt;NOM %N&lt; PREP
+28	the	the	det:&gt;30	@DN&gt; %&gt;N DET
+29	two	two	qn:&gt;30	@QN&gt; %&gt;N NUM CARD
+30	motifs	motif	pcomp:&gt;27	@&lt;P %NH N NOM PL
+31	involved	involve	mod:&gt;30	@-FMAINV %VP EN
+32	in	in	phr:&gt;31	@ADVL %EH PREP
+33	nucleotide	nucleotide	attr:&gt;34	@A&gt; %&gt;N N NOM SG
+34	binding	binding	pcomp:&gt;32	@&lt;P %NH N NOM SG
+35	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+Alternative messenger RNA (mRNA) splicing may delete exon 4 sequences, resulting in a mRNA that does not encode a functional IL-2 receptor.
+
+</text>
+       <arg n="0">Alternative messenger RNA (mRNA) splicing
+</arg>
+       <arg n="1">exon 4 sequences
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="M-MOD">may
+</arg>
+<fdg>
+
+1	Alternative	alternative	attr:&gt;2	@A&gt; %&gt;N A ABS
+2	messenger	messenger	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	RNA	rna		@SUBJ %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG
+4	(	(
+5	mRNA	mrna		@NH %NH ABBR NOM SG
+6	)	)
+7	splicing	splicing		@APP %NH A ABS	@SUBJ %NH A ABS	@OBJ %NH A ABS	@&lt;NOM %N&lt; A ABS
+8	may	may	v-ch:&gt;9	@+FAUXV %AUX V AUXMOD
+9	delete	delete		@-FMAINV %VA V INF
+10	exon	exon	obj:&gt;9	@OBJ %NH N NOM SG
+11	4	4	qn:&gt;12	@QN&gt; %&gt;N NUM CARD
+12	sequences	sequence		@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL
+13	,	,
+14	resulting	result	ha:&gt;9	@-FMAINV %VA ING
+15	in	in	loc:&gt;14	@ADVL %EH PREP
+16	a	a	det:&gt;17	@DN&gt; %&gt;N DET SG
+17	mRNA	mrna	pcomp:&gt;15	@&lt;P %NH ABBR NOM SG
+18	that	that	subj:&gt;19	@SUBJ %NH &lt;Rel&gt; PRON
+19	does	do	v-ch:&gt;21	@+FAUXV %AUX V PRES SG3
+20	not	not	neg:&gt;19	@ADVL %EH NEG-PART
+21	encode	encode	mod:&gt;17	@-FMAINV %VA V INF
+22	a	a	det:&gt;25	@DN&gt; %&gt;N DET SG
+23	functional	functional	attr:&gt;24	@A&gt; %&gt;N A ABS
+24	IL-2	il-2	attr:&gt;25	@A&gt; %&gt;N ABBR NOM SG
+25	receptor	receptor	obj:&gt;21	@OBJ %NH N NOM SG
+26	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+The GATA-4 mutants that delete the N-terminal region and the first zinc finger (242 8211; 443) were able to synergize with MEF2A (Figure 6A).
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">the N-terminal region and the first zinc finger
+</arg>
+       <arg n="2">The GATA-4 mutants
+</arg>
+<fdg>
+1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+2	GATA-4	gata-4	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	mutants	mutant	subj:&gt;28	@SUBJ %NH N NOM PL
+4	that	that	subj:&gt;5	@SUBJ %NH &lt;Rel&gt; PRON
+5	delete	delete	mod:&gt;3	@+FMAINV %VA V PRES
+6	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+7	N-terminal	n-terminal	attr:&gt;8	@A&gt; %&gt;N A ABS
+8	region	region	obj:&gt;5	@OBJ %NH N NOM SG
+9	(	(
+10	127	127		@QN&gt; %&gt;N NUM CARD
+11	&amp;#8211;	&amp;#8211;	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	443	443		@A&gt; %&gt;N NUM CARD
+13	and	and		@CC %CC CC
+14	201	201		@QN&gt; %&gt;N NUM CARD
+15	&amp;#8211;	&amp;#8211;		@NH %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+16	443	443		@NH %NH NUM CARD	@APP %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+17	)	)
+18	and	and		@CC %CC CC
+19	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+20	first	first	attr:&gt;21	@A&gt; %&gt;N NUM ORD
+21	zinc	zinc	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	finger	finger		@NH %NH N NOM SG	@SUBJ %NH N NOM SG
+23	(	(
+24	242	242		@QN&gt; %&gt;N NUM CARD
+25	&amp;#8211;	&amp;#8211;		@NH %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+26	443	443		@NH %NH NUM CARD	@APP %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+27	)	)
+28	were	be	main:&gt;0	@+FMAINV %VA V PAST PL
+29	able	able	comp:&gt;28	@PCOMPL-S %NH A ABS
+30	to	to	pm:&gt;31	@INFMARK&gt; %AUX INFMARK&gt;
+31	synergize	synergize	mod:&gt;29	@-FMAINV %VA V INF
+32	with	with	phr:&gt;31	@ADVL %EH PREP
+33	MEF2A	mef2a	pcomp:&gt;32	@&lt;P %NH N NOM SG
+34	(	(
+35	Figure	figure	attr:&gt;36	@A&gt; %&gt;N N NOM SG
+36	6A	6a		@NH %NH NUM CARD	@APP %NH NUM CARD	@A&gt; %&gt;N NUM CARD
+37	)	)
+38	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+However, the GATA-4 mutants that delete the C-terminal transactivition domain (1 &amp;#8211; 332, 201 &amp;#8211; 332) were all unable to support MEF2 synergy.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">C-terminal transactivition domain
+</arg>
+       <arg n="2">the GATA-4 mutants
+</arg>
+<fdg>
+1	However	however	meta:&gt;25	@ADVL %EH ADV WH
+2	,	,
+3	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+4	GATA-4	gata-4	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	mutants	mutant	subj:&gt;25	@SUBJ %NH N NOM PL
+6	that	that	subj:&gt;7	@SUBJ %NH &lt;Rel&gt; PRON
+7	delete	delete	mod:&gt;5	@+FMAINV %VA V PRES
+8	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+9	C-terminal	c-terminal	attr:&gt;10	@A&gt; %&gt;N A ABS
+10	transactivation	transactivation	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+11	domain	domain	obj:&gt;7	@OBJ %NH N NOM SG
+12	(	(
+13	1	1		@QN&gt; %&gt;N NUM CARD
+14	&amp;#8211;	&amp;#8211;	main:&gt;12	@NH %NH N NOM SG
+15	332	332	cc:&gt;17	@QN&gt; %&gt;N NUM CARD
+16	,	,
+17	201	201		@QN&gt; %&gt;N NUM CARD
+18	&amp;#8211;	&amp;#8211;	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	332	332		@A&gt; %&gt;N NUM CARD
+20	and	and		@CC %CC CC
+21	242	242		@QN&gt; %&gt;N NUM CARD
+22	&amp;#8211;	&amp;#8211;		@NH %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+23	332	332		@NH %NH NUM CARD	@APP %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+24	)	)
+25	were	be	main:&gt;0	@+FMAINV %VA V PAST PL
+26	all	all	qn:&gt;27	@QN&gt; %&gt;N PRON
+27	unable	unable	comp:&gt;25	@PCOMPL-S %NH A ABS
+28	to	to	pm:&gt;29	@INFMARK&gt; %AUX INFMARK&gt;
+29	support	support	mod:&gt;27	@-FMAINV %VA V INF
+30	MEF2	mef2	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+31	synergy	synergy	obj:&gt;29	@OBJ %NH N NOM SG
+32	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+The reporter plasmids contained a shorter fragment of the ErbB-2 promoter with a functional (D: ErbB-2: S) or mutated ZONAB-binding site (D: ErbB-2: S-D, deleted; ErbB-2: S-A, substitution of the inverted CCAAT box).
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">D: ErbB-2: S-D
+</arg>
+       <arg n="2">mutated ZONAB-binding site
+</arg>
+<fdg>
+1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+2	reporter	reporter	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	plasmids	plasmid	subj:&gt;4	@SUBJ %NH N NOM PL
+4	contained	contain	main:&gt;0	@+FMAINV %VA V PAST
+5	a	a	det:&gt;7	@DN&gt; %&gt;N DET SG
+6	shorter	short	attr:&gt;7	@A&gt; %&gt;N A CMP
+7	fragment	fragment	obj:&gt;4	@OBJ %NH N NOM SG
+8	of	of	mod:&gt;7	@&lt;NOM-OF %N&lt; PREP
+9	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+10	ErbB-2	erbb-2		@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+11	promoter	promoter	pcomp:&gt;8	@&lt;P %NH N NOM SG
+12	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+13	a	a	det:&gt;14	@DN&gt; %&gt;N DET SG
+14	functional	functional	pcomp:&gt;12	@&lt;P %NH A ABS
+15	(	(
+16	D	d		@NH %NH ABBR NOM SG
+17	:	:
+18	ErbB-2	erbb-2	main:&gt;17	@NH %NH &lt;?&gt; NUM CARD
+19	:	:
+20	S	s	main:&gt;19	@SUBJ %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG
+21	)	)
+22	or	or		@CC %CC CC
+23	mutated	mutated	attr:&gt;24	@A&gt; %&gt;N A ABS
+24	ZONAB-binding	zonab-binding	attr:&gt;25	@A&gt; %&gt;N N NOM SG
+25	site	site		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+26	(	(
+27	D	d		@NH %NH ABBR NOM SG
+28	:	:
+29	ErbB-2	erbb-2	main:&gt;28	@NH %NH &lt;?&gt; NUM CARD
+30	:	:
+31	S-D	s-d	main:&gt;30	@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+32	,	,
+33	deleted	delete	mod:&gt;31	@-FMAINV %VP EN
+34	;	;
+35	ErbB-2	erbb-2	main:&gt;34	@NH %NH &lt;?&gt; NUM CARD
+36	:	:
+37	S-A	s-a	obj:&gt;44	@OBJ %NH N NOM SG
+38	,	,
+39	substitution	substitution	subj:&gt;44	@SUBJ %NH N NOM SG
+40	of	of	mod:&gt;39	@&lt;NOM-OF %N&lt; PREP
+41	the	the	det:&gt;43	@DN&gt; %&gt;N DET
+42	inverted	inverted	attr:&gt;43	@A&gt; %&gt;N A ABS
+43	CCAAT	ccaat	pcomp:&gt;40	@&lt;P %NH N NOM SG
+44	box	box	cc:&gt;33	@+FMAINV %VA V PRES
+45	)	)
+46	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+In plasmid ErbB-2: S-D, the ZONAB binding was deleted, and in ErbB-2: S-A the inverted CCAAT box was substituted.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">the ZONAB binding
+</arg>
+       <arg n="2">[In] plasmid ErbB-2: S-D
+</arg>
+<fdg>
+1	In	in		@ADVL %EH PREP
+2	plasmid	plasmid	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	ErbB-2	erbb-2	pcomp:&gt;1	@&lt;P %NH &lt;?&gt; NUM CARD
+4	:	:
+5	S-D	s-d		@NH %NH N NOM SG	@SUBJ %NH N NOM SG
+6	,	,
+7	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+8	ZONAB	zonab	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	binding	binding	subj:&gt;10	@SUBJ %NH N NOM SG
+10	was	be	v-ch:&gt;11	@+FAUXV %AUX V PAST
+11	deleted	delete	cc:&gt;0	@-FMAINV %VP EN
+12	,	,
+13	and	and	cc:&gt;11	@CC %CC CC
+14	in	in		@ADVL %EH PREP
+15	ErbB-2	erbb-2		@&lt;P %NH &lt;?&gt; NUM CARD	@&lt;NOM %N&lt; &lt;?&gt; NUM CARD	@ADVL %EH &lt;?&gt; NUM CARD
+16	:	:
+17	S-A	s-a		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@&lt;P %NH N NOM SG
+18	the	the	det:&gt;21	@DN&gt; %&gt;N DET
+19	inverted	inverted	attr:&gt;20	@A&gt; %&gt;N A ABS
+20	CCAAT	ccaat	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	box	box	subj:&gt;22	@SUBJ %NH N NOM SG
+22	was	be	v-ch:&gt;23	@+FAUXV %AUX V PAST
+23	substituted	substitute	cc:&gt;11	@-FMAINV %VP EN
+24	.     .
+</fdg>
+</example>
+<example src="PNAS" no="1">
+<text>
+Thus, this granule enzyme is required for the unique effects of Leu-Leu-OMe and may provide a target for the development of other immunotherapeutic agents designed to delete cytotoxic lymphocyte responses.
+
+</text>
+       <arg n="0">the development of other immunotherapeutic agents 
+</arg>
+       <arg n="1">cytotoxic lymphocyte responses
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Thus	thus	meta:&gt;7	@ADVL %EH ADV
+2	,	,
+3	this	this	det:&gt;5	@DN&gt; %&gt;N DET DEM SG
+4	granule	granule	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	enzyme	enzyme	subj:&gt;6	@SUBJ %NH N NOM SG
+6	is	be	v-ch:&gt;7	@+FAUXV %AUX V PRES SG3
+7	required	require	main:&gt;0	@-FMAINV %VP EN
+8	for	for	ha:&gt;7	@ADVL %EH PREP
+9	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+10	unique	unique	attr:&gt;11	@A&gt; %&gt;N A ABS
+11	effects	effect	pcomp:&gt;8	@&lt;P %NH N NOM PL
+12	of	of	mod:&gt;11	@&lt;NOM-OF %N&lt; PREP
+13	Leu-Leu-OMe	leu-leu-ome	pcomp:&gt;12	@&lt;P %NH &lt;?&gt; N NOM SG
+14	and	and	cc:&gt;7	@CC %CC CC
+15	may	may	v-ch:&gt;16	@+FAUXV %AUX V AUXMOD
+16	provide	provide	cc:&gt;7	@-FMAINV %VA V INF
+17	a	a	det:&gt;18	@DN&gt; %&gt;N DET SG
+18	target	target	obj:&gt;16	@OBJ %NH N NOM SG
+19	for	for	phr:&gt;16	@ADVL %EH PREP
+20	the	the	det:&gt;21	@DN&gt; %&gt;N DET
+21	development	development	pcomp:&gt;19	@&lt;P %NH N NOM SG
+22	of	of	mod:&gt;21	@&lt;NOM-OF %N&lt; PREP
+23	other	other	det:&gt;25	@DN&gt; %&gt;N DET
+24	immunotherapeutic	immunotherapeutic	attr:&gt;25	@A&gt; %&gt;N &lt;?&gt; A ABS
+25	agents	agent	pcomp:&gt;22	@&lt;P %NH N NOM PL
+26	designed	design	mod:&gt;25	@-FMAINV %VP EN
+27	to	to	pm:&gt;28	@INFMARK&gt; %AUX INFMARK&gt;
+28	delete	delete	obj:&gt;26	@-FMAINV %VA V INF
+29	cytotoxic	cytotoxic	attr:&gt;30	@A&gt; %&gt;N A ABS
+30	lymphocyte	lymphocyte	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+31	responses	response	obj:&gt;28	@OBJ %NH N NOM PL
+32	.     .
+</fdg>
+</example>
+<example src="PNAS" no="2">
+<text>
+The generation of replication-competent virus is considered less likely with vectors that delete the viral transcription elements.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">the viral transcription elements
+</arg>
+       <arg n="2">vectors
+</arg>
+<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	generation	generation	subj:&gt;6	@SUBJ %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	replication-competent	replication-competent	attr:&gt;5	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+5	virus	virus	pcomp:&gt;3	@&lt;P %NH N NOM SG
+6	is	be	v-ch:&gt;7	@+FAUXV %AUX V PRES SG3
+7	considered	consider	main:&gt;0	@-FMAINV %VP EN
+8	less	little	ad:&gt;9	@AD-A&gt; %E&gt; ADV CMP
+9	likely	likely		@ADVL %EH ADV	@PCOMPL-S %NH A ABS	@PCOMPL-O %NH A ABS	@SUBJ %NH A ABS	@OBJ %NH A ABS
+10	with	with	ha:&gt;7	@ADVL %EH PREP
+11	vectors	vector	pcomp:&gt;10	@&lt;P %NH N NOM PL
+12	that	that	subj:&gt;13	@SUBJ %NH &lt;Rel&gt; PRON
+13	delete	delete	mod:&gt;11	@+FMAINV %VA V PRES
+14	the	the	det:&gt;17	@DN&gt; %&gt;N DET
+15	viral	viral	attr:&gt;16	@A&gt; %&gt;N A ABS
+16	transcription	transcription	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	elements	element	obj:&gt;13	@OBJ %NH N NOM PL
+18	.     .
+</fdg>
+</example>
+<example src="PNAS" no="3">
+<text>
+In the presence of the phage P1 cyclization recombinase cre, the transposon can delete the URA3, tetA, and lacZ genes between the two loxP sites.
+
+</text>
+       <arg n="0">the transposon
+</arg>
+       <arg n="1">the URA3, tetA, and lacZ genes between the two loxP sites
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	In	in	cla:&gt;15	@ADVL %EH PREP
+2	the	the	det:&gt;3	@DN&gt; %&gt;N DET
+3	presence	presence	pcomp:&gt;1	@&lt;P %NH N NOM SG
+4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+5	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+6	phage	phage	attr:&gt;7	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+7	P1	p1	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	cyclization	cyclization	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	recombinase	recombinase	attr:&gt;10	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+10	cre	cre	pcomp:&gt;4	@&lt;P %NH ABBR NOM SG
+11	,	,
+12	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+13	transposon	transposon	subj:&gt;14	@SUBJ %NH &lt;?&gt; N NOM SG
+14	can	can	v-ch:&gt;15	@+FAUXV %AUX V AUXMOD
+15	delete	delete	main:&gt;0	@-FMAINV %VA V INF
+16	the	the	det:&gt;17	@DN&gt; %&gt;N DET
+17	URA3	ura3	obj:&gt;15	@OBJ %NH N NOM SG
+18	,	,
+19	tetA	teta	cc:&gt;17	@OBJ %NH &lt;?&gt; N NOM SG
+20	,	,
+21	and	and	cc:&gt;19	@CC %CC CC
+22	lacZ	lacz	attr:&gt;23	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+23	genes	gene	cc:&gt;19	@OBJ %NH N NOM PL
+24	between	between	mod:&gt;23	@&lt;NOM %N&lt; PREP
+25	the	the	det:&gt;28	@DN&gt; %&gt;N DET
+26	two	two	qn:&gt;28	@QN&gt; %&gt;N NUM CARD
+27	loxP	loxp	attr:&gt;28	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+28	sites	site	pcomp:&gt;24	@&lt;P %NH N NOM PL
+29	.     .
+</fdg>
+</example>
+<example src="PNAS" no="4">
+<text>
+Appropriate progenitor strains can now be constructed to delete virtually any chromosomal region by utilizing an extensive collection of lines containing single P element insertions throughout the Drosophila genome.
+
+</text>
+       <arg n="0">Appropriate progenitor strains 
+</arg>
+       <arg n="1">any chromosomal region 
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Appropriate	appropriate	attr:&gt;2	@A&gt; %&gt;N A ABS
+2	progenitor	progenitor	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	strains	strain	subj:&gt;4	@SUBJ %NH N NOM PL
+4	can	can	v-ch:&gt;6	@+FAUXV %AUX V AUXMOD
+5	now	now	tmp:&gt;7	@ADVL %EH ADV
+6	be	be	v-ch:&gt;7	@-FAUXV %AUX V INF
+7	constructed	construct	main:&gt;0	@-FMAINV %VP EN
+8	to	to	pm:&gt;9	@INFMARK&gt; %AUX INFMARK&gt;
+9	delete	delete	cnt:&gt;7	@-FMAINV %VA V INF
+10	virtually	virtually	man:&gt;9	@ADVL %EH ADV
+11	any	any	det:&gt;13	@DN&gt; %&gt;N DET
+12	chromosomal	chromosomal	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	region	region	obj:&gt;9	@OBJ %NH N NOM SG
+14	by	by		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+15	utilizing	utilize	pcomp:&gt;14	@&lt;P-FMAINV %VA ING
+16	an	an	det:&gt;18	@DN&gt; %&gt;N DET SG
+17	extensive	extensive	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	collection	collection	obj:&gt;15	@OBJ %NH N NOM SG
+19	of	of	mod:&gt;18	@&lt;NOM-OF %N&lt; PREP
+20	lines	line	pcomp:&gt;19	@&lt;P %NH N NOM PL
+21	containing	contain	mod:&gt;20	@-FMAINV %VA ING
+22	single	single	attr:&gt;23	@A&gt; %&gt;N A ABS
+23	P	p	attr:&gt;24	@A&gt; %&gt;N ABBR NOM SG
+24	element	element	attr:&gt;25	@A&gt; %&gt;N N NOM SG
+25	insertions	insertion	obj:&gt;21	@OBJ %NH N NOM PL
+26	throughout	throughout	meta:&gt;21	@ADVL %EH PREP
+27	the	the	det:&gt;29	@DN&gt; %&gt;N DET
+28	Drosophila	drosophila	attr:&gt;29	@A&gt; %&gt;N N NOM SG
+29	genome	genome	pcomp:&gt;26	@&lt;P %NH N NOM SG
+30	.     .
+</fdg>
+</example>
+<example src="PNAS" no="5">
+<text>
+The propensity of isolates of the malaria parasite Plasmodium falciparum to delete a segment of chromosome 9 has provided positional information that has allowed us to identify a gene necessary for cytoadherence.
+
+</text>
+       <arg n="0">isolates of the malaria parasite Plasmodium falciparum 
+</arg>
+       <arg n="1">a segment of chromosome 9 
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	propensity	propensity	subj:&gt;4	@SUBJ %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	isolates	isolate		@+FMAINV %VA V PRES SG3
+5	of	of	ha:&gt;4	@ADVL %EH PREP
+6	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+7	malaria	malaria	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	parasite	parasite	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	Plasmodium	plasmodium	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	falciparum	falciparum	pcomp:&gt;5	@&lt;P %NH N NOM SG
+11	to	to	pm:&gt;12	@INFMARK&gt; %AUX INFMARK&gt;
+12	delete	delete	mod:&gt;10	@-FMAINV %VA V INF
+13	a	a	det:&gt;14	@DN&gt; %&gt;N DET SG
+14	segment	segment	obj:&gt;12	@OBJ %NH N NOM SG
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	chromosome	chromosome	pcomp:&gt;15	@&lt;P %NH N NOM SG
+17	9	9	subj:&gt;18	@SUBJ %NH NUM CARD
+18	has	have	v-ch:&gt;19	@+FAUXV %AUX V PRES SG3
+19	provided	provide		@-FMAINV %VA EN
+20	positional	positional	attr:&gt;21	@A&gt; %&gt;N A ABS
+21	information	information	obj:&gt;19	@OBJ %NH N NOM SG
+22	that	that	subj:&gt;23	@SUBJ %NH &lt;Rel&gt; PRON
+23	has	have	v-ch:&gt;24	@+FAUXV %AUX V PRES SG3
+24	allowed	allow	mod:&gt;21	@-FMAINV %VA EN
+25	us	we	subj:&gt;27	@OBJ %NH PRON PERS ACC PL1
+26	to	to	pm:&gt;27	@INFMARK&gt; %AUX INFMARK&gt;
+27	identify	identify	obj:&gt;24	@-FMAINV %VA V INF
+28	a	a	det:&gt;29	@DN&gt; %&gt;N DET SG
+29	gene	gene	obj:&gt;27	@OBJ %NH N NOM SG
+30	necessary	necessary	copred:&gt;27	@&lt;NOM %N&lt; A ABS
+31	for	for		@&lt;NOM %N&lt; PREP
+32	cytoadherence	cytoadherence	pcomp:&gt;31	@&lt;P %NH &lt;?&gt; N NOM SG
+33	.     .
+</fdg>
+</example>
+<example src="PNAS" no="6">
+<text>
+Recent experiments have provided direct evidence that antigen-loaded immature DCs silence T cells either by deleting them or by expanding regulatory T cells.
+
+</text>
+       <arg n="0">antigen-loaded immature DCs 
+</arg>
+       <arg n="1">T cells 
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Recent	recent	attr:&gt;2	@A&gt; %&gt;N A ABS
+2	experiments	experiment	subj:&gt;3	@SUBJ %NH N NOM PL
+3	have	have	v-ch:&gt;4	@+FAUXV %AUX V PRES
+4	provided	provide	main:&gt;0	@-FMAINV %VA EN
+5	direct	direct	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	evidence	evidence	obj:&gt;4	@OBJ %NH N NOM SG
+7	that	that	pm:&gt;11	@CS %CS CS
+8	antigen-loaded	antigen-loaded	attr:&gt;9	@A&gt; %&gt;N A ABS
+9	immature	immature	attr:&gt;10	@A&gt; %&gt;N A ABS
+10	DCs	dcs	subj:&gt;11	@SUBJ %NH ABBR NOM SG
+11	silence	silence	mod:&gt;6	@+FMAINV %VA V PRES	@+FMAINV %VA V SUBJUNCTIVE
+12	T	t	attr:&gt;13	@A&gt; %&gt;N ABBR NOM SG
+13	cells	cell	obj:&gt;11	@OBJ %NH N NOM PL
+14	either	either	ha:&gt;11	@ADVL %EH ADV
+15	by	by	man:&gt;11	@ADVL %EH PREP
+16	deleting	delete	pcomp:&gt;15	@&lt;P-FMAINV %VA ING
+17	them	they	obj:&gt;16	@OBJ %NH PRON PERS ACC PL3
+18	or	or		@CC %CC CC
+19	by	by		@ADVL %EH PREP
+20	expanding	expand	pcomp:&gt;19	@&lt;P-FMAINV %VA ING
+21	regulatory	regulatory	attr:&gt;22	@A&gt; %&gt;N A ABS
+22	T	t	attr:&gt;23	@A&gt; %&gt;N ABBR NOM SG
+23	cells	cell	obj:&gt;20	@OBJ %NH N NOM PL
+24	.     .
+</fdg>
+</example>
+<example src="PNAS" no="7">
+<text>
+Colonies of C.albicans cells deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">Colonies of C.albicans cells
+</arg>
+       <arg n="2">CST20
+</arg>
+<fdg>
+         1	Colonies	colony	subj:&gt;9	@SUBJ %NH N NOM PL
+         2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+         3	C.	c.	attr:&gt;4	@A&gt; %&gt;N N NOM SG
+         4	albicans	albican	attr:&gt;5	@A&gt; %&gt;N &lt;?&gt; N NOM PL
+         5	cells	cell	pcomp:&gt;2	@&lt;P %NH N NOM PL
+         6	deleted	delete	mod:&gt;5	@-FMAINV %VP EN
+         7	for	for	ha:&gt;6	@ADVL %EH PREP
+         8	CST20	cst20	pcomp:&gt;7	@&lt;P %NH N NOM SG
+         9	revealed	reveal	main:&gt;0	@+FMAINV %VA V PAST
+         10	defects	defect	obj:&gt;9	@OBJ %NH N NOM PL
+         11	in	in	mod:&gt;10	@&lt;NOM %N&lt; PREP
+         12	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+         13	lateral	lateral	attr:&gt;14	@A&gt; %&gt;N A ABS
+         14	formation	formation	pcomp:&gt;11	@&lt;P %NH N NOM SG
+         15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+         16	mycelia	mycelium	pcomp:&gt;15	@&lt;P %NH N NOM PL
+         17	on	on	mod:&gt;16	@&lt;NOM %N&lt; PREP
+         18	synthetic	synthetic	attr:&gt;19	@A&gt; %&gt;N A ABS
+         19	solid	solid	pcomp:&gt;17	@&lt;P %NH A ABS
+         20	`	`
+         21	Spider	spider	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+         22	&apos;	&apos;
+         23	media	media		@SUBJ %NH N NOM
+         24	.     .
+</fdg>
+</example>
+<example src="PNAS" no="8">
+<text>
+By using homologous recombination in mouse embryonic stem cells, the headpiece domain of dematin was deleted to evaluate its function in vivo.
+
+</text>
+       <arg n="0">[By] using homologous recombination in mouse embryonic stem cells 
+</arg>
+       <arg n="1">the headpiece domain of dematin
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	By	by	cla:&gt;17	@ADVL %EH PREP
+2	using	use	pcomp:&gt;1	@&lt;P-FMAINV %VA ING
+3	homologous	homologous	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	recombination	recombination	obj:&gt;2	@OBJ %NH N NOM SG
+5	in	in	mod:&gt;4	@&lt;NOM %N&lt; PREP
+6	mouse	mouse	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	embryonic	embryonic	attr:&gt;8	@A&gt; %&gt;N A ABS
+8	stem	stem	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	cells	cell	pcomp:&gt;5	@&lt;P %NH N NOM PL
+10	,	,
+11	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+12	headpiece	headpiece	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+13	domain	domain	subj:&gt;16	@SUBJ %NH N NOM SG
+14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+15	dematin	dematin	pcomp:&gt;14	@&lt;P %NH &lt;?&gt; N NOM SG
+16	was	be	v-ch:&gt;17	@+FAUXV %AUX V PAST
+17	deleted	delete	main:&gt;0	@-FMAINV %VP EN
+18	to	to	pm:&gt;19	@INFMARK&gt; %AUX INFMARK&gt;
+19	evaluate	evaluate	cnt:&gt;17	@-FMAINV %VA V INF
+20	its	it	attr:&gt;21	@A&gt; %&gt;N PRON GEN SG3
+21	function	function	obj:&gt;19	@OBJ %NH N NOM SG
+22	in vivo	in vivo	copred:&gt;19	@&lt;NOM %N&lt; A ABS
+23	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

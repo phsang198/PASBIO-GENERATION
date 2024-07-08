@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="eliminate">
+            <roleset id="eliminate.01" name="remove&#x0A;" wordnet="1">
+                <roles>
+                    <role n="0" descr="entity removing&#x0A;" />
+                    <role n="1" descr="thing being removed&#x0A;" />
+                    <role n="2" descr="removed from&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="1">
+                    <text>One of the remaining three families carried a 3-bp in-frame deletion that would eliminate an asparagine residue within a kinase domain of the product; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.</text>
+                    <arg n="0">a 3-bp in-frame deletion</arg>
+                    <arg n="1">an asparagine residue</arg>
+                    <arg n="2">a kinase domain of the product</arg>
+                    <arg n="M-MOD">would</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>One mutation eliminates the BamHI site in exon 7 and the other eliminates the HindIII site in exon 11 of the phenylalanine hydroxylase gene.</text>
+                    <arg n="0">One mutation</arg>
+                    <arg n="1">the BamHI site</arg>
+                    <arg n="2">exon 7</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>One mutation eliminates the BamHI site in exon 7 and the other eliminates the HindIII site in exon 11 of the phenylalanine hydroxylase gene.</text>
+                    <arg n="0">the other</arg>
+                    <arg n="1">the HindIII site</arg>
+                    <arg n="2">exon 11 of the phenylalanine hydroxylase gene</arg>
+                </example>
+                <example src="MEDLINE" no="4">
+                    <text>They establish that inhibition of any one of these molecules, as may occur following caspase activation, could eliminate vital stem cells required for skeletal muscle regeneration during chronic catabolic conditions.</text>
+                    <arg n="0">inhibition of any one of these molecules</arg>
+                    <arg n="1">vital stem cells</arg>
+                </example>
+                <example src="MEDLINE" no="5">
+                    <text>This occurs by microbe-detecting receptors activating immune cells to eliminate the pathogens.</text>
+                    <arg n="0">microbe-detecting receptors activating immune cells</arg>
+                    <arg n="1">the pathogens</arg>
+                </example>
+                <example src="MEDLINE" no="6">
+                    <text>Transgenic plants expressing AtNDK1 under control of the CaMV 35S promoter exhibited tolerance to paraquat and high ability to eliminate exogenous H(2)O(2).</text>
+                    <arg n="0"></arg>
+                    <arg n="1">exogenous H(2)O(2)</arg>
+                    <arg n="2">Transgenic plants</arg>
+                </example>
+                <example src="MEDLINE" no="7">
+                    <text>To eliminate any deleterious effects that might be associated with stable HOXB4 gene transfer into human cells, we took advantage of the ability of HOX proteins to passively translocate through cell membranes.</text>
+                    <arg n="1">any deleterious effects</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Addition of Grb2 significantly reduced SH3A binding to mSos1 in a concent rat ion-dependent manner, with binding completely eliminated at a molar ratio of 5:1 (Figure 7).</text>
+                    <arg n="0">Addition of Grb2 significantlya molar ratio of 5:1</arg>
+                    <arg n="1">binding</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>Eliminating the inhibitory phosphorylation or mimicking activating phosphorylation sites is sufficient to confer constitutive activity upon lin-45 Raf and induce multi-vulva phenotypes in C.elegans.</text>
+                    <arg n="1">the inhibitory phosphorylation</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>Mutation of T491 eliminated the recognition by the anti-pT598 antibody while mutation at S494 had no effect (Figure 2C).</text>
+                    <arg n="0">Mutation of T491</arg>
+                    <arg n="1">the recognition by the anti-pT598 antibody</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>The same high level of activation of B-Raf occurs only when all three sites are eliminated.</text>
+                    <arg n="1">all three sites</arg>
+                </example>
+                <example src="EMBO" no="5">
+                    <text>Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, yet these same mutations completely eliminate Sec incorporation (Lesoon et al., 1997).</text>
+                    <arg n="0">these same mutations</arg>
+                    <arg n="1">Sec incorporation</arg>
+                </example>
+                <example src="EMBO" no="6">
+                    <text>As illustrated in Figure 1, staurosporin (or genestein; data not shown) did not eliminate the stabilization seen with MG132.</text>
+                    <arg n="0">staurosporin (or genestein; data not shown)</arg>
+                    <arg n="1">the stabilization seen with MG132</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

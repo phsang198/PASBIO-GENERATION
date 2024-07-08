@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<frameset>
+<predicate lemma="express">
+<roleset id="express.01" name="" wordnet="5">
+<roles>
+  <role n="0" descr="named entity being expressed					// gene or gene products//
+"/>
+  <role n="1" descr="property of the existing name entity
+"/>
+  <role n="2" descr="location refering to organelle, cell or tissue
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Northern blot analysis with mRNA from eight different human tissues demonstrated that the enzyme was expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.  
+
+</text>
+       <arg n="0">the enzyme
+</arg>
+       <arg n="1">two mRNA isoforms of 2.4 and 4.0 kb
+</arg>
+       <arg n="2">brain
+</arg>
+       <arg n="M-MAN">exclusively
+</arg>
+<fdg>
+         1	Northern	northern	attr:&gt;2	@A&gt; %&gt;N A ABS
+         2	blot	blot	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+         3	analysis	analysis	subj:&gt;11	@SUBJ %NH N NOM SG
+         4	with	with	mod:&gt;3	@&lt;NOM %N&lt; PREP
+         5	mRNA	mrna	pcomp:&gt;4	@&lt;P %NH ABBR NOM SG
+         6	from	from	mod:&gt;5	@&lt;NOM %N&lt; PREP
+         7	eight	eight	qn:&gt;10	@QN&gt; %&gt;N NUM CARD
+         8	different	different	attr:&gt;9	@A&gt; %&gt;N A ABS
+         9	human	human	attr:&gt;10	@A&gt; %&gt;N A ABS
+         10	tissues	tissue	pcomp:&gt;6	@&lt;P %NH N NOM PL
+         11	demonstrated	demonstrate	main:&gt;0	@+FMAINV %VA V PAST
+         12	that	that	pm:&gt;16	@CS %CS CS
+         13	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+         14	enzyme	enzyme	subj:&gt;15	@SUBJ %NH N NOM SG
+         15	was	be	v-ch:&gt;16	@+FAUXV %AUX V PAST
+         16	expressed	express	obj:&gt;11	@-FMAINV %VP EN
+         17	exclusively	exclusively	man:&gt;16	@ADVL %EH ADV
+         18	in	in	loc:&gt;16	@ADVL %EH PREP
+         19	brain	brain	pcomp:&gt;18	@&lt;P %NH N NOM SG
+         20	,	,
+         21	with	with	ha:&gt;16	@ADVL %EH PREP
+         22	two	two	qn:&gt;24	@QN&gt; %&gt;N NUM CARD
+         23	mRNA	mrna	attr:&gt;24	@A&gt; %&gt;N ABBR NOM SG
+         24	isoforms	isoform	pcomp:&gt;21	@&lt;P %NH &lt;?&gt; N NOM PL
+         25	of	of	mod:&gt;24	@&lt;NOM-OF %N&lt; PREP
+         26	2.4	2.4	pcomp:&gt;25	@&lt;P %NH NUM CARD
+         27	and	and		@CC %CC CC
+         28	4.0	4.0		@OBJ %NH NUM CARD	@&lt;P %NH NUM CARD	@QN&gt; %&gt;N NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+         29	kb	kb		@OBJ %NH ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+         30	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*2">
+<text>
+Northern blotting and reverse transcriptase-PCR assays with oligonucleotide probes and primers specific for each transcript demonstrated that the isoform identical to Ran/TC4 was expressed in both somatic tissues and testis, while the variant form was transcribed only in testis.
+
+</text>
+       <arg n="0">the isoform identical to Ran/TC4
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">both somatic tissues and testis
+</arg>
+<fdg>
+         1	Northern	northern	attr:&gt;2	@A&gt; %&gt;N A ABS
+         2	blotting	blotting	cc:&gt;4	@A&gt; %&gt;N A ABS
+         3	and	and	cc:&gt;4	@CC %CC CC
+         4	reverse	reverse	attr:&gt;5	@A&gt; %&gt;N A ABS
+         5	transcriptase-PCR	transcriptase-pcr	subj:&gt;6	@SUBJ %NH &lt;?&gt; N NOM SG
+         6	assays	assay	main:&gt;0	@+FMAINV %VA V PRES SG3
+         7	with	with	ha:&gt;6	@ADVL %EH PREP
+         8	oligonucleotide	oligonucleotide	attr:&gt;9	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         9	probes	probe	pcomp:&gt;7	@&lt;P %NH N NOM PL
+         10	and	and	cc:&gt;6	@CC %CC CC
+         11	primers	primer	subj:&gt;16	@SUBJ %NH N NOM PL
+         12	specific	specific	mod:&gt;11	@&lt;NOM %N&lt; A ABS
+         13	for	for		@&lt;NOM %N&lt; PREP
+         14	each	each	det:&gt;15	@DN&gt; %&gt;N DET SG
+         15	transcript	transcript	pcomp:&gt;13	@&lt;P %NH N NOM SG
+         16	demonstrated	demonstrate	cc:&gt;6	@+FMAINV %VA V PAST
+         17	that	that	pm:&gt;24	@CS %CS CS
+         18	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+         19	isoform	isoform	subj:&gt;23	@SUBJ %NH &lt;?&gt; N NOM SG
+         20	identical	identical	mod:&gt;19	@&lt;NOM %N&lt; A ABS
+         21	to	to		@&lt;NOM %N&lt; PREP
+         22	Ran/TC4	ran/tc4	pcomp:&gt;21	@&lt;P %NH &lt;?&gt; NUM CARD
+         23	was	be	v-ch:&gt;24	@+FAUXV %AUX V PAST
+         24	expressed	express	obj:&gt;16	@-FMAINV %VP EN
+         25	in	in	loc:&gt;24	@ADVL %EH PREP
+         26	both	both	det:&gt;28	@DN&gt; %&gt;N DET PL
+         27	somatic	somatic	attr:&gt;28	@A&gt; %&gt;N A ABS
+         28	tissues	tissue	pcomp:&gt;25	@&lt;P %NH N NOM PL
+         29	and	and	cc:&gt;28	@CC %CC CC
+         30	testis	testi	cc:&gt;28	@&lt;P %NH &lt;?&gt; N NOM PL
+         31	,	,
+         32	while	while	tmp:&gt;37	@ADVL %EH ADV WH
+         33	the	the	det:&gt;35	@DN&gt; %&gt;N DET
+         34	variant	variant	attr:&gt;35	@A&gt; %&gt;N N NOM SG
+         35	form	form	subj:&gt;36	@SUBJ %NH N NOM SG
+         36	was	be	v-ch:&gt;37	@+FAUXV %AUX V PAST
+         37	transcribed	transcribe	tmp:&gt;24	@-FMAINV %VP EN
+         38	only	only	meta:&gt;39	@ADVL %EH ADV
+         39	in	in	loc:&gt;37	@ADVL %EH PREP
+         40	testis	testi	pcomp:&gt;39	@&lt;P %NH &lt;?&gt; N NOM PL
+         41	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+Two equally abundant mRNAs for il8ra, 2.0 and 2.4 kilobases in length, are expressed in neutrophils and arise from usage of two alternative polyadenylation signals.
+
+</text>
+       <arg n="0">mRNAs for il8ra
+</arg>
+       <arg n="1">2.0 and 2.4 kilobases in length
+</arg>
+       <arg n="2">neutrophils
+</arg>
+<fdg>
+         1	Two	two	qn:&gt;4	@QN&gt; %&gt;N NUM CARD
+         2	equally	equally	ad:&gt;3	@AD-A&gt; %E&gt; ADV
+         3	abundant	abundant	attr:&gt;4	@A&gt; %&gt;N A ABS
+         4	mRNAs	mrna		@NH %NH &lt;?&gt; N NOM PL	@SUBJ %NH &lt;?&gt; N NOM PL	@PCOMPL-S %NH &lt;?&gt; N NOM PL
+         5	for	for	mod:&gt;4	@&lt;NOM %N&lt; PREP
+         6	il8ra	il8ra	pcomp:&gt;5	@&lt;P %NH &lt;?&gt; N NOM SG
+         7	,	,
+         8	2.0	2.0	cc:&gt;10	@QN&gt; %&gt;N NUM CARD
+         9	and	and	cc:&gt;10	@CC %CC CC
+         10	2.4	2.4	qn:&gt;11	@QN&gt; %&gt;N NUM CARD
+         11	kilobases	kilobas*	subj:&gt;15	@SUBJ %NH &lt;?&gt; N NOM PL
+         12	in	in	mod:&gt;11	@&lt;NOM %N&lt; PREP
+         13	length	length	pcomp:&gt;12	@&lt;P %NH N NOM SG
+         14	,	,
+         15	are	be	v-ch:&gt;16	@+FAUXV %AUX V PRES
+         16	expressed	express		@-FMAINV %VP EN
+         17	in	in	loc:&gt;16	@ADVL %EH PREP
+         18	neutrophils	neutrophil	pcomp:&gt;17	@&lt;P %NH N NOM PL
+         19	and	and	cc:&gt;16	@CC %CC CC
+         20	arise	arise	cc:&gt;16	@+FMAINV %VA V PRES
+         21	from	from	sou:&gt;20	@ADVL %EH PREP
+         22	usage	usage	pcomp:&gt;21	@&lt;P %NH N NOM SG
+         23	of	of	mod:&gt;22	@&lt;NOM-OF %N&lt; PREP
+         24	two	two	qn:&gt;27	@QN&gt; %&gt;N NUM CARD
+         25	alternative	alternative	attr:&gt;26	@A&gt; %&gt;N A ABS
+         26	polyadenylation	polyadenylation	attr:&gt;27	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         27	signals	signal	pcomp:&gt;23	@&lt;P %NH N NOM PL
+         28	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that this receptor is expressed by classical and variant SCCL.
+
+</text>
+       <arg n="0">this receptor
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">classical and variant SCCL
+</arg>
+<fdg>
+         1	It	it	subj:&gt;2	@SUBJ %NH PRON NOM SG3
+         2	has	have	v-ch:&gt;3	@+FAUXV %AUX V PRES SG3
+         3	been	be	v-ch:&gt;4	@-FAUXV %AUX EN
+         4	assumed	assume	main:&gt;0	@-FMAINV %VP EN
+         5	that	that	pm:&gt;8	@CS %CS CS
+         6	this	this	det:&gt;7	@DN&gt; %&gt;N DET DEM SG
+         7	peptide	peptide	subj:&gt;8	@SUBJ %NH N NOM SG
+         8	exercises	exercise	mod:&gt;1	@+FMAINV %VA V PRES SG3
+         9	its	it	attr:&gt;10	@A&gt; %&gt;N PRON GEN SG3
+         10	mitogenic	mitogenic	attr:&gt;11	@A&gt; %&gt;N &lt;?&gt; A ABS
+         11	influences	influence	obj:&gt;8	@OBJ %NH N NOM PL
+         12	through	through	ha:&gt;8	@ADVL %EH PREP
+         13	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+         14	vasopressin	vasopressin	attr:&gt;15	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         15	V1a	v1a	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+         16	receptor	receptor	pcomp:&gt;12	@&lt;P %NH N NOM SG
+         17	,	,
+         18	and	and	cc:&gt;8	@CC %CC CC
+         19	we	we	subj:&gt;20	@SUBJ %NH PRON PERS NOM PL1
+         20	have	have	v-ch:&gt;22	@+FAUXV %AUX V PRES
+         21	previously	previously	tmp:&gt;22	@ADVL %EH ADV
+         22	demonstrated	demonstrate	cc:&gt;8	@-FMAINV %VA EN
+         23	that	that	pm:&gt;27	@CS %CS CS
+         24	this	this	det:&gt;25	@DN&gt; %&gt;N DET DEM SG
+         25	receptor	receptor	subj:&gt;26	@SUBJ %NH N NOM SG
+         26	is	be	v-ch:&gt;27	@+FAUXV %AUX V PRES SG3
+         27	expressed	express	obj:&gt;22	@-FMAINV %VP EN
+         28	by	by	ha:&gt;27	@ADVL %EH PREP
+         29	classical	classical	cc:&gt;31	@A&gt; %&gt;N A ABS
+         30	and	and	cc:&gt;31	@CC %CC CC
+         31	variant	variant	attr:&gt;32	@A&gt; %&gt;N N NOM SG
+         32	SCCL	sccl	pcomp:&gt;28	@&lt;P %NH N NOM SG
+         33	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*5">
+<text>
+The human mitochondrial transcription termination factor (mTERF) cDNA has been cloned and expressed in vitro, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.
+
+</text>
+       <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">vitro
+</arg>
+<fdg>
+         1	The	the	det:&gt;6	@DN&gt; %&gt;N DET
+         2	human	human	attr:&gt;3	@A&gt; %&gt;N A ABS
+         3	mitochondrial	mitochondrial	attr:&gt;4	@A&gt; %&gt;N A ABS
+         4	transcription	transcription	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+         5	termination	termination	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+         6	factor	factor		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG
+         7	(	(
+         8	mTERF	mterf	mod:&gt;6	@NH %NH &lt;?&gt; N NOM SG
+         9	)	)
+         10	cDNA	cdna	subj:&gt;11	@SUBJ %NH ABBR NOM SG
+         11	has	have	v-ch:&gt;12	@+FAUXV %AUX V PRES SG3
+         12	been	be	v-ch:&gt;13	@-FAUXV %AUX EN
+         13	cloned	clone	mod:&gt;8	@-FMAINV %VP EN
+         14	and	and	cc:&gt;13	@CC %CC CC
+         15	expressed	express	cc:&gt;13	@-FMAINV %VP EN
+         16	in vitro	in vitro		@ADVL %EH ADV	@OBJ %NH A ABS	@PCOMPL-S %NH A ABS	@&lt;NOM %N&lt; A ABS
+         17	,	,
+         18	and	and	cc:&gt;15	@CC %CC CC
+         19	two	two	qn:&gt;21	@QN&gt; %&gt;N NUM CARD
+         20	alternative	alternative	attr:&gt;21	@A&gt; %&gt;N A ABS
+         21	precursors	precursor	subj:&gt;25	@SUBJ %NH N NOM PL
+         22	of	of	mod:&gt;21	@&lt;NOM-OF %N&lt; PREP
+         23	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+         24	protein	protein	pcomp:&gt;22	@&lt;P %NH N NOM SG
+         25	have	have	v-ch:&gt;26	@+FAUXV %AUX V PRES
+         26	been	be	v-ch:&gt;27	@-FAUXV %AUX EN
+         27	imported	import	cc:&gt;15	@-FMAINV %VP EN
+         28	into	into	goa:&gt;27	@ADVL %EH PREP
+         29	isolated	isolated	attr:&gt;30	@A&gt; %&gt;N A ABS
+         30	mitochondria	mitochondria	pcomp:&gt;28	@&lt;P %NH N NOM SG	@&lt;P %NH N NOM PL
+         31	and	and	cc:&gt;27	@CC %CC CC
+         32	processed	process	cc:&gt;27	@-FMAINV %VP EN
+         33	to	to	ha:&gt;32	@ADVL %EH PREP
+         34	the	the	det:&gt;36	@DN&gt; %&gt;N DET
+         35	mature	mature	attr:&gt;36	@A&gt; %&gt;N A ABS
+         36	protein	protein	pcomp:&gt;33	@&lt;P %NH N NOM SG
+         37	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*6">
+<text>
+A complementary DNA clone encoding the large subunit of the essential mammalian pre-messenger RNA splicing component U2 snRNP auxiliary factor(U2AF65) has been isolated and expressed in vitro.
+
+</text>
+       <arg n="0">A complementary DNA clone 
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">vitro
+</arg>
+<fdg>
+         1	A	a	det:&gt;4	@DN&gt; %&gt;N DET SG
+         2	complementary	complementary	attr:&gt;3	@A&gt; %&gt;N A ABS
+         3	DNA	dna	attr:&gt;4	@A&gt; %&gt;N ABBR NOM SG
+         4	clone	clone		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-O %NH N NOM SG
+         5	encoding	encode	mod:&gt;4	@-FMAINV %VA ING
+         6	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+         7	large	large	attr:&gt;8	@A&gt; %&gt;N A ABS
+         8	subunit	subunit	obj:&gt;5	@OBJ %NH N NOM SG
+         9	of	of	mod:&gt;8	@&lt;NOM-OF %N&lt; PREP
+         10	the	the		@DN&gt; %&gt;N DET
+         11	essential	essential	attr:&gt;12	@A&gt; %&gt;N A ABS
+         12	mammalian	mammalian	attr:&gt;13	@A&gt; %&gt;N A ABS
+         13	pre-messenger	pre-messenger		@A&gt; %&gt;N &lt;?&gt; A ABS	@&lt;P %NH &lt;?&gt; A ABS	@NH %NH &lt;?&gt; A ABS
+         14	RNA	rna		@SUBJ %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+         15	splicing	splicing		@A&gt; %&gt;N A ABS	@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING
+         16	component	component	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+         17	U2	u2	attr:&gt;18	@A&gt; %&gt;N ABBR NOM SG
+         18	snRNP	snrnp		@NH %NH &lt;?&gt; N NOM SG	@SUBJ %NH &lt;?&gt; N NOM SG	@OBJ %NH &lt;?&gt; N NOM SG	@A&gt; %&gt;N &lt;?&gt; N NOM SG	@&lt;P %NH &lt;?&gt; N NOM SG
+         19	auxiliary	auxiliary	attr:&gt;20	@A&gt; %&gt;N A ABS
+         20	factor	factor		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-O %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+         21	(	(
+         22	U2AF65)	u2af65)	subj:&gt;23	@SUBJ %NH N NOM SG
+         23	has	have	v-ch:&gt;24	@+FAUXV %AUX V PRES SG3
+         24	been	be	v-ch:&gt;25	@-FAUXV %AUX EN
+         25	isolated	isolate		@-FMAINV %VP EN
+         26	and	and	cc:&gt;25	@CC %CC CC
+         27	expressed	express	cc:&gt;25	@-FMAINV %VP EN
+         28	in vitro	in vitro		@ADVL %EH ADV	@OBJ %NH A ABS	@PCOMPL-S %NH A ABS	@&lt;NOM %N&lt; A ABS
+         29	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*7">
+<text>
+Most animal Ty3/gypsy retroelements, on the other hand, encode gag and pol in separate reading frames, and likely express Pol through +1 or -1 frameshifting.
+
+</text>
+       <arg n="0">Pol 
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">Most animal Ty3/gypsy retroelements 
+</arg>
+<fdg>
+1	Most	many	det:&gt;4	@DN&gt; %&gt;N DET SUP PL
+2	animal	animal	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	Ty3/gypsy	ty3/gypsy	attr:&gt;4	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+4	retroelements	retroelement	subj:&gt;11	@SUBJ %NH &lt;?&gt; N NOM PL
+5	,	,
+6	on	on	mod:&gt;4	@ADVL %EH PREP
+7	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+8	other	other	attr:&gt;9	@DN&gt; %&gt;N DET
+9	hand	hand	pcomp:&gt;6	@&lt;P %NH N NOM SG
+10	,	,
+11	encode	encode		@+FMAINV %VA V PRES
+12	gag	gag	obj:&gt;11	@OBJ %NH N NOM SG
+13	and	and	cc:&gt;12	@CC %CC CC
+14	pol	pol	cc:&gt;12	@OBJ %NH N NOM SG
+15	in	in	loc:&gt;11	@ADVL %EH PREP
+16	separate	separate	pcomp:&gt;15	@&lt;P %NH A ABS
+17	reading	read		@-FMAINV %VA ING
+18	frames	frame	obj:&gt;17	@OBJ %NH N NOM PL
+19	,	,
+20	and	and		@CC %CC CC
+21	likely	likely		@ADVL %EH ADV	@A&gt; %&gt;N A ABS	@APP %NH A ABS	@SUBJ %NH A ABS	@OBJ %NH A ABS	@&lt;P %NH A ABS	@&lt;NOM %N&lt; A ABS
+22	express	express		@+FMAINV %VA V PRES	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+23	Pol	pol		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@I-OBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+24	through	through		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+25	+1	+1	pcomp:&gt;24	@&lt;P %NH NUM CARD
+26	or	or		@CC %CC CC
+27	-1	-1		@QN&gt; %&gt;N NUM CARD
+28	frameshifting	frameshift*		@&lt;P-FMAINV %VA &lt;?&gt; ING	@-FMAINV %VA &lt;?&gt; ING
+29	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="8">
+<text>
+The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as dystrophic muscle, unlike normal muscle, is unable to express MGF in response to overload.
+
+</text>
+       <arg n="0">MGF
+</arg>
+       <arg n="1">- 
+</arg>
+       <arg n="2">dystrophic muscle 
+</arg>
+<fdg>
+1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+2	mechanotransduction	mechanotransduction	attr:&gt;3	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+3	mechanism	mechanism	subj:&gt;7	@SUBJ %NH N NOM SG
+4	for	for	mod:&gt;3	@&lt;NOM %N&lt; PREP
+5	this	this	det:&gt;6	@DN&gt; %&gt;N DET DEM SG
+6	signalling	signalling	pcomp:&gt;4	@&lt;P %NH A ABS
+7	may	may		@+FAUXV %AUX V AUXMOD
+8	directly	directly		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV
+9	or	or		@CC %CC CC
+10	indirectly	indirectly		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV
+11	involve	involve		@-FMAINV %VA V INF	@&lt;P-FMAINV %VA V INF
+12	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+13	dystrophin	dystrophin	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	complex	complex	obj:&gt;11	@OBJ %NH A ABS
+15	as	as	copred:&gt;11	@ADVL %EH PREP
+16	dystrophic	dystrophic	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	muscle	muscle	subj:&gt;23	@SUBJ %NH N NOM SG
+18	,	,
+19	unlike	unlike	mod:&gt;17	@ADVL %EH PREP
+20	normal	normal	attr:&gt;21	@A&gt; %&gt;N A ABS
+21	muscle	muscle	pcomp:&gt;19	@&lt;P %NH N NOM SG
+22	,	,
+23	is	be		@+FMAINV %VA V PRES SG3
+24	unable	unable	comp:&gt;23	@PCOMPL-S %NH A ABS
+25	to	to	pm:&gt;26	@INFMARK&gt; %AUX INFMARK&gt;
+26	express	express	mod:&gt;24	@-FMAINV %VA V INF
+27	MGF	mgf	obj:&gt;26	@OBJ %NH N NOM SG
+28	in	in	loc:&gt;26	@ADVL %EH PREP
+29	response	response	pcomp:&gt;28	@&lt;P %NH N NOM SG
+30	to	to	pm:&gt;31	@INFMARK&gt; %AUX INFMARK&gt;
+31	overload	overload	cnt:&gt;26	@-FMAINV %VA V INF
+32	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="9">
+<text>
+RCAS viruses infect only cells engineered to express ectopically the avian retroviral receptor, TVA.
+
+</text>
+       <arg n="0">the avian retroviral receptor
+</arg>
+       <arg n="1">- 
+</arg>
+       <arg n="2">cells 
+</arg>
+       <arg n="M-MAN">ectopically
+</arg>
+<fdg>
+2	RCAS	rca	attr:&gt;3	@A&gt; %&gt;N ABBR NOM PL
+3	viruses	virus	subj:&gt;4	@SUBJ %NH N NOM PL
+4	infect	infect	main:&gt;0	@+FMAINV %VA V PRES
+5	only	only	meta:&gt;6	@ADVL %EH ADV
+6	cells	cell	obj:&gt;4	@OBJ %NH N NOM PL
+7	engineered	engineer	mod:&gt;6	@-FMAINV %VP EN
+8	to	to	pm:&gt;9	@INFMARK&gt; %AUX INFMARK&gt;
+9	express	express	obj:&gt;7	@-FMAINV %VA V INF
+10	ectopically	ectopically	man:&gt;9	@ADVL %EH ADV
+11	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+12	avian	avian	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	retroviral	retroviral	attr:&gt;14	@A&gt; %&gt;N &lt;?&gt; A ABS
+14	receptor	receptor	obj:&gt;9	@OBJ %NH N NOM SG
+15	,	,
+16	TVA	tva		@OBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+17	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="10">
+<text>
+In summary, NNT-1/BSF-3 is expressed in pituitary folliculostellate TtT/GF cells and induced by PKC, PKA and ERK1/2 dependent mechanisms.
+
+</text>
+       <arg n="0">NNT-1/BSF-3
+</arg>
+       <arg n="1">- 
+</arg>
+       <arg n="2">pituitary folliculostellate TtT/GF cells 
+</arg>
+<fdg>
+1	In	in	cla:&gt;6	@ADVL %EH PREP
+2	summary	summary	pcomp:&gt;1	@&lt;P %NH N NOM SG
+3	,	,
+4	NNT-1/BSF-3	nnt-1/bsf-3	subj:&gt;5	@SUBJ %NH N NOM SG
+5	is	be	v-ch:&gt;6	@+FAUXV %AUX V PRES SG3
+6	expressed	express	main:&gt;0	@-FMAINV %VP EN
+7	in	in	loc:&gt;6	@ADVL %EH PREP
+8	pituitary	pituitary	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	folliculostellate	folliculostellate	attr:&gt;10	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+10	TtT/GF	ttt/gf	attr:&gt;11	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+11	cells	cell	pcomp:&gt;7	@&lt;P %NH N NOM PL
+12	and	and	cc:&gt;6	@CC %CC CC
+13	induced	induce	cc:&gt;6	@-FMAINV %VP EN
+14	by	by	ha:&gt;13	@ADVL %EH PREP
+15	PKC	pkc	pcomp:&gt;14	@&lt;P %NH N NOM SG
+16	,	,
+17	PKA	pka	cc:&gt;15	@&lt;P %NH N NOM SG
+18	and	and	cc:&gt;17	@CC %CC CC
+19	ERK1/2	erk1/2	qn:&gt;21	@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+20	dependent	dependent	attr:&gt;21	@A&gt; %&gt;N A ABS
+21	mechanisms	mechanism	cc:&gt;17	@&lt;P %NH N NOM PL
+22	.     .
+</fdg>
+</example>
+<example src="PNAS" no="1">
+<text>
+In the cortex of adult animals, Reln is expressed primarily in γ-aminobutyric acid (GABA)ergic neurons and is secreted into perineuronal nets.
+
+</text>
+       <arg n="0">Reln 
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">γ-aminobutyric acid (GABA)ergic neurons
+</arg>
+       <arg n="M-MAN">primarily
+</arg>
+<fdg>
+1	In	in	cla:&gt;10	@ADVL %EH PREP
+2	the	the	det:&gt;3	@DN&gt; %&gt;N DET
+3	cortex	cortex	pcomp:&gt;1	@&lt;P %NH N NOM SG
+4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+5	adult	adult	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	animals	animal	pcomp:&gt;4	@&lt;P %NH N NOM PL
+7	,	,
+8	Reln	reln	subj:&gt;9	@SUBJ %NH &lt;?&gt; N NOM SG
+9	is	be	v-ch:&gt;10	@+FAUXV %AUX V PRES SG3
+10	expressed	express	main:&gt;0	@-FMAINV %VP EN
+11	primarily	primarily	man:&gt;10	@ADVL %EH ADV
+12	in	in	ha:&gt;10	@ADVL %EH ADV
+13	?	?
+14	&lt;s&gt;	&lt;s&gt;
+1	-	-
+2	aminobutyric	aminobutyric	attr:&gt;3	@A&gt; %&gt;N &lt;?&gt; A ABS
+3	acid	acid	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+4	(	(
+5	GABA)ergic	gaba)ergic	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	neurons	neuron		@NH %NH N NOM PL	@OBJ %NH N NOM PL	@PCOMPL-S %NH N NOM PL	@APP %NH N NOM PL
+7	and	and		@CC %CC CC
+8	is	be	v-ch:&gt;9	@+FAUXV %AUX V PRES SG3
+9	secreted	secrete		@-FMAINV %VP EN
+10	into	into	goa:&gt;9	@ADVL %EH PREP
+11	perineuronal	perineuronal	attr:&gt;12	@A&gt; %&gt;N &lt;?&gt; A ABS
+12	nets	net	pcomp:&gt;10	@&lt;P %NH N NOM PL
+13	.     .
+</fdg>
+</example>
+<example src="PNAS" no="2">
+<text>
+T cells from double TCR transgenic mice at the cell surface express only one or the other of the two available TCRs .
+
+</text>
+       <arg n="0">one or the other of the two available TCRs
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">T cells from double TCR transgenic mice at the cell surface
+</arg>
+       <arg n="M-ADV">only
+</arg>
+<fdg>
+1	T	t	attr:&gt;2	@A&gt; %&gt;N ABBR NOM SG
+2	cells	cell	subj:&gt;8	@SUBJ %NH N NOM PL
+3	from	from	mod:&gt;2	@&lt;NOM %N&lt; PREP
+4	double	double	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	TCR	tcr	attr:&gt;6	@A&gt; %&gt;N ABBR NOM SG
+6	transgenic	transgenic	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	mice	mouse	pcomp:&gt;3	@&lt;P %NH N NOM PL
+8	express	express	main:&gt;0	@+FMAINV %VA V PRES
+9	only	only	ad:&gt;10	@AD-A&gt; %E&gt; ADV
+10	one	one	obj:&gt;8	@OBJ %NH PRON NOM SG
+11	or	or	cc:&gt;10	@CC %CC CC
+12	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+13	other	other	cc:&gt;10	@OBJ %NH PRON NOM SG
+14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+15	the	the	det:&gt;18	@DN&gt; %&gt;N DET
+16	two	two	qn:&gt;18	@QN&gt; %&gt;N NUM CARD
+17	available	available	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	TCRs	tcr	pcomp:&gt;14	@&lt;P %NH ABBR NOM PL
+19	at	at		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+20	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+21	cell	cell	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	surface	surface	pcomp:&gt;19	@&lt;P %NH N NOM SG
+23	.     .
+</fdg>
+</example>
+<example src="PNAS" no="3">
+<text>
+This functional allelic exclusion is apparently due to control of the TCR assembly process because these T cells express RNA and protein for all four transgenic TCR proteins.
+
+</text>
+       <arg n="0">RNA and protein for all four transgenic TCR proteins 
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">T cells
+</arg>
+<fdg>
+1	This	this	det:&gt;5	@DN&gt; %&gt;N DET DEM SG
+2	`	`
+3	functional	functional	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	allelic	allelic	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	exclusion	exclusion	obj:&gt;7	@OBJ %NH N NOM SG
+6	&apos;	&apos;
+7	is	be	main:&gt;0	@+FMAINV %VA V PRES SG3
+8	apparently	apparently	man:&gt;7	@ADVL %EH ADV
+9	due to	due to	ha:&gt;7	@ADVL %EH PREP
+10	control	control	pcomp:&gt;9	@&lt;P %NH N NOM SG
+11	of	of	mod:&gt;10	@&lt;NOM-OF %N&lt; PREP
+12	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+13	TCR	tcr	attr:&gt;14	@A&gt; %&gt;N ABBR NOM SG
+14	assembly	assembly	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	process	process	pcomp:&gt;11	@&lt;P %NH N NOM SG
+16	because	because	pm:&gt;20	@CS %CS CS
+17	these	this	det:&gt;19	@DN&gt; %&gt;N DET DEM PL
+18	T	t	attr:&gt;19	@A&gt; %&gt;N ABBR NOM SG
+
+19	cells	cell	subj:&gt;20	@SUBJ %NH N NOM PL
+20	express	express	cnt:&gt;7	@+FMAINV %VA V PRES
+21	RNA	rna	obj:&gt;20	@OBJ %NH ABBR NOM SG
+22	and	and	cc:&gt;21	@CC %CC CC
+23	protein	protein	cc:&gt;21	@OBJ %NH N NOM SG
+24	for	for	mod:&gt;23	@&lt;NOM %N&lt; PREP
+25	all	all	det:&gt;29	@DN&gt; %&gt;N DET
+26	four	four	qn:&gt;29	@QN&gt; %&gt;N NUM CARD
+27	transgenic	transgenic	attr:&gt;28	@A&gt; %&gt;N A ABS
+28	TCR	tcr	attr:&gt;29	@A&gt; %&gt;N ABBR NOM SG
+29	proteins	protein	pcomp:&gt;24	@&lt;P %NH N NOM PL
+30	.     .
+</fdg>
+</example>
+<example src="PNAS" no="4">
+<text>
+In such cells at the cell surface, two in-frame α chain transcripts are produced, but only one is expressed.
+
+</text>
+       <arg n="0">in-frame α chain transcripts 
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">such cells at the cell surface
+</arg>
+       <arg n="M-ADV">only
+</arg>
+<fdg>
+1	In	in		@ADVL %EH PREP
+2	such	such	det:&gt;3	@DN&gt; %&gt;N DET
+3	cells	cell	pcomp:&gt;1	@&lt;P %NH N NOM PL
+4	,	,
+5	two	two	qn:&gt;6	@QN&gt; %&gt;N NUM CARD
+6	in-frame	in-frame		@APP %NH &lt;?&gt; A ABS	@&lt;P %NH &lt;?&gt; A ABS	@NH %NH &lt;?&gt; A ABS
+7	?	?
+8	&lt;s&gt;	&lt;s&gt;
+1	chain	chain	attr:&gt;2	@A&gt; %&gt;N N NOM SG
+2	transcripts	transcript	subj:&gt;3	@SUBJ %NH N NOM PL
+3	are	be	v-ch:&gt;4	@+FAUXV %AUX V PRES
+4	produced	produce	main:&gt;0	@-FMAINV %VP EN
+5	,	,
+6	but	but	cc:&gt;4	@CC %CC CC
+7	only	only	meta:&gt;8	@ADVL %EH ADV
+8	one	one	subj:&gt;9	@SUBJ %NH NUM CARD
+9	is	be	v-ch:&gt;10	@+FAUXV %AUX V PRES SG3
+10	expressed	express	cc:&gt;4	@-FMAINV %VP EN
+11	at	at	loc:&gt;10	@ADVL %EH PREP
+12	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+13	cell	cell	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	surface	surface	pcomp:&gt;11	@&lt;P %NH N NOM SG
+15	.     .
+</fdg>
+</example>
+<example src="PNAS" no="*5">
+<text>
+T cells in mice at the cell surface carrying transgenes encoding TCR α and β proteins predominantly express the transgene-encoded TCR proteins.
+
+</text>
+       <arg n="0">the transgene-encoded TCR proteins 
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">T cells in mice at the cell surface
+</arg>
+       <arg n="M-MAN">
+</arg>
+<fdg>
+1	T	t	attr:&gt;2	@A&gt; %&gt;N ABBR NOM SG
+2	cells	cell	subj:&gt;6	@SUBJ %NH N NOM PL
+3	in	in	mod:&gt;2	@&lt;NOM %N&lt; PREP
+4	mice	mouse	pcomp:&gt;3	@&lt;P %NH N NOM PL
+5	carrying	carry	mod:&gt;4	@-FMAINV %VA ING
+6	transgenes	transgen*	main:&gt;0	@+FMAINV %VA &lt;?&gt; V PRES SG3
+7	encoding	encode	obj:&gt;6	@-FMAINV %VA ING
+8	TCR	tcr	obj:&gt;7	@OBJ %NH ABBR NOM SG
+9	?	?
+10	&lt;s&gt;	&lt;s&gt;
+1	and	and	cc:&gt;0	@CC %CC CC
+2	?	?
+3	&lt;s&gt;	&lt;s&gt;
+1	proteins	protein	subj:&gt;3	@SUBJ %NH N NOM PL
+2	predominantly	predominantly	man:&gt;3	@ADVL %EH ADV
+3	express	express	main:&gt;0	@+FMAINV %VA V PRES
+4	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+5	transgene-encoded	transgene-encoded	attr:&gt;6	@A&gt; %&gt;N &lt;?&gt; A ABS
+6	TCR	tcr	attr:&gt;7	@A&gt; %&gt;N ABBR NOM SG
+7	proteins	protein	obj:&gt;3	@OBJ %NH N NOM PL
+8	at	at	loc:&gt;3	@ADVL %EH PREP
+9	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+10	cell	cell	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+11	surface	surface	pcomp:&gt;8	@&lt;P %NH N NOM SG
+12	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

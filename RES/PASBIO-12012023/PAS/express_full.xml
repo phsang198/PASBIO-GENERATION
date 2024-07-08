@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="express">
+            <roleset id="express.01" name="" wordnet="5">
+                <roles>
+                    <role n="0" descr="named entity being expressed&#x09;&#x09;&#x09;&#x09;&#x09;// gene or gene products//&#x0A;" />
+                    <role n="1" descr="property of the existing name entity&#x0A;" />
+                    <role n="2" descr="location refering to organelle, cell or tissue&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="0">
+                    <text>A complementary DNA clone encoding the large subunit of the essential mammalian pre-messenger RNA splicing component U2 snRNP auxiliary factor(U2AF65) has been isolated and expressed in vitro.</text>
+                    <arg n="0">A complementary DNA clone</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>In summary, NNT-1/BSF-3 is expressed in pituitary folliculostellate TtT/GF cells and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary folliculostellate TtT/GF cells</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>It has been assumed that this peptide exercises its mitogenic influences through the vasopressin V1a receptor, and we have previously demonstrated that this receptor is expressed by classical and variant SCCL.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and variant SCCL</arg>
+                </example>
+                <example src="MEDLINE" no="3">
+                    <text>Most animal Ty3/gypsy retroelements, on the other hand, encode gag and pol in separate reading frames, and likely express Pol through +1 or -1 frameshifting.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">Most animal Ty3/gypsy retroelements</arg>
+                </example>
+                <example src="MEDLINE" no="4">
+                    <text>Northern blot analysis with mRNA from eight different human tissues demonstrated that the enzyme was expressed exclusively in brain, with two mRNA isoforms of 2.4 and 4.0 kb.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">two mRNA isoforms of 2.4 and 4.0 kb</arg>
+                    <arg n="2">brain</arg>
+                    <arg n="M-MAN">exclusively</arg>
+                </example>
+                <example src="MEDLINE" no="5">
+                    <text>Northern blotting and reverse transcriptase-PCR assays with oligonucleotide probes and primers specific for each transcript demonstrated that the isoform identical to Ran/TC4 was expressed in both somatic tissues and testis, while the variant form was transcribed only in testis.</text>
+                    <arg n="0">the isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic tissues and testis</arg>
+                </example>
+                <example src="MEDLINE" no="6">
+                    <text>RCAS viruses infect only cells engineered to express ectopically the avian retroviral receptor, TVA.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                    <arg n="M-MAN">ectopically</arg>
+                </example>
+                <example src="MEDLINE" no="7">
+                    <text>The human mitochondrial transcription termination factor (mTERF) cDNA has been cloned and expressed in vitro, and two alternative precursors of the protein have been imported into isolated mitochondria and processed to the mature protein.</text>
+                    <arg n="0">The human mitochondrial transcription termination factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="MEDLINE" no="8">
+                    <text>The mechanotransduction mechanism for this signalling may directly or indirectly involve the dystrophin complex as dystrophic muscle, unlike normal muscle, is unable to express MGF in response to overload.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="MEDLINE" no="9">
+                    <text>Two equally abundant mRNAs for il8ra, 2.0 and 2.4 kilobases in length, are expressed in neutrophils and arise from usage of two alternative polyadenylation signals.</text>
+                    <arg n="0">mRNAs for il8ra</arg>
+                    <arg n="1">2.0 and 2.4 kilobases in length</arg>
+                    <arg n="2">neutrophils</arg>
+                </example>
+                <example src="PNAS" no="1">
+                    <text>In such cells at the cell surface, two in-frame α chain transcripts are produced, but only one is expressed.</text>
+                    <arg n="0">in-frame α chain transcripts</arg>
+                    <arg n="2">such cells at the cell surface</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="PNAS" no="2">
+                    <text>In the cortex of adult animals, Reln is expressed primarily in γ-aminobutyric acid (GABA)ergic neurons and is secreted into perineuronal nets.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">γ-aminobutyric acid (GABA)ergic neurons</arg>
+                    <arg n="M-MAN">primarily</arg>
+                </example>
+                <example src="PNAS" no="3">
+                    <text>T cells from double TCR transgenic mice at the cell surface express only one or the other of the two available TCRs .</text>
+                    <arg n="0">one or the other of the two available TCRs</arg>
+                    <arg n="2">T cells from double TCR transgenic mice at the cell surface</arg>
+                    <arg n="M-ADV">only</arg>
+                </example>
+                <example src="PNAS" no="4">
+                    <text>T cells in mice at the cell surface carrying transgenes encoding TCR α and β proteins predominantly express the transgene-encoded TCR proteins.</text>
+                    <arg n="0">the transgene-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice at the cell surface</arg>
+                </example>
+                <example src="PNAS" no="5">
+                    <text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these T cells express RNA and protein for all four transgenic TCR proteins.</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

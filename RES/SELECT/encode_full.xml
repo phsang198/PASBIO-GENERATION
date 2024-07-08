@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="encode">
+            <roleset id="encode.01" name="to specify the genetic code for&#x0A;" wordnet="1">
+                <roles>
+                    <role n="0" descr="gene or rna&#x09;&#x09;&#x09;&#x09;//gene//&#x0A;" />
+                    <role n="1" descr="gene product&#x09; &#x09;&#x09;&#x09;//protein//&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A gene family is able to encode proteins involved in pre-mRNA splicing and map to the smallest deletion region involved in the Prader-Willi syndrome (PWS) within chromosome 15q11-q13.</text>
+                    <arg n="0">a gene family</arg>
+                    <arg n="1">proteins involved in pre-mRNA splicing</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>A protein that participated in the second step of the splicing reaction was encoded by The PRP17 gene of the yeast Saccharomyces cerevisiae.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participated in the second step of the splicing reaction</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>A protein that participates in the second step of the splicing reaction is shown to be encoded by The PRP17 gene of the yeast Saccharomyces cerevisiae.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participates in the second step of the splicing reaction</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>It is possible, therefore, that the added sequences in the larger forms of SBP2 mRNA are involved in the process of encoding proteins with other functions.</text>
+                    <arg n="0">the added sequences in the larger forms of SBP2 mRNA</arg>
+                    <arg n="1">proteins with other functions</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Proteins involved in pre-mRNA splicing are encoded by a gene family including the human SNRPN (small nuclear ribonucleoprotein polypeptide N) gene which maps to the smallest deletion region involved in the Prader-Willi syndrome (PWS) within chromosome 15q11-q13.</text>
+                    <arg n="0">a gene family</arg>
+                    <arg n="1">proteins involved in pre-mRNA splicing</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Six exons that encode the 6-pyruvoyl-tetrahydropterin synthase cause an autosomal recessively inherited variant of hyperphenylalaninemia, mostly accompanied by a deficiency of dopamine and serotonin.</text>
+                    <arg n="0">six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Six exons that encode the 6-pyruvoyl-tetrahydropterin synthase cause an autosomal recessively inherited variant of hyperphenylalaninemia, mostly accompanied by a deficiency of dopamine and serotonin.</text>
+                    <arg n="0">six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Six exons that have encoded the 6-pyruvoyl-tetrahydropterin synthase cause an autosomal recessively inherited variant of hyperphenylalaninemia, mostly accompanied by a deficiency of dopamine and serotonin.</text>
+                    <arg n="0">six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Six exons that have encoded the 6-pyruvoyl-tetrahydropterin synthase cause an autosomal recessively inherited variant of hyperphenylalaninemia, mostly accompanied by a deficiency of dopamine and serotonin.</text>
+                    <arg n="0">six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>The gene yjfQ is shown to encode the repressor of the yjfR-X regulon (ula), which is involved in L-ascorbate metabolism in Escherichia coli.</text>
+                    <arg n="0">The gene yjfQ</arg>
+                    <arg n="0">the repressor of the yjfR-X regulon (ula)</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>The glp regulon of Escherichia coli is shown to encode the proteins required for utilization of sn-glycerol 3-phosphate and its precursors.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="0">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>We recently encloned murine and human cDNAs that have encoded CP2, a cellular transcription factor that interacts with the alpha-globin promoter as well as with additional cellular and viral promoter elements.</text>
+                    <arg n="0">murine and human cDNAs</arg>
+                    <arg n="0">CP2</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>We recently encloned murine and human cDNAs which may have encoded CP2, a cellular transcription factor that interacts with the alpha-globin promoter as well as with additional cellular and viral promoter elements.</text>
+                    <arg n="0">murine and human cDNAs</arg>
+                    <arg n="0">CP2</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>The glp regulon of Escherichia coli encodes the proteins required for utilization of sn-glycerol 3-phosphate and its precursors.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="1">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>Supt4h2 encodes a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference, indicating extreme conservation of this expressed processed gene with the spliced gene over evolutionary time.</text>
+                    <arg n="0">Supt4h2</arg>
+                    <arg n="1">a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Expression CP2 Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 may be encoded by as many as encloned murine and human cDNAs.</text>
+                    <arg n="0">encloned murine and human cDNAs</arg>
+                    <arg n="1">CP2</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Expression CP2 Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 was encoded by as many as encloned murine and human cDNAs.</text>
+                    <arg n="0">encloned murine and human cDNAs</arg>
+                    <arg n="1">CP2</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Expression a protein of the KdgM family of outer membrane-specific channels Northern analysis of poly (A) + RNA from various tissues shows The Escherichia coli yjhA (renamed nanC) gene are shown to encode SBP2.</text>
+                    <arg n="0">The Escherichia coli yjhA (renamed nanC) gene</arg>
+                    <arg n="1">a protein of the KdgM family of outer membrane-specific channels</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Expression a transcription factor with dual roles in transcription initiation and termination Northern analysis of poly (A) + RNA from various tissues shows MAZ are shown to encode SBP2.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="1">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Expression a transcription factor with dual roles in transcription initiation and termination Northern analysis of poly (A) + RNA from various tissues shows MAZ are shown to encode SBP2.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="1">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Expression a transcription factor with dual roles in transcription initiation and termination Northern analysis of poly (A) + RNA from various tissues shows MAZ are shown to have encoded SBP2.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="1">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Expression a transcription factor with dual roles in transcription initiation and termination Northern analysis of poly (A) + RNA from various tissues shows that MAZ encode SBP2.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="1">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Expression of the ompF and ompC genes is able to encode the major outer membrane proteins, OmpF and OmpC.</text>
+                    <arg n="0">Expression of the ompF and ompC genes</arg>
+                    <arg n="0">the major outer membrane proteins, OmpF and OmpC</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Expression the 6-pyruvoyl-tetrahydropterin synthase Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 has been encoded by as many as all six exons.</text>
+                    <arg n="0">all six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Expression the 6-pyruvoyl-tetrahydropterin synthase Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 may be encoded by as many as all six exons.</text>
+                    <arg n="0">all six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Expression the 6-pyruvoyl-tetrahydropterin synthase Northern analysis of poly (A) + RNA from various tissues shows that all six exons encode SBP2.</text>
+                    <arg n="0">all six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Expression the major outer membrane proteins, OmpF and OmpC Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 may be encoded by as many as Expression of the ompF and ompC genes.</text>
+                    <arg n="0">Expression of the ompF and ompC genes</arg>
+                    <arg n="1">the major outer membrane proteins, OmpF and OmpC</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Expression the major outer membrane proteins, OmpF and OmpC Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 was encoded by as many as Expression of the ompF and ompC genes.</text>
+                    <arg n="0">Expression of the ompF and ompC genes</arg>
+                    <arg n="1">the major outer membrane proteins, OmpF and OmpC</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Expression the repressor of the yjfR-X regulon (ula) Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 was encoded by as many as The gene yjfQ.</text>
+                    <arg n="0">The gene yjfQ</arg>
+                    <arg n="1">the repressor of the yjfR-X regulon (ula)</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>In plants it is estimated that Expression of the ompF and ompC genes encode the major outer membrane proteins, OmpF and OmpC.</text>
+                    <arg n="0">Expression of the ompF and ompC genes</arg>
+                    <arg n="1">the major outer membrane proteins, OmpF and OmpC</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>In plants it is estimated that The glp regulon of Escherichia coli have encoded the proteins required for utilization of sn-glycerol 3-phosphate and its precursors.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="1">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>In plants it is estimated that all six exons have encoded the 6-pyruvoyl-tetrahydropterin synthase.</text>
+                    <arg n="0">all six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>In plants it is estimated that the added sequences in the larger forms of SBP2 mRNA have encoded proteins with other functions.</text>
+                    <arg n="0">the added sequences in the larger forms of SBP2 mRNA</arg>
+                    <arg n="1">proteins with other functions</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>In plants it is estimated that the proteins required for utilization of sn-glycerol 3-phosphate and its precursors are encoded by The glp regulon of Escherichia coli.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="1">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>In plants it is estimated that the repressor of the yjfR-X regulon (ula) have been encoded by The gene yjfQ.</text>
+                    <arg n="0">The gene yjfQ</arg>
+                    <arg n="1">the repressor of the yjfR-X regulon (ula)</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>In plants it is estimated that the repressor of the yjfR-X regulon (ula) have been encoded by The gene yjfQ.</text>
+                    <arg n="0">The gene yjfQ</arg>
+                    <arg n="1">the repressor of the yjfR-X regulon (ula)</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>It is possible, therefore, that MAZ are involved in encoding a transcription factor with dual roles in transcription initiation and termination.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="1">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>It is possible, therefore, that nuclear genes are involved in regulating its expression of encoding between 1000 and 5000 chloroplast proteins.</text>
+                    <arg n="0">nuclear genes</arg>
+                    <arg n="1">between 1000 and 5000 chloroplast proteins</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>MAZ encoded a transcription factor with dual roles in transcription initiation and termination, which is involved in L-ascorbate metabolism in Escherichia coli.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="0">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>MAZ is able to encode a transcription factor with dual roles in transcription initiation and termination, which is involved in L-ascorbate metabolism in Escherichia coli.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="0">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>MAZ, which encoded a transcription factor with dual roles in transcription initiation and termination, respectively, was affected in a reciprocal manner by the osmolarity of the growth medium.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="0">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>Our reseach shows that the 6-pyruvoyl-tetrahydropterin synthase are encoded by all six exons.</text>
+                    <arg n="0">all six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>Our reseach shows that the proteins required for utilization of sn-glycerol 3-phosphate and its precursors were encoded by The glp regulon of Escherichia coli.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="1">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>The Escherichia coli yjhA (renamed nanC) gene may have encoded a protein of the KdgM family of outer membrane-specific channels.</text>
+                    <arg n="0">The Escherichia coli yjhA (renamed nanC) gene</arg>
+                    <arg n="0">a protein of the KdgM family of outer membrane-specific channels</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>The Escherichia coli yjhA (renamed nanC) gene, which encoded a protein of the KdgM family of outer membrane-specific channels, respectively, was affected in a reciprocal manner by the osmolarity of the growth medium.</text>
+                    <arg n="0">The Escherichia coli yjhA (renamed nanC) gene</arg>
+                    <arg n="0">a protein of the KdgM family of outer membrane-specific channels</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>The gene yjfQ encodes the repressor of the yjfR-X regulon (ula).</text>
+                    <arg n="0">The gene yjfQ</arg>
+                    <arg n="1">the repressor of the yjfR-X regulon (ula)</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>The gene yjfQ has encoded the repressor of the yjfR-X regulon (ula).</text>
+                    <arg n="0">The gene yjfQ</arg>
+                    <arg n="0">the repressor of the yjfR-X regulon (ula)</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>The glp regulon of Escherichia coli has been encoding the proteins required for utilization of sn-glycerol 3-phosphate and its precursors.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="0">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>The glp regulon of Escherichia coli is able to encode the proteins required for utilization of sn-glycerol 3-phosphate and its precursors.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="0">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>The glp regulon of Escherichia coli is believed to encode the proteins required for utilization of sn-glycerol 3-phosphate and its precursors.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="0">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>The glp regulon of Escherichia coli, which encode the proteins required for utilization of sn-glycerol 3-phosphate and its precursors, respectively, is affected in a reciprocal manner by the osmolarity of the growth medium.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="1">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>We recently Expression of the ompF and ompC genes that encode the major outer membrane proteins, OmpF and OmpC, a cellular transcription factor that interacts with the alpha-globin promoter as well as with additional cellular and viral promoter elements.</text>
+                    <arg n="0">Expression of the ompF and ompC genes</arg>
+                    <arg n="1">the major outer membrane proteins, OmpF and OmpC</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>We recently encloned MAZ encoding a transcription factor with dual roles in transcription initiation and termination, a cellular transcription factor that interacts with the alpha-globin promoter as well as with additional cellular and viral promoter elements.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="0">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>a protein of the KdgM family of outer membrane-specific channels have been encoded by The Escherichia coli yjhA (renamed nanC) gene .</text>
+                    <arg n="0">The Escherichia coli yjhA (renamed nanC) gene</arg>
+                    <arg n="0">a protein of the KdgM family of outer membrane-specific channels</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>a transcription factor with dual roles in transcription initiation and termination are encoded by MAZ.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="0">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>all six exons may encode the 6-pyruvoyl-tetrahydropterin synthase.</text>
+                    <arg n="0">all six exons</arg>
+                    <arg n="1">the 6-pyruvoyl-tetrahydropterin synthase</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>encloned murine and human cDNAs encodes CP2.</text>
+                    <arg n="0">encloned murine and human cDNAs</arg>
+                    <arg n="1">CP2</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>murine and human cDNAs encoded CP2, which is involved in L-ascorbate metabolism in Escherichia coli.</text>
+                    <arg n="0">murine and human cDNAs</arg>
+                    <arg n="0">CP2</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>murine and human cDNAs is believed to encode CP2.</text>
+                    <arg n="0">murine and human cDNAs</arg>
+                    <arg n="0">CP2</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>murine and human cDNAs, encoding CP2, respectively, is affected in a reciprocal manner by the osmolarity of the growth medium.</text>
+                    <arg n="0">murine and human cDNAs</arg>
+                    <arg n="0">CP2</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>the major outer membrane proteins, OmpF and OmpC are shown to be encoded by Expression of the ompF and ompC genes .</text>
+                    <arg n="0">Expression of the ompF and ompC genes</arg>
+                    <arg n="0">the major outer membrane proteins, OmpF and OmpC</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>the major outer membrane proteins, OmpF and OmpC may be encoded by Expression of the ompF and ompC genes .</text>
+                    <arg n="0">Expression of the ompF and ompC genes</arg>
+                    <arg n="0">the major outer membrane proteins, OmpF and OmpC</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>the repressor of the yjfR-X regulon (ula) is encoded by The gene yjfQ.</text>
+                    <arg n="0">The gene yjfQ</arg>
+                    <arg n="0">the repressor of the yjfR-X regulon (ula)</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Compound heterozygous or homozygous mutations spread over The PRP17 gene of the yeast Saccharomyces cerevisiae encoding a protein that participated in the second step of the splicing reaction cause an autosomal recessively inherited variant of hyperphenylalaninemia, mostly accompanied by a deficiency of dopamine and serotonin.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participated in the second step of the splicing reaction</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Expression a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 may be encoded by as many as Supt4h2.</text>
+                    <arg n="0">Supt4h2</arg>
+                    <arg n="1">a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Expression a multipass integral membrane protein Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 is encoded by as many as pre-mRNA.</text>
+                    <arg n="0">pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Expression a multipass integral membrane protein Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 may be encoded by as many as pre-mRNA.</text>
+                    <arg n="0">pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Expression a multipass integral membrane protein Northern analysis of poly (A) + RNA from various tissues shows a pre-mRNA are shown to encode SBP2.</text>
+                    <arg n="0">a pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Expression a multipass integral membrane protein Northern analysis of poly (A) + RNA from various tissues shows pre-mRNA are shown to encode SBP2.</text>
+                    <arg n="0">pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Expression a multipass integral membrane protein Northern analysis of poly (A) + RNA from various tissues shows that pre-mRNA encode SBP2.</text>
+                    <arg n="0">pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Expression a multipass integral membrane protein Northern analysis of poly (A) + RNA from various tissues shows that pre-mRNA have encoded SBP2.</text>
+                    <arg n="0">pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Expression a multipass integral membrane protein Northern analysis of poly (A) + RNA from various tissues shows that pre-mRNA have encoded SBP2.</text>
+                    <arg n="0">pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Expression a protein that participated in the second step of the splicing reaction Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 was encoded by as many as The PRP17 gene of the yeast Saccharomyces cerevisiae.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participated in the second step of the splicing reaction</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Expression a protein that participated in the second step of the splicing reaction Northern analysis of poly (A) + RNA from various tissues shows The PRP17 gene of the yeast Saccharomyces cerevisiae are shown to have encoded SBP2.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participated in the second step of the splicing reaction</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Expression a protein that participates in the second step of the splicing reaction Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 is encoded by as many as The PRP17 gene of the yeast Saccharomyces cerevisiae.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participates in the second step of the splicing reaction</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Expression resistance to WR99210 Northern analysis of poly (A) + RNA from various tissues shows that the T.gondii dhfr-ts region encode SBP2.</text>
+                    <arg n="0">the T.gondii dhfr-ts region</arg>
+                    <arg n="1">resistance to WR99210</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Expression resistance to WR99210 Northern analysis of poly (A) + RNA from various tissues shows that the T.gondii dhfr-ts region encode SBP2.</text>
+                    <arg n="0">the T.gondii dhfr-ts region</arg>
+                    <arg n="1">resistance to WR99210</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>Expression resistance to WR99210 Northern analysis of poly (A) + RNA from various tissues shows that the T.gondii dhfr-ts region encode SBP2.</text>
+                    <arg n="0">the T.gondii dhfr-ts region</arg>
+                    <arg n="1">resistance to WR99210</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>Expression resistance to WR99210 Northern analysis of poly (A) + RNA from various tissues shows the T.gondii dhfr-ts region are shown to encode SBP2.</text>
+                    <arg n="0">the T.gondii dhfr-ts region</arg>
+                    <arg n="1">resistance to WR99210</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>In plants it is estimated that The PRP17 gene of the yeast Saccharomyces cerevisiae may have encoded a protein that participates in the second step of the splicing reaction.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participates in the second step of the splicing reaction</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>In plants it is estimated that a multipass integral membrane protein have been encoded by pre-mRNA.</text>
+                    <arg n="0">pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>In plants it is estimated that a pre-mRNA encode a multipass integral membrane protein.</text>
+                    <arg n="0">a pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>In plants it is estimated that a pre-mRNA have encoded a multipass integral membrane protein.</text>
+                    <arg n="0">a pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>It is possible, therefore, that Supt4h2 are involved in encoding a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference.</text>
+                    <arg n="0">Supt4h2</arg>
+                    <arg n="1">a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>It is possible, therefore, that The PRP17 gene of the yeast Saccharomyces cerevisiae are involved in encoding a protein that participated in the second step of the splicing reaction.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participated in the second step of the splicing reaction</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>It is possible, therefore, that The PRP17 gene of the yeast Saccharomyces cerevisiae are involved in regulating its expression of encoding a protein that participates in the second step of the splicing reaction.</text>
+                    <arg n="0">The PRP17 gene of the yeast Saccharomyces cerevisiae</arg>
+                    <arg n="1">a protein that participates in the second step of the splicing reaction</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>It is possible, therefore, that a pre-mRNA are involved in regulating its expression of encoding a multipass integral membrane protein.</text>
+                    <arg n="0">a pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>Our reseach shows that a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference are encoded by Supt4h2.</text>
+                    <arg n="0">Supt4h2</arg>
+                    <arg n="1">a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>Our reseach shows that a gene family encode proteins involved in pre-mRNA splicing.</text>
+                    <arg n="0">a gene family</arg>
+                    <arg n="1">proteins involved in pre-mRNA splicing</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>Our reseach shows that a multipass integral membrane protein are encoded by a pre-mRNA.</text>
+                    <arg n="0">a pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>Our reseach shows that proteins involved in pre-mRNA splicing are encoded by a gene family.</text>
+                    <arg n="0">a gene family</arg>
+                    <arg n="1">proteins involved in pre-mRNA splicing</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>Our reseach shows that resistance to WR99210 were encoded by the T.gondii dhfr-ts region.</text>
+                    <arg n="0">the T.gondii dhfr-ts region</arg>
+                    <arg n="1">resistance to WR99210</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>Supt4h2 encodes a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference.</text>
+                    <arg n="0">Supt4h2</arg>
+                    <arg n="1">a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>a gene family encodes proteins involved in pre-mRNA splicing.</text>
+                    <arg n="0">a gene family</arg>
+                    <arg n="1">proteins involved in pre-mRNA splicing</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>a pre-mRNA encodes a multipass integral membrane protein.</text>
+                    <arg n="0">a pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>pre-mRNA, which encode a multipass integral membrane protein, respectively, is affected in a reciprocal manner by the osmolarity of the growth medium.</text>
+                    <arg n="0">pre-mRNA</arg>
+                    <arg n="1">a multipass integral membrane protein</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="confer">
+            <roleset id="confer.01" name="" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent&#x09;&#x09;// mechanism, process, entity(imply to condition or property in that entity) // &#x0A;" />
+                    <role n="1" descr="given biological property&#x09;&#x0A;" />
+                    <role n="2" descr="entity receiving the biological property&#x09;         // gene product, celll, tissue, etc. //&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that resistance may be conferred by substitutions at Gly156 and Lys165 to 06-BG through backbone distortions.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that resistance might be conferred by substitutions at Gly156 and Lys165 to 06-BG through backbone distortions.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that resistance might be conferred by substitutions at Gly156 and Lys165 to 06-BG through backbone distortions.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that substitutions at Gly156 and Lys165 are observed to confer resistance to 06-BG through backbone distortions.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that substitutions at Gly156 and Lys165 may have conferred resistance to 06-BG through backbone distortions.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that substitutions at Gly156 and Lys165 may have the ability to confer resistance to 06-BG through backbone distortions.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that substitutions at Gly156 and Lys165 were believed to confer resistance to 06-BG through backbone distortions.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Human 06-alkylguaning-DNA alkyltransferase (AGT) which confers resistance to alkylation chemotherapies is therefore an active anticancer drug target.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>In addition, EvgA overexpression was not able to confer resistance in a tolC-deficient strain.</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>In addition, loss-of-function mutations have not been conferred by nonsense or frameshift alterations in the coding sequence or by splice variants, genetic screening has revealed a large number of missense codons with less obvious functional consequences.</text>
+                    <arg n="0">nonsense or frameshift alterations in the coding sequence or by splice variants</arg>
+                    <arg n="1">loss-of-function mutations</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>In addition, loss-of-function mutations is believed not to be conferred by nonsense or frameshift alterations in the coding sequence or by splice variants, genetic screening has revealed a large number of missense codons with less obvious functional consequences.</text>
+                    <arg n="0">nonsense or frameshift alterations in the coding sequence or by splice variants</arg>
+                    <arg n="1">loss-of-function mutations</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>In itself, an increased risk of diabetes is not able to be conferred by the gene variant.</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>In itself, an increased risk of diabetes will not have been conferred by the gene variant.</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>In itself, the gene variant is believed not to confer an increased risk of diabetes.</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>In itself, the gene variant was not able to confer an increased risk of diabetes.</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>In itself, the gene variant will not have conferred an increased risk of diabetes.</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and transfection of AGT might confer resistance to alkylation-sensitive cells (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">transfection of AGT</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation-sensitive cells</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and transfection of AGT would confer resistance to alkylation-sensitive cells (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">transfection of AGT</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation-sensitive cells</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), the 06-BG resistance could be conferred by these mutations (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), these mutations confer the 06-BG resistance (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Nonsense or frameshift alterations in the coding sequence or by splice variants were believed not to confer loss-of-function mutations.</text>
+                    <arg n="0">nonsense or frameshift alterations in the coding sequence or by splice variants</arg>
+                    <arg n="1">loss-of-function mutations</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Resistance is able to confer by human 06-alkylguaning-DNA alkyltransferase (AGT), which directly reverses endogenous alkylation at the 06-position of guanine, to alkylation chemotherapies.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>That the portion of the STATs has conferred specificity for either a MAPK or a MAPK substrate kinase (MAPKAP) has not been determined.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>The data from the chimeras indicate that the difference is due to the absence of carboxyl sequences in Stat1, since the Stat5 phenotype of stability in the presence of MG132 can have been conferred on Stat1 by simply replacing the C-terminus with that of Stat5.</text>
+                    <arg n="0">simply replacing the C-terminus with that of Stat5</arg>
+                    <arg n="1">the Stat5 phenotype of stability in the presence of MG132</arg>
+                    <arg n="2">Stat1</arg>
+                    <arg n="M-MOD">can</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and transfection of AGT confers resistance to alkylation-sensitive cells (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">transfection of AGT</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation-sensitive cells</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>06-BG resistance in a tolC-deficient strain can be conferred by these mutations.</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that Human 06-alkylguaning-DNA alkyltransferase are able to confer resistance to alkylation chemotherapies through backbone distortions.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that Human 06-alkylguaning-DNA alkyltransferase are believed to confer resistance to alkylation chemotherapies through backbone distortions.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that Human 06-alkylguaning-DNA alkyltransferase may confer resistance to alkylation chemotherapies through backbone distortions.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that Human 06-alkylguaning-DNA alkyltransferase might confer resistance to alkylation chemotherapies through backbone distortions.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that resistance is shown to be conferred by Human 06-alkylguaning-DNA alkyltransferase to alkylation chemotherapies through backbone distortions.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that resistance might be conferred by Human 06-alkylguaning-DNA alkyltransferase to alkylation chemotherapies through backbone distortions.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that resistance will have been conferred by transfection of AGT to alkylation-sensitive cells through backbone distortions.</text>
+                    <arg n="0">transfection of AGT</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation-sensitive cells</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that simply replacing the C-terminus with that of Stat5 are able to confer the Stat5 phenotype of stability in the presence of MG132 to Stat1 through backbone distortions.</text>
+                    <arg n="0">simply replacing the C-terminus with that of Stat5</arg>
+                    <arg n="1">the Stat5 phenotype of stability in the presence of MG132</arg>
+                    <arg n="2">Stat1</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that simply replacing the C-terminus with that of Stat5 will confer the Stat5 phenotype of stability in the presence of MG132 to Stat1 through backbone distortions.</text>
+                    <arg n="0">simply replacing the C-terminus with that of Stat5</arg>
+                    <arg n="1">the Stat5 phenotype of stability in the presence of MG132</arg>
+                    <arg n="2">Stat1</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that specificity was conferred by The portion of the STATs to either a MAPK or a MAPK substrate kinase (MAPKAP) through backbone distortions.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that the Stat5 phenotype of stability in the presence of MG132 has been able to be conferred by simply replacing the C-terminus with that of Stat5 to Stat1 through backbone distortions.</text>
+                    <arg n="0">simply replacing the C-terminus with that of Stat5</arg>
+                    <arg n="1">the Stat5 phenotype of stability in the presence of MG132</arg>
+                    <arg n="2">Stat1</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>In addition, the gene variant did not confer an increased risk of diabetes in a tolC-deficient strain.</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>In addition, the gene variant will not confer an increased risk of diabetes in a tolC-deficient strain.</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>In addition, these mutations has not confer 06-BG resistance in a tolC-deficient strain.</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>In addition, these mutations has not confer 06-BG resistance in a tolC-deficient strain.</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>In addition, these mutations is not able to confer 06-BG resistance in a tolC-deficient strain.</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>In addition, these mutations may not confer 06-BG resistance in a tolC-deficient strain.</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>In addition, these mutations will not confer 06-BG resistance in a tolC-deficient strain.</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>In itself, 06-BG resistance was not conferred by these mutations.</text>
+                    <arg n="0">these mutations</arg>
+                    <arg n="1">06-BG resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>In itself, resistance is not able to be conferred by EvgA overexpression.</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>In itself, resistance is not conferred by EvgA overexpression.</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>In itself, resistance was not able to be conferred by EvgA overexpression.</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and Human 06-alkylguaning-DNA alkyltransferase is able to confer resistance to alkylation chemotherapies (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and Human 06-alkylguaning-DNA alkyltransferase may have conferred resistance to alkylation chemotherapies (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and Human 06-alkylguaning-DNA alkyltransferase might confer resistance to alkylation chemotherapies (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and Human 06-alkylguaning-DNA alkyltransferase was believed to confer resistance to alkylation chemotherapies (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and Human 06-alkylguaning-DNA alkyltransferase will confer resistance to alkylation chemotherapies (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and resistance can have been conferred by substitutions at Gly156 and Lys165 to 06-BG (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and resistance has been conferred by Human 06-alkylguaning-DNA alkyltransferase to alkylation chemotherapies (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and resistance may have been conferred by Human 06-alkylguaning-DNA alkyltransferase to alkylation chemotherapies (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and resistance was conferred by Human 06-alkylguaning-DNA alkyltransferase to alkylation chemotherapies (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and substitutions at Gly156 and Lys165 is believed to confer resistance to 06-BG (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and substitutions at Gly156 and Lys165 is observed to confer resistance to 06-BG (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>Increased AGT levels parallel acquired alkylation specificity in human tumors (Brent et al., 1985; Mattern et al., 1998), and The portion of the STATs conferred resistance to either a MAPK or a MAPK substrate kinase (MAPKAP) (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>Increased AGT levels parallel acquired alkylation specificity in human tumors (Brent et al., 1985; Mattern et al., 1998), and The portion of the STATs was observed to confer resistance to either a MAPK or a MAPK substrate kinase (MAPKAP) (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>Increased AGT levels parallel acquired alkylation specificity in human tumors (Brent et al., 1985; Mattern et al., 1998), and The portion of the STATs would confer resistance to either a MAPK or a MAPK substrate kinase (MAPKAP) (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>Increased AGT levels parallel acquired alkylation specificity in human tumors (Brent et al., 1985; Mattern et al., 1998), and The portion of the STATs would confer resistance to either a MAPK or a MAPK substrate kinase (MAPKAP) (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>Increased AGT levels parallel acquired alkylation specificity in human tumors (Brent et al., 1985; Mattern et al., 1998), and resistance might be conferred by The portion of the STATs to either a MAPK or a MAPK substrate kinase (MAPKAP) (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>Increased AGT levels parallel acquired alkylation specificity in human tumors (Brent et al., 1985; Mattern et al., 1998), and resistance will have been conferred by The portion of the STATs to either a MAPK or a MAPK substrate kinase (MAPKAP) (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>Increased AGT levels parallel acquired alkylation the Stat5 phenotype of stability in the presence of MG132 in human tumors (Brent et al., 1985; Mattern et al., 1998), and resistance was able to be conferred by simply replacing the C-terminus with that of Stat5 to Stat1 (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">simply replacing the C-terminus with that of Stat5</arg>
+                    <arg n="1">the Stat5 phenotype of stability in the presence of MG132</arg>
+                    <arg n="2">Stat1</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>Increased AGT levels parallel acquired alkylation the Stat5 phenotype of stability in the presence of MG132 in human tumors (Brent et al., 1985; Mattern et al., 1998), and simply replacing the C-terminus with that of Stat5 can confer resistance to Stat1 (Kaina et al., 1991), demonstrating the role of AGT in therapeutic resistance.</text>
+                    <arg n="0">simply replacing the C-terminus with that of Stat5</arg>
+                    <arg n="1">the Stat5 phenotype of stability in the presence of MG132</arg>
+                    <arg n="2">Stat1</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), EvgA overexpression can confer the resistance (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), EvgA overexpression was able to confer the resistance (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), explaining the resistance conferred by EvgA overexpression (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), the gene variant confer the an increased risk of diabetes (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), the gene variant is believed to confer the an increased risk of diabetes (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">the gene variant</arg>
+                    <arg n="1">an increased risk of diabetes</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), the resistance can be conferred by EvgA overexpression (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), the resistance is believed to be conferred by EvgA overexpression (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), the resistance will be conferred by EvgA overexpression (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>The data from the chimeras indicate that the difference is due to the absence of carboxyl sequences in 06-BG, since substitutions at Gly156 and Lys165 is able to confer resistance on Stat1.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>The data from the chimeras indicate that the difference is due to the absence of carboxyl sequences in alkylation chemotherapies, since Human 06-alkylguaning-DNA alkyltransferase will confer resistance on Stat1.</text>
+                    <arg n="0">Human 06-alkylguaning-DNA alkyltransferase</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">alkylation chemotherapies</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>The data from the chimeras indicate that the difference is due to the absence of carboxyl sequences in either a MAPK or a MAPK substrate kinase (MAPKAP), since The portion of the STATs can confer specificity on Stat1.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>The data from the chimeras indicate that the difference is due to the absence of carboxyl sequences in either a MAPK or a MAPK substrate kinase (MAPKAP), since The portion of the STATs may confer specificity on Stat1.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>The portion of the STATs (AGT), which directly reverses endogenous alkylation at the 06-position of guanine, was observed to confer specificity to either a MAPK or a MAPK substrate kinase (MAPKAP) and was therefore an active anticancer drug target.</text>
+                    <arg n="0">The portion of the STATs</arg>
+                    <arg n="1">specificity</arg>
+                    <arg n="2">either a MAPK or a MAPK substrate kinase (MAPKAP)</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>simply replacing the C-terminus with that of Stat5 (AGT) that conferred the Stat5 phenotype of stability in the presence of MG132 to Stat1 was therefore an active anticancer drug target.</text>
+                    <arg n="0">simply replacing the C-terminus with that of Stat5</arg>
+                    <arg n="1">the Stat5 phenotype of stability in the presence of MG132</arg>
+                    <arg n="2">Stat1</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>simply replacing the C-terminus with that of Stat5 (AGT), which directly reverses endogenous alkylation at the 06-position of guanine, was able to confer the Stat5 phenotype of stability in the presence of MG132 to Stat1 and was therefore an active anticancer drug target.</text>
+                    <arg n="0">simply replacing the C-terminus with that of Stat5</arg>
+                    <arg n="1">the Stat5 phenotype of stability in the presence of MG132</arg>
+                    <arg n="2">Stat1</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>substitutions at Gly156 and Lys165 (AGT) that has conferred resistance to 06-BG was therefore an active anticancer drug target.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>substitutions at Gly156 and Lys165 (AGT) which is believed to confer resistance to 06-BG was therefore an active anticancer drug target.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>substitutions at Gly156 and Lys165 (AGT) which may confer resistance to 06-BG was therefore an active anticancer drug target.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>substitutions at Gly156 and Lys165 (AGT), which directly reverses endogenous alkylation at the 06-position of guanine, can confer resistance to 06-BG and is therefore an active anticancer drug target.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>substitutions at Gly156 and Lys165 (AGT), which directly reverses endogenous alkylation at the 06-position of guanine, was believed to confer resistance to 06-BG and was therefore an active anticancer drug target.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>substitutions at Gly156 and Lys165 (AGT), which directly reverses endogenous alkylation at the 06-position of guanine, will confer resistance to 06-BG and is therefore an active anticancer drug target.</text>
+                    <arg n="0">substitutions at Gly156 and Lys165</arg>
+                    <arg n="1">resistance</arg>
+                    <arg n="2">06-BG</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>In addition, nonsense or frameshift alterations in the coding sequence or by splice variants might not confer loss-of-function mutations in a tolC-deficient strain.</text>
+                    <arg n="0">nonsense or frameshift alterations in the coding sequence or by splice variants</arg>
+                    <arg n="1">loss-of-function mutations</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>In itself, nonsense or frameshift alterations in the coding sequence or by splice variants cannot have conferred loss-of-function mutations.</text>
+                    <arg n="0">nonsense or frameshift alterations in the coding sequence or by splice variants</arg>
+                    <arg n="1">loss-of-function mutations</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), nonsense or frameshift alterations in the coding sequence or by splice variants have conferred the loss-of-function mutations (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">nonsense or frameshift alterations in the coding sequence or by splice variants</arg>
+                    <arg n="1">loss-of-function mutations</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), the loss-of-function mutations can be conferred by nonsense or frameshift alterations in the coding sequence or by splice variants (Xu-Welliver et al., 1999a).</text>
+                    <arg n="0">nonsense or frameshift alterations in the coding sequence or by splice variants</arg>
+                    <arg n="1">loss-of-function mutations</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>loss-of-function mutations in a tolC-deficient strain has been conferred by nonsense or frameshift alterations in the coding sequence or by splice variants.</text>
+                    <arg n="0">nonsense or frameshift alterations in the coding sequence or by splice variants</arg>
+                    <arg n="1">loss-of-function mutations</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

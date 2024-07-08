@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="splice">
+
+<roleset id="splice.02" name="SPLICE OUT
+" wordnet="-">
+<roles>
+  <role n="0" descr="thing get spliced				    // entity (gene, premRNA) //
+"/>
+  <role n="1" descr="lost component, cut out component		    // intron, exon, or more than one of them //
+"/>
+  <role n="2" descr="location refering to organelle, cell or tissue 
+"/>
+  <role n="3" descr="secondary predicates				    // purpose or reason
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+CD1c has a duplicated form of this exon that is thought to be spliced out.  
+
+</text>
+       <arg n="0">CD1c
+</arg>
+       <arg n="1">a duplicated form of this exon
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+         1	CD1c	cd1c	subj:&gt;2	@SUBJ %NH N NOM SGvp
+         2	has	have	main:&gt;0	@+FMAINV %VA V PRES SG3
+         3	a	a	det:&gt;5	@DN&gt; %&gt;N DET SG
+         4	duplicated	duplicated	attr:&gt;5	@A&gt; %&gt;N A ABS
+         5	form	form	obj:&gt;2	@OBJ %NH N NOM SG
+         6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+         7	this	this	det:&gt;8	@DN&gt; %&gt;N DET DEM SG
+         8	exon	exon	pcomp:&gt;6	@&lt;P %NH N NOM SG
+         9	that	that	subj:&gt;10	@SUBJ %NH &lt;Rel&gt; PRON
+         10	is	be	v-ch:&gt;11	@+FAUXV %AUX V PRES SG3
+         11	thought	think	mod:&gt;8	@-FMAINV %VP EN
+         12	to	to	pm:&gt;13	@INFMARK&gt; %AUX INFMARK&gt;
+         13	be	be	v-ch:&gt;14	@-FAUXV %AUX V INF
+         14	spliced	splice	obj:&gt;11	@-FMAINV %VP EN
+         15	out	out	loc:&gt;14	@ADVL %EH ADV
+         16	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+We have shown that in the human, as in the chicken, one exon is spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.
+
+</text>
+       <arg n="0">MLC3nm transcript
+</arg>
+       <arg n="1">one exon
+</arg>
+       <arg n="2">smooth muscle
+</arg>
+       <arg n="3">an alternative product
+</arg>
+<fdg>
+         1	We	we	subj:&gt;2	@SUBJ %NH PRON PERS NOM PL1
+         2	have	have	v-ch:&gt;3	@+FAUXV %AUX V PRES
+         3	shown	show	main:&gt;0	@-FMAINV %VA EN
+         4	that	that	pm:&gt;16	@CS %CS CS
+         5	in	in	cla:&gt;16	@ADVL %EH PREP
+         6	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+         7	human	human	pcomp:&gt;5	@&lt;P %NH A ABS
+         8	,	,
+         9	as in	as in		@ADVL %EH PREP
+         10	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+         11	chicken	chicken	pcomp:&gt;9	@&lt;P %NH N NOM SG
+         12	,	,
+         13	one	one	qn:&gt;14	@QN&gt; %&gt;N NUM CARD
+         14	exon	exon	subj:&gt;15	@SUBJ %NH N NOM SG
+         15	is	be	v-ch:&gt;16	@+FAUXV %AUX V PRES SG3
+         16	spliced	splice	obj:&gt;3	@-FMAINV %VP EN
+         17	out of	out of	sou:&gt;16	@ADVL %EH PREP
+         18	the	the	det:&gt;20	@DN&gt; %&gt;N DET
+         19	MLC3nm	mlc3nm	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+         20	transcript	transcript	pcomp:&gt;17	@&lt;P %NH N NOM SG
+         21	in	in	mod:&gt;20	@&lt;NOM %N&lt; PREP
+         22	smooth	smooth	attr:&gt;23	@A&gt; %&gt;N A ABS
+         23	muscle	muscle	pcomp:&gt;21	@&lt;P %NH N NOM SG
+         24	to	to	pm:&gt;25	@INFMARK&gt; %AUX INFMARK&gt;
+         25	give	give	mod:&gt;23	@-FMAINV %VA V INF
+         26	an	an	det:&gt;28	@DN&gt; %&gt;N DET SG
+         27	alternative	alternative	attr:&gt;28	@A&gt; %&gt;N A ABS
+         28	product	product	obj:&gt;25	@OBJ %NH N NOM SG
+         29	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*3">
+<text>
+Three of the revertants obtained from the null allele unc-68(e540), which displayed normal motility, had intragenic mutations that resulted in failure to splice out intron 21.
+
+</text>
+       <arg n="0">intragenic mutations 
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">intron 21
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+4	Three	three	subj:&gt;8	@SUBJ %NH NUM CARD
+5	of	of	mod:&gt;4	@&lt;NOM-OF %N&lt; PREP
+6	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+7	revertants	revertant	pcomp:&gt;5	@&lt;P %NH &lt;?&gt; N NOM PL
+8	obtained	obtain		@+FMAINV %VA V PAST
+9	from	from	ha:&gt;8	@ADVL %EH PREP
+10	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+11	null	null	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	allele	allele	pcomp:&gt;9	@&lt;P %NH N NOM SG
+13	unc-68	unc-68	qn:&gt;15	@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+14	(	(
+15	e540	e540	mod:&gt;12	@NH %NH N NOM SG
+16	)	)
+17	,	,
+18	which	which	subj:&gt;19	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+19	displayed	display	mod:&gt;15	@+FMAINV %VA V PAST
+20	normal	normal	attr:&gt;21	@A&gt; %&gt;N A ABS
+21	motility	motility	obj:&gt;19	@OBJ %NH N NOM SG
+22	,	,
+23	had	have		@+FMAINV %VA V PAST
+24	intragenic	intragenic	attr:&gt;25	@A&gt; %&gt;N &lt;?&gt; A ABS
+25	mutations	mutation	obj:&gt;23	@OBJ %NH N NOM PL
+26	that	that	subj:&gt;27	@SUBJ %NH &lt;Rel&gt; PRON
+27	resulted	result	mod:&gt;25	@+FMAINV %VA V PAST
+28	in	in	phr:&gt;27	@ADVL %EH PREP
+29	failure	failure	pcomp:&gt;28	@&lt;P %NH N NOM SG
+30	to	to	pm:&gt;31	@INFMARK&gt; %AUX INFMARK&gt;
+31	splice	splice	mod:&gt;29	@-FMAINV %VA V INF
+32	out	out	loc:&gt;31	@ADVL %EH ADV
+33	intron	intron	obj:&gt;31	@OBJ %NH N NOM SG
+34	21	21	qua:&gt;31	@ADVL %EH NUM CARD
+35	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+It was observed that the cell lines differed in their ability to splice out a retained intron in the 5&apos; UTR of HYAL1 mRNA.
+
+</text>
+       <arg n="0">the 5&apos; UTR of HYAL1 mRNA 
+</arg>
+       <arg n="1">a retained intron 
+</arg>
+       <arg n="2">the cell lines 
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+4	It	it	subj:&gt;5	@F-SUBJ %NH PRON NOM SG3
+5	was	be	v-ch:&gt;6	@+FAUXV %AUX V PAST
+6	observed	observe		@-FMAINV %VP EN
+7	that	that	pm:&gt;11	@CS %CS CS
+8	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+9	cell	cell	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	lines	line	subj:&gt;11	@SUBJ %NH N NOM PL
+11	differed	differ	mod:&gt;4	@+FMAINV %VA V PAST
+12	in	in	phr:&gt;11	@ADVL %EH PREP
+13	their	they	attr:&gt;14	@A&gt; %&gt;N PRON PERS GEN PL3
+14	ability	ability	pcomp:&gt;12	@&lt;P %NH N NOM SG
+15	to	to	pm:&gt;16	@INFMARK&gt; %AUX INFMARK&gt;
+16	splice	splice	mod:&gt;14	@-FMAINV %VA V INF
+17	out	out	loc:&gt;16	@ADVL %EH ADV
+18	a	a	det:&gt;20	@DN&gt; %&gt;N DET SG
+19	retained	retained	attr:&gt;20	@A&gt; %&gt;N A ABS
+20	intron	intron	obj:&gt;16	@OBJ %NH N NOM SG
+21	in	in	ha:&gt;16	@ADVL %EH PREP
+22	the	the	det:&gt;25	@DN&gt; %&gt;N DET
+23	5	5	qn:&gt;25	@QN&gt; %&gt;N NUM CARD
+24	&apos;	&apos;
+25	UTR	utr	pcomp:&gt;21	@&lt;P %NH N NOM SG
+26	of	of	mod:&gt;25	@&lt;NOM-OF %N&lt; PREP
+27	HYAL1	hyal1	attr:&gt;28	@A&gt; %&gt;N N NOM SG
+28	mRNA	mrna	pcomp:&gt;26	@&lt;P %NH ABBR NOM SG
+29	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+The failure to splice out putative intron sequences in transcripts which spanned exon-intron boundaries is expected in antisense transcripts.
+</text>
+       <arg n="0">transcripts
+</arg>
+       <arg n="1">putative intron sequences 
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	failure	failure	subj:&gt;8	@SUBJ %NH N NOM SG
+3	to	to	pm:&gt;4	@INFMARK&gt; %AUX INFMARK&gt;
+4	splice	splice	mod:&gt;2	@-FMAINV %VA V INF
+5	out	out	loc:&gt;4	@ADVL %EH ADV
+6	putative	putative	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	intron	intron	obj:&gt;4	@OBJ %NH N NOM SG
+8	sequences	sequence		@+FMAINV %VA V PRES SG3
+9	in	in	loc:&gt;8	@ADVL %EH PREP
+10	transcripts	transcript	pcomp:&gt;9	@&lt;P %NH N NOM PL
+11	which	which	subj:&gt;12	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+12	spanned	span	mod:&gt;10	@+FMAINV %VA V PAST
+13	exon-intron	exon-#intron	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	boundaries	boundary	obj:&gt;12	@OBJ %NH N NOM PL
+15	is	be	v-ch:&gt;16	@+FAUXV %AUX V PRES SG3
+16	expected	expect		@-FMAINV %VP EN
+17	in	in	loc:&gt;16	@ADVL %EH PREP
+18	antisense	antisense	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	transcripts	transcript	pcomp:&gt;17	@&lt;P %NH N NOM PL
+20	,	,
+21	as	as	ha:&gt;16	@ADVL %EH PREP
+22	candidate	candidate	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+23	donor	donor	cc:&gt;25	@A&gt; %&gt;N N NOM SG
+24	and	and	cc:&gt;25	@CC %CC CC
+25	acceptor	acceptor	attr:&gt;26	@A&gt; %&gt;N N NOM SG
+26	sites	site	pcomp:&gt;21	@&lt;P %NH N NOM PL
+27	were	be		@+FMAINV %VA V PAST PL
+28	only	only	meta:&gt;29	@ADVL %EH ADV
+29	present	present	comp:&gt;27	@PCOMPL-S %NH A ABS
+30	in	in	loc:&gt;27	@&lt;NOM %N&lt; PREP
+31	the	the	det:&gt;32	@DN&gt; %&gt;N DET
+32	gene	gene	pcomp:&gt;30	@&lt;P %NH N NOM SG
+33	when	when	tmp:&gt;34	@ADVL %EH ADV WH
+34	transcribed	transcribe	tmp:&gt;27	@-FMAINV %VP EN
+35	in	in	ha:&gt;34	@ADVL %EH PREP
+36	the	the	det:&gt;37	@DN&gt; %&gt;N DET
+37	orientation	orientation	pcomp:&gt;35	@&lt;P %NH N NOM SG
+38	encoding	encode	mod:&gt;37	@-FMAINV %VA ING
+39	the	the	det:&gt;42	@DN&gt; %&gt;N DET
+40	GnRH	gnrh	attr:&gt;41	@A&gt; %&gt;N ABBR NOM SG
+41	receptor	receptor	attr:&gt;42	@A&gt; %&gt;N N NOM SG
+42	homolog	homolog	obj:&gt;38	@OBJ %NH N NOM SG
+43	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*6">
+<text>
+This isoform results from a failure to splice out an intron during mRNA processing.
+
+</text>
+       <arg n="0">mRNA processing 
+</arg>
+       <arg n="1">an intron
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	This	this	det:&gt;2	@DN&gt; %&gt;N DET DEM SG
+2	isoform	isoform	subj:&gt;3	@SUBJ %NH &lt;?&gt; N NOM SG
+3	results	result	main:&gt;0	@+FMAINV %VA V PRES SG3
+4	from	from	sou:&gt;3	@ADVL %EH PREP
+5	a	a	det:&gt;6	@DN&gt; %&gt;N DET SG
+6	failure	failure	pcomp:&gt;4	@&lt;P %NH N NOM SG
+7	to	to	pm:&gt;8	@INFMARK&gt; %AUX INFMARK&gt;
+8	splice	splice	mod:&gt;6	@-FMAINV %VA V INF
+9	out	out	loc:&gt;8	@ADVL %EH ADV
+10	an	an	det:&gt;11	@DN&gt; %&gt;N DET SG
+11	intron	intron	obj:&gt;8	@OBJ %NH N NOM SG
+12	during	during	ha:&gt;8	@ADVL %EH PREP
+13	mRNA	mrna	attr:&gt;14	@A&gt; %&gt;N ABBR NOM SG
+14	processing	processing	pcomp:&gt;12	@&lt;P %NH N NOM SG
+15	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*7">
+<text>
+Failure to splice out this intron resulted in a substitution of the final 13 amino acids of the deduced amino acid sequence.
+
+</text>
+       <arg n="0">- 
+</arg>
+       <arg n="1">this intron 
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	Failure	failure	subj:&gt;7	@SUBJ %NH N NOM SG
+2	to	to	pm:&gt;3	@INFMARK&gt; %AUX INFMARK&gt;
+3	splice	splice	mod:&gt;1	@-FMAINV %VA V INF
+4	out	out	loc:&gt;3	@ADVL %EH ADV
+5	this	this	obj:&gt;3	@OBJ %NH PRON DEM SG
+6	intron	intron		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+7	resulted	result	main:&gt;0	@+FMAINV %VA V PAST
+8	in	in	loc:&gt;7	@ADVL %EH PREP
+9	a	a	det:&gt;10	@DN&gt; %&gt;N DET SG
+10	substitution	substitution	pcomp:&gt;8	@&lt;P %NH N NOM SG
+11	of	of	mod:&gt;10	@&lt;NOM-OF %N&lt; PREP
+12	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+13	final	final	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	13	13	qn:&gt;16	@QN&gt; %&gt;N NUM CARD
+15	amino	amino	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	acids	acid	pcomp:&gt;11	@&lt;P %NH N NOM PL
+17	of	of	mod:&gt;16	@&lt;NOM-OF %N&lt; PREP
+18	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+19	deduced	deduced	attr:&gt;20	@A&gt; %&gt;N A ABS
+20	amino	amino	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	acid	acid	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	sequence	sequence	pcomp:&gt;17	@&lt;P %NH N NOM SG
+23	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*8">
+<text>
+Virtually all genes of higher organisms have non-coding introns interspersed between the coding exons that must be spliced out in order to generate a mature messenger RNA molecule used to encode proteins.
+
+</text>
+       <arg n="0">- 
+</arg>
+       <arg n="1">the coding exons 
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">a mature messenger RNA molecule used to encode proteins
+</arg>
+<fdg>
+1	Virtually	virtually	ad:&gt;2	@AD-A&gt; %E&gt; ADV
+2	all	all	det:&gt;3	@DN&gt; %&gt;N DET
+3	genes	gene	subj:&gt;7	@SUBJ %NH N NOM PL
+4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+5	higher	high	attr:&gt;6	@A&gt; %&gt;N A CMP
+6	organisms	organism	pcomp:&gt;4	@&lt;P %NH N NOM PL
+7	have	have	main:&gt;0	@+FMAINV %VA V PRES
+8	non-coding	non-coding	attr:&gt;9	@A&gt; %&gt;N &lt;?&gt; A ABS
+9	introns	intron	obj:&gt;7	@OBJ %NH &lt;?&gt; N NOM PL
+10	interspersed	intersperse	oc:&gt;7	@-FMAINV %VP EN
+11	between	between	ha:&gt;10	@ADVL %EH PREP
+12	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+13	coding	coding	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	exons	exon	pcomp:&gt;11	@&lt;P %NH &lt;?&gt; N NOM PL
+15	that	that	subj:&gt;16	@SUBJ %NH &lt;Rel&gt; PRON
+16	must	must	v-ch:&gt;17	@+FAUXV %AUX V AUXMOD
+17	be	be	v-ch:&gt;18	@-FAUXV %AUX V INF
+18	spliced	splice	mod:&gt;14	@-FMAINV %VP EN
+19	out	out	loc:&gt;18	@ADVL %EH ADV
+20	in order to	in order to	pm:&gt;21	@INFMARK&gt; %AUX INFMARK&gt;
+21	generate	generate	cnt:&gt;18	@-FMAINV %VA V INF
+22	a	a	det:&gt;26	@DN&gt; %&gt;N DET SG
+23	mature	mature	attr:&gt;24	@A&gt; %&gt;N A ABS
+24	messenger	messenger	attr:&gt;25	@A&gt; %&gt;N N NOM SG
+25	RNA	rna	attr:&gt;26	@A&gt; %&gt;N ABBR NOM SG
+26	molecule	molecule	obj:&gt;21	@OBJ %NH N NOM SG
+27	used	use	mod:&gt;26	@-FMAINV %VP EN
+28	to	to	pm:&gt;29	@INFMARK&gt; %AUX INFMARK&gt;
+29	encode	encode	cnt:&gt;27	@-FMAINV %VA V INF
+30	proteins	protein	obj:&gt;29	@OBJ %NH N NOM PL
+31	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="9">
+<text>
+Moreover, exon 16 can be spliced out from the mature transcripts that contain exons 15 to 24.
+
+</text>
+       <arg n="0">the mature transcripts
+</arg>
+       <arg n="1">exon 16
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	Moreover	moreover	meta:&gt;7	@ADVL %EH ADV
+2	,	,
+3	exon	exon	subj:&gt;5	@SUBJ %NH N NOM SG
+4	16	16	mod:&gt;3	@&lt;NOM %N&lt; NUM CARD
+5	can	can	v-ch:&gt;6	@+FAUXV %AUX V AUXMOD
+6	be	be	v-ch:&gt;7	@-FAUXV %AUX V INF
+7	spliced	splice	main:&gt;0	@-FMAINV %VP EN
+8	out	out	loc:&gt;7	@ADVL %EH ADV
+9	from	from	sou:&gt;7	@ADVL %EH PREP
+10	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+11	mature	mature	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	transcripts	transcript	pcomp:&gt;9	@&lt;P %NH N NOM PL
+13	that	that	subj:&gt;14	@SUBJ %NH &lt;Rel&gt; PRON
+14	contain	contain	mod:&gt;12	@+FMAINV %VA V PRES
+15	exons	exon	obj:&gt;14	@OBJ %NH &lt;?&gt; N NOM PL
+16	15	15	mod:&gt;15	@&lt;NOM %N&lt; NUM CARD
+17	to	to	goa:&gt;14	@ADVL %EH PREP
+18	24	24	pcomp:&gt;17	@&lt;P %NH NUM CARD
+19	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*10">
+<text>
+In the remaining allelic p53 gene, there was a single-base substitution of G to T at position 1 within the splice donor site of intron 7, and the mutated intron was not spliced out during the mRNA maturation process.
+
+</text>
+       <arg n="0">the mRNA maturation process 
+</arg>
+       <arg n="1">the mutated intron
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	In	in	loc:&gt;9	@ADVL %EH PREP
+2	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+3	remaining	remaining	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	allelic	allelic	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	p53	p53	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	gene	gene	pcomp:&gt;1	@&lt;P %NH N NOM SG
+7	,	,
+8	there	there	subj:&gt;9	@F-SUBJ %NH &lt;Ex&gt; ADV
+9	was	be	main:&gt;0	@+FMAINV %VA V PAST
+10	a	a	det:&gt;12	@DN&gt; %&gt;N DET SG
+11	single-base	single-base	attr:&gt;12	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+12	substitution	substitution	comp:&gt;9	@PCOMPL-S %NH N NOM SG
+13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+14	G	g	pcomp:&gt;13	@&lt;P %NH ABBR NOM SG
+15	to	to	mod:&gt;14	@&lt;NOM %N&lt; PREP
+16	T	t	pcomp:&gt;15	@&lt;P %NH ABBR NOM SG
+17	at	at		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+18	position	position	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	1	1	pcomp:&gt;17	@&lt;P %NH NUM CARD
+20	within	within	mod:&gt;19	@&lt;NOM %N&lt; PREP
+21	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+22	splice	splice	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+23	donor	donor	attr:&gt;24	@A&gt; %&gt;N N NOM SG
+24	site	site	pcomp:&gt;20	@&lt;P %NH N NOM SG
+25	of	of	mod:&gt;24	@&lt;NOM-OF %N&lt; PREP
+26	intron	intron	attr:&gt;27	@A&gt; %&gt;N N NOM SG
+27	7	7	pcomp:&gt;25	@&lt;P %NH NUM CARD
+28	,	,
+29	and	and	cc:&gt;9	@CC %CC CC
+30	the	the	det:&gt;32	@DN&gt; %&gt;N DET
+31	mutated	mutated	attr:&gt;32	@A&gt; %&gt;N A ABS
+32	intron	intron	subj:&gt;33	@SUBJ %NH N NOM SG
+33	was	be	v-ch:&gt;35	@+FAUXV %AUX V PAST
+34	not	not	neg:&gt;33	@ADVL %EH NEG-PART
+35	spliced	splice	cc:&gt;9	@-FMAINV %VP EN
+36	out	out	loc:&gt;35	@ADVL %EH ADV
+37	during	during	ha:&gt;35	@ADVL %EH PREP
+38	the	the	det:&gt;41	@DN&gt; %&gt;N DET
+39	mRNA	mrna	attr:&gt;40	@A&gt; %&gt;N ABBR NOM SG
+40	maturation	maturation	attr:&gt;41	@A&gt; %&gt;N N NOM SG
+41	process	process	pcomp:&gt;37	@&lt;P %NH N NOM SG
+42	.     .
+</fdg>
+</example>
+</roleset>
+
+</predicate>
+</frameset>

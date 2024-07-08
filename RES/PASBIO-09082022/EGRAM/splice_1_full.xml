@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="splice">
+            <roleset id="splice.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="gene or RNA&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="1" descr="specific component in gene/RNA to get spliced&#x09;&#x09;&#x09;// eg. extron, intron //&#x0A;" />
+                    <role n="2" descr="gene product&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;// mRNA //&#x0A;" />
+                    <role n="3" descr="location referring to organelle, cell or tissue&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A caspase-2 minigene construct could be made that is alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>A caspase-2 minigene construct could be made that is spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>A caspase-2 minigene construct could be made to be alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>A caspase-2 minigene construct could be made to be spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>A caspase-2 minigene construct has been made that can be spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>A caspase-2 minigene construct has been shown to be made that is alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>A caspase-2 minigene construct has been shown to be made that is spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>A caspase-2 minigene construct has the ability to be made to be alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>A caspase-2 minigene construct has the ability to be made to be spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>A caspase-2 minigene construct is able to be made that is alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>A caspase-2 minigene construct is able to be made that is spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>A caspase-2 minigene construct is made that can be alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>A caspase-2 minigene construct is made that can be spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>A caspase-2 minigene construct is observed to be made that is alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>A caspase-2 minigene construct is observed to be made that is spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>A caspase-2 minigene construct may be made that was alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>A caspase-2 minigene construct may be made that was spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>A caspase-2 minigene construct may have been made that can be alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>A caspase-2 minigene construct may have been made that can be spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>A caspase-2 minigene construct was made that was alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>A caspase-2 minigene construct was made that was spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>A caspase-2 minigene construct will be made that is alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>A caspase-2 minigene construct will be made that is spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>A caspase-2 minigene construct would be made that could be alternatively spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>A caspase-2 minigene construct would be made that could be spliced in transfected cells and nuclear extracts.</text>
+                    <arg n="0">A caspase-2 minigene construct</arg>
+                    <arg n="3">transfected cells and nuclear extracts</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>A pre-mRNA containing mutations in SE2, however, can be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>A pre-mRNA containing mutations in SE2, however, has been alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>A pre-mRNA containing mutations in SE2, however, has been shown to be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>A pre-mRNA containing mutations in SE2, however, has the ability to be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>A pre-mRNA containing mutations in SE2, however, is able to alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>A pre-mRNA containing mutations in SE2, however, is alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>A pre-mRNA containing mutations in SE2, however, is likely to be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>A pre-mRNA containing mutations in SE2, however, is observed to be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>A pre-mRNA containing mutations in SE2, however, may have been alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>A pre-mRNA containing mutations in SE2, however, was alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>A pre-mRNA containing mutations in SE2, however, will be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I alternatively splices only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I can alternatively splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I can splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I has alternatively spliced only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I has been shown to alternatively splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I has been shown to splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I has spliced only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I has the ability to alternatively splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I has the ability to splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I is able to alternatively splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I is able to splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I is observed to alternatively splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I is observed to splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I may have alternatively spliced only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I may have spliced only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I splices only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I will alternatively splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I will splice only 20% as efficiently as RNA 3F (Fig.1 C Left).</text>
+                    <arg n="2">RNA 3I</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>Consequently, exon 30 with the intron can be spliced.</text>
+                    <arg n="1">exon 30 with the intron</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>Consequently, exon 30 with the intron has been shown to be spliced.</text>
+                    <arg n="1">exon 30 with the intron</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>Consequently, exon 30 with the intron has been spliced.</text>
+                    <arg n="1">exon 30 with the intron</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>Consequently, exon 30 with the intron has the ability to be spliced.</text>
+                    <arg n="1">exon 30 with the intron</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>Consequently, exon 30 with the intron is able to be spliced.</text>
+                    <arg n="1">exon 30 with the intron</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>Consequently, exon 30 with the intron is observed to be spliced.</text>
+                    <arg n="1">exon 30 with the intron</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>Consequently, exon 30 with the intron may have been spliced.</text>
+                    <arg n="1">exon 30 with the intron</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>Consequently, exon 30 with the intron was spliced.</text>
+                    <arg n="1">exon 30 with the intron</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>Consequently, exon 30 with the intron will be spliced.</text>
+                    <arg n="1">exon 30 with the intron</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>Consequently, exon 30 with the intron, as our study suggested, can be spliced.</text>
+                    <arg n="1">exon 30 with the intron, as our study suggested,</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>Consequently, exon 30 with the intron, as our study suggested, has been shown to be spliced.</text>
+                    <arg n="1">exon 30 with the intron, as our study suggested,</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>Consequently, exon 30 with the intron, as our study suggested, has been spliced.</text>
+                    <arg n="1">exon 30 with the intron, as our study suggested,</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>Consequently, exon 30 with the intron, as our study suggested, has the ability to be spliced.</text>
+                    <arg n="1">exon 30 with the intron, as our study suggested,</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>Consequently, exon 30 with the intron, as our study suggested, is able to be spliced.</text>
+                    <arg n="1">exon 30 with the intron, as our study suggested,</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>Consequently, exon 30 with the intron, as our study suggested, is observed to be spliced.</text>
+                    <arg n="1">exon 30 with the intron, as our study suggested,</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>Consequently, exon 30 with the intron, as our study suggested, may have been spliced.</text>
+                    <arg n="1">exon 30 with the intron, as our study suggested,</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>Consequently, exon 30 with the intron, as our study suggested, was spliced.</text>
+                    <arg n="1">exon 30 with the intron, as our study suggested,</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>Consequently, exon 30 with the intron, as our study suggested, will be spliced.</text>
+                    <arg n="1">exon 30 with the intron, as our study suggested,</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>Exons outside this size range are able to require additional exonic and/or intronic sequences to be effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>Exons outside this size range are able to require additional exonic and/or intronic sequences to be spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>Exons outside this size range are effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>Exons outside this size range are observed to require additional exonic and/or intronic sequences to be effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>Exons outside this size range are observed to require additional exonic and/or intronic sequences to be spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>Exons outside this size range are spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>Exons outside this size range have been effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>Exons outside this size range have been shown to require additional exonic and/or intronic sequences to be effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>Exons outside this size range have been shown to require additional exonic and/or intronic sequences to be spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>Exons outside this size range have been spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>Exons outside this size range have required additional exonic and/or intronic sequences to be effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>Exons outside this size range have required additional exonic and/or intronic sequences to be spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="84">
+                    <text>Exons outside this size range have the probability of requiring additional exonic and/or intronic sequences to be effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="85">
+                    <text>Exons outside this size range have the probability of requiring additional exonic and/or intronic sequences to be spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="86">
+                    <text>Exons outside this size range may have required additional exonic and/or intronic sequences to be effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="87">
+                    <text>Exons outside this size range may have required additional exonic and/or intronic sequences to be spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="88">
+                    <text>Exons outside this size range may require additional exonic and/or intronic sequences to be effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="89">
+                    <text>Exons outside this size range may require additional exonic and/or intronic sequences to be spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="90">
+                    <text>Exons outside this size range require additional exonic and/or intronic sequences to be effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="91">
+                    <text>Exons outside this size range require additional exonic and/or intronic sequences to be spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="92">
+                    <text>Exons outside this size range required additional exonic and/or intronic sequences to be effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="93">
+                    <text>Exons outside this size range required additional exonic and/or intronic sequences to be spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="94">
+                    <text>Exons outside this size range were effectively spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="95">
+                    <text>Exons outside this size range were spliced into the mature mRNA.</text>
+                    <arg n="1">exons outside this size range</arg>
+                    <arg n="2">the mature mRNA</arg>
+                </example>
+                <example src="EGRAM" no="96">
+                    <text>However, a pre-mRNA containing mutations in SE2 can be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="97">
+                    <text>However, a pre-mRNA containing mutations in SE2 can be spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="98">
+                    <text>However, a pre-mRNA containing mutations in SE2 has been alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="99">
+                    <text>However, a pre-mRNA containing mutations in SE2 has been shown to be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="100">
+                    <text>However, a pre-mRNA containing mutations in SE2 has been shown to be spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="101">
+                    <text>However, a pre-mRNA containing mutations in SE2 has been spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="102">
+                    <text>However, a pre-mRNA containing mutations in SE2 has the ability to be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="103">
+                    <text>However, a pre-mRNA containing mutations in SE2 has the ability to be spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="104">
+                    <text>However, a pre-mRNA containing mutations in SE2 is able to alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="105">
+                    <text>However, a pre-mRNA containing mutations in SE2 is able to spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="106">
+                    <text>However, a pre-mRNA containing mutations in SE2 is alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="107">
+                    <text>However, a pre-mRNA containing mutations in SE2 is likely to be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="108">
+                    <text>However, a pre-mRNA containing mutations in SE2 is likely to be spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="109">
+                    <text>However, a pre-mRNA containing mutations in SE2 is observed to be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="110">
+                    <text>However, a pre-mRNA containing mutations in SE2 is observed to be spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="111">
+                    <text>However, a pre-mRNA containing mutations in SE2 may have been alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="112">
+                    <text>However, a pre-mRNA containing mutations in SE2 may have been spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="113">
+                    <text>However, a pre-mRNA containing mutations in SE2 was alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="114">
+                    <text>However, a pre-mRNA containing mutations in SE2 was spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="115">
+                    <text>However, a pre-mRNA containing mutations in SE2 will be alternatively spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="116">
+                    <text>However, a pre-mRNA containing mutations in SE2 will be spliced predominantly using the nt 3605 3 splice site.</text>
+                    <arg n="0">a pre-mRNA containing mutations in SE2</arg>
+                    <arg n="1">the nt 3605 3 splice site</arg>
+                </example>
+                <example src="EGRAM" no="117">
+                    <text>The Supt4h gene can be normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="118">
+                    <text>The Supt4h gene can be spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="119">
+                    <text>The Supt4h gene has been normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="120">
+                    <text>The Supt4h gene has been shown to be normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="121">
+                    <text>The Supt4h gene has been shown to be spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="122">
+                    <text>The Supt4h gene has been spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="123">
+                    <text>The Supt4h gene has the ability to be normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="124">
+                    <text>The Supt4h gene has the ability to be spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="125">
+                    <text>The Supt4h gene is able to be normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="126">
+                    <text>The Supt4h gene is able to be spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="127">
+                    <text>The Supt4h gene is likely to be normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="128">
+                    <text>The Supt4h gene is likely to be spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="129">
+                    <text>The Supt4h gene is observed to be normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="130">
+                    <text>The Supt4h gene is observed to be spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="131">
+                    <text>The Supt4h gene may be normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons</arg>
+                </example>
+                <example src="EGRAM" no="132">
+                    <text>The Supt4h gene may be spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons</arg>
+                </example>
+                <example src="EGRAM" no="133">
+                    <text>The Supt4h gene may have been normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="134">
+                    <text>The Supt4h gene may have been spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="135">
+                    <text>The Supt4h gene was normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="136">
+                    <text>The Supt4h gene was spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="137">
+                    <text>The Supt4h gene will be normally spliced from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="138">
+                    <text>The Supt4h gene will be spliced normally from five exons encoded by chromosome 11.</text>
+                    <arg n="0">The Supt4h gene</arg>
+                    <arg n="1">five exons encoded by chromosome 11</arg>
+                </example>
+                <example src="EGRAM" no="139">
+                    <text>The casp-2 minigene (C2) can be efficiently spliced in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="140">
+                    <text>The casp-2 minigene (C2) can be spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="141">
+                    <text>The casp-2 minigene (C2) has been efficiently spliced in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="142">
+                    <text>The casp-2 minigene (C2) has been spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="143">
+                    <text>The casp-2 minigene (C2) has the ability to be efficiently spliced in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="144">
+                    <text>The casp-2 minigene (C2) has the ability to be spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="145">
+                    <text>The casp-2 minigene (C2) is able to be efficiently spliced in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="146">
+                    <text>The casp-2 minigene (C2) is able to be spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="147">
+                    <text>The casp-2 minigene (C2) is efficiently spliced in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="148">
+                    <text>The casp-2 minigene (C2) is observed to be efficiently spliced in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="149">
+                    <text>The casp-2 minigene (C2) is observed to be spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="150">
+                    <text>The casp-2 minigene (C2) is spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="151">
+                    <text>The casp-2 minigene (C2) may have been efficiently spliced in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="152">
+                    <text>The casp-2 minigene (C2) may have been shown to be efficiently spliced in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="153">
+                    <text>The casp-2 minigene (C2) may have been shown to be spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="154">
+                    <text>The casp-2 minigene (C2) may have been spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="155">
+                    <text>The casp-2 minigene (C2) will be efficiently spliced in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="156">
+                    <text>The casp-2 minigene (C2) will be spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).</text>
+                    <arg n="0">The casp-2 minigene (C2)</arg>
+                    <arg n="3">in vitro</arg>
+                </example>
+                <example src="EGRAM" no="157">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon being able to be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="158">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon being able to be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="159">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon being efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="160">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon being spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="161">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="162">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon having been efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="163">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon having been spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="164">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon having the ability to be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="165">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon having the ability to be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="166">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon observed to be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="167">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon observed to be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="168">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon shown to be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="169">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon shown to be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="170">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="171">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that can be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="172">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that can be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="173">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that has been efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="174">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that has been shown to be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="175">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that has been shown to be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="176">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that has been spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="177">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that has the ability to be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="178">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that has the ability to be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="179">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that is able to be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="180">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that is able to be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="181">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that is observed to be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="182">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that is observed to be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="183">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that may have been efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="184">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that may have been spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="185">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that was efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="186">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that was spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="187">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that will be efficiently spliced into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="188">
+                    <text>The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that will be spliced efficiently into the mRNA.</text>
+                    <arg n="1">a 654 nt exon</arg>
+                    <arg n="2">the mRNA</arg>
+                </example>
+                <example src="EGRAM" no="189">
+                    <text>The pre-mRNAs from all of these genes are able to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="190">
+                    <text>The pre-mRNAs from all of these genes are observed to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="191">
+                    <text>The pre-mRNAs from all of these genes being able to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="192">
+                    <text>The pre-mRNAs from all of these genes can be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="193">
+                    <text>The pre-mRNAs from all of these genes have been shown to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="194">
+                    <text>The pre-mRNAs from all of these genes have been spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="195">
+                    <text>The pre-mRNAs from all of these genes have the ability to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="196">
+                    <text>The pre-mRNAs from all of these genes having been spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="197">
+                    <text>The pre-mRNAs from all of these genes having the ability to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="198">
+                    <text>The pre-mRNAs from all of these genes may have been spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="199">
+                    <text>The pre-mRNAs from all of these genes observed to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="200">
+                    <text>The pre-mRNAs from all of these genes shown to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="201">
+                    <text>The pre-mRNAs from all of these genes spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="202">
+                    <text>The pre-mRNAs from all of these genes that are able to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="203">
+                    <text>The pre-mRNAs from all of these genes that are observed to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="204">
+                    <text>The pre-mRNAs from all of these genes that can be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="205">
+                    <text>The pre-mRNAs from all of these genes that have been shown to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="206">
+                    <text>The pre-mRNAs from all of these genes that have been spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="207">
+                    <text>The pre-mRNAs from all of these genes that have the ability to be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="208">
+                    <text>The pre-mRNAs from all of these genes that may have been spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="209">
+                    <text>The pre-mRNAs from all of these genes that were spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="210">
+                    <text>The pre-mRNAs from all of these genes that will be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown) suggest that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="211">
+                    <text>The pre-mRNAs from all of these genes were spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="212">
+                    <text>The pre-mRNAs from all of these genes will be spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.</text>
+                    <arg n="0">The pre-mRNAs from all of these genes</arg>
+                    <arg n="1">little or no exon-skipping</arg>
+                </example>
+                <example src="EGRAM" no="213">
+                    <text>The structure of different cDNA clones indicates that USF RNA can be differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="214">
+                    <text>The structure of different cDNA clones indicates that USF RNA can be spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="215">
+                    <text>The structure of different cDNA clones indicates that USF RNA has been differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="216">
+                    <text>The structure of different cDNA clones indicates that USF RNA has been shown to be differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="217">
+                    <text>The structure of different cDNA clones indicates that USF RNA has been shown to be spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="218">
+                    <text>The structure of different cDNA clones indicates that USF RNA has been spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="219">
+                    <text>The structure of different cDNA clones indicates that USF RNA has the ability to be differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="220">
+                    <text>The structure of different cDNA clones indicates that USF RNA has the ability to be spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="221">
+                    <text>The structure of different cDNA clones indicates that USF RNA is able to be differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="222">
+                    <text>The structure of different cDNA clones indicates that USF RNA is able to be spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="223">
+                    <text>The structure of different cDNA clones indicates that USF RNA is observed to be differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="224">
+                    <text>The structure of different cDNA clones indicates that USF RNA is observed to be spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="225">
+                    <text>The structure of different cDNA clones indicates that USF RNA may have been differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="226">
+                    <text>The structure of different cDNA clones indicates that USF RNA may have been spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="227">
+                    <text>The structure of different cDNA clones indicates that USF RNA was differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="228">
+                    <text>The structure of different cDNA clones indicates that USF RNA was spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="229">
+                    <text>The structure of different cDNA clones indicates that USF RNA will be differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="230">
+                    <text>The structure of different cDNA clones indicates that USF RNA will be spliced, and alternative exon usage may regulate the levels of functional USF protein.</text>
+                    <arg n="0">USF RNA</arg>
+                </example>
+                <example src="EGRAM" no="231">
+                    <text>We also identified four transcriptional units being able to be differentially spliced but containing no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="232">
+                    <text>We also identified four transcriptional units being able to be spliced but containing no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="233">
+                    <text>We also identified four transcriptional units differentially spliced but containing no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="234">
+                    <text>We also identified four transcriptional units having been shown to be differentially spliced but containing no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="235">
+                    <text>We also identified four transcriptional units having been shown to be spliced but containing no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="236">
+                    <text>We also identified four transcriptional units observed to be differentially spliced but containing no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="237">
+                    <text>We also identified four transcriptional units observed to be spliced but containing no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="238">
+                    <text>We also identified four transcriptional units spliced but containing no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="239">
+                    <text>We also identified four transcriptional units that are able to be differentially spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="240">
+                    <text>We also identified four transcriptional units that are able to be spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="241">
+                    <text>We also identified four transcriptional units that are observed to be differentially spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="242">
+                    <text>We also identified four transcriptional units that are observed to be spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="243">
+                    <text>We also identified four transcriptional units that can be differentially spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="244">
+                    <text>We also identified four transcriptional units that can be spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="245">
+                    <text>We also identified four transcriptional units that could have been differentially spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="246">
+                    <text>We also identified four transcriptional units that could have been spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="247">
+                    <text>We also identified four transcriptional units that have been differentially spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="248">
+                    <text>We also identified four transcriptional units that have been shown to be differentially spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="249">
+                    <text>We also identified four transcriptional units that have been shown to be spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="250">
+                    <text>We also identified four transcriptional units that have been spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="251">
+                    <text>We also identified four transcriptional units that may be differentially spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="252">
+                    <text>We also identified four transcriptional units that may be spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="253">
+                    <text>We also identified four transcriptional units that may have been differentially spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="254">
+                    <text>We also identified four transcriptional units that may have been spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="255">
+                    <text>We also identified four transcriptional units that were differentially spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="256">
+                    <text>We also identified four transcriptional units that were spliced but contained no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="257">
+                    <text>We also identified four transcriptional units that will be differentially spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="258">
+                    <text>We also identified four transcriptional units that will be spliced but contain no obvious open reading frame.</text>
+                    <arg n="0">four transcriptional units</arg>
+                </example>
+                <example src="EGRAM" no="259">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate can be spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="260">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate can be spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="261">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate has been shown to be spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="262">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate has been shown to be spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="263">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate has been spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="264">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate has been spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="265">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate has the ablity to be spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="266">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate has the ablity to be spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="267">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate is able to be spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="268">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate is able to be spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="269">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate is observed to be spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="270">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate is observed to be spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="271">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate is spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="272">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate is spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="273">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate may be spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="274">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate may be spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="275">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate may have been spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="276">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate may have been spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="277">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate will be spliced following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+                <example src="EGRAM" no="278">
+                    <text>When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate will be spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).</text>
+                    <arg n="0">the C2Gloi2 substrate</arg>
+                    <arg n="1">the exon-skipping pathway</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

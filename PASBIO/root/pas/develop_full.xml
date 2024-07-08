@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="develop">
+<roleset id="develop.01" name="" wordnet="10">
+<roles>
+  <role n="1" descr="non-intentional theme
+"/>
+  <role n="2" descr="thing developed
+"/>
+  <role n="3" descr="end result
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Three new mutations, two missense and one nonsense, were detected: (1) a C-to-T transition in codon 44 in exon 2 replacing a threonine by an isoleucine (T44I) was found in a late-onset symptomatic female patient but not in her asymptomatic mother; (2) a C-to-T transition in codon 214 creating a new RsaI recognition site in exon 6 and substituting tyrosine for histidine (H214Y) was identified in an asymptomatic female carrier whose son developed acute neonatal onset of OTC deficiency; (3) a C-to-T transition in codon 320 (arginine) abolishing a TaqI recognition site and creating a new BclI site in exon 9 with generation of a stop codon (R320X) leading to premature termination in the enzyme.
+
+</text>
+       <arg n="1">whose son
+</arg>
+       <arg n="2">acute neonatal onset of OTC deficiency
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	Three	three	qn:&gt;3	@QN&gt; %&gt;N NUM CARD
+2	new	new	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	mutations	mutation	subj:&gt;11	@SUBJ %NH N NOM PL
+4	,	,
+5	two	two		@QN&gt; %&gt;N NUM CARD
+6	missense	missense	mod:&gt;3	@APP %NH &lt;?&gt; N NOM SG
+7	and	and	cc:&gt;6	@CC %CC CC
+8	one	one	qn:&gt;9	@QN&gt; %&gt;N NUM CARD
+9	nonsense	nonsense	cc:&gt;6	@APP %NH N NOM SG
+10	,	,
+11	were	be	v-ch:&gt;12	@+FAUXV %AUX V PAST PL
+12	detected	detect	main:&gt;0	@-FMAINV %VP EN
+13	:	:
+14	(	(
+15	1	1	main:&gt;14	@NH %NH NUM CARD
+16	)	)
+17	a	a	det:&gt;19	@DN&gt; %&gt;N DET SG
+18	C-to-T	c-to-t	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	transition	transition		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N 
+
+NOM SG
+20	in	in	mod:&gt;19	@&lt;NOM %N&lt; PREP
+21	codon	codon	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	44	44	pcomp:&gt;20	@&lt;P %NH NUM CARD
+23	in	in	mod:&gt;22	@&lt;NOM %N&lt; PREP
+24	exon	exon	pcomp:&gt;23	@&lt;P %NH N NOM SG
+25	2	2		@QN&gt; %&gt;N NUM CARD
+26	replacing	replace		@-FMAINV %VA ING
+27	a	a	det:&gt;28	@DN&gt; %&gt;N DET SG
+28	threonine	threonine	obj:&gt;26	@OBJ %NH &lt;?&gt; N NOM SG
+29	by	by	ha:&gt;26	@ADVL %EH PREP
+30	an	an	det:&gt;31	@DN&gt; %&gt;N DET SG
+31	isoleucine	isoleucine	pcomp:&gt;29	@&lt;P %NH &lt;?&gt; N NOM SG
+32	(	(
+33	T44I)	t44i)	subj:&gt;34	@SUBJ %NH N NOM SG
+34	was	be	v-ch:&gt;35	@+FAUXV %AUX V PAST
+35	found	find	obj:&gt;12	@-FMAINV %VP EN
+36	in	in	loc:&gt;35	@ADVL %EH PREP
+37	a	a	det:&gt;38	@DN&gt; %&gt;N DET SG
+38	late-onset	late-onset	pcomp:&gt;36	@&lt;P %NH &lt;?&gt; N NOM SG
+39	symptomatic	symptomatic	attr:&gt;40	@A&gt; %&gt;N A ABS
+40	female	female	attr:&gt;41	@A&gt; %&gt;N N NOM SG
+41	patient	patient	obj:&gt;35	@OBJ %NH N NOM SG
+42	but	but		@CC %CC CC
+43	not	not	neg:&gt;44	@ADVL %EH NEG-PART
+44	in	in		@ADVL %EH PREP
+45	her	she	attr:&gt;46	@A&gt; %&gt;N PRON PERS GEN SG3
+46	asymptomatic	asymptomatic	attr:&gt;47	@A&gt; %&gt;N A ABS
+47	mother	mother	pcomp:&gt;44	@&lt;P %NH N NOM SG
+48	;	;
+49	(	(
+50	2	2	main:&gt;49	@NH %NH NUM CARD
+51	)	)
+52	a	a	det:&gt;54	@DN&gt; %&gt;N DET SG
+53	C-to-T	c-to-t	attr:&gt;54	@A&gt; %&gt;N N NOM SG
+54	transition	transition		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@PCOMPL-O %NH N NOM SG	@APP %NH N 
+
+NOM SG
+55	in	in	mod:&gt;54	@&lt;NOM %N&lt; PREP
+56	codon	codon	pcomp:&gt;55	@&lt;P %NH N NOM SG
+57	214	214		@QN&gt; %&gt;N NUM CARD
+58	creating	create		@-FMAINV %VA ING
+59	a	a	det:&gt;63	@DN&gt; %&gt;N DET SG
+60	new	new	attr:&gt;61	@A&gt; %&gt;N A ABS
+61	RsaI	rsai	attr:&gt;62	@A&gt; %&gt;N N NOM SG
+62	recognition	recognition	attr:&gt;63	@A&gt; %&gt;N N NOM SG
+63	site	site	obj:&gt;58	@OBJ %NH N NOM SG
+64	in	in	mod:&gt;63	@&lt;NOM %N&lt; PREP
+65	exon	exon	attr:&gt;66	@A&gt; %&gt;N N NOM SG
+66	6	6	pcomp:&gt;64	@&lt;P %NH NUM CARD
+67	and	and		@CC %CC CC
+68	substituting	substitute		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING
+69	tyrosine	tyrosine	obj:&gt;68	@OBJ %NH N NOM SG
+70	for	for	phr:&gt;68	@ADVL %EH PREP
+71	histidine	histidine	pcomp:&gt;70	@&lt;P %NH &lt;?&gt; N NOM SG
+72	(	(
+73	H214Y)	h214y)	subj:&gt;74	@SUBJ %NH N NOM SG
+74	was	be	v-ch:&gt;75	@+FAUXV %AUX V PAST
+75	identified	identify	cc:&gt;35	@-FMAINV %VP EN
+76	in	in	loc:&gt;75	@ADVL %EH PREP
+77	an	an	det:&gt;80	@DN&gt; %&gt;N DET SG
+78	asymptomatic	asymptomatic	attr:&gt;79	@A&gt; %&gt;N A ABS
+79	female	female	attr:&gt;80	@A&gt; %&gt;N N NOM SG
+80	carrier	carrier	pcomp:&gt;76	@&lt;P %NH N NOM SG
+81	whose	who	det:&gt;82	@DN&gt; %&gt;N DET WH GEN
+82	son	son	subj:&gt;83	@SUBJ %NH N NOM SG
+83	developed	develop	mod:&gt;80	@+FMAINV %VA V PAST
+84	acute	acute	attr:&gt;85	@A&gt; %&gt;N A ABS
+85	neonatal	neonatal	attr:&gt;86	@A&gt; %&gt;N A ABS
+86	onset	onset	obj:&gt;83	@OBJ %NH N NOM SG
+87	of	of	mod:&gt;86	@&lt;NOM-OF %N&lt; PREP
+88	OTC	otc	attr:&gt;89	@A&gt; %&gt;N ABBR NOM SG
+89	deficiency	deficiency	pcomp:&gt;87	@&lt;P %NH N NOM SG
+90	;	;
+91	(	(
+92	3	3	main:&gt;91	@NH %NH NUM CARD
+93	)	)
+94	a	a	det:&gt;96	@DN&gt; %&gt;N DET SG
+95	C-to-T	c-to-t	attr:&gt;96	@A&gt; %&gt;N N NOM SG
+96	transition	transition		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG
+97	in	in	mod:&gt;96	@&lt;NOM %N&lt; PREP
+98	codon	codon	pcomp:&gt;97	@&lt;P %NH N NOM SG
+99	320	320	qn:&gt;101	@QN&gt; %&gt;N NUM CARD
+100	(	(
+101	arginine	arginine	mod:&gt;98	@NH %NH N NOM SG
+102	)	)
+103	abolishing	abolish		@&lt;P-FMAINV %VA ING
+104	a	a	det:&gt;107	@DN&gt; %&gt;N DET SG
+105	TaqI	taqi	attr:&gt;106	@A&gt; %&gt;N N NOM SG
+106	recognition	recognition	attr:&gt;107	@A&gt; %&gt;N N NOM SG
+107	site	site	obj:&gt;103	@OBJ %NH N NOM SG
+108	and	and	cc:&gt;103	@CC %CC CC
+109	creating	create	cc:&gt;103	@&lt;P-FMAINV %VA ING
+110	a	a	det:&gt;113	@DN&gt; %&gt;N DET SG
+111	new	new	attr:&gt;112	@A&gt; %&gt;N A ABS
+112	BclI	bcli	attr:&gt;113	@A&gt; %&gt;N N NOM SG
+113	site	site	obj:&gt;109	@OBJ %NH N NOM SG
+114	in	in	mod:&gt;113	@&lt;NOM %N&lt; PREP
+115	exon	exon	attr:&gt;116	@A&gt; %&gt;N N NOM SG
+116	9	9	pcomp:&gt;114	@&lt;P %NH NUM CARD
+117	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+118	generation	generation	pcomp:&gt;117	@&lt;P %NH N NOM SG
+119	of	of	mod:&gt;118	@&lt;NOM-OF %N&lt; PREP
+120	a	a	det:&gt;122	@DN&gt; %&gt;N DET SG
+121	stop	stop	attr:&gt;122	@A&gt; %&gt;N N NOM SG
+122	codon	codon	pcomp:&gt;119	@&lt;P %NH N NOM SG
+123	(	(
+124	R320X)	r320x)		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N 
+
+NOM SG
+125	leading	lead		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING	@NH %NH N NOM SG	@SUBJ %NH N 
+
+NOM SG	@APP %NH N NOM SG
+126	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+127	premature	premature	attr:&gt;128	@A&gt; %&gt;N A ABS
+128	termination	termination	pcomp:&gt;126	@&lt;P %NH N NOM SG
+129	in	in	mod:&gt;128	@&lt;NOM %N&lt; PREP
+130	the	the	det:&gt;131	@DN&gt; %&gt;N DET
+131	enzyme	enzyme	pcomp:&gt;129	@&lt;P %NH N NOM SG
+132	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Although Pin1 -/- mice have previously been shown to develop normally (Fujimori et al., 1999), we have uncovered that they display a range of cell proliferative abnomalities, including decreased body size, retinal degenration and neurological abnormalities.
+
+</text>
+       <arg n="1">mice
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+       <arg n="M-MAN">normally
+</arg>
+<fdg>
+
+1	Although	although		@CS %CS CS
+2	Pin1	pin1	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	&amp;#8211;	&amp;#8211;		@NH %NH N NOM SG
+4	/	/	
+5	&amp;#8211;	&amp;#8211;	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	mice	mouse	subj:&gt;7	@SUBJ %NH N NOM PL
+7	have	have	v-ch:&gt;9	@+FAUXV %AUX V PRES
+8	previously	previously	tmp:&gt;10	@ADVL %EH ADV
+9	been	be	v-ch:&gt;10	@-FAUXV %AUX EN
+10	shown	show		@-FMAINV %VP EN
+11	to	to	pm:&gt;12	@INFMARK&gt; %AUX INFMARK&gt;
+12	develop	develop	cnt:&gt;10	@-FMAINV %VA V INF
+13	normally	normally	man:&gt;12	@ADVL %EH ADV
+14	(	(
+15	Fujimori	fujimori	main:&gt;14	@APP %NH N NOM SG
+16	et	et		@CC %CC CC
+17	al.	al.		@NH %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+18	,	,
+19	1999	1999		@NH %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+20	)	)
+21	,	,
+22	we	we	subj:&gt;23	@SUBJ %NH PRON PERS NOM PL1
+23	have	have	v-ch:&gt;24	@+FAUXV %AUX V PRES
+24	uncovered	uncover		@-FMAINV %VA EN
+25	that	that	pm:&gt;27	@CS %CS CS
+26	they	they	subj:&gt;27	@SUBJ %NH PRON PERS NOM PL3
+27	display	display	obj:&gt;24	@+FMAINV %VA V PRES
+28	a	a	det:&gt;29	@DN&gt; %&gt;N DET SG
+29	range	range	obj:&gt;27	@OBJ %NH N NOM SG
+30	of	of	mod:&gt;29	@&lt;NOM-OF %N&lt; PREP
+31	cell	cell	attr:&gt;32	@A&gt; %&gt;N N NOM SG
+32	proliferative	proliferative	attr:&gt;33	@A&gt; %&gt;N A ABS
+33	abnormalities	abnormality	pcomp:&gt;30	@&lt;P %NH N NOM PL
+34	,	,
+35	including	include	man:&gt;27	@-FMAINV %VA ING
+36	decreased	decreased	attr:&gt;37	@A&gt; %&gt;N A ABS
+37	body	body	attr:&gt;38	@A&gt; %&gt;N N NOM SG
+38	size	size	obj:&gt;35	@OBJ %NH N NOM SG
+39	,	,
+40	retinal	retinal	attr:&gt;41	@A&gt; %&gt;N A ABS
+41	degeneration	degeneration	cc:&gt;38	@OBJ %NH N NOM SG
+42	and	and	cc:&gt;41	@CC %CC CC
+43	neurological	neurological	attr:&gt;44	@A&gt; %&gt;N A ABS
+44	abnormalities	abnormality	cc:&gt;41	@OBJ %NH N NOM PL
+45	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+Spinach sown in October develops into the rosette stage and grows through the end of November.
+
+</text>
+       <arg n="1">-
+</arg>
+       <arg n="2">Spinach sown in October
+</arg>
+       <arg n="3">[into]the rosette stage
+</arg>
+<fdg>
+1	Spinach	spinach	subj:&gt;5	@SUBJ %NH N NOM SG
+2	sown	sow	mod:&gt;1	@-FMAINV %VP EN
+3	in	in	ha:&gt;2	@ADVL %EH PREP
+4	October	october	pcomp:&gt;3	@&lt;P %NH N NOM SG
+5	develops	develop	main:&gt;0	@+FMAINV %VA V PRES SG3
+6	into	into	goa:&gt;5	@ADVL %EH PREP
+7	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+8	rosette	rosette	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	stage	stage	pcomp:&gt;6	@&lt;P %NH N NOM SG
+10	and	and	cc:&gt;5	@CC %CC CC
+11	grows	grow	cc:&gt;5	@+FMAINV %VA V PRES SG3
+12	through	through	ha:&gt;11	@ADVL %EH PREP
+13	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+14	end	end	pcomp:&gt;12	@&lt;P %NH N NOM SG
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	November	november	pcomp:&gt;15	@&lt;P %NH N NOM SG
+17	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+It is planted from September up to the end of October, develops into the rosette stage and keeps on growing until the end of November.
+
+</text>
+       <arg n="1">It
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">[into] the rosette stage
+</arg>
+<fdg>
+1	It	it	subj:&gt;2	@SUBJ %NH PRON NOM SG3
+2	is	be	v-ch:&gt;3	@+FAUXV %AUX V PRES SG3
+3	planted	plant	main:&gt;0	@-FMAINV %VP EN
+4	from	from	sou:&gt;3	@ADVL %EH PREP
+5	September	september	pcomp:&gt;4	@&lt;P %NH N NOM SG
+6	up	up		@ADVL %EH ADV
+7	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+8	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+9	end	end	pcomp:&gt;7	@&lt;P %NH N NOM SG
+10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+11	October	october	pcomp:&gt;10	@&lt;P %NH N NOM SG
+12	,	,
+13	develops	develop	cc:&gt;3	@+FMAINV %VA V PRES SG3
+14	into	into	goa:&gt;13	@ADVL %EH PREP
+15	the	the	det:&gt;17	@DN&gt; %&gt;N DET
+16	rosette	rosette	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	stage	stage	pcomp:&gt;14	@&lt;P %NH N NOM SG
+18	and	and	cc:&gt;13	@CC %CC CC
+19	keeps	keep	cc:&gt;13	@+FMAINV %VA V PRES SG3
+20	on	on	phr:&gt;19	@ADVL %EH ADV
+21	growing	grow	obj:&gt;19	@-FMAINV %VA ING
+22	until	until	ha:&gt;21	@ADVL %EH PREP
+23	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+24	end	end	pcomp:&gt;22	@&lt;P %NH N NOM SG
+25	of	of	mod:&gt;24	@&lt;NOM-OF %N&lt; PREP
+26	November	november	pcomp:&gt;25	@&lt;P %NH N NOM SG
+27	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

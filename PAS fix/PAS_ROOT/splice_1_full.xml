@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="splice">
+<roleset id="splice.01" name="" wordnet="3">
+<roles>
+  <role n="0" descr="gene or RNA						
+"/>
+  <role n="1" descr="specific component in gene/RNA to get spliced			// eg. extron, intron //
+"/>
+  <role n="2" descr="gene product							// mRNA //
+"/>
+  <role n="3" descr="location referring to organelle, cell or tissue
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Consequently, exon 30 with the intron is spliced.  
+
+</text>
+       <arg n="0">-	
+</arg>
+       <arg n="1">exon 30 with the intron
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+         1	Consequently	consequently		@ADVL %EH ADV
+         2	,	,
+         3	exon	exon	subj:&gt;5	@SUBJ %NH N NOM SG
+         4	30	30	mod:&gt;3	@&lt;NOM %N&lt; NUM CARD
+         5	is	be	v-ch:&gt;6	@+FAUXV %AUX V PRES SG3
+         6	spliced	splice	main:&gt;0	@-FMAINV %VP EN
+         7	together	together	meta:&gt;6	@ADVL %EH ADV
+         8	with	with	com:&gt;6	@ADVL %EH PREP
+         9	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+         10	intron	intron	pcomp:&gt;8	@&lt;P %NH N NOM SG
+         11	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+The structure of different cDNA clones indicates that USF RNA is differentially spliced, and alternative exon usage may regulate the levels of functional USF protein.
+
+</text>
+       <arg n="0">USF RNA
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	structure	structure	subj:&gt;7	@SUBJ %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	different	different	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	cDNA	cdna	attr:&gt;6	@A&gt; %&gt;N ABBR NOM SG
+6	clones	clone	pcomp:&gt;3	@&lt;P %NH N NOM PL
+7	indicates	indicate	main:&gt;0	@+FMAINV %VA V PRES SG3
+8	that	that	pm:&gt;13	@CS %CS CS
+9	USF	usf	subj:&gt;11	@SUBJ %NH N NOM SG
+10	RNA	rna	mod:&gt;9	@&lt;NOM %N&lt; ABBR NOM SG
+11	is	be	v-ch:&gt;13	@+FAUXV %AUX V PRES SG3
+12	differentially	differentially	meta:&gt;13	@ADVL %EH ADV
+13	spliced	splice	obj:&gt;7	@-FMAINV %VP EN
+14	,	,
+15	and	and	cc:&gt;13	@CC %CC CC
+16	alternative	alternative	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	exon	exon	attr:&gt;18	@A&gt; %&gt;N N NOM SG
+18	usage	usage	subj:&gt;19	@SUBJ %NH N NOM SG
+19	may	may	v-ch:&gt;20	@+FAUXV %AUX V AUXMOD
+20	regulate	regulate	cc:&gt;13	@-FMAINV %VA V INF
+21	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+22	levels	level	obj:&gt;20	@OBJ %NH N NOM PL
+23	of	of	mod:&gt;22	@&lt;NOM-OF %N&lt; PREP
+24	functional	functional	attr:&gt;25	@A&gt; %&gt;N A ABS
+25	USF	usf	attr:&gt;26	@A&gt; %&gt;N N NOM SG
+26	protein	protein	pcomp:&gt;23	@&lt;P %NH N NOM SG
+27	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+We also identified four transcriptional units that are spliced but contain no obvious open reading frame. 
+
+</text>
+       <arg n="0">four transcriptional units
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+         1	We	we	subj:&gt;3	@SUBJ %NH PRON PERS NOM PL1
+         2	also	also	meta:&gt;3	@ADVL %EH ADV
+         3	identified	identify	main:&gt;0	@+FMAINV %VA V PAST
+         4	four	four	qn:&gt;6	@QN&gt; %&gt;N NUM CARD
+         5	transcriptional	transcriptional	attr:&gt;6	@A&gt; %&gt;N A ABS
+         6	units	unit	obj:&gt;3	@OBJ %NH N NOM PL
+         7	that	that	subj:&gt;8	@SUBJ %NH &lt;Rel&gt; PRON
+         8	are	be	v-ch:&gt;9	@+FAUXV %AUX V PRES
+         9	spliced	splice	mod:&gt;6	@-FMAINV %VP EN
+         10	but	but	cc:&gt;9	@CC %CC CC
+         11	contain	contain	cc:&gt;9	@+FMAINV %VA V PRES
+         12	no	no	det:&gt;16	@DN&gt; %&gt;N DET
+         13	obvious	obvious	attr:&gt;14	@A&gt; %&gt;N A ABS
+         14	open	open	attr:&gt;15	@A&gt; %&gt;N A ABS
+         15	reading	reading	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+         16	frame	frame	obj:&gt;11	@OBJ %NH N NOM SG
+         17	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*4">
+<text>
+The Supt4h gene is spliced normally from five exons encoded by chromosome 11.  
+
+</text>
+       <arg n="0">The Supt4h gene
+</arg>
+       <arg n="1">five exons encoded by chromosome 11
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+         1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+         2	Supt4h	supt4h	attr:&gt;3	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+         3	gene	gene	subj:&gt;4	@SUBJ %NH N NOM SG
+         4	is	be	v-ch:&gt;5	@+FAUXV %AUX V PRES SG3
+         5	spliced	splice	main:&gt;0	@-FMAINV %VP EN
+         6	normally	normally	man:&gt;5	@ADVL %EH ADV
+         7	from	from	sou:&gt;5	@ADVL %EH PREP
+         8	five	five	qn:&gt;9	@QN&gt; %&gt;N NUM CARD
+         9	exons	exon	pcomp:&gt;7	@&lt;P %NH &lt;?&gt; N NOM PL
+         10	encoded	encode	mod:&gt;9	@-FMAINV %VP EN
+         11	by	by	ha:&gt;10	@ADVL %EH PREP
+         12	chromosome	chromosome	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+         13	11	11	pcomp:&gt;11	@&lt;P %NH NUM CARD
+         14	.     .
+</fdg>
+</example>
+<example src="PNAS" no="1">
+<text>
+A caspase-2 minigene construct has been made that can be alternatively spliced in transfected cells and nuclear extracts.
+
+</text>
+       <arg n="0">A caspase-2 minigene construct 
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">transfected cells and nuclear extracts
+</arg>
+<fdg>
+1	A	a	det:&gt;4	@DN&gt; %&gt;N DET SG
+2	caspase-2	caspase-2	qn:&gt;3	@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+3	minigene	minigene	attr:&gt;4	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+4	construct	construct	subj:&gt;5	@SUBJ %NH N NOM SG
+5	has	have	v-ch:&gt;6	@+FAUXV %AUX V PRES SG3
+6	been	be	v-ch:&gt;7	@-FAUXV %AUX EN
+7	made	make		@-FMAINV %VP EN
+8	that	that		@SUBJ %NH &lt;Rel&gt; PRON	@OBJ %NH &lt;Rel&gt; PRON	@PCOMPL-S %NH &lt;Rel&gt; PRON
+9	can	can	v-ch:&gt;10	@+FAUXV %AUX V AUXMOD
+10	be	be	v-ch:&gt;12	@-FAUXV %AUX V INF
+11	alternatively	alternatively	meta:&gt;12	@ADVL %EH ADV
+12	spliced	splice		@-FMAINV %VP EN
+13	in	in	loc:&gt;12	@ADVL %EH PREP
+14	transfected	transfected	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	cells	cell	pcomp:&gt;13	@&lt;P %NH N NOM PL
+16	and	and	cc:&gt;13	@CC %CC CC
+17	in	in	cc:&gt;13	@ADVL %EH PREP
+18	nuclear	nuclear	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	extracts	extract	pcomp:&gt;17	@&lt;P %NH N NOM PL
+20	.     .
+</fdg>
+</example>
+<example src="PNAS" no="2">
+<text>
+The casp-2 minigene (C2) was spliced efficiently in vitro, and the ratio of casp-2S to casp-2L mRNAs produced was similar to the one observed in vivo (Fig.1 C, lane 1).
+
+</text>
+       <arg n="0">The casp-2 minigene (C2)
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">vitro
+</arg>
+<fdg>
+1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+2	casp-2	casp-2	attr:&gt;3	@A&gt; %&gt;N &lt;?&gt; NUM CARD
+3	minigene	minigene	subj:&gt;7	@SUBJ %NH &lt;?&gt; N NOM SG
+4	(	(
+5	C2	c2	mod:&gt;3	@NH %NH ABBR NOM SG
+6	)	)
+7	was	be	v-ch:&gt;8	@+FAUXV %AUX V PAST
+8	spliced	splice	main:&gt;0	@-FMAINV %VP EN
+9	efficiently	efficiently	man:&gt;8	@ADVL %EH ADV
+10	in vitro	in vitro		@ADVL %EH ADV	@OBJ %NH A ABS	@&lt;NOM %N&lt; A ABS
+11	,	,
+12	and	and	cc:&gt;8	@CC %CC CC
+13	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+14	ratio	ratio	subj:&gt;21	@SUBJ %NH N NOM SG
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	casp-2S	casp-2	pcomp:&gt;15	@&lt;P %NH &lt;?&gt; ABBR NOM PL
+17	to	to	mod:&gt;16	@&lt;NOM %N&lt; PREP
+18	casp-2L	casp-2l	attr:&gt;19	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+19	mRNAs	mrna	pcomp:&gt;17	@&lt;P %NH &lt;?&gt; N NOM PL
+20	produced	produce	mod:&gt;19	@-FMAINV %VP EN
+21	was	be	cc:&gt;8	@+FMAINV %VA V PAST
+22	similar	similar	comp:&gt;21	@PCOMPL-S %NH A ABS
+23	to	to	mod:&gt;22	@&lt;NOM %N&lt; PREP
+24	the	the	det:&gt;25	@DN&gt; %&gt;N DET
+25	one	one	pcomp:&gt;23	@&lt;P %NH PRON NOM SG
+26	observed	observe	mod:&gt;25	@-FMAINV %VP EN
+27	in vivo	in vivo	obj:&gt;26	@OBJ %NH A ABS
+28	(	(
+29	Fig.	fig.	attr:&gt;30	@A&gt; %&gt;N ABBR NOM SG
+30	1	1	attr:&gt;31	@A&gt; %&gt;N NUM CARD
+31	C	c	main:&gt;28	@APP %NH N NOM SG
+32	,	,
+33	lane	lane		@NH %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+34	1	1		@NH %NH NUM CARD	@APP %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+35	)	)
+36	.     .
+</fdg>
+</example>
+<example src="PNAS" no="*3">
+<text>
+When incubated in nuclear extracts or transfected in HeLa cells, the C2Gloi2 substrate was spliced predominantly following the exon-skipping pathway to a level similar to that obtained with the C2 substrate (data not shown and Fig.2 E, compare lane 3 to lane 1).
+
+</text>
+       <arg n="0">the C2Gloi2 substrate 
+</arg>
+       <arg n="1">the exon-skipping pathway 
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	When	when	tmp:&gt;2	@ADVL %EH ADV WH
+2	incubated	incubate	tmp:&gt;16	@-FMAINV %VP EN
+3	in	in	ha:&gt;2	@ADVL %EH PREP
+4	nuclear	nuclear	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	extracts	extract	pcomp:&gt;3	@&lt;P %NH N NOM PL
+6	or	or	cc:&gt;2	@CC %CC CC
+7	transfected	transfect	cc:&gt;2	@-FMAINV %VP EN
+8	in	in	ha:&gt;7	@ADVL %EH PREP
+9	HeLa	hela	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	cells	cell	pcomp:&gt;8	@&lt;P %NH N NOM PL
+11	,	,
+12	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+13	C2Gloi2	c2gloi2	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	substrate	substrate	subj:&gt;15	@SUBJ %NH N NOM SG
+15	was	be	v-ch:&gt;16	@+FAUXV %AUX V PAST
+16	spliced	splice	main:&gt;0	@-FMAINV %VP EN
+17	predominantly	predominantly		@ADVL %EH ADV
+18	following	follow	man:&gt;16	@-FMAINV %VA ING
+19	the	the	det:&gt;21	@DN&gt; %&gt;N DET
+20	exon-skipping	exon-skipping	attr:&gt;21	@A&gt; %&gt;N &lt;?&gt; A ABS
+21	pathway	pathway	obj:&gt;18	@OBJ %NH N NOM SG
+22	to	to	goa:&gt;18	@ADVL %EH PREP
+23	a	a	det:&gt;25	@DN&gt; %&gt;N DET SG
+24	level	level	attr:&gt;25	@A&gt; %&gt;N A ABS
+25	similar	similar	pcomp:&gt;22	@&lt;P %NH A ABS
+26	to	to	mod:&gt;25	@&lt;NOM %N&lt; PREP
+27	that	that	pcomp:&gt;26	@&lt;P %NH PRON DEM SG
+28	obtained	obtain	mod:&gt;27	@-FMAINV %VP EN
+29	with	with	ha:&gt;28	@ADVL %EH PREP
+30	the	the	det:&gt;32	@DN&gt; %&gt;N DET
+31	C2	c2	attr:&gt;32	@A&gt; %&gt;N ABBR NOM SG
+32	substrate	substrate	pcomp:&gt;29	@&lt;P %NH N NOM SG
+33	(	(
+34	data	data	obj:&gt;28	@OBJ %NH N NOM
+35	not	not		@ADVL %EH NEG-PART
+36	shown	show		@-FMAINV %VP EN
+37	and	and		@CC %CC CC
+38	Fig.	fig.	attr:&gt;39	@A&gt; %&gt;N ABBR NOM SG
+39	2	2		@A&gt; %&gt;N NUM CARD
+40	E	e		@NH %NH ABBR NOM SG	@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@I-OBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG
+41	,	,
+42	compare	compare		@+FMAINV %VA V PRES	@-FMAINV %VA V INF	@&lt;P-FMAINV %VA V INF
+43	lane	lane	obj:&gt;42	@OBJ %NH N NOM SG
+44	3	3	qua:&gt;42	@ADVL %EH NUM CARD
+45	to	to	goa:&gt;42	@ADVL %EH PREP
+46	lane	lane	attr:&gt;47	@A&gt; %&gt;N N NOM SG
+47	1	1	pcomp:&gt;45	@&lt;P %NH NUM CARD
+48	)	)
+49	.     .
+</fdg>
+</example>
+<example src="PNAS" no="*4">
+<text>
+An additional observation with the tandem repeat-containing 3? substrates was that the efficiency of bimolecular exon ligation decreased stepwise with each mutation that moved the 5?-most AG 6 nt further downstream such that RNA 3I spliced only 20% as efficiently as RNA 3F (Fig.1 C Left).
+
+</text>
+       <arg n="0">- 
+</arg>
+       <arg n="1">-
+</arg>
+       <arg n="2">RNA 3I 
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	An	an	det:&gt;3	@DN&gt; %&gt;N DET SG
+2	additional	additional	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	observation	observation	main:&gt;0	@NH %NH N NOM SG
+4	with	with	mod:&gt;3	@&lt;NOM %N&lt; PREP
+5	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+6	tandem	tandem	pcomp:&gt;4	@&lt;P %NH N NOM SG
+7	repeat-containing	repeat-contain*	mod:&gt;6	@-FMAINV %VA &lt;?&gt; ING
+8	3	3	qua:&gt;7	@ADVL %EH NUM CARD
+9	?	?
+10	&lt;s&gt;	&lt;s&gt;
+1	substrates	substrate	subj:&gt;2	@SUBJ %NH N NOM PL
+2	was	be	main:&gt;0	@+FMAINV %VA V PAST
+3	that	that	pm:&gt;10	@CS %CS CS
+4	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+5	efficiency	efficiency	subj:&gt;10	@SUBJ %NH N NOM SG
+6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+7	bimolecular	bimolecular	attr:&gt;8	@A&gt; %&gt;N A ABS
+8	exon	exon	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	ligation	ligation	pcomp:&gt;6	@&lt;P %NH N NOM SG
+10	decreased	decrease	comp:&gt;2	@+FMAINV %VA V PAST
+11	stepwise	stepwise		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV	@SUBJ %NH A ABS	@OBJ %NH A ABS	@&lt;NOM %N&lt; A ABS
+12	with	with	ha:&gt;10	@ADVL %EH PREP
+13	each	each	det:&gt;14	@DN&gt; %&gt;N DET SG
+14	mutation	mutation	pcomp:&gt;12	@&lt;P %NH N NOM SG
+15	that	that	subj:&gt;16	@SUBJ %NH &lt;Rel&gt; PRON
+16	moved	move	mod:&gt;14	@+FMAINV %VA V PAST
+17	the	the	det:&gt;18	@DN&gt; %&gt;N DET
+18	5	5	obj:&gt;16	@OBJ %NH NUM CARD
+19	?	?
+20	&lt;s&gt;	&lt;s&gt;
+1	-	-
+2	most	many		@DN&gt; %&gt;N DET SUP PL	@DN&gt; %&gt;N DET SUP SG
+3	AG	ag	attr:&gt;4	@A&gt; %&gt;N N NOM SG
+4	6	6		@A&gt; %&gt;N NUM CARD
+5	nt	nt		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG
+6	further	further	det:&gt;7	@DN&gt; %&gt;N DET
+7	downstream	downstream		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-O %NH N NOM SG	@APP %NH N NOM SG	@ADVL %EH N NOM SG
+8	such that	such that	pm:&gt;11	@CS %CS CS
+9	RNA	rna	attr:&gt;10	@A&gt; %&gt;N ABBR NOM SG
+10	3I	3i	subj:&gt;11	@SUBJ %NH N NOM SG
+11	spliced	splice		@+FMAINV %VA V PAST
+12	only	only		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV
+13	20%	20%	qua:&gt;11	@ADVL %EH NUM CARD
+14	as	as	ad:&gt;15	@AD-A&gt; %E&gt; ADV
+15	efficiently	efficiently	man:&gt;11	@ADVL %EH ADV
+16	as	as	mod:&gt;14	@ADVL %EH PREP
+17	RNA	rna		@A&gt; %&gt;N ABBR NOM SG
+18	3F	3f	mod:&gt;17	@&lt;NOM %N&lt; NUM CARD
+19	(	(
+20	Fig.	fig.	attr:&gt;21	@A&gt; %&gt;N ABBR NOM SG
+21	1	1	attr:&gt;22	@A&gt; %&gt;N NUM CARD
+22	C	c	subj:&gt;23	@SUBJ %NH N NOM SG
+23	Left	leave		@+FMAINV %VA V PAST
+24	)	)
+25	.     .
+</fdg>
+</example>
+<example src="PNAS" no="*5">
+<text>
+The pre-mRNAs from all of these genes are spliced with little or no exon-skipping (ref.16; also Fig.1 C and data not shown), suggesting that correct exon inclusion can be managed by the yeast gene expression machinery.
+
+</text>
+       <arg n="0">The pre-mRNAs from all of these genes
+</arg>
+       <arg n="1">little or no exon-skipping
+</arg>
+       <arg n="2">- 
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	pre-mRNAs	pre-mrna	subj:&gt;8	@SUBJ %NH &lt;?&gt; N NOM PL
+3	from	from	mod:&gt;2	@&lt;NOM %N&lt; PREP
+4	all	all	pcomp:&gt;3	@&lt;P %NH PRON
+5	of	of	mod:&gt;4	@&lt;NOM-OF %N&lt; PREP
+6	these	this	det:&gt;7	@DN&gt; %&gt;N DET DEM PL
+7	genes	gene	pcomp:&gt;5	@&lt;P %NH N NOM PL
+8	are	be	v-ch:&gt;9	@+FAUXV %AUX V PRES
+9	spliced	splice	main:&gt;0	@-FMAINV %VP EN
+10	with	with	ha:&gt;9	@ADVL %EH PREP
+11	little or no	little or no	det:&gt;12	@DN&gt; %&gt;N DET
+12	exon-skipping	exon-skipping	pcomp:&gt;10	@&lt;P %NH &lt;?&gt; A ABS
+13	(	(
+14	ref.	ref.		@OBJ %NH ABBR NOM SG	@NH %NH ABBR NOM SG
+15	16	16	mod:&gt;14	@&lt;NOM %N&lt; NUM CARD
+16	;	;
+17	also	also		@ADVL %EH ADV
+18	Fig.	fig.	attr:&gt;19	@A&gt; %&gt;N ABBR NOM SG
+19	1	1	attr:&gt;20	@A&gt; %&gt;N NUM CARD
+20	C	c	mod:&gt;15	@NH %NH N NOM SG
+21	and	and	cc:&gt;20	@CC %CC CC
+22	data	data	cc:&gt;20	@NH %NH N NOM
+23	not	not	neg:&gt;24	@ADVL %EH NEG-PART
+24	shown	show	mod:&gt;22	@-FMAINV %VP EN
+25	)	)
+26	,	,
+27	suggesting	suggest	man:&gt;9	@-FMAINV %VA ING
+28	that	that	pm:&gt;34	@CS %CS CS
+29	correct	correct	attr:&gt;30	@A&gt; %&gt;N A ABS
+30	exon	exon	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+31	inclusion	inclusion	subj:&gt;32	@SUBJ %NH N NOM SG
+32	can	can	v-ch:&gt;33	@+FAUXV %AUX V AUXMOD
+33	be	be	v-ch:&gt;34	@-FAUXV %AUX V INF
+34	managed	manage	obj:&gt;27	@-FMAINV %VP EN
+35	by	by	agt:&gt;34	@ADVL %EH PREP
+36	the	the	det:&gt;40	@DN&gt; %&gt;N DET
+37	yeast	yeast	attr:&gt;38	@A&gt; %&gt;N N NOM SG
+38	gene	gene	attr:&gt;39	@A&gt; %&gt;N N NOM SG
+39	expression	expression	attr:&gt;40	@A&gt; %&gt;N N NOM SG
+40	machinery	machinery	pcomp:&gt;35	@&lt;P %NH N NOM SG
+41	.     .
+</fdg>
+</example>
+<example src="Virology" no="1">
+<text>
+However, a pre-mRNA containing mutations in SE2 is spliced predominantly using the nt 3605 3' splice site. 
+
+</text>
+       <arg n="0">a pre-mRNA containing mutations in SE2
+</arg>
+       <arg n="1">the nt 3605 3' splice site
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	However	however	meta:&gt;10	@ADVL %EH ADV WH
+2	,	,
+3	a	a	det:&gt;6	@DN&gt; %&gt;N DET SG
+4	pre-mRNA	pre-mrna	attr:&gt;5	@A&gt; %&gt;N &lt;?&gt; A ABS
+5	containing	containing	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	mutations	mutation	subj:&gt;9	@SUBJ %NH N NOM PL
+7	in	in	mod:&gt;6	@&lt;NOM %N&lt; PREP
+8	SE2	se2	pcomp:&gt;7	@&lt;P %NH N NOM SG
+9	is	be	v-ch:&gt;10	@+FAUXV %AUX V PRES SG3
+10	spliced	splice	main:&gt;0	@-FMAINV %VP EN
+11	predominantly	predominantly		@ADVL %EH ADV
+12	using	use	man:&gt;10	@-FMAINV %VA ING
+13	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+14	nt	nt	obj:&gt;12	@OBJ %NH ABBR NOM SG
+15	3605	3605	qn:&gt;16	@QN&gt; %&gt;N NUM CARD
+16	3	3	qua:&gt;12	@ADVL %EH NUM CARD
+17	?	?
+18	&lt;s&gt;	&lt;s&gt;
+1	splice	splice	main:&gt;0	@+FMAINV %VA V IMP
+2	site	site	obj:&gt;1	@OBJ %NH N NOM SG
+3	.     .
+</fdg>
+</example>
+<example src="Nucleic Acid" no="1">
+<text>
+Vertebrate internal exons are usually between 50 and 400 nt long; exons outside this size range may require additional exonic and/or intronic sequences to be spliced into the mature mRNA.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">exons outside this size range
+</arg>
+       <arg n="2">the mature mRNA
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	Vertebrate	vertebrate	attr:&gt;2	@A&gt; %&gt;N N NOM SG
+2	internal	internal	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	exons	exon	subj:&gt;4	@SUBJ %NH &lt;?&gt; N NOM PL
+4	are	be	main:&gt;0	@+FMAINV %VA V PRES
+5	usually	usually	man:&gt;4	@ADVL %EH ADV
+6	between	between	ha:&gt;4	@ADVL %EH PREP
+7	50	50	pcomp:&gt;6	@&lt;P %NH NUM CARD
+8	and	and	cc:&gt;7	@CC %CC CC
+9	400	400	cc:&gt;7	@&lt;P %NH NUM CARD
+10	nt	nt	attr:&gt;11	@A&gt; %&gt;N ABBR NOM SG
+11	long	long		@PCOMPL-S %NH A ABS
+12	;	;
+13	exons	exon	subj:&gt;18	@SUBJ %NH &lt;?&gt; N NOM PL
+14	outside	outside	mod:&gt;13	@&lt;NOM %N&lt; PREP
+15	this	this	det:&gt;17	@DN&gt; %&gt;N DET DEM SG
+16	size	size	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	range	range	pcomp:&gt;14	@&lt;P %NH N NOM SG
+18	may	may	v-ch:&gt;19	@+FAUXV %AUX V AUXMOD
+19	require	require	cc:&gt;4	@-FMAINV %VA V INF
+20	additional	additional	attr:&gt;21	@A&gt; %&gt;N A ABS
+21	exonic	exonic	obj:&gt;19	@OBJ %NH &lt;?&gt; A ABS
+22	and/or	and/or	cc:&gt;19	@CC %CC CC
+23	intronic	intronic	subj:&gt;24	@SUBJ %NH &lt;?&gt; A ABS
+24	sequences	sequence	cc:&gt;19	@+FMAINV %VA V PRES SG3
+25	to	to	pm:&gt;26	@INFMARK&gt; %AUX INFMARK&gt;
+26	be	be	v-ch:&gt;27	@-FAUXV %AUX V INF
+27	spliced	splice	obj:&gt;24	@-FMAINV %VP EN
+28	into	into	goa:&gt;27	@ADVL %EH PREP
+29	the	the	det:&gt;31	@DN&gt; %&gt;N DET
+30	mature	mature	attr:&gt;31	@A&gt; %&gt;N A ABS
+31	mRNA	mrna	pcomp:&gt;28	@&lt;P %NH ABBR NOM SG
+32	.     .
+</fdg>
+</example>
+<example src="Nucleic Acid" no="2">
+<text>
+The mouse polymeric immunoglobulin receptor gene has a 654 nt exon that is efficiently spliced into the mRNA.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">a 654 nt exon 
+</arg>
+       <arg n="2">the mRNA 
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	The	the	det:&gt;6	@DN&gt; %&gt;N DET
+2	mouse	mouse	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	polymeric	polymeric	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	immunoglobulin	immunoglobulin	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	receptor	receptor	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	gene	gene	subj:&gt;7	@SUBJ %NH N NOM SG
+7	has	have	main:&gt;0	@+FMAINV %VA V PRES SG3
+8	a	a	det:&gt;9	@DN&gt; %&gt;N DET SG
+9	654	654	obj:&gt;7	@OBJ %NH NUM CARD
+10	nt	nt	attr:&gt;11	@A&gt; %&gt;N ABBR NOM SG
+11	exon	exon		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+12	that	that	subj:&gt;13	@SUBJ %NH &lt;Rel&gt; PRON
+13	is	be	v-ch:&gt;15	@+FAUXV %AUX V PRES SG3
+14	efficiently	efficiently	meta:&gt;15	@ADVL %EH ADV
+15	spliced	splice	mod:&gt;11	@-FMAINV %VP EN
+16	into	into	goa:&gt;15	@ADVL %EH PREP
+17	the	the	det:&gt;18	@DN&gt; %&gt;N DET
+18	mRNA	mrna	pcomp:&gt;16	@&lt;P %NH ABBR NOM SG
+19	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

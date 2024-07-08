@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="generate">
+            <roleset id="generate.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent, causer&#x09;&#x09;//gene, process//&#x0A;" />
+                    <role n="1" descr="thing created&#x09;&#x09;&#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>We believe this binding is required to generate a higher order protein-DNA complex within the recombinational synapse.</text>
+                    <arg n="0">this binding</arg>
+                    <arg n="1">a higher order protein-DNA complex</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>We show that EKLF requires a SWI/SNF-related chromatin remodeling complex, EKLF coactivator-remodeling complex 1 (E-RC1), to generate a DNase I hypersensitive, transcriptionally active beta-globin promoter on chromatin templates in vitro.</text>
+                    <arg n="0">EKLF requires a SWI/SNF-related chromatin remodeling complex, EKLF coactivator-remodeling complex 1 (E-RC1)</arg>
+                    <arg n="1">a DNase I hypersensitive, transcriptionally active beta-globin promoter on chromatin templates in vitro</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>These are fumarate reductase (encoded by the frdABCD operon), fumarase B, which generates fumarate from malate, and the DcuB permease for fumarate, malate, and aspartate.</text>
+                    <arg n="0">fumarase B</arg>
+                    <arg n="1">fumarate</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>We report results from preliminary transcription microarray experiments that revealed two previously unknown members of the NarL regulon: the aspA gene encoding aspartate-ammonia lyase, which generates fumarate; and the dcuSR operon encoding the dicarboxylate-responsive regulatory system.</text>
+                    <arg n="0">aspartate-ammonia lyase</arg>
+                    <arg n="1">fumarate</arg>
+                </example>
+                <example src="GREC" no="5">
+                    <text>NO reacts anaerobically with the Fe-S cluster of purified FNR, generating spectral changes consistent with formation of a dinitrosyl-iron-cysteine complex.</text>
+                    <arg n="0">NO reacts anaerobically with the Fe-S cluster of purified FNR</arg>
+                    <arg n="1">spectral changes consistent with formation of a dinitrosyl-iron-cysteine complex</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

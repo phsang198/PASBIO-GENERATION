@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="alter">
+            <roleset id="alter.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer of transformation&#x09;&#x09;// mutation, protein //&#x0A;" />
+                    <role n="1" descr="thing changing&#x09;&#x09;&#x09;&#x09;// codon, exon, premRNA //&#x0A;" />
+                    <role n="2" descr="end state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="3" descr="start state&#x09;&#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="4" descr="location refering to tissue, organelle, person, gene&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Cytokines altered the expression and activity of the multidrug resistance transporters in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Either the conserved gt or ag dinucleotide splice sites was altered by four other mutations in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Four other mutations may alter either the conserved gt or ag dinucleotide splice sites in the IVD gene.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                    <arg n="4">the IVD gene</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation subtly alters the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation subtly alters the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>It is believed that the molecular lesion associated with s1031 is able to alter splicing, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Moreover, Dam methylation inhibited binding of Lrp/PapI near the GATC1028 site and has altered binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Moreover, Dam methylation inhibits binding of Lrp/PapI near the GATC1028 site and is able to alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Since these two bends are in opposing directions, they will not alter the overall direction of the DNA(Figure 3C).</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                    <arg n="M-NEG">not</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>Splice sites may be altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Splice sites might be altered by mutations leading to the synthesis of several types of mRNAs, a fraction of which represented the normally spliced product.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>The expression and activity of the multidrug resistance transporters may be altered by Cytokines in human hepatoma cell lines; analysis using RT-PCR and cDNA microarrays.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                    <arg n="4">human hepatoma cell lines</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>In protein-coding transcripts, 79% of splice variations altered the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because the expression and activity of the multidrug resistance transporters can be altered by Cytokines.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because the overall direction of the DNA could be altered by these two bends.</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because the overall direction of the DNA was altered by these two bends.</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because Cytokines subtly alters the expression and activity of the multidrug resistance transporters.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation can subtly alter specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation may be able to subtly alter specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation may be able to subtly alter specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the change in DNA conformation subtly alters specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because the mutation located within exon 2 subtly alters the codon.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because these two bends may be able to subtly alter the overall direction of the DNA.</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because these two bends subtly alters the overall direction of the DNA.</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to Cytokines, which may subtly alter the expression and activity of the multidrug resistance transporters.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to the molecular lesion associated with s1031, which was able to subtly alter splicing.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to these two bends, which subtly altered the overall direction of the DNA.</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to this mutation, which subtly altered vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>Moreover, This mutation could alter the codon.</text>
+                    <arg n="0">This mutation</arg>
+                    <arg n="1">the codon</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>Moreover, This mutation could alter the codon.</text>
+                    <arg n="0">This mutation</arg>
+                    <arg n="1">the codon</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>Moreover, the molecular lesion associated with s1031 can alter splicing.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>Moreover, the molecular lesion associated with s1031 will be able to alter splicing.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>Moreover, the mutation located within exon 2 has altered the codon.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>Moreover, the mutation located within exon 2 is able to alter the codon.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>Moreover, these two bends may be able to alter the overall direction of the DNA.</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>Moreover, these two bends may be able to alter the overall direction of the DNA.</text>
+                    <arg n="0">these two bends</arg>
+                    <arg n="1">the overall direction of the DNA</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>Moreover, this mutation altered vulval induction.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>Since Cytokines are in opposing directions, the expression and activity of the multidrug resistance transporters cannot be altered by them(Figure 3C).</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>Since Cytokines are in opposing directions, the expression and activity of the multidrug resistance transporters is not able to be altered by them(Figure 3C).</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>Since a fruR null mutation are in opposing directions, they are not able to alter the rates of utilization of at least 36 carbon sources(Figure 3C).</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>Since a fruR null mutation were in opposing directions, they could not alter the rates of utilization of at least 36 carbon sources(Figure 3C).</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>Since s1031 is a null allele, we are testing whether Cytokines is going to alter the expression and activity of the multidrug resistance transporters.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>Since s1031 is a null allele, we are testing whether the change in DNA conformation is going to alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>Since s1031 is a null allele, we are testing whether the change in DNA conformation will alter specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>Since s1031 is a null allele, we are testing whether the expression and activity of the multidrug resistance transporters can be altered by Cytokines.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>Since s1031 is a null allele, we are testing whether the mutation located within exon 2 is able to alter the codon.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>Since s1031 is a null allele, we tested whether a fruR null mutation has altered the rates of utilization of at least 36 carbon sources.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">the rates of utilization of at least 36 carbon sources</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>Since s1031 is a null allele, we tested whether splicing was able to be altered by the molecular lesion associated with s1031.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>Since s1031 is a null allele, we tested whether splicing was able to be altered by the molecular lesion associated with s1031.</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>Since s1031 is a null allele, we tested whether the change in DNA conformation alters the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>Since s1031 is a null allele, we tested whether the change in DNA conformation has altered the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>Since s1031 is a null allele, we tested whether the change in DNA conformation was able to alter the specific protein DNA interactions observed.</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>Since s1031 is a null allele, we tested whether the expression and activity of the multidrug resistance transporters was altered by Cytokines.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">the expression and activity of the multidrug resistance transporters</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>Since s1031 is a null allele, we tested whether the mutation located within exon 2 could alter the codon.</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>Since the change in DNA conformation were in opposing directions, the specific protein DNA interactions observed was not able to be altered by them(Figure 3C).</text>
+                    <arg n="0">the change in DNA conformation</arg>
+                    <arg n="1">the specific protein DNA interactions observed</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>Since the molecular lesion associated with s1031 were in opposing directions, they could not alter splicing(Figure 3C).</text>
+                    <arg n="0">the molecular lesion associated with s1031</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>Since the mutation located within exon 2 were in opposing directions, the codon was not altered by them(Figure 3C).</text>
+                    <arg n="0">the mutation located within exon 2</arg>
+                    <arg n="1">the codon</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>Since this mutation are in opposing directions, they may not alter vulval induction(Figure 3C).</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">vulval induction</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Splicing can be altered by a fruR null mutation, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">a fruR null mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Splicing can be altered by this mutation, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>Splicing is able to be altered by Cytokines, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">Cytokines</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>Splicing will be altered by this mutation, we looked at the sos-1 mRNA produced in this mutant.</text>
+                    <arg n="0">this mutation</arg>
+                    <arg n="1">splicing</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because either the conserved gt or ag dinucleotide splice sites is altered by Four other mutations.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity because splice sites is altered by mutations.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because Dam methylation subtly altered binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because mutations may be able to subtly alter splice sites.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because mutations may be able to subtly alter splice sites.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably because treating the cells with insulin-like growth factor-I may be able to subtly alter Phosphorylation of PDK1.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to Dam methylation, which is able to subtly alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to a mechanism, which may subtly alter expression of Bcl-3.</text>
+                    <arg n="0">a mechanism</arg>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Hence, Glu13 indirectly affects DNA-binding specificity probably due to a mechanism, which subtly altered expression of Bcl-3.</text>
+                    <arg n="0">a mechanism</arg>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Moreover, Four other mutations has altered either the conserved gt or ag dinucleotide splice sites.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Moreover, mutations is able to alter splice sites.</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Moreover, splice variations altered the protein product.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>Moreover, splice variations will alter the protein product.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>Since Dam methylation were in opposing directions, binding of Lrp at the GATC1130 site was not altered by them(Figure 3C).</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>Since Dam methylation were in opposing directions, they did not alter binding of Lrp at the GATC1130 site(Figure 3C).</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>Since Dam methylation were in opposing directions, they were not able to alter binding of Lrp at the GATC1130 site(Figure 3C).</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>Since Four other mutations are in opposing directions, they are not able to alter either the conserved gt or ag dinucleotide splice sites(Figure 3C).</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>Since Four other mutations are in opposing directions, they will not alter either the conserved gt or ag dinucleotide splice sites(Figure 3C).</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>Since Mutations are in opposing directions, they may not alter the phasing of the binding sites(Figure 3C).</text>
+                    <arg n="0">Mutations</arg>
+                    <arg n="1">the phasing of the binding sites</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>Since a mechanism are in opposing directions, they are not able to alter expression of Bcl-3(Figure 3C).</text>
+                    <arg n="0">a mechanism</arg>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>Since a mechanism were in opposing directions, expression of Bcl-3 was not altered by them(Figure 3C).</text>
+                    <arg n="0">a mechanism</arg>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>Since mutations are in opposing directions, splice sites will not be altered by them(Figure 3C).</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>Since mutations were in opposing directions, splice sites was not able to be altered by them(Figure 3C).</text>
+                    <arg n="0">mutations</arg>
+                    <arg n="1">splice sites</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>Since s1031 is a null allele, we are testing whether Dam methylation can alter binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="1">binding of Lrp at the GATC1130 site</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>Since s1031 is a null allele, we are testing whether splice variations can alter the protein product.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>Since s1031 is a null allele, we are testing whether the protein product is able to be altered by splice variations.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>Since s1031 is a null allele, we are testing whether the protein product may be altered by splice variations.</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>Since s1031 is a null allele, we tested whether Mutations could alter the phasing of the binding sites.</text>
+                    <arg n="0">Mutations</arg>
+                    <arg n="1">the phasing of the binding sites</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>Since s1031 is a null allele, we tested whether a mechanism could alter expression of Bcl-3.</text>
+                    <arg n="0">a mechanism</arg>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>Since s1031 is a null allele, we tested whether either the conserved gt or ag dinucleotide splice sites was altered by Four other mutations.</text>
+                    <arg n="0">Four other mutations</arg>
+                    <arg n="1">either the conserved gt or ag dinucleotide splice sites</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>Since s1031 is a null allele, we tested whether expression of Bcl-3 could be altered by a mechanism.</text>
+                    <arg n="0">a mechanism</arg>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>Since s1031 is a null allele, we tested whether expression of Bcl-3 was altered by a mechanism.</text>
+                    <arg n="0">a mechanism</arg>
+                    <arg n="1">expression of Bcl-3</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>Since s1031 is a null allele, we tested whether the phasing of the binding sites might be altered by Mutations.</text>
+                    <arg n="0">Mutations</arg>
+                    <arg n="1">the phasing of the binding sites</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>Since s1031 is a null allele, we tested whether treating the cells with insulin-like growth factor-I altered Phosphorylation of PDK1.</text>
+                    <arg n="0">treating the cells with insulin-like growth factor-I</arg>
+                    <arg n="1">Phosphorylation of PDK1</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>Since splice variations are in opposing directions, the protein product is not able to be altered by them(Figure 3C).</text>
+                    <arg n="0">splice variations</arg>
+                    <arg n="1">the protein product</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

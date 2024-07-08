@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="block">
+<roleset id="block.01" name="" wordnet="3">
+<roles>
+  <role n="0" descr="causer agent
+"/>
+  <role n="1" descr="theme (process or entity being stopped)
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Mutations at the 3' splice site that specifically block step II do not affect the association of hPrps 16 and 17 with the spliceosome, indicating that these factors may function at a stage of step II prior to recognition of the 3' splice site.
+
+</text>
+       <arg n="0">Mutations at the 3' splice site
+</arg>
+       <arg n="1">step II
+</arg>
+<fdg>
+1	Mutations	mutation		@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL
+2	at	at	mod:&gt;1	@&lt;NOM %N&lt; PREP
+3	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+4	3	3	qn:&gt;6	@QN&gt; %&gt;N NUM CARD
+5	&apos;	&apos;
+6	splice	splice	pcomp:&gt;2	@&lt;P %NH N NOM SG
+7	site	site	subj:&gt;11	@SUBJ %NH N NOM SG
+8	that	that	subj:&gt;10	@SUBJ %NH &lt;Rel&gt; PRON
+9	specifically	specifically		@AD-A&gt; %E&gt; ADV
+10	block	block	mod:&gt;7	@+FMAINV %VA V PRES
+11	step	step		@+FMAINV %VA V PRES
+12	II	ii	frq:&gt;15	@ADVL %EH NUM ORD
+13	do	do	v-ch:&gt;15	@+FAUXV %AUX V PRES
+14	not	not	neg:&gt;13	@ADVL %EH NEG-PART
+15	affect	affect		@-FMAINV %VA V INF
+16	the	the	det:&gt;17	@DN&gt; %&gt;N DET
+17	association	association	obj:&gt;15	@OBJ %NH N NOM SG
+18	of	of	mod:&gt;17	@&lt;NOM-OF %N&lt; PREP
+19	hPrps	hprp	pcomp:&gt;18	@&lt;P %NH &lt;?&gt; N NOM PL
+20	16	16	mod:&gt;19	@&lt;NOM %N&lt; NUM CARD
+21	and	and	cc:&gt;20	@CC %CC CC
+22	17	17	cc:&gt;20	@&lt;NOM %N&lt; NUM CARD
+23	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+24	the	the	det:&gt;25	@DN&gt; %&gt;N DET
+25	spliceosome	spliceosome	pcomp:&gt;23	@&lt;P %NH &lt;?&gt; N NOM SG
+26	,	,
+27	indicating	indicate	ha:&gt;15	@-FMAINV %VA ING
+28	that	that	pm:&gt;32	@CS %CS CS
+29	these	this	det:&gt;30	@DN&gt; %&gt;N DET DEM PL
+30	factors	factor	subj:&gt;31	@SUBJ %NH N NOM PL
+31	may	may	v-ch:&gt;32	@+FAUXV %AUX V AUXMOD
+32	function	function	obj:&gt;27	@-FMAINV %VA V INF
+33	at	at	loc:&gt;32	@ADVL %EH PREP
+34	a	a	det:&gt;35	@DN&gt; %&gt;N DET SG
+35	stage	stage	pcomp:&gt;33	@&lt;P %NH N NOM SG
+36	of	of	mod:&gt;35	@&lt;NOM-OF %N&lt; PREP
+37	step	step	attr:&gt;38	@A&gt; %&gt;N N NOM SG
+38	II	ii	pcomp:&gt;36	@&lt;P %NH NUM ORD
+39	prior to	prior to	mod:&gt;38	@&lt;NOM %N&lt; PREP
+40	recognition	recognition	pcomp:&gt;39	@&lt;P %NH N NOM SG
+41	of	of	mod:&gt;40	@&lt;NOM-OF %N&lt; PREP
+42	the	the	det:&gt;45	@DN&gt; %&gt;N DET
+43	3	3	qn:&gt;45	@QN&gt; %&gt;N NUM CARD
+44	&apos;	&apos;
+45	splice	splice	pcomp:&gt;41	@&lt;P %NH N NOM SG
+46	site	site		@SUBJ %NH N NOM SG
+47	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Tagetin is more specific for distinguishing between different RNA polymerases because it blocks RNA polymerase during elongation (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.
+
+</text>
+       <arg n="0">it
+</arg>
+       <arg n="1">RNA polymerase during elongation
+</arg>
+<fdg>
+1	Tagetin	tagetin	subj:&gt;2	@SUBJ %NH &lt;?&gt; N NOM SG
+2	is	be	main:&gt;0	@+FMAINV %VA V PRES SG3
+3	more	much	ad:&gt;4	@AD-A&gt; %E&gt; ADV CMP
+4	specific	specific	comp:&gt;2	@PCOMPL-S %NH A ABS
+5	for	for	mod:&gt;4	@&lt;NOM %N&lt; PREP
+6	distinguishing	distinguish	pcomp:&gt;5	@&lt;P-FMAINV %VA ING
+7	between	between	ha:&gt;6	@ADVL %EH PREP
+8	different	different	attr:&gt;9	@A&gt; %&gt;N A ABS
+9	RNA	rna	attr:&gt;10	@A&gt; %&gt;N ABBR NOM SG
+10	polymerases	polymerase	pcomp:&gt;7	@&lt;P %NH N NOM PL
+11	because	because	pm:&gt;13	@CS %CS CS
+12	it	it	subj:&gt;13	@SUBJ %NH PRON NOM SG3
+13	blocks	block	cnt:&gt;2	@+FMAINV %VA V PRES SG3
+14	RNA	rna	attr:&gt;15	@A&gt; %&gt;N ABBR NOM SG
+15	polymerase	polymerase	obj:&gt;13	@OBJ %NH N NOM SG
+16	during	during	ha:&gt;13	@ADVL %EH PREP
+17	elongation	elongation	pcomp:&gt;16	@&lt;P %NH N NOM SG
+18	(	(
+19	Mathews	mathews	main:&gt;18	@APP %NH &lt;?&gt; N NOM SG
+20	and	and		@CC %CC CC
+21	Durbin	durbin		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+22	,	,
+23	1994	1994		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@PCOMPL-S %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+24	)	)
+25	,	,
+26	i.e.	i.e.	meta:&gt;29	@ADVL %EH ADV
+27	its	it	attr:&gt;28	@A&gt; %&gt;N PRON GEN SG3
+28	action	action	subj:&gt;29	@SUBJ %NH N NOM SG
+29	is	be		@+FMAINV %VA V PRES SG3
+30	independent	independent	comp:&gt;29	@PCOMPL-S %NH A ABS
+31	of	of	mod:&gt;30	@&lt;NOM-OF %N&lt; PREP
+32	different	different	attr:&gt;33	@A&gt; %&gt;N A ABS
+33	initiation	initiation		@SUBJ %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+34	factors	factor		@+FMAINV %VA V PRES SG3	@&lt;P %NH N NOM PL
+35	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+A downstream kinase appears to be essential for agrin-mediated signaling, since staurosporine blocks agrin-induced AChR clustering and phosphorylation without inhibiting MuSK phosphorylation (Wallace, 1994; Fuhrer et al., 1997).
+
+</text>
+       <arg n="0">staurosporine
+</arg>
+       <arg n="1">agrin-induced AChR clustering and phosphorylation
+</arg>
+<fdg>
+1	A	a	det:&gt;3	@DN&gt; %&gt;N DET SG
+2	downstream	downstream	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	kinase	kinase	subj:&gt;4	@SUBJ %NH N NOM SG
+4	appears	appear		@+FMAINV %VA V PRES SG3
+5	to	to	pm:&gt;6	@INFMARK&gt; %AUX INFMARK&gt;
+6	be	be	comp:&gt;4	@-FMAINV %VA V INF
+7	essential	essential	comp:&gt;6	@PCOMPL-S %NH A ABS
+8	for	for	mod:&gt;7	@&lt;NOM %N&lt; PREP
+9	agrin	agrin	pcomp:&gt;8	@&lt;P %NH N NOM SG
+10	-	-
+11	mediated	mediate		@-FMAINV %VP EN
+12	signaling	signal	obj:&gt;11	@-FMAINV %VA ING
+13	,	,
+14	since	since	pm:&gt;16	@CS %CS CS
+15	staurosporine	staurosporine	subj:&gt;16	@SUBJ %NH &lt;?&gt; N NOM SG
+16	blocks	block	cnt:&gt;12	@+FMAINV %VA V PRES SG3
+17	agrin	agrin	obj:&gt;16	@OBJ %NH N NOM SG
+18	-	-
+19	induced	induced		@A&gt; %&gt;N A ABS	@+FMAINV %VA V PAST
+20	AChR	achr		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+21	clustering	cluster		@-FMAINV %VA ING	@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG
+22	and	and		@CC %CC CC
+23	phosphorylation	phosphorylation		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG	@APP %NH N NOM SG
+24	without	without		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+25	inhibiting	inhibit	pcomp:&gt;24	@&lt;P-FMAINV %VA ING
+26	MuSK	musk	attr:&gt;27	@A&gt; %&gt;N N NOM SG
+27	phosphorylation	phosphorylation	obj:&gt;25	@OBJ %NH N NOM SG
+28	(	(
+29	Wallace	wallace	main:&gt;28	@APP %NH N NOM SG
+30	,	,
+31	1994	1994		@NH %NH NUM CARD	@&lt;P %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+32	;	;
+33	Fuhrer	fuhrer	main:&gt;32	@NH %NH N NOM SG
+34	et	et	cc:&gt;33	@CC %CC CC
+35	al.	al.	cc:&gt;33	@NH %NH ABBR NOM SG
+36	,	,
+37	1997	1997	cc:&gt;35	@NH %NH NUM CARD
+38	)	)
+39	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+Labeling with antibodies to the Y553 phosphopeptide is specific since labeling is blocked by pre-incubation of the antibodies with the phosphopeptide.
+
+</text>
+       <arg n="0">[by] pre-incubation of the antibodies with the phosphopeptide
+</arg>
+       <arg n="1">labeling
+</arg>
+<fdg>
+1	Labeling	label	subj:&gt;8	@-FMAINV %VA ING
+2	with	with	ha:&gt;1	@ADVL %EH PREP
+3	antibodies	antibody	pcomp:&gt;2	@&lt;P %NH N NOM PL
+4	to	to	mod:&gt;3	@&lt;NOM %N&lt; PREP
+5	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+6	Y553	y553	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	phosphopeptide	phosphopeptide	pcomp:&gt;4	@&lt;P %NH &lt;?&gt; N NOM SG
+8	is	be		@+FMAINV %VA V PRES SG3
+9	specific	specific	comp:&gt;8	@PCOMPL-S %NH A ABS
+10	since	since		@CS %CS CS	@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+11	labeling	labeling		@PCOMPL-S %NH A ABS	@SUBJ %NH A ABS	@OBJ %NH A ABS	@&lt;P %NH A ABS	@ADVL %EH A ABS
+12	is	be	v-ch:&gt;13	@+FAUXV %AUX V PRES SG3
+13	blocked	block		@-FMAINV %VP EN
+14	by	by	agt:&gt;13	@ADVL %EH PREP
+15	pre-	pre-	attr:&gt;16	@A&gt; %&gt;N A ABS
+16	incubation	incubation	pcomp:&gt;14	@&lt;P %NH N NOM SG
+17	of	of	mod:&gt;16	@&lt;NOM-OF %N&lt; PREP
+18	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+19	antibodies	antibody	pcomp:&gt;17	@&lt;P %NH N NOM PL
+20	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+21	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+22	phosphopeptide	phosphopeptide	pcomp:&gt;20	@&lt;P %NH &lt;?&gt; N NOM SG
+23	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+Membranes were blocked in TBST (Tris-buffered saline, 0.05% Tween-20) containing 5% bovine serum albumin (for anti-phosphoryrosine blots) or skimmed milk and probed with antibodies.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">Membranes
+</arg>
+<fdg>
+1	Membranes	membrane	subj:&gt;2	@SUBJ %NH N NOM PL
+2	were	be	v-ch:&gt;3	@+FAUXV %AUX V PAST PL
+3	blocked	block	main:&gt;0	@-FMAINV %VP EN
+4	in	in	ha:&gt;3	@ADVL %EH PREP
+5	TBST	tbst	pcomp:&gt;4	@&lt;P %NH N NOM SG
+6	(	(
+7	Tris-buffered	tris-buffered	attr:&gt;8	@A&gt; %&gt;N &lt;?&gt; A ABS
+8	saline	saline	main:&gt;6	@APP %NH A ABS
+9	,	,
+10	0.05%	0.05%	qn:&gt;11	@QN&gt; %&gt;N NUM CARD
+11	Tween-20	tween-20	mod:&gt;8	@APP %NH &lt;?&gt; NUM CARD
+12	)	)
+13	containing	contain		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING
+14	5%	5%		@QN&gt; %&gt;N NUM CARD
+15	bovine	bovine	attr:&gt;16	@A&gt; %&gt;N A ABS
+16	serum	serum	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	albumin	albumin	obj:&gt;13	@OBJ %NH N NOM SG
+18	(	(
+19	for	for	pm:&gt;22	@CS %CS CS
+20	anti-	anti	attr:&gt;21	@A&gt; %&gt;N A ABS
+21	phosphotyrosine	phosphotyrosine	subj:&gt;22	@SUBJ %NH &lt;?&gt; N NOM SG
+22	blots	blot	mod:&gt;17	@+FMAINV %VA V PRES SG3
+23	)	)
+24	or	or		@CC %CC CC
+25	skimmed	skimmed	attr:&gt;26	@A&gt; %&gt;N A ABS
+26	milk	milk		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+27	and	and	cc:&gt;3	@CC %CC CC
+28	probed	probe	cc:&gt;3	@-FMAINV %VP EN
+29	with	with	ha:&gt;28	@ADVL %EH PREP
+30	antibodies	antibody	pcomp:&gt;29	@&lt;P %NH N NOM PL
+31	.     .
+</fdg>
+</example>
+<example src="EMBO" no="5">
+<text>
+Both RAP1 and 2 are important vaccine candidates because it has been shown that antibodies to RAP1 are able to block merozoite invasion in vitro (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).
+
+</text>
+       <arg n="0">antibodies to RAP1
+</arg>
+       <arg n="1">merozoite invasion in vitro
+</arg>
+<fdg>
+1	Both	both	ad:&gt;2	@AD-A&gt; %E&gt; ADV
+2	RAP1	rap1	cc:&gt;4	@SUBJ %NH N NOM SG
+3	and	and	cc:&gt;4	@CC %CC CC
+4	2	2	subj:&gt;5	@SUBJ %NH NUM CARD
+5	are	be	main:&gt;0	@+FMAINV %VA V PRES
+6	important	important	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	vaccine	vaccine	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	candidates	candidate	comp:&gt;5	@PCOMPL-S %NH N NOM PL
+9	because	because	pm:&gt;13	@CS %CS CS
+10	it	it	subj:&gt;11	@SUBJ %NH PRON NOM SG3
+11	has	have	v-ch:&gt;12	@+FAUXV %AUX V PRES SG3
+12	been	be	v-ch:&gt;13	@-FAUXV %AUX EN
+13	shown	show	cnt:&gt;5	@-FMAINV %VP EN
+14	that	that	pm:&gt;18	@CS %CS CS
+15	antibodies	antibody	subj:&gt;18	@SUBJ %NH N NOM PL
+16	to	to	mod:&gt;15	@&lt;NOM %N&lt; PREP
+17	RAP1	rap1	pcomp:&gt;16	@&lt;P %NH N NOM SG
+18	are	be	obj:&gt;13	@+FMAINV %VA V PRES
+19	able	able	comp:&gt;18	@PCOMPL-S %NH A ABS
+20	to	to	pm:&gt;21	@INFMARK&gt; %AUX INFMARK&gt;
+21	block	block	mod:&gt;19	@-FMAINV %VA V INF
+22	merozoite	merozoite	attr:&gt;23	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+23	invasion	invasion	obj:&gt;21	@OBJ %NH N NOM SG
+24	in vitro	in vitro	copred:&gt;21	@A&gt; %&gt;N A ABS
+25	(	(
+26	Schofield	schofield	main:&gt;25	@APP %NH N NOM SG
+27	et	et	cc:&gt;26	@CC %CC CC
+28	al.	al.	cc:&gt;26	@APP %NH ABBR NOM SG
+29	,	,
+30	1986	1986		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@PCOMPL-S %NH NUM CARD	@PCOMPL-O %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD
+31	;	;
+32	Harnyuttanakorn	harnyuttanakorn	mod:&gt;30	@NH %NH &lt;?&gt; N NOM SG
+33	et	et	cc:&gt;32	@CC %CC CC
+34	al.	al.	cc:&gt;32	@NH %NH ABBR NOM SG
+35	,	,
+36	1992	1992	cc:&gt;34	@NH %NH NUM CARD
+37	;	;
+38	Howard	howard	mod:&gt;36	@NH %NH N NOM SG
+39	et	et	cc:&gt;38	@CC %CC CC
+40	al.	al.	cc:&gt;38	@NH %NH ABBR NOM SG
+41	,	,
+42	1998a	1998a	cc:&gt;40	@NH %NH NUM CARD
+43	)	)
+44	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

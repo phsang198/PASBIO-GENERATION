@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="block">
+            <roleset id="block.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="causer agent&#x0A;" />
+                    <role n="1" descr="theme (process or entity being stopped)&#x0A;" />
+                </roles>
+                <example src="EMBO" no="0">
+                    <text>A downstream kinase appears to be essential for agrin-mediated signaling, since staurosporine blocks agrin-induced AChR clustering and phosphorylation without inhibiting MuSK phosphorylation (Wallace, 1994; Fuhrer et al., 1997).</text>
+                    <arg n="0">staurosporine</arg>
+                    <arg n="1">agrin-induced AChR clustering and phosphorylation</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Both RAP1 and 2 are important vaccine candidates because it has been shown that antibodies to RAP1 are able to block merozoite invasion in vitro (Schofield et al., 1986; Harnyuttanakorn et al., 1992; Howard et al., 1998a).</text>
+                    <arg n="0">antibodies to RAP1</arg>
+                    <arg n="1">merozoite invasion in vitro</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>Labeling with antibodies to the Y553 phosphopeptide is specific since labeling is blocked by pre-incubation of the antibodies with the phosphopeptide.</text>
+                    <arg n="0">pre-incubation of the antibodies with the phosphopeptide</arg>
+                    <arg n="1">labeling</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>Membranes were blocked in TBST (Tris-buffered saline, 0.05% Tween-20) containing 5% bovine serum albumin (for anti-phosphoryrosine blots) or skimmed milk and probed with antibodies.</text>
+                    <arg n="1">Membranes</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>Tagetin is more specific for distinguishing between different RNA polymerases because it blocks RNA polymerase during elongation (Mathews and Durbin, 1994), i.e.its action is independent of different initiation factors.</text>
+                    <arg n="0">Tagetin</arg>
+                    <arg n="1">RNA polymerase during elongation</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>Mutations at the 3 splice site that specifically block step II do not affect the association of hPrps 16 and 17 with the spliceosome, indicating that these factors may function at a stage of step II prior to recognition of the 3 splice site.</text>
+                    <arg n="0">Mutations at the 3 splice site</arg>
+                    <arg n="1">step II</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

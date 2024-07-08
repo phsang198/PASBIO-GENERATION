@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="express">
+            <roleset id="express.01" name="" wordnet="5">
+                <roles>
+                    <role n="0" descr="named entity being expressed&#x09;&#x09;&#x09;&#x09;&#x09;// gene or gene products//&#x0A;" />
+                    <role n="1" descr="property of the existing name entity&#x0A;" />
+                    <role n="2" descr="location refering to organelle, cell or tissue&#x0A;" />
+                </roles>
+                <example src="GREC" no="0">
+                    <text>BD73 messenger RNA is expressed in a wide variety of tissues and cell lines.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="2">in a wide variety of tissues and cell lines</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Northern blot analysis reveals that BNIP3alpha is expressed ubiquitously in most human tissues.</text>
+                    <arg n="0">BNIP3alpha</arg>
+                    <arg n="2">in most human tissues</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>The pfl operon is expressed at high levels anaerobically.</text>
+                    <arg n="0">The pfl operon</arg>
+                    <arg n="1">at high levels anaerobically</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

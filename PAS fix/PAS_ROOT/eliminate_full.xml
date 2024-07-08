@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="eliminate">
+<roleset id="eliminate.01" name="remove
+" wordnet="1">
+<roles>
+  <role n="0" descr="entity removing
+"/>
+  <role n="1" descr="thing being removed
+"/>
+  <role n="2" descr="removed from
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+One of the remaining three families carried a 3-bp in-frame deletion that would eliminate an asparagine residue within a kinase domain of the product; the other two carried intronic mutations at or adjacent to the consensus dinucleotide sequences of splice-acceptor or-donor sites, which were likely to lead to aberrant splicing.
+
+</text>
+       <arg n="0">a 3-bp in-frame deletion
+</arg>
+       <arg n="1">an asparagine residue 
+</arg>
+       <arg n="2">[within] a kinase domain of the product
+</arg>
+       <arg n="M-MOD">would
+</arg>
+<fdg>
+
+1	One	one	subj:&gt;7	@SUBJ %NH NUM CARD
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+4	remaining	remaining	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	three	three	qn:&gt;6	@QN&gt; %&gt;N NUM CARD
+6	families	family	pcomp:&gt;2	@&lt;P %NH N NOM PL
+7	carried	carry	main:&gt;0	@+FMAINV %VA V PAST
+8	a	a	det:&gt;11	@DN&gt; %&gt;N DET SG
+9	3-bp	3-bp	attr:&gt;10	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+10	in-frame	in-frame	attr:&gt;11	@A&gt; %&gt;N &lt;?&gt; A ABS
+11	deletion	deletion	obj:&gt;7	@OBJ %NH N NOM SG
+12	that	that	subj:&gt;13	@SUBJ %NH &lt;Rel&gt; PRON
+13	would	would	v-ch:&gt;14	@+FAUXV %AUX V AUXMOD
+14	eliminate	eliminate	mod:&gt;11	@-FMAINV %VA V INF
+15	an	an	det:&gt;17	@DN&gt; %&gt;N DET SG
+16	asparagine	asparagine	attr:&gt;17	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+17	residue	residue	obj:&gt;14	@OBJ %NH N NOM SG
+18	within	within	ha:&gt;14	@ADVL %EH PREP
+19	a	a	det:&gt;21	@DN&gt; %&gt;N DET SG
+20	kinase	kinase	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	domain	domain	pcomp:&gt;18	@&lt;P %NH N NOM SG
+22	of	of	mod:&gt;21	@&lt;NOM-OF %N&lt; PREP
+23	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+24	product	product	pcomp:&gt;22	@&lt;P %NH N NOM SG
+25	;	;
+26	the	the	det:&gt;28	@DN&gt; %&gt;N DET
+27	other	other		@DN&gt; %&gt;N DET
+28	two	two		@NH %NH NUM CARD	@SUBJ %NH NUM CARD
+29	carried	carried	attr:&gt;30	@A&gt; %&gt;N A ABS
+30	intronic	intronic	attr:&gt;31	@A&gt; %&gt;N &lt;?&gt; A ABS
+31	mutations	mutation		@NH %NH N NOM PL	@SUBJ %NH N NOM PL
+32	at	at		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+33	or	or		@CC %CC CC
+34	adjacent	adjacent		@SUBJ %NH A ABS	@OBJ %NH A ABS	@&lt;NOM %N&lt; A ABS	@NH %NH A ABS
+35	to	to	mod:&gt;34	@&lt;NOM %N&lt; PREP
+36	the	the	det:&gt;39	@DN&gt; %&gt;N DET
+37	consensus	consensus	attr:&gt;38	@A&gt; %&gt;N N NOM SG
+38	dinucleotide	dinucleotide	attr:&gt;39	@A&gt; %&gt;N N NOM SG
+39	sequences	sequence	pcomp:&gt;35	@&lt;P %NH N NOM PL
+40	of	of	mod:&gt;39	@&lt;NOM-OF %N&lt; PREP
+41	splice-acceptor	splice-acceptor	pcomp:&gt;40	@&lt;P %NH &lt;?&gt; N NOM SG
+42	or	or		@CC %CC CC
+43	-	-
+44	donor	donor	attr:&gt;45	@A&gt; %&gt;N N NOM SG
+45	sites	site		@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@PCOMPL-S 
+
+%NH N NOM PL	@APP %NH N NOM PL	@&lt;P %NH N NOM PL
+46	,	,
+47	which	which	subj:&gt;48	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+48	were	be	mod:&gt;45	@+FMAINV %VA V PAST PL
+49	likely	likely	comp:&gt;48	@PCOMPL-S %NH A ABS
+50	to	to	pm:&gt;51	@INFMARK&gt; %AUX INFMARK&gt;
+51	lead	lead	mod:&gt;49	@-FMAINV %VA V INF
+52	to	to	ha:&gt;51	@ADVL %EH PREP
+53	aberrant	aberrant	attr:&gt;54	@A&gt; %&gt;N A ABS
+54	splicing	splicing	pcomp:&gt;52	@&lt;P %NH N NOM SG
+55	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+One mutation eliminates the BamHI site in exon 7 and the other eliminates the HindIII site in exon 11 of the phenylalanine hydroxylase gene. 
+
+</text>
+       <arg n="0">One mutation
+</arg>
+       <arg n="1">the BamHI site
+</arg>
+       <arg n="2">[in] exon 7
+</arg>
+<fdg>
+1	One	one	qn:&gt;2	@QN&gt; %&gt;N NUM CARD
+2	mutation	mutation	subj:&gt;3	@SUBJ %NH N NOM SG
+3	eliminates	eliminate	main:&gt;0	@+FMAINV %VA V PRES SG3
+4	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+5	BamHI	bamhi	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	site	site	obj:&gt;3	@OBJ %NH N NOM SG
+7	in	in	mod:&gt;6	@&lt;NOM %N&lt; PREP
+8	exon	exon	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	7	7	pcomp:&gt;7	@&lt;P %NH NUM CARD
+10	and	and	cc:&gt;3	@CC %CC CC
+11	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+12	other	other	subj:&gt;13	@SUBJ %NH PRON NOM SG
+13	eliminates	eliminate	cc:&gt;3	@+FMAINV %VA V PRES SG3
+14	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+15	HindIII	hindiii	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	site	site	obj:&gt;13	@OBJ %NH N NOM SG
+17	in	in	mod:&gt;16	@&lt;NOM %N&lt; PREP
+18	exon	exon	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	11	11	pcomp:&gt;17	@&lt;P %NH NUM CARD
+20	of	of	mod:&gt;19	@&lt;NOM-OF %N&lt; PREP
+21	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+22	phenylalanine	phenylalanine	attr:&gt;23	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+23	hydroxylase	hydroxylase	attr:&gt;24	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+24	gene	gene	pcomp:&gt;20	@&lt;P %NH N NOM SG
+25	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+One mutation eliminates the BamHI site in exon 7 and the other eliminates the HindIII site in exon 11 of the phenylalanine hydroxylase gene. 
+
+</text>
+       <arg n="0">the other
+</arg>
+       <arg n="1">the HindIII site 
+</arg>
+       <arg n="2">[in] exon 11 of the phenylalanine hydroxylase gene
+</arg>
+<fdg>
+1	One	one	qn:&gt;2	@QN&gt; %&gt;N NUM CARD
+2	mutation	mutation	subj:&gt;3	@SUBJ %NH N NOM SG
+3	eliminates	eliminate	main:&gt;0	@+FMAINV %VA V PRES SG3
+4	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+5	BamHI	bamhi	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	site	site	obj:&gt;3	@OBJ %NH N NOM SG
+7	in	in	mod:&gt;6	@&lt;NOM %N&lt; PREP
+8	exon	exon	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	7	7	pcomp:&gt;7	@&lt;P %NH NUM CARD
+10	and	and	cc:&gt;3	@CC %CC CC
+11	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+12	other	other	subj:&gt;13	@SUBJ %NH PRON NOM SG
+13	eliminates	eliminate	cc:&gt;3	@+FMAINV %VA V PRES SG3
+14	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+15	HindIII	hindiii	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	site	site	obj:&gt;13	@OBJ %NH N NOM SG
+17	in	in	mod:&gt;16	@&lt;NOM %N&lt; PREP
+18	exon	exon	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	11	11	pcomp:&gt;17	@&lt;P %NH NUM CARD
+20	of	of	mod:&gt;19	@&lt;NOM-OF %N&lt; PREP
+21	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+22	phenylalanine	phenylalanine	attr:&gt;23	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+23	hydroxylase	hydroxylase	attr:&gt;24	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+24	gene	gene	pcomp:&gt;20	@&lt;P %NH N NOM SG
+25	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+They establish that inhibition of any one of these molecules, as may occur following caspase activation, could eliminate vital stem cells required for skeletal muscle regeneration during chronic catabolic conditions.
+
+</text>
+       <arg n="0">inhibition of any one of these molecules 
+</arg>
+       <arg n="1">vital stem cells 
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	They	they	subj:&gt;2	@SUBJ %NH PRON PERS NOM PL3
+2	establish	establish	main:&gt;0	@+FMAINV %VA V PRES
+3	that	that	det:&gt;4	@DN&gt; %&gt;N DET DEM SG
+4	inhibition	inhibition	obj:&gt;2	@OBJ %NH N NOM SG
+5	of	of	mod:&gt;4	@&lt;NOM-OF %N&lt; PREP
+6	any one	any one	pcomp:&gt;5	@&lt;P %NH PRON NOM SG
+7	of	of	mod:&gt;6	@&lt;NOM-OF %N&lt; PREP
+8	these	this	det:&gt;9	@DN&gt; %&gt;N DET DEM PL
+9	molecules	molecule	pcomp:&gt;7	@&lt;P %NH N NOM PL
+10	,	,
+11	as	as		@CS %CS CS
+12	may	may	v-ch:&gt;13	@+FAUXV %AUX V AUXMOD
+13	occur	occur		@-FMAINV %VA V INF
+14	following	follow		@-FMAINV %VA ING
+15	caspase	caspase	attr:&gt;16	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+16	activation	activation	obj:&gt;14	@OBJ %NH N NOM SG
+17	,	,
+18	could	could	v-ch:&gt;19	@+FAUXV %AUX V AUXMOD
+19	eliminate	eliminate		@-FMAINV %VA V INF
+20	vital	vital	attr:&gt;21	@A&gt; %&gt;N A ABS
+21	stem	stem	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	cells	cell	obj:&gt;19	@OBJ %NH N NOM PL
+23	required	require	mod:&gt;22	@-FMAINV %VP EN
+24	for	for	ha:&gt;23	@ADVL %EH PREP
+25	skeletal	skeletal	attr:&gt;26	@A&gt; %&gt;N A ABS
+26	muscle	muscle	attr:&gt;27	@A&gt; %&gt;N N NOM SG
+27	regeneration	regeneration	pcomp:&gt;24	@&lt;P %NH N NOM SG
+28	during	during	mod:&gt;27	@&lt;NOM %N&lt; PREP
+29	chronic	chronic	attr:&gt;30	@A&gt; %&gt;N A ABS
+30	catabolic	catabolic	attr:&gt;31	@A&gt; %&gt;N A ABS
+31	conditions	condition	pcomp:&gt;28	@&lt;P %NH N NOM PL
+32	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+This occurs by microbe-detecting receptors activating immune cells to eliminate the pathogens.
+
+</text>
+       <arg n="0">microbe-detecting receptors activating immune cells
+</arg>
+       <arg n="1">the pathogens
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	This	this	subj:&gt;2	@SUBJ %NH PRON DEM SG
+2	occurs	occur	main:&gt;0	@+FMAINV %VA V PRES SG3
+3	by	by	ha:&gt;2	@ADVL %EH PREP
+4	microbe-detecting	microbe-detecting	attr:&gt;5	@A&gt; %&gt;N &lt;?&gt; A ABS
+5	receptors	receptor	pcomp:&gt;3	@&lt;P %NH N NOM PL
+6	,	,
+7	such	such	mod:&gt;5	@APP %NH PRON NOM
+8	as	as	mod:&gt;7	@ADVL %EH PREP
+9	CD14	cd14	pcomp:&gt;8	@&lt;P %NH N NOM SG
+10	,	,
+11	that	that	subj:&gt;12	@SUBJ %NH &lt;Rel&gt; PRON
+12	activate	activate	mod:&gt;9	@+FMAINV %VA V PRES
+13	immune	immune	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	cells	cell	obj:&gt;12	@OBJ %NH N NOM PL
+15	to	to	pm:&gt;16	@INFMARK&gt; %AUX INFMARK&gt;
+16	eliminate	eliminate	mod:&gt;14	@-FMAINV %VA V INF
+17	the	the	det:&gt;18	@DN&gt; %&gt;N DET
+18	pathogens	pathogen	obj:&gt;16	@OBJ %NH N NOM PL
+19	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="6">
+<text>
+Transgenic plants expressing AtNDK1 under control of the CaMV 35S promoter exhibited tolerance to paraquat and high ability to eliminate exogenous H(2)O(2).
+
+</text>
+       <arg n="0">
+</arg>
+       <arg n="1">exogenous H(2)O(2)
+</arg>
+       <arg n="2">Transgenic plants
+</arg>
+<fdg>
+1	Transgenic	transgenic	attr:&gt;2	@A&gt; %&gt;N A ABS
+2	plants	plant		@NH %NH N NOM PL	@SUBJ %NH N NOM PL
+3	expressing	express		@-FMAINV %VA ING
+4	AtNDK1	atndk1	obj:&gt;3	@OBJ %NH N NOM SG
+5	under	under	loc:&gt;3	@ADVL %EH PREP
+6	control	control	pcomp:&gt;5	@&lt;P %NH N NOM SG
+7	of	of	mod:&gt;6	@&lt;NOM-OF %N&lt; PREP
+8	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+9	CaMV	camv		@A&gt; %&gt;N N NOM SG
+10	35S	35s	qn:&gt;11	@QN&gt; %&gt;N NUM CARD
+11	promoter	promoter	pcomp:&gt;7	@&lt;P %NH N NOM SG
+12	exhibited	exhibit		@+FMAINV %VA V PAST
+13	tolerance	tolerance	obj:&gt;12	@OBJ %NH N NOM SG
+14	to	to	goa:&gt;12	@ADVL %EH PREP
+15	paraquat	paraquat	pcomp:&gt;14	@&lt;P %NH N NOM SG
+16	and	and	cc:&gt;15	@CC %CC CC
+17	high	high	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	ability	ability	cc:&gt;15	@&lt;P %NH N NOM SG
+19	to	to	pm:&gt;20	@INFMARK&gt; %AUX INFMARK&gt;
+20	eliminate	eliminate	mod:&gt;18	@-FMAINV %VA V INF
+21	exogenous	exogenous	attr:&gt;22	@A&gt; %&gt;N A ABS
+22	H(2)O(2)	h(2)o(2)	obj:&gt;20	@OBJ %NH N NOM SG
+23	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="7">
+<text>
+To eliminate any deleterious effects that might be associated with stable HOXB4 gene transfer into human cells, we took advantage of the ability of HOX proteins to passively translocate through cell membranes.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">any deleterious effects
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	To	to	pm:&gt;2	@INFMARK&gt; %AUX INFMARK&gt;
+2	eliminate	eliminate	cnt:&gt;20	@-FMAINV %VA V INF
+3	any	any	det:&gt;5	@DN&gt; %&gt;N DET
+4	deleterious	deleterious	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	effects	effect	obj:&gt;2	@OBJ %NH N NOM PL
+6	that	that	subj:&gt;7	@SUBJ %NH &lt;Rel&gt; PRON
+7	might	might	v-ch:&gt;8	@+FAUXV %AUX V AUXMOD
+8	be	be	v-ch:&gt;9	@-FAUXV %AUX V INF
+9	associated	associate	mod:&gt;5	@-FMAINV %VP EN
+10	with	with	phr:&gt;9	@ADVL %EH PREP
+11	stable	stable	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	HOXB4	hoxb4	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+13	gene	gene	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	transfer	transfer	pcomp:&gt;10	@&lt;P %NH N NOM SG
+15	into	into	goa:&gt;9	@ADVL %EH PREP
+16	human	human	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	cells	cell	pcomp:&gt;15	@&lt;P %NH N NOM PL
+18	,	,
+19	we	we	subj:&gt;20	@SUBJ %NH PRON PERS NOM PL1
+20	took	take	main:&gt;0	@+FMAINV %VA V PAST
+21	advantage	advantage	obj:&gt;20	@OBJ %NH N NOM SG
+22	of	of	mod:&gt;21	@&lt;NOM-OF %N&lt; PREP
+23	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+24	ability	ability	pcomp:&gt;22	@&lt;P %NH N NOM SG
+25	of	of	mod:&gt;24	@&lt;NOM-OF %N&lt; PREP
+26	HOX	hox	attr:&gt;27	@A&gt; %&gt;N N NOM SG
+27	proteins	protein	pcomp:&gt;25	@&lt;P %NH N NOM PL
+28	to	to	pm:&gt;30	@INFMARK&gt; %AUX INFMARK&gt;
+29	passively	passively	man:&gt;30	@ADVL %EH ADV
+30	translocate	translocate	mod:&gt;27	@-FMAINV %VA V INF
+31	through	through	ha:&gt;30	@ADVL %EH PREP
+32	cell	cell	attr:&gt;33	@A&gt; %&gt;N N NOM SG
+33	membranes	membrane	pcomp:&gt;31	@&lt;P %NH N NOM PL
+34	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Addition of Grb2 significantly reduced SH3A binding to mSos1 in a concent rat ion-dependent manner, with binding completely eliminated at a molar ratio of 5:1 (Figure 7).
+</text>
+       <arg n="0">
+         Addition of Grb2 significantly molar ratio of 5:1
+       </arg>
+       <arg n="1">binding 
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Addition	addition	subj:&gt;5	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	Grb2	grb2	pcomp:&gt;2	@&lt;P %NH N NOM SG
+4	significantly	significantly		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV
+5	reduced	reduce	main:&gt;0	@+FMAINV %VA V PAST
+6	SH3A	sh3a	obj:&gt;5	@OBJ %NH N NOM SG
+7	binding	bind	mod:&gt;6	@-FMAINV %VA ING
+8	to	to	ha:&gt;7	@ADVL %EH PREP
+9	mSos1	msos1	pcomp:&gt;8	@&lt;P %NH N NOM SG
+10	in	in		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+11	a	a	det:&gt;15	@DN&gt; %&gt;N DET SG
+12	concent	concent	attr:&gt;13	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+13	rat	rat	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	ion-dependent	ion-dependent	attr:&gt;15	@A&gt; %&gt;N &lt;?&gt; A ABS
+15	manner	manner	pcomp:&gt;10	@&lt;P %NH N NOM SG
+16	,	,
+17	with	with		@ADVL %EH PREP
+18	binding	bind	pcomp:&gt;17	@&lt;P-FMAINV %VA ING
+19	completely	completely	man:&gt;18	@ADVL %EH ADV
+20	eliminated	eliminate		@-FMAINV %VP EN
+21	at	at	ha:&gt;20	@ADVL %EH PREP
+22	a	a	det:&gt;24	@DN&gt; %&gt;N DET SG
+23	molar	molar	attr:&gt;24	@A&gt; %&gt;N N NOM SG
+24	ratio	ratio	pcomp:&gt;21	@&lt;P %NH N NOM SG
+25	of	of	mod:&gt;24	@&lt;NOM-OF %N&lt; PREP
+26	5:1	5:1	pcomp:&gt;25	@&lt;P %NH NUM CARD
+27	(	(
+28	Figure	figure		@NH %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+29	7	7		@NH %NH NUM CARD	@APP %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+30	)	)
+31	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+Eliminating the inhibitory phosphorylation or mimicking activating phosphorylation sites is sufficient to confer constitutive activity upon lin-45 Raf and induce multi-vulva phenotypes in C.elegans.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">the inhibitory phosphorylation
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Eliminating	eliminate		@-FMAINV %VA ING
+2	the	the	det:&gt;4	@DN&gt; %&gt;N DET
+3	inhibitory	inhibitory	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	phosphorylation	phosphorylation	obj:&gt;1	@OBJ %NH N NOM SG
+5	or	or		@CC %CC CC
+6	mimicking	mimicking		@A&gt; %&gt;N A ABS	@APP %NH A ABS	@SUBJ %NH A ABS	@OBJ %NH A ABS	@&lt;NOM %N&lt; A ABS	@-FMAINV %VA ING
+7	activating	activating		@A&gt; %&gt;N A ABS	@-FMAINV %VA ING
+8	phosphorylation	phosphorylation	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	sites	site		@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@PCOMPL-S %NH N NOM PL
+10	is	be		@+FMAINV %VA V PRES SG3
+11	sufficient	sufficient	comp:&gt;10	@PCOMPL-S %NH A ABS
+12	to	to	pm:&gt;13	@INFMARK&gt; %AUX INFMARK&gt;
+13	confer	confer	mod:&gt;11	@-FMAINV %VA V INF
+14	constitutive	constitutive	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	activity	activity	obj:&gt;13	@OBJ %NH N NOM SG
+16	upon	upon	ha:&gt;13	@ADVL %EH PREP
+17	lin-45	lin-45		@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+18	Raf	raf	pcomp:&gt;16	@&lt;P %NH N NOM SG
+19	and	and	cc:&gt;13	@CC %CC CC
+20	induce	induce	cc:&gt;13	@-FMAINV %VA V INF
+21	multi-vulva	multi-vulva	attr:&gt;22	@A&gt; %&gt;N &lt;?&gt; A ABS
+22	phenotypes	phenotype	obj:&gt;20	@OBJ %NH N NOM PL
+23	in	in	loc:&gt;20	@ADVL %EH PREP
+24	C.elegans	c.elegans	pcomp:&gt;23	@&lt;P %NH N NOM SG
+25	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+Mutation of T491 eliminated the recognition by the anti-pT598 antibody while mutation at S494 had no effect (Figure 2C).
+
+</text>
+       <arg n="0">Mutation of T491
+</arg>
+       <arg n="1">the recognition by the anti-pT598 antibody
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Mutation	mutation	subj:&gt;4	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	T491	t491	pcomp:&gt;2	@&lt;P %NH N NOM SG
+4	eliminated	eliminate	main:&gt;0	@+FMAINV %VA V PAST
+5	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+6	recognition	recognition	obj:&gt;4	@OBJ %NH N NOM SG
+7	by	by	ha:&gt;4	@ADVL %EH PREP
+8	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+9	anti-pT598	anti-pt598		@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+10	antibody	antibody	pcomp:&gt;7	@&lt;P %NH N NOM SG
+11	while	while	tmp:&gt;15	@ADVL %EH ADV WH
+12	mutation	mutation	subj:&gt;15	@SUBJ %NH N NOM SG
+13	at	at	mod:&gt;12	@&lt;NOM %N&lt; PREP
+14	S494	s494	pcomp:&gt;13	@&lt;P %NH N NOM SG
+15	had	have	tmp:&gt;4	@+FMAINV %VA V PAST
+16	no	no	det:&gt;17	@DN&gt; %&gt;N DET
+17	effect	effect	obj:&gt;15	@OBJ %NH N NOM SG
+18	(	(
+19	Figure	figure		@A&gt; %&gt;N N NOM SG
+20	2C	2c	qua:&gt;15	@ADVL %EH NUM CARD
+21	)	)
+22	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+The same high level of activation of B-Raf occurs only when all three sites are eliminated.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">all three sites
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	The	the	det:&gt;4	@DN&gt; %&gt;N DET
+2	same	same	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	high	high	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	level	level	subj:&gt;9	@SUBJ %NH N NOM SG
+5	of	of	mod:&gt;4	@&lt;NOM-OF %N&lt; PREP
+6	activation	activation	pcomp:&gt;5	@&lt;P %NH N NOM SG
+7	of	of	mod:&gt;6	@&lt;NOM-OF %N&lt; PREP
+8	B-Raf	b-raf	pcomp:&gt;7	@&lt;P %NH N NOM SG
+9	occurs	occur	main:&gt;0	@+FMAINV %VA V PRES SG3
+10	only	only	meta:&gt;14	@ADVL %EH ADV
+11	when	when	tmp:&gt;16	@ADVL %EH ADV WH
+12	all	all	det:&gt;14	@DN&gt; %&gt;N DET
+13	three	three	qn:&gt;14	@QN&gt; %&gt;N NUM CARD
+14	sites	site	subj:&gt;15	@SUBJ %NH N NOM PL
+15	are	be	v-ch:&gt;16	@+FAUXV %AUX V PRES
+16	eliminated	eliminate	tmp:&gt;9	@-FMAINV %VP EN
+17	.     .
+</fdg>
+</example>
+<example src="EMBO" no="5">
+<text>
+Secondly, SBP2 binding activity is not affected by mutations in the tetra-adenosine element in the terminal region of the PHGPx 3 UTR, yet these same mutations completely eliminate Sec incorporation (Lesoon et al., 1997).
+
+</text>
+       <arg n="0">these same mutations
+</arg>
+       <arg n="1">Sec incorporation
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Secondly	secondly		@ADVL %EH ADV
+2	,	,
+3	SBP2	sbp2	subj:&gt;6	@SUBJ %NH N NOM SG
+4	binding	bind	mod:&gt;3	@-FMAINV %VA ING
+5	activity	activity	obj:&gt;4	@OBJ %NH N NOM SG
+6	is	be	v-ch:&gt;8	@+FAUXV %AUX V PRES SG3
+7	not	not	neg:&gt;6	@ADVL %EH NEG-PART
+8	affected	affect		@-FMAINV %VP EN
+9	by	by	agt:&gt;8	@ADVL %EH PREP
+10	mutations	mutation	pcomp:&gt;9	@&lt;P %NH N NOM PL
+11	in	in	mod:&gt;10	@&lt;NOM %N&lt; PREP
+12	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+13	tetra-adenosine	tetra-adenosine	attr:&gt;14	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+14	element	element	pcomp:&gt;11	@&lt;P %NH N NOM SG
+15	in	in	mod:&gt;14	@&lt;NOM %N&lt; PREP
+16	the	the	det:&gt;18	@DN&gt; %&gt;N DET
+17	terminal	terminal	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	region	region	pcomp:&gt;15	@&lt;P %NH N NOM SG
+19	of	of	mod:&gt;18	@&lt;NOM-OF %N&lt; PREP
+20	the	the	det:&gt;21	@DN&gt; %&gt;N DET
+21	PHGPx	phgpx	pcomp:&gt;19	@&lt;P %NH N NOM SG
+22	3	3	qn:&gt;24	@QN&gt; %&gt;N NUM CARD
+23	&apos;	&apos;
+24	UTR	utr		@SUBJ %NH N NOM SG
+25	,	,
+26	yet	yet	cc:&gt;8	@CC %CC CC
+27	these	this	det:&gt;29	@DN&gt; %&gt;N DET DEM PL
+28	same	same	attr:&gt;29	@A&gt; %&gt;N A ABS
+29	mutations	mutation	subj:&gt;31	@SUBJ %NH N NOM PL
+30	completely	completely	man:&gt;31	@ADVL %EH ADV
+31	eliminate	eliminate	cc:&gt;8	@+FMAINV %VA V PRES
+32	Sec	sec	attr:&gt;33	@A&gt; %&gt;N ABBR NOM SG
+33	incorpo	incorpo	attr:&gt;34	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+34	ration	ration	obj:&gt;31	@OBJ %NH N NOM SG
+35	(	(
+36	Lesoon	lesoon	main:&gt;35	@APP %NH &lt;?&gt; N NOM SG
+37	et	et		@CC %CC CC
+38	al.	al.		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+39	,	,
+40	1997	1997		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+41	)	)
+42	.     .
+</fdg>
+</example>
+<example src="EMBO" no="6">
+<text>
+As illustrated in Figure 1, staurosporin (or genestein; data not shown) did not eliminate the stabilization seen with MG132.
+
+</text>
+       <arg n="0">staurosporin (or genestein; data not shown)
+</arg>
+       <arg n="1">the stabilization seen with MG132
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="M-NEG">not
+</arg>
+<fdg>
+
+1	As	as	pm:&gt;2	@CS %CS CS
+2	illustrated	illustrate	cla:&gt;18	@-FMAINV %VP EN
+3	in	in	ha:&gt;2	@ADVL %EH PREP
+4	Figure	figure	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	1	1	pcomp:&gt;3	@&lt;P %NH NUM CARD
+6	,	,
+7	staurosporin	staurosporin	subj:&gt;16	@SUBJ %NH &lt;?&gt; N NOM SG
+8	(	(
+9	or	or	cc:&gt;8	@CC %CC CC
+10	genestein	genestein		@SUBJ %NH &lt;?&gt; N NOM SG	@OBJ %NH &lt;?&gt; N NOM SG	@PCOMPL-O %NH &lt;?&gt; N NOM SG	@APP %NH &lt;?&gt; N NOM SG
+11	;	;
+12	data	data	mod:&gt;10	@NH %NH N NOM
+13	not	not	neg:&gt;14	@ADVL %EH NEG-PART
+14	shown	show	mod:&gt;12	@-FMAINV %VP EN
+15	)	)
+16	did	do	v-ch:&gt;18	@+FAUXV %AUX V PAST
+17	not	not	neg:&gt;16	@ADVL %EH NEG-PART
+18	eliminate	eliminate	main:&gt;0	@-FMAINV %VA V INF
+19	the	the	det:&gt;20	@DN&gt; %&gt;N DET
+20	stabilization	stabilization	obj:&gt;18	@OBJ %NH N NOM SG
+21	seen	see	mod:&gt;20	@-FMAINV %VP EN
+22	with	with	ha:&gt;21	@ADVL %EH PREP
+23	MG132	mg132	pcomp:&gt;22	@&lt;P %NH N NOM SG
+24	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

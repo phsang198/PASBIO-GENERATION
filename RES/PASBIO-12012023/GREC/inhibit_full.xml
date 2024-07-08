@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="lead">
+            <roleset id="lead.01" name="resulted&#x0A;" wordnet="3">
+                <roles>
+                    <role n="0" descr="factors&#x0A;" />
+                    <role n="1" descr="result&#x0A;" />
+                </roles>
+                <example src="GREC" no="0">
+                    <text>Closer examination of the putative signal transduction pathway modulating htrA transcription has led us to the identification of two new genes.</text>
+                    <arg n="0">Closer examination of the putative signal transduction pathway modulating htrA transcription</arg>
+                    <arg n="1">the identification of two new genes</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Further, experiments with an antisense-ref cDNA expression vector introduced into cultured cells suggested that DNA (nCaRE)-ref1 interaction led to C2+e-mediated transcriptional suppression.</text>
+                    <arg n="0">DNA (nCaRE)-ref1 interaction</arg>
+                    <arg n="1">C2+e-mediated transcriptional suppression</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>Growth of Escherichia coli in the presence of nitrate or nitrite led to a 45% decrease in expression when cells were cultivated in rich medium.</text>
+                    <arg n="0">Growth of Escherichia coli in the presence of nitrate or nitrite</arg>
+                    <arg n="1">a 45% decrease in expression</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>It has been shown that Crl stimulates the activity of sigma (S), leading to an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase.</text>
+                    <arg n="0">Crl stimulates the activity of sigma (S)</arg>
+                    <arg n="1">an increased transcription rate of a subset of genes of the rpoS regulon in stationary phase</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>The loss of TreR function led to derepression of treB encoding an enzymeIITre of the PTS for trehalose and of treC encoding TreC, the cytoplasmic trehalose-6-phosphate hydrolase.</text>
+                    <arg n="0">The loss of TreR function</arg>
+                    <arg n="1">derepression of treB</arg>
+                </example>
+                <example src="GREC" no="5">
+                    <text>Transduction of the marA region from a Mar strain, but not a wild-type strain, led to loss of OmpF.</text>
+                    <arg n="0">Transduction of the marA region from a Mar strain</arg>
+                    <arg n="1">loss of OmpF</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

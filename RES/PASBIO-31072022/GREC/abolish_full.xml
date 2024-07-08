@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="abolish">
+            <roleset id="abolish.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer/agent &#x09;&#x09;&#x09; &#x09;// change at molecular level //&#x0A;" />
+                    <role n="1" descr="entity abolished &#x09;&#x09;&#x09;// normal transcription, normal splicing //&#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>HA and curli production by strain chi7122 were abolished by disruption of rpoS, mlrA or csgA, the curli subunit gene.</text>
+                    <arg n="0">disruption of rpoS, mlrA or csgA, the curli subunit gene</arg>
+                    <arg n="1">HA and curli production by strain chi7122</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>This acid resistance was abolished by deletion of ydeP, ydeO, or yhiE, which was induced by EvgA overexpression.</text>
+                    <arg n="0">This acid resistance</arg>
+                    <arg n="1">deletion of ydeP, ydeO, or yhiE</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>Furthermore, the deletion of yhiE completely abolished acid resistance in stationary-phase cells, suggesting that YhiE plays a critical role in stationary-phase acid resistance.</text>
+                    <arg n="0">the deletion of yhiE</arg>
+                    <arg n="1">acid resistance</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>Mutations in the fhlA gene also abolished production of the hydrogenase activity associated with formate hydrogenlyase activity.</text>
+                    <arg n="0">Mutations in the fhlA gene</arg>
+                    <arg n="1">production of the hydrogenase activity</arg>
+                </example>
+                <example src="GREC" no="5">
+                    <text>Insertions which abolish Alp activity interrupt this open reading frame.</text>
+                    <arg n="0">Insertions</arg>
+                    <arg n="1">Alp activity</arg>
+                </example>
+                <example src="GREC" no="6">
+                    <text>The cpx101 mutation abolishes cpxA phosphatase activity and results in the accumulation of phosphorylated CpxR.</text>
+                    <arg n="0">The cpx101 mutation</arg>
+                    <arg n="1">cpxA phosphatase activity</arg>
+                </example>
+                <example src="GREC" no="7">
+                    <text>In addition, deletion of the distal tor box (box1) abolishes torC induction whereas the presence of a DNA fragment starting three bases upstream from box1 suffices for normal torC expression.</text>
+                    <arg n="0">deletion of the distal tor box (box1)</arg>
+                    <arg n="1">torC induction</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

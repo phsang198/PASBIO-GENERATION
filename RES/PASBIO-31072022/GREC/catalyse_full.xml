@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="confer">
+            <roleset id="confer.01" name="" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent&#x09;&#x09;// mechanism, process, entity(imply to condition or property in that entity) // &#x0A;" />
+                    <role n="1" descr="given biological property&#x09;&#x0A;" />
+                    <role n="2" descr="entity receiving the biological property&#x09;         // gene product, celll, tissue, etc. //&#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>In addition, EvgA overexpression did not confer resistance in a tolC-deficient strain.</text>
+                    <arg n="0">EvgA overexpression</arg>
+                    <arg n="1">resistance</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="modify">
+            <roleset id="modify.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="agent, cause of transformation&#x0A;" />
+                    <role n="1" descr="thing changing&#x0A;" />
+                    <role n="2" descr="method&#x0A;" />
+                    <role n="3" descr="consequence&#x09;&#x09;&#x09;&#x09;// secondary predication //&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>P.falciparum may modified been markedly altered genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to separate the RAP1 gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to separate the RAP1</arg>
+                    <arg n="M-ADV">genetically</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>These results lead us to conclude that EnvZ and OmpR act sequentially to activate the gene expression of pores; that is, EnvZ has the probability of modifying or somehow modifying the OmpR direction, which in turn acts in the proper promoter of the porin gene.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts in the proper promoter of the porin gene</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Together, these data suggest that the union of U5 or SH3 in the GUK domain in the GUK domain would have been modified to factors which can regulate the GKAP A3 union (in the GUK domain).</text>
+                    <arg n="0">factors</arg>
+                    <arg n="1">the union of U5 or SH3</arg>
+                    <arg n="3">in the GUK domain</arg>
+                    <arg n="M-MOD">in the GUK domain</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>P.falciparum was modified genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to detach the RAP1 gene gene.</text>
+                    <arg n="1">P.falciparum</arg>
+                    <arg n="2">by transfection</arg>
+                    <arg n="3">to detach the RAP1 gene</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Together, this data suggests that U5 or SH3 bond in the GUK domain may has been modified for factors that can regulate GKAP union in the GUK domain.</text>
+                    <arg n="0">factors</arg>
+                    <arg n="1">U5 or SH3 bond</arg>
+                    <arg n="3">in the GUK domain</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Taken together, these data suggest that OmpR acts at the appropriate porin promoter is able to be modified by EnvZ that can regulate the GKAP bond in the GUK domain.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts at the appropriate porin promoter</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>These data suggest that OmpR acts to the appropriate porins gene promoter in the GUK area will be modified by EnvZ that can regulate the GKAP bond in the GUK domain.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts to the appropriate porins gene promoter</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Together these data suggest that SH3 acts to position the U5 region through its own association with acts at the appropriate porin promoter and that EnvZ that are able to modify OmpR the GUK domain can regulate the GKAP in the GUK domain.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts at the appropriate porin promoter</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Together, these data suggest that OmpR acts on the adequate promoter of porin gene can was modified by EnvZ that can regulates the GKAP A3 union (in the GUK domain).</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts on the adequate promoter of porin gene</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Together, these data suggest that OmpR acts on the adequate promoter of the porin gene can is modified to EnvZ that can regulates the GKAP A3 union (in the GUK domain).</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts on the adequate promoter of the porin gene</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Together, this data suggests that OmpR acts at the appropriate porin promoter it would have been modified for EnvZ that can regulate GKAP union in the GUK domain.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts at the appropriate porin promoter</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Together, this data suggests that OmpR acts on the proper promoter of the porin gene has the probability of being modified by EnvZ that can regulate GKAP union in the GUK domain.</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts on the proper promoter of the porin gene</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Together, this data suggests that SH3 acts to place the region U5 through its own association with acts on the adequate promoter of porin gene and that EnvZ that have modified OmpR the GUK domain can regulate the GKAP A3 union (in the GUK domain).</text>
+                    <arg n="0">EnvZ</arg>
+                    <arg n="1">OmpR</arg>
+                    <arg n="3">acts on the adequate promoter of porin gene</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

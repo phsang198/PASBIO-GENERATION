@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="confer">
+<roleset id="confer.01" name="" wordnet="2">
+<roles>
+  <role n="0" descr="agent		// mechanism, process, entity(imply to condition or property in that entity) // 
+"/>
+  <role n="1" descr="given biological property	
+"/>
+  <role n="2" descr="entity receiving the biological property	         // gene product, celll, tissue, etc. //
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+In addition to clear loss-of-function mutations conferred by nonsense or frameshift alterations in the coding sequence or by splice variants, genetic screening has revealed a large number of missense codons with less obvious functional consequences.
+
+</text>
+       <arg n="0">[by] nonsense or frameshift alterations in the coding sequence or by splice variants
+</arg>
+       <arg n="1">loss-of-function mutations
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="M-NEG">not
+</arg>
+<fdg>
+     1	In	in	cla:&gt;25	@ADVL %EH PREP
+     2	addition	addition	pcomp:&gt;1	@&lt;P %NH N NOM SG
+     3	to	to	pm:&gt;4	@INFMARK&gt; %AUX INFMARK&gt;
+     4	clear	clear	cnt:&gt;25	@-FMAINV %VA V INF
+     5	loss-of-function	loss-of-function	attr:&gt;6	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+     6	mutations	mutation	obj:&gt;4	@OBJ %NH N NOM PL
+     7	conferred	confer	mod:&gt;6	@-FMAINV %VP EN
+     8	by	by	ha:&gt;7	@ADVL %EH PREP
+     9	nonsense	nonsense	cc:&gt;11	@A&gt; %&gt;N N NOM SG
+     10	or	or	cc:&gt;11	@CC %CC CC
+     11	frameshift	frameshift	attr:&gt;12	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+     12	alterations	alteration	pcomp:&gt;8	@&lt;P %NH N NOM PL
+     13	in	in	mod:&gt;12	@&lt;NOM %N&lt; PREP
+     14	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+     15	coding	coding	attr:&gt;16	@A&gt; %&gt;N A ABS
+     16	sequence	sequence	pcomp:&gt;13	@&lt;P %NH N NOM SG
+     17	or	or	cc:&gt;13	@CC %CC CC
+     18	by	by	cc:&gt;13	@ADVL %EH PREP
+     19	splice	splice	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+     20	variants	variant	pcomp:&gt;18	@&lt;P %NH N NOM PL
+     21	,	,
+     22	genetic	genetic	attr:&gt;23	@A&gt; %&gt;N A ABS
+     23	screening	screening	subj:&gt;24	@SUBJ %NH N NOM SG
+     24	has	have	v-ch:&gt;25	@+FAUXV %AUX V PRES SG3
+     25	revealed	reveal	main:&gt;0	@-FMAINV %VA EN
+     26	a	a	det:&gt;28	@DN&gt; %&gt;N DET SG
+     27	large	large	attr:&gt;28	@A&gt; %&gt;N A ABS
+     28	number	number	obj:&gt;25	@OBJ %NH N NOM
+     29	of	of	mod:&gt;28	@&lt;NOM-OF %N&lt; PREP
+     30	missense	missense	attr:&gt;31	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+     31	codons	codon	pcomp:&gt;29	@&lt;P %NH N NOM PL
+     32	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+     33	less	little	ad:&gt;34	@AD-A&gt; %E&gt; ADV CMP
+     34	obvious	obvious	attr:&gt;35	@A&gt; %&gt;N A ABS
+     35	functional	functional	attr:&gt;36	@A&gt; %&gt;N A ABS
+     36	consequences	consequence	pcomp:&gt;32	@&lt;P %NH N NOM PL
+     37	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+In itself, the gene variant does not confer an increased risk of diabetes.
+
+</text>
+       <arg n="0">the gene variant
+</arg>
+       <arg n="1">an increased risk of diabetes
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="M-NEG">not
+</arg>
+<fdg>
+     
+     1	In	in	cla:&gt;9	@ADVL %EH PREP
+     2	itself	it	pcomp:&gt;1	@&lt;P %NH &lt;Refl&gt; PRON SG3
+     3	,	,
+     4	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+     5	gene	gene	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+     6	variant	variant	subj:&gt;7	@SUBJ %NH N NOM SG
+     7	does	do	v-ch:&gt;9	@+FAUXV %AUX V PRES SG3
+     8	not	not	neg:&gt;7	@ADVL %EH NEG-PART
+     9	confer	confer	main:&gt;0	@-FMAINV %VA V INF
+     10	an	an	det:&gt;12	@DN&gt; %&gt;N DET SG
+     11	increased	increased	attr:&gt;12	@A&gt; %&gt;N A ABS
+     12	risk	risk	obj:&gt;9	@OBJ %NH N NOM SG
+     13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+     14	diabetes	diabetes	pcomp:&gt;13	@&lt;P %NH N NOM SG
+     15	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+The data from the chimeras indicate that the difference is due to the absence of carboxyl sequences in Stat1, since the Stat5 phenotype of stability in the presence of MG132 can be conferred on Stat1 by simply replacing the C-terminus with that of Stat5.
+
+</text>
+       <arg n="0">[by] simply replacing the C-terminus with that of Stat5
+</arg>
+       <arg n="1">the Stat5 phenotype of stability in the presence of MG132
+</arg>
+       <arg n="2">Stat1
+</arg>
+       <arg n="M-MOD">can
+</arg>
+<fdg>
+     
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	data	data	subj:&gt;6	@SUBJ %NH N NOM
+3	from	from	mod:&gt;2	@&lt;NOM %N&lt; PREP
+4	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+5	chimeras	chimera	pcomp:&gt;3	@&lt;P %NH N NOM PL
+6	indicate	indicate		@+FMAINV %VA V PRES
+7	that	that	pm:&gt;10	@CS %CS CS
+8	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+9	difference	difference	subj:&gt;10	@SUBJ %NH N NOM SG
+10	is	be	obj:&gt;6	@+FMAINV %VA V PRES SG3
+11	due to	due to	ha:&gt;10	@ADVL %EH PREP
+12	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+13	absence	absence	pcomp:&gt;11	@&lt;P %NH N NOM SG
+14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+15	carboxyl	carboxyl	pcomp:&gt;14	@&lt;P %NH &lt;?&gt; N NOM SG
+16	sequences	sequence		@+FMAINV %VA V PRES SG3
+17	in	in	loc:&gt;16	@ADVL %EH PREP
+18	Statl	statl	pcomp:&gt;17	@&lt;P %NH &lt;?&gt; N NOM SG
+19	,	,
+20	since	since	pm:&gt;33	@CS %CS CS
+21	the	the	det:&gt;23	@DN&gt; %&gt;N DET
+22	Stat5	stat5	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+23	phenotype	phenotype	subj:&gt;31	@SUBJ %NH N NOM SG
+24	of	of	mod:&gt;23	@&lt;NOM-OF %N&lt; PREP
+25	stability	stability	pcomp:&gt;24	@&lt;P %NH N NOM SG
+26	in	in	mod:&gt;25	@&lt;NOM %N&lt; PREP
+27	the	the	det:&gt;28	@DN&gt; %&gt;N DET
+28	presence	presence	pcomp:&gt;26	@&lt;P %NH N NOM SG
+29	of	of	mod:&gt;28	@&lt;NOM-OF %N&lt; PREP
+30	MG132	mg132	pcomp:&gt;29	@&lt;P %NH N NOM SG
+31	can	can	v-ch:&gt;32	@+FAUXV %AUX V AUXMOD
+32	be	be	v-ch:&gt;33	@-FAUXV %AUX V INF
+33	conferred	confer	cnt:&gt;16	@-FMAINV %VP EN
+34	on	on	loc:&gt;33	@ADVL %EH PREP
+35	Statl	statl	pcomp:&gt;34	@&lt;P %NH &lt;?&gt; N NOM SG
+36	by	by		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+37	simply	simply		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV
+38	replacing	replace	pcomp:&gt;36	@&lt;P-FMAINV %VA ING
+39	the	the	det:&gt;40	@DN&gt; %&gt;N DET
+40	C-terminus	c-terminus	obj:&gt;38	@OBJ %NH N NOM SG
+41	with	with	phr:&gt;38	@ADVL %EH PREP
+42	that	that	pcomp:&gt;41	@&lt;P %NH PRON DEM SG
+43	of	of	mod:&gt;42	@&lt;NOM-OF %N&lt; PREP
+44	Stat5	stat5	pcomp:&gt;43	@&lt;P %NH N NOM SG
+45	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+Human 06-alkylguaning-DNA alkyltransferase (AGT), which directly reverses endogenous alkylation at the 06-position of guanine, confers resistance to alkylation chemotherapies and is therefore an active anticancer drug target.
+
+</text>
+       <arg n="0">Human 06-alkylguaning-DNA alkyltransferase 
+</arg>
+       <arg n="1">resistance 
+</arg>
+       <arg n="2">[to] alkylation chemotherapies
+</arg>
+<fdg>
+1	Human	human	attr:&gt;2	@A&gt; %&gt;N A ABS
+2	O6-alkylguanine-DNA	o6-alkylguanine-dna	attr:&gt;3	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+3	alkyltransferase	alkyltransferase		@NH %NH &lt;?&gt; N NOM SG	@SUBJ %NH &lt;?&gt; N NOM SG	@PCOMPL-S %NH &lt;?&gt; N NOM SG	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+4	(	(
+5	AGT	agt		@NH %NH ABBR NOM SG
+6	)	)
+7	,	,
+8	which	which	subj:&gt;10	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+9	directly	directly	man:&gt;10	@ADVL %EH ADV
+10	reverses	reverse	mod:&gt;5	@+FMAINV %VA V PRES SG3
+11	endogenous	endogenous	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	alkylation	alkylation	obj:&gt;10	@OBJ %NH N NOM SG
+13	at	at	loc:&gt;10	@ADVL %EH PREP
+14	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+15	O6-position	o6-position	pcomp:&gt;13	@&lt;P %NH &lt;?&gt; N NOM SG
+16	of	of	mod:&gt;15	@&lt;NOM-OF %N&lt; PREP
+17	guanine	guanine	pcomp:&gt;16	@&lt;P %NH N NOM SG
+18	,	,
+19	confers	confer		@+FMAINV %VA V PRES SG3
+20	resistance	resistance	obj:&gt;19	@OBJ %NH N NOM SG
+21	to	to	mod:&gt;20	@&lt;NOM %N&lt; PREP
+22	alkylation	alkylation	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+23	chemotherapies	chemotherapy	pcomp:&gt;21	@&lt;P %NH N NOM PL
+24	and	and	cc:&gt;19	@CC %CC CC
+25	is	be	cc:&gt;19	@+FMAINV %VA V PRES SG3
+26	therefore	therefore	meta:&gt;25	@ADVL %EH ADV
+27	an	an	det:&gt;31	@DN&gt; %&gt;N DET SG
+28	active	active	attr:&gt;29	@A&gt; %&gt;N A ABS
+29	anticancer	anticancer	attr:&gt;30	@A&gt; %&gt;N A ABS
+30	drug	drug	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+31	target	target	comp:&gt;25	@PCOMPL-S %NH N NOM SG
+32	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+Increased AGT levels parallel acquired alkylation resistance in human tumors (Brent et al., 1985; Mattern et al., 1998), and transfection of AGT confers resistance to alkylation-sensitive cells (Kaina et al., 1991), demonstrating the role of AGT  in therapeutic resistance.
+
+</text>
+       <arg n="0">transfection of AGT
+</arg>
+       <arg n="1">resistance
+</arg>
+       <arg n="2">[to] alkylation-sensitive cells
+</arg>
+<fdg>
+1	Increased	increase		@-FMAINV %VP EN
+2	AGT	agt	obj:&gt;1	@OBJ %NH ABBR NOM SG
+3	levels	level	subj:&gt;4	@SUBJ %NH N NOM PL
+4	parallel	parallel	main:&gt;0	@+FMAINV %VA V PRES
+5	acquired	acquired	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	alkylation	alkylation	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	resistance	resistance	obj:&gt;4	@OBJ %NH N NOM SG
+8	in	in	ha:&gt;4	@ADVL %EH PREP
+9	human	human	attr:&gt;10	@A&gt; %&gt;N A ABS
+10	tumors	tumor	pcomp:&gt;8	@&lt;P %NH N NOM PL
+11	(	(
+12	Brent	brent	main:&gt;11	@APP %NH N NOM SG
+13	et	et	cc:&gt;12	@CC %CC CC
+14	al.	al.	cc:&gt;12	@APP %NH ABBR NOM SG
+15	,	,
+16	1985	1985		@NH %NH NUM CARD	@&lt;P %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+17	;	;
+18	Mattern	mattern	main:&gt;17	@NH %NH N NOM SG
+19	et	et	cc:&gt;18	@CC %CC CC
+20	al.	al.	cc:&gt;18	@NH %NH ABBR NOM SG
+21	,	,
+22	1998	1998	cc:&gt;20	@NH %NH NUM CARD
+23	)	)
+24	,	,
+25	and	and	cc:&gt;4	@CC %CC CC
+26	transfection	transfection	subj:&gt;29	@SUBJ %NH &lt;?&gt; N NOM SG
+27	of	of	mod:&gt;26	@&lt;NOM-OF %N&lt; PREP
+28	AGT	agt	pcomp:&gt;27	@&lt;P %NH ABBR NOM SG
+29	confers	confer	cc:&gt;4	@+FMAINV %VA V PRES SG3
+30	resistance	resistance	obj:&gt;29	@OBJ %NH N NOM SG
+31	to	to	mod:&gt;30	@&lt;NOM %N&lt; PREP
+32	alkylation-sensitive	alkylation-sensitive	attr:&gt;33	@A&gt; %&gt;N A ABS
+33	cells	cell	pcomp:&gt;31	@&lt;P %NH N NOM PL
+34	(	(
+35	Kaina	kaina	main:&gt;34	@APP %NH &lt;?&gt; N NOM SG
+36	et	et		@CC %CC CC
+37	al.	al.		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+38	,	,
+39	1991	1991		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+40	)	)
+41	,	,
+42	demonstrating	demonstrate	ha:&gt;29	@-FMAINV %VA ING
+43	the	the	det:&gt;44	@DN&gt; %&gt;N DET
+44	role	role	obj:&gt;42	@OBJ %NH N NOM SG
+45	of	of	mod:&gt;44	@&lt;NOM-OF %N&lt; PREP
+46	AGT	agt	pcomp:&gt;45	@&lt;P %NH ABBR NOM SG
+47	in	in	mod:&gt;46	@&lt;NOM %N&lt; PREP
+48	therapeutic	therapeutic	attr:&gt;49	@A&gt; %&gt;N A ABS
+49	resistance	resistance	pcomp:&gt;47	@&lt;P %NH N NOM SG
+50	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+Likewise, the introduced charge of Gly160His and Gly160Arg mutants would repel the benzyl group (Figure 3B), explaining the 06-BG resistance conferred by these mutations (Xu-Welliver et al., 1999a).
+
+</text>
+       <arg n="0">these mutations
+</arg>
+       <arg n="1">06-BG resistance
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Likewise	likewise	meta:&gt;12	@ADVL %EH ADV
+2	,	,
+3	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+4	introduced	introduced	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	charge	charge	subj:&gt;11	@SUBJ %NH N NOM SG
+6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+7	Gly160His	gly160hi	pcomp:&gt;6	@&lt;P %NH &lt;?&gt; N NOM PL
+8	and	and	cc:&gt;7	@CC %CC CC
+9	Gly160Arg	gly160arg	attr:&gt;10	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+10	mutants	mutant	cc:&gt;7	@&lt;P %NH N NOM PL
+11	would	would	v-ch:&gt;12	@+FAUXV %AUX V AUXMOD
+12	repel	repel	main:&gt;0	@-FMAINV %VA V INF
+13	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+14	benzyl	benzyl	attr:&gt;15	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+15	group	group	obj:&gt;12	@OBJ %NH N NOM
+16	(	(
+17	Figure	figure		@A&gt; %&gt;N N NOM SG
+18	3B	3b	qua:&gt;12	@ADVL %EH NUM CARD
+19	)	)
+20	,	,
+21	explaining	explain	man:&gt;12	@-FMAINV %VA ING
+22	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+23	O6-BG	o6-bg	attr:&gt;24	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+24	resistance	resistance	obj:&gt;21	@OBJ %NH N NOM SG
+25	conferred	confer	mod:&gt;24	@-FMAINV %VP EN
+26	by	by	ha:&gt;25	@ADVL %EH PREP
+27	these	this	det:&gt;28	@DN&gt; %&gt;N DET DEM PL
+28	mutations	mutation	pcomp:&gt;26	@&lt;P %NH N NOM PL
+29	(	(
+30	Xu-Welliver	xu-welliver	main:&gt;29	@APP %NH &lt;?&gt; N NOM SG
+31	et	et		@CC %CC CC
+32	al.	al.		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+33	,	,
+34	1999a	1999a		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+35	)	)
+36	.     .
+</fdg>
+</example>
+<example src="EMBO" no="5">
+<text>
+Besides these side chain interactions with the 06-alkyl group, structure-based analysis of mutational data suggests that substitutions at Gly156 and Lys165 confer resistance to 06-BG through backbone distortions.
+
+</text>
+       <arg n="0">substitutions at Gly156 and Lys165
+</arg>
+       <arg n="1">resistance
+</arg>
+       <arg n="2">[to] 06-BG
+</arg>
+<fdg>
+1	Besides	besides	cla:&gt;16	@ADVL %EH PREP
+2	these	this	det:&gt;5	@DN&gt; %&gt;N DET DEM PL
+3	side	side	attr:&gt;4	@A&gt; %&gt;N N NOM SG
+4	chain	chain	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	interactions	interaction	pcomp:&gt;1	@&lt;P %NH N NOM PL
+6	with	with	mod:&gt;5	@&lt;NOM %N&lt; PREP
+7	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+8	O6-alkyl	o6-alkyl	attr:&gt;9	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+9	group	group	pcomp:&gt;6	@&lt;P %NH N NOM
+10	,	,
+11	structure-based	structure-based	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	analysis	analysis	subj:&gt;16	@SUBJ %NH N NOM SG
+13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+14	mutational	mutational	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	data	data	pcomp:&gt;13	@&lt;P %NH N NOM
+16	suggests	suggest	main:&gt;0	@+FMAINV %VA V PRES SG3
+17	that	that	pm:&gt;23	@CS %CS CS
+18	substitutions	substitution	subj:&gt;23	@SUBJ %NH N NOM PL
+19	at	at	mod:&gt;18	@&lt;NOM %N&lt; PREP
+20	Gly156	gly156	pcomp:&gt;19	@&lt;P %NH N NOM SG
+21	and	and	cc:&gt;20	@CC %CC CC
+22	Lys165	lys165	cc:&gt;20	@&lt;P %NH N NOM SG
+23	confer	confer	obj:&gt;16	@+FMAINV %VA V PRES	@+FMAINV %VA V SUBJUNCTIVE
+24	resistance	resistance	obj:&gt;23	@OBJ %NH N NOM SG
+25	to	to	mod:&gt;24	@&lt;NOM %N&lt; PREP
+26	O6-BG	o6-bg	pcomp:&gt;25	@&lt;P %NH &lt;?&gt; N NOM SG
+27	through	through	mod:&gt;26	@&lt;NOM %N&lt; PREP
+28	backbone	backbone	attr:&gt;29	@A&gt; %&gt;N N NOM SG
+29	distortions	distortion	pcomp:&gt;27	@&lt;P %NH N NOM PL
+30	.     .
+</fdg>
+</example>
+<example src="EMBO" no="6">
+<text>
+The portion of the STATs conferring specificity for either a MAPK or a MAPK substrate kinase (MAPKAP) has not been determined.
+
+</text>
+       <arg n="0">The portion of the STATs
+</arg>
+       <arg n="1">specificity
+</arg>
+       <arg n="2">[for] either a MAPK or a MAPK substrate kinase (MAPKAP)
+</arg>
+<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	portion	portion		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	the	the		@DN&gt; %&gt;N DET
+5	STATs	stats		@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+6	conferring	conferring		@A&gt; %&gt;N A ABS	@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING
+7	specificity	specificity		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@&lt;P %NH N NOM SG
+8	for	for		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+9	either	either		@ADVL %EH ADV
+10	a	a	det:&gt;11	@DN&gt; %&gt;N DET SG
+11	MAPK	mapk		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@&lt;P %NH N NOM SG
+12	or	or		@CC %CC CC
+13	a	a	det:&gt;16	@DN&gt; %&gt;N DET SG
+14	MAPK	mapk	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	substrate	substrate	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	kinase	kinase	subj:&gt;20	@SUBJ %NH N NOM SG
+17	(	(
+18	MAPKAP	mapkap	mod:&gt;16	@NH %NH N NOM SG
+19	)	)
+20	has	have	v-ch:&gt;22	@+FAUXV %AUX V PRES SG3
+21	not	not	neg:&gt;20	@ADVL %EH NEG-PART
+22	been	be	v-ch:&gt;23	@-FAUXV %AUX EN
+23	determined	determine		@-FMAINV %VP EN
+24	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="catalyse">
+            <roleset id="catalyse.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="catalyst&#x0A;" />
+                    <role n="1" descr="reaction being catalysed &#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="1">
+                    <text>Our previous studies using in vitro hepatic microsomal preparations suggested that the hepatic metabolism of quinine to form the major metabolite 3-hydroxyquinine is most likely catalysed by human P450 3A (CYP3A).</text>
+                    <arg n="0">human P450 3A (CYP3A)</arg>
+                    <arg n="1">the hepatic metabolism of quinine</arg>
+                </example>
+                <example src="EMBO" no="*1">
+                    <text>Helicases not only catalyse the disruption of hydrogen boding between complementary regions of nucleic acids, but also move along nucleic acid strands in a polar fashion.</text>
+                    <arg n="0">Helicases</arg>
+                    <arg n="1">the disruption of hydrogen boding between complementary regions of nucleic acids</arg>
+                </example>
+                <example src="EMBO" no="*2">
+                    <text>DNA helicases are enzymes that catalyze the unwinding of DNA by disrupting the hydrogen bonding between paired bases as they progress along the DNA strand in a polar fashion (either 35 or 53), and have been shown to be involved in many essential cellular processes, including replication, transcription, DNA repair and translation (for reviews see West, 1996; Bird et al., 1998; Lohman et al., 1998; Hall and Matson, 1999).</text>
+                    <arg n="0">DNA helicases</arg>
+                    <arg n="1">the unwinding of DNA</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>The two large virus-encoded Rep proteins (Rep78 and Rep68) catalyse the resolution of the covalently cosed AAV termini, a process that involves sequence-specific AAV DNA biding, strand-specific nicking and helicase activity under ATP consumption (Im and Muzyczka, 1990, 1992; Brister and Muzyczka, 1990, 2000).</text>
+                    <arg n="0">The two large virus-encoded Rep proteins (Rep78 and Rep68)</arg>
+                    <arg n="1">the resolution of the covalently cosed AAV termini</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>However, it is interesting to note that Rep78 and Rep68 catalyse the packaging reaction up to 1000-fold less efficiently, although they posses the entire Rep52 and Rep40 coding regions, respectively.</text>
+                    <arg n="0">Rep78 and Rep68</arg>
+                    <arg n="1">the packaging reaction</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

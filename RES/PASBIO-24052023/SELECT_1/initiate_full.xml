@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="initiate">
+            <roleset id="Initiate.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent      //protein//&#x0A;" />
+                    <role n="1" descr="entity created      //transcription or translation or process//&#x0A;" />
+                    <role n="2" descr="specific location of tissue or cell  //mostly saying about exon or intron//&#x0A;" />
+                    <role n="3" descr="location as tissue or cell&#x0A;" />
+                    <role n="4" descr="method&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Apparently, Hela cells will initiate transcription in multiple site within exon 1 PSUR14 or in cap 5 oligonucleotides that have been removed from most S14 RNAs post-transcription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 PSUR14</arg>
+                    <arg n="3">Hela cells</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>I kappa B-epsilon translation that has been initiated from an internal ATG codon results in a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Tumors with limit values of only 5 for exon 1, or distant from c-my, have a normal A1 of 2.25 and 2.4 kb, which differ from their 5 ends, while tumors with limit values within exon 1 or intro 1 alter the A1 (crms ac) that may have been initiated within intro 1.</text>
+                    <arg n="2">intro 1</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Apparently, HeLa cells have the ability to initiate transcription into multiple sites within exon 1 of PSUR14 or cap 5 oligonucleotides removed from most S14 RNAs post-transcription.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple sites within exon 1 of PSUR14</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Apparently, HeLa cells may have been either initiating transcription at multiple places within the exon RPS14 1, or capturing 5 oligonucleotides that were removed from most postTranscription S14 mRNAs.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple places within the exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>As plastine agonists can initiate aggregation and secretion to activating the receptors coupled to the G(q) protein, thus increasing Ca(2+), [Ca(2+)](i), proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">plastine agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating the receptors coupled to the G(q) protein, thus increasing Ca(2+), [Ca(2+)](i)</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>As platin agonists may have initiated aggregation and secretion to activating coupled receptors on the G(q) protein, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating coupled receptors on the G(q) protein</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>It is believed that aggregation and secretion is initiated by plastine agonists for G-protein-coupled receptor activator , thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">plastine agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">G-protein-coupled receptor activator</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>It is believed that transduction of the signal is initiated by SCF for by direct dimerization of its receptor , thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">transduction of the signal</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Ligand binding induces the complex formation of cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called self-phosphorylation of the sensor protein ArcB, which initiated repression.</text>
+                    <arg n="0">self-phosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>RTKs initiated sinalage by recruiting descending flow components of the activated receptor, thus increasing Ca(2+) cytosolic, [Ca(2+)](i).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">sinalage</arg>
+                    <arg n="4">recruiting descending flow components of the activated receptor</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>RTKs is able to initiate signaling to recruiting downstream components of the activated receiver, thus increasing Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Repression can be initiated with sensitive phosphorylation of sensory protein ArcB by A4 receptor activators (G-glutaral proteins activators G(q), thus increasing the Ca(2+), [Ca(2+)](i.</text>
+                    <arg n="0">sensitive phosphorylation of sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Since aggregation and secretion is initiated by platinum agonists by activating coupled receptors on the G(q) protein, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating coupled receptors on the G(q) protein</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Since plastine agonists is capable of initiating aggregation and secretion by G-protein-coupled receptor activator, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">plastine agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">G-protein-coupled receptor activator</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Since platin agonists is capable of initiating aggregation and secretion by activating coupled receptors on the G(q) protein, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating coupled receptors on the G(q) protein</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Since platinum agonists has initiated aggregation and secretion for activating receptors coupled to the G(q) protein, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are required to activate the signaling source (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">platinum agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating receptors coupled to the G(q) protein</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Since signaling is able to be initiated by RTKs by re recruiting downstream components of the activated receiver, proteins that are immediately downstream of an activated RTK can be identified by first identification of sequences in the RTK needed to activate sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">RTKs</arg>
+                    <arg n="1">signaling</arg>
+                    <arg n="4">re recruiting downstream components of the activated receiver</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>The data show a new apical ordering pathway by which the A0 glycoproteins (MV wrapped) are followed by the M protein and then initiate I kappa B-epsilon translation into an internal ATG codon.</text>
+                    <arg n="1">I kappa B-epsilon translation</arg>
+                    <arg n="2">an internal ATG codon</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>The ligand binding induces the formation of a cell surface receptor complex and activates a cascade of phosphorylation events of intracellular intermediates called platquet agonists that are able to initiate aggregation and secretion.</text>
+                    <arg n="0">platquet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>The ligand binding induces the formation of complex cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called polymerases, initiating ranscription with RSF.</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with RSF</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>The translation transcription was initiated from multiple site within exon 1 PSUR14 to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple site within exon 1 PSUR14</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>Transcription, enzyme IICB (Glc) in HeLa cells has the ability to be initiated from multiple sites within exon RPS14 1.</text>
+                    <arg n="1">Transcription</arg>
+                    <arg n="2">multiple sites within exon RPS14 1</arg>
+                    <arg n="3">HeLa cells</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>Tumours with only 5 cutoff values for exon 1 or distant from the c-mix have viral release normal of 2.25 and 2.4 kb, which differ from their 5 ends, while tumours with exon 1 or this surface change c-mix acrms (2.1-2.7 kb in Burkitts lines), which will be initiated within</text>
+                    <arg n="1">viral release</arg>
+                    <arg n="2">this surface</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>platin agonists can initiate aggregation and secretion for activating the coupled receptors on the G(q) protein, thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating the coupled receptors on the G(q) protein</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>platin agonists have the ability to initiate aggregation and secretion for activating coupled receptors on the G(q) protein, thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating coupled receptors on the G(q) protein</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>platin agonists may have initiated aggregation and secretion to activating coupled receptors on the G(q) protein thus increasing Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platin agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">activating coupled receptors on the G(q) protein</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>platquet agonists have the ability to initiate aggregation and secretion for coupled to G-protein receptors G(q), thus increasing the cytosolic Ca(2+), [Ca(2+)](i), thus lifting Ca(2+), [Ca(2+)](i).</text>
+                    <arg n="0">platquet agonists</arg>
+                    <arg n="1">aggregation and secretion</arg>
+                    <arg n="4">coupled to G-protein receptors G(q), thus increasing the cytosolic Ca(2+), [Ca(2+)](i)</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>repression can be initiated by self-phosphorylation of sensor protein ArcB, followed by the transfer of the phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">self-phosphorylation of sensor protein ArcB</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>repression may have been initiated by self-phosphorylation of sensor protein ArcB, followed by the transfer of the phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">self-phosphorylation of sensor protein ArcB</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>self-phosphorylation of the sensor protein ArcB that have the ability to initiate repression can only extend their A3 transcriptions (in fact presence (facilitates chromatin transcription).</text>
+                    <arg n="0">self-phosphorylation of the sensor protein ArcB</arg>
+                    <arg n="1">repression</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>sensitive phosphorylation of the sensory protein ArcB with the ability to initiate Repression can only extend its A3 transcriptions (in fact presence (facilitates chromatin transcription).</text>
+                    <arg n="0">sensitive phosphorylation of the sensory protein ArcB</arg>
+                    <arg n="1">Repression</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>transcription will be initiated from multiple places within the exon 1 of PSUR14 to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple places within the exon 1 of PSUR14</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>transcription, which is initiated from multiple places within the exon 1 of PSUR14, gives rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in resting cells.</text>
+                    <arg n="1">transcription</arg>
+                    <arg n="2">multiple places within the exon 1 of PSUR14</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>translational regulation is initiated by Smads, followed by the transfer of the phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">Smads</arg>
+                    <arg n="1">translational regulation</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Apparently, A3 cells (Hela) may have initiating gpTQ and glpACB operations which are transcribed in a divergent manner into places separated by 132 base pairs (bp) of DNA or replace 5 oligonucleotides that have been removed from most S14 RNAs after transcription.</text>
+                    <arg n="1">gpTQ and glpACB operations which are transcribed in a divergent manner</arg>
+                    <arg n="2">places separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Apparently, Escherichia coli starts transcribed to glucose-specific permease encoded by ptsG into two promoters, P1 and P2 , or no 5 oligonucleotides that initiate been removed from most of the post-A1 RNAs (transcription) S14.</text>
+                    <arg n="1">transcribed to glucose-specific permease encoded by ptsG</arg>
+                    <arg n="2">two promoters, P1 and P2</arg>
+                    <arg n="3">Escherichia coli</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>As SCF initiated signal translation to by direct dimerization of its receptor, proteins that are immediately downstream of an activated RTK can be first identified by identifying sequences in the RTK that are needed to activate the source sinalage (Schlessinger and Ullrich, 1992; Pawson, 1995).</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal translation</arg>
+                    <arg n="4">by direct dimerization of its receptor</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>As SCF is able to initiate signal translation by direct dimerization of its receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in the RTK that are needed to activate the source of sinalage (Schlessinger and Ullrich, 1992; Paw</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal translation</arg>
+                    <arg n="4">direct dimerization of its receptor</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>GlpTQ and glpACB operators, which are transcribed in a divergent manner is initiated to start from A2 (a sigma-dependent promoter (70) to the G residue of the GATC sequence upstream.</text>
+                    <arg n="1">GlpTQ and glpACB operators, which are transcribed in a divergent manner</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Ligand binding induces the complex formation of cell surface receptors and activates a cascade of intracellular intermediate phosphorylation events called MV envelope glycoproteins, which initiated virus release.</text>
+                    <arg n="0">MV envelope glycoproteins</arg>
+                    <arg n="1">virus release</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Our data present a new apical ordering pathway by which the A0 glycoproteins (MV wrap) that initiating transcription of glpTQ and glpACB operons that are divergently transcribed in location separated by 132 base pairs (bp) of DNA are replaced by M protein.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are divergently transcribed</arg>
+                    <arg n="2">location separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>SCF that will initiate transduction of the signal can only extend its A3 transcriptions (in fact presence (facility chromatin transcription) .</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">transduction of the signal</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Since signal translation is initiated by SCF by direct dimerization of its receptor, proteins that are immediately downstream of an activated RTK can be identified for the first time by identifying sequences in RTK that are needed to activate the descending flow sinalage (Schlessinger and Ullrich, 1992; Pa</text>
+                    <arg n="0">SCF</arg>
+                    <arg n="1">signal translation</arg>
+                    <arg n="4">direct dimerization of its receptor</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>The formation of surface receptors induced by the ligand bond activates a cascade of intracellular intermediate phosphorylation events called Heldin, 1995; Broudy, 1997 that initiating descending intracellular transmission.</text>
+                    <arg n="0">Heldin, 1995; Broudy, 1997</arg>
+                    <arg n="1">descending intracellular transmission</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>The translation gpTQ and glpACB operations, which are transcribed in a divergent manner can be initiated from places separated by 132 base pairs (bp) of DNA to give rise to a 45 kDa protein, which existed as multiple phosphorylated isoforms in rest cells.</text>
+                    <arg n="1">gpTQ and glpACB operations, which are transcribed in a divergent manner</arg>
+                    <arg n="2">places separated by 132 base pairs (bp) of DNA</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>gpTQ and glpACB operators, which are transcribed in a divergent manner was initiated from A2 (a sigma-dependent promoter (70) to the G residue of the upstream GATC sequence.</text>
+                    <arg n="1">gpTQ and glpACB operators, which are transcribed in a divergent manner</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>ranscription with FRS will be initiated by polymerases, followed by transfer of phosphorus group to the ArcA regulator.</text>
+                    <arg n="0">polymerases</arg>
+                    <arg n="1">ranscription with FRS</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>transcription of glpTQ and glpACB operons that are divergently transcribed has the ability to initiated from A2 (a sigma-dependent promoter (70) for the G residue of the GATC upstream sequence.</text>
+                    <arg n="1">transcription of glpTQ and glpACB operons that are divergently transcribed</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

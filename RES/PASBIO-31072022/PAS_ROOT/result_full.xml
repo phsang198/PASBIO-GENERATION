@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="result">
+            <roleset id="result.01" name="" wordnet="2">
+                <roles>
+                    <role n="0" descr="Theme, prior condition &#x0A;" />
+                    <role n="1" descr="Goal, end condition&#x0A;" />
+                </roles>
+                <example src="MEDLINE" no="*1">
+                    <text>We also report the existence of isoforms of NF-YA which results from differential splicing.</text>
+                    <arg n="0">differential splicing</arg>
+                    <arg n="1">the existence of isoforms of NF-YA</arg>
+                </example>
+                <example src="MEDLINE" no="*2">
+                    <text>Both the 5 and 3 splice site mutations (1060 + 2t--&gt;c and 678-7g--&gt;a, respectively) result in high proportions of mature mRNAs containing introns, which has not been observed for other splicing mutations.</text>
+                    <arg n="0">Both the 5 and 3 splice site mutations</arg>
+                    <arg n="1">high proportions of mature mRNAs containing introns</arg>
+                </example>
+                <example src="MEDLINE" no="*3">
+                    <text>Sequence analysis of the IDHbeta gene indicates that the difference in the C-terminal 28 amino acids between beta(1) and beta(2) proteins results from alternative splicing of a single transcript.</text>
+                    <arg n="0">alternative splicing of a single transcript</arg>
+                    <arg n="1">the difference in the C-terminal 28 amino acids between beta(1) and beta(2) proteins</arg>
+                </example>
+                <example src="MEDLINE" no="*4">
+                    <text>Alternative splicing of exon 2 (139 nt) and alternative transcriptional initiation result in mRNA species with distinct 5UTRs.</text>
+                    <arg n="0">Alternative splicing of exon 2 (139 nt) and alternative transcriptional initiation</arg>
+                    <arg n="1">mRNA species with distinct 5UTRs</arg>
+                </example>
+                <example src="MEDLINE" no="*5">
+                    <text>Two are missense mutations in exon 2 (G339D and R340C), and the other three alterations (a nonsense mutation, a frameshift, and a splicing mutation) are likely to result in truncated nonfunctional proteins.</text>
+                    <arg n="0">the other three alterations</arg>
+                    <arg n="1">truncated nonfunctional proteins</arg>
+                </example>
+                <example src="MEDLINE" no="*6">
+                    <text>Expression of isoform II cDNA in COS7 cells resulted in a marked increase in PAF acetylhydrolase activity.</text>
+                    <arg n="0">Expression of isoform II cDNA in COS7 cells</arg>
+                    <arg n="1">a marked increase in PAF acetylhydrolase activity</arg>
+                </example>
+                <example src="MEDLINE" no="7">
+                    <text>Human mucin gene MUC5B, the 10.7-kb large central exon encodes various alternate subdomains resulting in a super-repeat.</text>
+                    <arg n="0">various alternate subdomains</arg>
+                    <arg n="1">a super-repeat</arg>
+                </example>
+                <example src="MEDLINE" no="8">
+                    <text>The change may cause the heat instability and affect the net charge of the variant subunit, resulting in an electrophoretic LDH-B subunit variant of the fast type.</text>
+                    <arg n="0">the net charge of the variant subunit</arg>
+                    <arg n="1">an electrophoretic LDH-B subunit variant of the fast type</arg>
+                </example>
+                <example src="MEDLINE" no="*9">
+                    <text>Complete sequencing of the prion protein open reading frame of a 68-year-old woman affected by a familial form of Creutzfeldt-Jakob disease (CJD) revealed a new mutation at codon 210 resulting in the substitution of isoleucine for valine.</text>
+                    <arg n="0">a new mutation at codon 210</arg>
+                    <arg n="1">the substitution of isoleucine for valine</arg>
+                </example>
+                <example src="EMBO" no="*1">
+                    <text>Exon 13 skipping in s1031 animals results in a 543 bp product.</text>
+                    <arg n="0">Exon 13 skipping in s1031 animals</arg>
+                    <arg n="1">a 543 bp product</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>This result also supports our interpretation that let-341 (s1031) represents a loss-of-function rather a severe reduction-of-function mutation, because we expect that fluctuation in the ras-dependent signaling caused by a sli-1 mutation would result in a dramatic change in vulval induction under the condition where a low level activity of LET-23/SEM-5/SOS-1 is present (C.Yoon, C.Chang and P.Sternberg, unpublished).</text>
+                    <arg n="0">fluctuation in the ras-dependent signaling</arg>
+                    <arg n="1">a dramatic change in vulval induction under the condition where a low level activity of LET-23/SEM-5/SOS-1 is present</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>A role for SOS-1 in FGFR-mediated signaling during development Hyperactive EGL-15 FGF receptor signaling, conferred by either an activated egl-15 or a lf clr-1 mutation, results in a Clr phenotype.</text>
+                    <arg n="0">A role for SOS-1 in FGFR-mediated signaling during development Hyperactive EGL-15 FGF receptor signaling</arg>
+                    <arg n="1">a Clr phenotype</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>Decreased EGL-15 signaling, conferred by a partial lf egl-15 mutation, results in a scrawny body morphology phenotype(Kokel et al., 1998).</text>
+                    <arg n="0">Decreased EGL-15 signaling</arg>
+                    <arg n="1">a scrawny body morphology phenotype</arg>
+                </example>
+                <example src="EMBO" no="*5">
+                    <text>One variant results from failure to use the normal splice donor site of intron 12.</text>
+                    <arg n="0">failure to use the normal splice donor site of intron 12</arg>
+                    <arg n="1">One variant</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

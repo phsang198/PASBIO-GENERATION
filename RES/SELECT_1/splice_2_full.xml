@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="splice">
+            <roleset id="splice.02" name="SPLICE OUT&#x0A;" wordnet="-">
+                <roles>
+                    <role n="0" descr="thing get spliced&#x09;&#x09;&#x09;&#x09;    // entity (gene, premRNA) //&#x0A;" />
+                    <role n="1" descr="lost component, cut out component&#x09;&#x09;    // intron, exon, or more than one of them //&#x0A;" />
+                    <role n="2" descr="location refering to organelle, cell or tissue &#x0A;" />
+                    <role n="3" descr="secondary predicates&#x09;&#x09;&#x09;&#x09;    // purpose or reason&#x0A;" />
+                </roles>
+                <example src="PERMUTATE" no="0">
+                    <text>In addition, an introduction has the ability to be spliced from mRNA containing exons from 15 to 24.</text>
+                    <arg n="0">mRNA</arg>
+                    <arg n="1">an introduction</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>In both humans and chickens, an exon, as suggested by our study is able to be spliced out of the transcript MLC3nm into smooth muscle to administers an alternative product.</text>
+                    <arg n="0">MLC3nm</arg>
+                    <arg n="1">an exon, as suggested by our study</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">administers an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>In both humans and chickens, an exon, as suggested by our study, is spliced out of the transcript MLC3nm in smooth muscle in give an alternative product.</text>
+                    <arg n="0">MLC3nm</arg>
+                    <arg n="1">an exon, as suggested by our study,</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>In both humans and chickens, an exon, as suggested in our study may have been spliced out of the transcript MLC3nm transcript into smooth muscle to giving an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">an exon, as suggested in our study</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">giving an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>In both humans and chickens, an exon, as suggested in our study, was spliced from the transcript MLC3nm transcript in smooth muscle in does an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">an exon, as suggested in our study</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">does an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>In both humans and chickens, it is observed that an exon, as suggested in our study is spliced out of the transcript MLC3nm in soft muscle in this is an alternative product.</text>
+                    <arg n="0">MLC3nm</arg>
+                    <arg n="1">an exon, as suggested in our study</arg>
+                    <arg n="2">soft muscle</arg>
+                    <arg n="3">this is an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>In the remaining allele gene of p53, there was a single substitution base of G to T in position 1 within the donor site of the intron 7 and this intron did not splice during the mRNA maturation process.</text>
+                    <arg n="1">this intron</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>It has been spliced that cell lines is efficiently disseminated as an intron retained in the 5 UTR of RNAm HYAL1.</text>
+                    <arg n="0">the 5 UTR of RNAm HYAL1</arg>
+                    <arg n="1">an intron retained</arg>
+                    <arg n="2">cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>It has been spliced that cellular lines is efficiently disseminated as a retained intron in the 5 UTR of HYAL1 mRNA.</text>
+                    <arg n="0">the 5 UTR of HYAL1 mRNA</arg>
+                    <arg n="1">a retained intron</arg>
+                    <arg n="2">cellular lines</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>It has not been shown that exon 16 is spliced into mature transcripts that expect exon-intron limits in antisense A0 (transcribes).</text>
+                    <arg n="0">mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>It is not observed that exon 16 is correctly spliced into mature trascriptions that extend by exon-intron limits is expected in antisense A0 (transcribes).</text>
+                    <arg n="0">mature trascriptions</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>It is spliced that in humans, as in chicken, an exon, as suggested in our study may have been removed from the transcript MLC3nm in soft muscle in this is an alternative product.</text>
+                    <arg n="0">MLC3nm</arg>
+                    <arg n="1">an exon, as suggested in our study</arg>
+                    <arg n="2">soft muscle</arg>
+                    <arg n="3">this is an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>It is spliced that in man, as in chicken, an exon, as suggested in our study has the ability to be efficiently cut from the transcript MLC3nm to soft muscle to this is an alternative product.</text>
+                    <arg n="0">MLC3nm</arg>
+                    <arg n="1">an exon, as suggested in our study</arg>
+                    <arg n="2">soft muscle</arg>
+                    <arg n="3">this is an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>It was observed that cellular lines are able to differ in their ability to splice retaining intron into the 5 UTR of mRNA HYAL1.</text>
+                    <arg n="0">the 5 UTR of mRNA HYAL1</arg>
+                    <arg n="1">retaining intron</arg>
+                    <arg n="2">cellular lines</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>On the other hand, probable introns was well out of transcriptions spliced exons from 15 to 24.</text>
+                    <arg n="0">transcriptions</arg>
+                    <arg n="1">probable introns</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>We have shown that in humans, as in chicken, an exon, as suggested in our study has the ability to be spliced from MLC3nm to soft muscle to alternative product.</text>
+                    <arg n="0">MLC3nm</arg>
+                    <arg n="1">an exon, as suggested in our study</arg>
+                    <arg n="2">soft muscle</arg>
+                    <arg n="3">alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>We have shown that in humans, as in chicken, it has been shown that an exon is spliced out of the transcript MLC3nm transcript in smooth muscle in giving an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">an exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">giving an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>a retained intron in the 5 UTR of RNA HYAL1 is fully spliced for cellular lines.</text>
+                    <arg n="0">the 5 UTR of RNA HYAL1</arg>
+                    <arg n="1">a retained intron</arg>
+                    <arg n="2">cellular lines</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>a retained intron in the 5 UTR of RNA HYAL1 may have been completely spliced to cellular lines.</text>
+                    <arg n="0">the 5 UTR of RNA HYAL1</arg>
+                    <arg n="1">a retained intron</arg>
+                    <arg n="2">cellular lines</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>an intron retained in the 5 UTR of RNAm HYAL1 is spliced to be completely deployed for cell lines.</text>
+                    <arg n="0">the 5 UTR of RNAm HYAL1</arg>
+                    <arg n="1">an intron retained</arg>
+                    <arg n="2">cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>cell lines was observed to differ in its ability to splice an intron retained to the 5 UTR of HYAL1 RNAm.</text>
+                    <arg n="0">the 5 UTR of HYAL1 RNAm</arg>
+                    <arg n="1">an intron retained</arg>
+                    <arg n="2">cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>cell lines will splice in its ability to completely spray an intron retained into the 5 UTR of RNAm HYAL1.</text>
+                    <arg n="0">the 5 UTR of RNAm HYAL1</arg>
+                    <arg n="1">an intron retained</arg>
+                    <arg n="2">cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>held intron in the 5 UTR of mRNA HYAL1 has been spliced for cellular lines.</text>
+                    <arg n="0">the 5 UTR of mRNA HYAL1</arg>
+                    <arg n="1">held intron</arg>
+                    <arg n="2">cellular lines</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>mRNA processing has an intron which has the ability to spliced fully spalated.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>mature trascriptions has exon 16 that is completely spliced.</text>
+                    <arg n="0">mature trascriptions</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>one retained intron in the 5 UTR of RNAm HYAL1 may have been completely spliced for cell lines.</text>
+                    <arg n="0">the 5 UTR of RNAm HYAL1</arg>
+                    <arg n="1">one retained intron</arg>
+                    <arg n="2">cell lines</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>putative introns sequences, also, can be spliced from transcriptions containing exons from 15 to 24.</text>
+                    <arg n="0">transcriptions</arg>
+                    <arg n="1">putative introns sequences</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>putative introns sequences, in addition, was spliced from transcriptions containing exons from 15 to 24.</text>
+                    <arg n="0">transcriptions</arg>
+                    <arg n="1">putative introns sequences</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>putative introns sequences, on the other hand, has been spliced to be cut from transcriptions containing exons from 15 to 24.</text>
+                    <arg n="0">transcriptions</arg>
+                    <arg n="1">putative introns sequences</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>smooth muscle was spliced an exon into MLC3nm transcript.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">an exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>transcriptions has probable introns that is observed to be spliced.</text>
+                    <arg n="0">transcriptions</arg>
+                    <arg n="1">probable introns</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>In the remaining allele gene of p53, there was a single substitution base of G to T in position 1 within the donor site of the intron 7, and the coding exons will not be spliced during mRNA maturation.</text>
+                    <arg n="1">the coding exons</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>In the remaining allele p53 gene, there was a single replacement base from G to T at position 1 within the splice donor site of the 7th intron, and the coding exons did not properly impale during the mRNA maturation process.</text>
+                    <arg n="1">the coding exons</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>In the splice allele p53 gene, there was a single substitution base of G to T in position 1 within the donor site of the intron 7 and the mutated intron did not spread during the mRNA maturation process.</text>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>On the other hand, intern scintium was efficiently exiled transcribes spliced exons from 15 to 24.</text>
+                    <arg n="0">transcribes</arg>
+                    <arg n="1">intern scintium</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>On the other hand, one retained intron was well out of the 5 RU of HYAL1 RNA spliced exons from 15 to 24.</text>
+                    <arg n="0">the 5 RU of HYAL1 RNA</arg>
+                    <arg n="1">one retained intron</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>On the other hand, putative sequences of introns was spliced from transcribed containing exons from 15 to 24.</text>
+                    <arg n="0">transcribed</arg>
+                    <arg n="1">putative sequences of introns</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>On the other hand, putative synthesis of introns is able to be spliced from transcribed containing exons from 15 to 24.</text>
+                    <arg n="0">transcribed</arg>
+                    <arg n="1">putative synthesis of introns</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>That putative synthesis of introns could not be spliced into transcribed that exon-intron limits are expected in antisense A0 (transcribes).</text>
+                    <arg n="0">transcribed</arg>
+                    <arg n="1">putative synthesis of introns</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>We show that in man, as in chicken, an exon is observed to be spliced from MLC3nm into soft muscle to A3 (it gives an alternative product.</text>
+                    <arg n="0">MLC3nm</arg>
+                    <arg n="1">an exon</arg>
+                    <arg n="2">soft muscle</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>one intro may have been spliced during the 5 UTR of HYAL1.</text>
+                    <arg n="0">the 5 UTR of HYAL1</arg>
+                    <arg n="1">one intro</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>putative sequences of introns cannot be spliced into transcribes that extend by exon-intron limits is expected in antisense A0 (transcribes).</text>
+                    <arg n="0">transcribes</arg>
+                    <arg n="1">putative sequences of introns</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>putative synthesis of introns may not be spliced into transcribed that extend by exon-intron limits is expected in antisense A0 (transcribes).</text>
+                    <arg n="0">transcribed</arg>
+                    <arg n="1">putative synthesis of introns</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>putative synthesis of introns was spliced during transcribed.</text>
+                    <arg n="0">transcribed</arg>
+                    <arg n="1">putative synthesis of introns</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>the mutated intron, on the other hand, has been spliced to be cut from the mRNA maturation process containing exons from 15 to 24.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>transcribes has intern scintium being able to be spliced.</text>
+                    <arg n="0">transcribes</arg>
+                    <arg n="1">intern scintium</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>transcribes has putative sequences of introns which is shown as spliced.</text>
+                    <arg n="0">transcribes</arg>
+                    <arg n="1">putative sequences of introns</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>transcriptions has probable introns sequences that is completely spliced.</text>
+                    <arg n="0">transcriptions</arg>
+                    <arg n="1">probable introns sequences</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

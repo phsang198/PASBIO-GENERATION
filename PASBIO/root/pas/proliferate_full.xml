@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+	<predicate lemma="proliferate">
+		<roleset id="proliferate.01" name="" wordnet="1">
+			<roles>
+				<role n="1" descr="thing becoming abundant				// gene products //
+"/>
+				<role n="2" descr="situation of becoming abundant
+"/>
+				<role n="3" descr="location referring to organ, vitro
+"/>
+			</roles>
+			<example src="MEDLINE" no="1">
+				<text>
+Cancer cells are characterized by either an increased ability to proliferate or a diminished capacity to undergo programmed cell death.
+
+</text>
+				<arg n="1">Cancer cells
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">-
+</arg>
+				
+			</example>
+			<example src="MEDLINE" no="2">
+				<text>
+These results show that intrasplenically transplanted fetal liver cells proliferate and differentiate into mature cells displaying a GST expression pattern with respective enzyme activities similar to adult liver.
+
+</text>
+				<arg n="1">intrasplenically transplanted fetal liver cells 
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+1	These	this	det:&gt;2	@DN&gt; %&gt;N DET DEM PL
+2	results	result	subj:&gt;3	@SUBJ %NH N NOM PL
+3	show	show		@+FMAINV %VA V PRES
+4	that	that		@CS %CS CS
+5	intrasplenically	intrasplenically		@A&gt; %&gt;N &lt;?&gt; A ABS	@SUBJ %NH &lt;?&gt; A ABS	@OBJ %NH &lt;?&gt; A ABS	@I-OBJ %NH &lt;?&gt; A ABS	@ADVL %EH &lt;?&gt; A ABS	@ADVL %EH &lt;?&gt; ADV	@AD-A&gt; %E&gt; &lt;?&gt; ADV
+6	transplanted	transplant		@+FMAINV %VA V PAST	@A&gt; %&gt;N A ABS
+7	fetal	fetal	attr:&gt;8	@A&gt; %&gt;N A ABS
+8	liver	liver	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	cells	cell		@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL
+10	proliferate	proliferate		@+FMAINV %VA V PRES
+11	and	and	cc:&gt;10	@CC %CC CC
+12	differentiate	differentiate	cc:&gt;10	@+FMAINV %VA V PRES
+13	into	into	goa:&gt;12	@ADVL %EH PREP
+14	mature	mature	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	cells	cell	pcomp:&gt;13	@&lt;P %NH N NOM PL
+16	displaying	display	mod:&gt;15	@-FMAINV %VA ING
+17	a	a	det:&gt;20	@DN&gt; %&gt;N DET SG
+18	GST	gst	attr:&gt;19	@A&gt; %&gt;N ABBR NOM SG
+19	expression	expression	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+20	pattern	pattern	obj:&gt;16	@OBJ %NH N NOM SG
+21	with	with	ha:&gt;16	@ADVL %EH PREP
+22	respective	respective	attr:&gt;23	@A&gt; %&gt;N A ABS
+23	enzyme	enzyme	attr:&gt;24	@A&gt; %&gt;N N NOM SG
+24	activities	activity	pcomp:&gt;21	@&lt;P %NH N NOM PL
+25	similar	similar	mod:&gt;24	@&lt;NOM %N&lt; A ABS
+26	to	to	mod:&gt;25	@&lt;NOM %N&lt; PREP
+27	adult	adult	attr:&gt;28	@A&gt; %&gt;N N NOM SG
+28	liver	liver	pcomp:&gt;26	@&lt;P %NH N NOM SG
+29	.     .
+</fdg>
+			</example>
+			<example src="MEDLINE" no="3">
+				<text>
+Our observations illustrate that the human placenta is endowed with the biochemical machinery to proliferate indefinitely throughout gestation, yet, there are intrinsic mechanisms that effectively circumscribe the extent and duration of trophoblast proliferation.
+
+</text>
+				<arg n="1">the human placenta
+</arg>
+				<arg n="2">throughout gestation
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+1	Our	we	attr:&gt;2	@A&gt; %&gt;N PRON PERS GEN PL1
+2	observations	observation	subj:&gt;3	@SUBJ %NH N NOM PL
+3	illustrate	illustrate	main:&gt;0	@+FMAINV %VA V PRES
+4	that	that	pm:&gt;9	@CS %CS CS
+5	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+6	human	human	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	placenta	placenta	subj:&gt;8	@SUBJ %NH N NOM SG
+8	is	be	v-ch:&gt;9	@+FAUXV %AUX V PRES SG3
+9	endowed	endow	obj:&gt;3	@-FMAINV %VP EN
+10	with	with	phr:&gt;9	@ADVL %EH PREP
+11	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+12	biochemical	biochemical	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	machinery	machinery	pcomp:&gt;10	@&lt;P %NH N NOM SG
+14	to	to	pm:&gt;15	@INFMARK&gt; %AUX INFMARK&gt;
+15	proliferate	proliferate	mod:&gt;13	@-FMAINV %VA V INF
+16	indefinitely	indefinitely	man:&gt;15	@ADVL %EH ADV
+17	throughout	throughout	meta:&gt;15	@ADVL %EH PREP
+18	gestation	gestation	pcomp:&gt;17	@&lt;P %NH N NOM SG
+19	,	,
+20	yet	yet	meta:&gt;23	@CS %CS ADV	@ADVL %EH ADV
+21	,	,
+
+22	there	there	subj:&gt;23	@F-SUBJ %NH &lt;Ex&gt; ADV
+23	are	be		@+FMAINV %VA V PRES
+24	intrinsic	intrinsic	attr:&gt;25	@A&gt; %&gt;N A ABS
+25	mechanisms	mechanism	comp:&gt;23	@PCOMPL-S %NH N NOM PL
+26	that	that	subj:&gt;28	@SUBJ %NH &lt;Rel&gt; PRON
+27	effectively	effectively	man:&gt;28	@ADVL %EH ADV
+28	circumscribe	circumscribe	mod:&gt;25	@+FMAINV %VA V PRES
+29	the	the	det:&gt;30	@DN&gt; %&gt;N DET
+30	extent	extent	obj:&gt;28	@OBJ %NH N NOM SG
+31	and	and	cc:&gt;30	@CC %CC CC
+32	duration	duration	cc:&gt;30	@OBJ %NH N NOM SG
+33	of	of	mod:&gt;32	@&lt;NOM-OF %N&lt; PREP
+34	trophoblast	trophoblast	attr:&gt;35	@A&gt; %&gt;N N NOM SG
+35	proliferation	proliferation	pcomp:&gt;33	@&lt;P %NH N NOM SG
+36	.     .
+</fdg>
+			</example>
+			<example src="MEDLINE" no="4">
+				<text>
+After androgen withdrawal and antiandrogen treatment, the androgen responsive prostate cancer cells cease to proliferate and undergo apoptosis, causing tumor regression.
+
+</text>
+				<arg n="1">the androgen responsive prostate cancer cells 
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+1	After	after	tmp:&gt;14	@ADVL %EH PREP
+2	androgen	androgen	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	withdrawal	withdrawal	pcomp:&gt;1	@&lt;P %NH N NOM SG
+4	and	and	cc:&gt;3	@CC %CC CC
+5	antiandrogen	antiandrogen	attr:&gt;6	@A&gt; %&gt;N &lt;?&gt; A ABS
+6	treatment	treatment	cc:&gt;3	@&lt;P %NH N NOM SG
+7	,	,
+8	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+9	androgen	androgen	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	responsive	responsive	attr:&gt;11	@A&gt; %&gt;N A ABS
+11	prostate	prostate	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	cancer	cancer	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+13	cells	cell	subj:&gt;14	@SUBJ %NH N NOM PL
+14	cease	cease	main:&gt;0	@+FMAINV %VA V PRES
+15	to	to	pm:&gt;16	@INFMARK&gt; %AUX INFMARK&gt;
+16	proliferate	proliferate	obj:&gt;14	@-FMAINV %VA V INF
+17	and	and	cc:&gt;16	@CC %CC CC
+18	undergo	undergo	cc:&gt;16	@-FMAINV %VA V INF
+19	apoptosis	apoptosis	comp:&gt;18	@PCOMPL-S %NH N NOM SG
+20	,	,
+21	causing	cause	ha:&gt;18	@-FMAINV %VA ING
+22	tumor	tumor	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+23	regression	regression	obj:&gt;21	@OBJ %NH N NOM SG
+24	.     .
+</fdg>
+			</example>
+			<example src="EMBO" no="1">
+				<text>
+Stat5ab-/-peripheral T cells regain the ability to proliferate upon introduction of full-length wild-type Stat5a (Figure 6B).
+
+</text>
+				<arg n="1">Stat5ab-/-peripheral T cells
+</arg>
+				<arg n="2">upon introduction of full-length wild-type Stat5a
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+
+1	Stat5ab	stat5ab		@NH %NH &lt;?&gt; N NOM SG
+2	-	-
+3	/	/	
+4	-	-
+5	peripheral	peripheral	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	T	t	attr:&gt;7	@A&gt; %&gt;N ABBR NOM SG
+7	cells	cell	subj:&gt;8	@SUBJ %NH N NOM PL
+8	regain	regain	main:&gt;0	@+FMAINV %VA V PRES
+9	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+10	ability	ability	obj:&gt;8	@OBJ %NH N NOM SG
+11	to	to	pm:&gt;12	@INFMARK&gt; %AUX INFMARK&gt;
+12	proliferate	proliferate	mod:&gt;10	@-FMAINV %VA V INF
+13	upon	upon	ha:&gt;12	@ADVL %EH PREP
+14	introduction	introduction	pcomp:&gt;13	@&lt;P %NH N NOM SG
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	full-length	full-length	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	wild-type	wild-type	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	Stat5a	stat5a	pcomp:&gt;15	@&lt;P %NH &lt;?&gt; N NOM SG
+19	(	(
+20	Figure	figure	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	6B	6b		@NH %NH NUM CARD	@APP %NH NUM CARD	@A&gt; %&gt;N NUM CARD
+22	)	)
+23	.     .
+</fdg>
+			</example>
+			<example src="PNAS" no="1">
+				<text>
+Adult naive T cells, which are at rest in normal conditions, proliferate strongly when transferred to lymphopenic hosts. 
+
+</text>
+				<arg n="1">Adult naive T cells 
+</arg>
+				<arg n="2">when transferred to lymphopenic hosts 
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+1	Adult	adult	attr:&gt;2	@A&gt; %&gt;N N NOM SG
+2	naive	naive	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	T	t	attr:&gt;4	@A&gt; %&gt;N ABBR NOM SG
+4	cells	cell	subj:&gt;14	@SUBJ %NH N NOM PL
+5	,	,
+6	which	which	subj:&gt;7	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+7	are	be	mod:&gt;4	@+FMAINV %VA V PRES
+8	at	at	loc:&gt;7	@ADVL %EH PREP
+9	rest	rest	pcomp:&gt;8	@&lt;P %NH N NOM SG
+10	in	in	mod:&gt;9	@&lt;NOM %N&lt; PREP
+11	normal	normal	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	conditions	condition	pcomp:&gt;10	@&lt;P %NH N NOM PL
+13	,	,
+14	proliferate	proliferate	main:&gt;0	@+FMAINV %VA V PRES
+15	strongly	strongly	man:&gt;14	@ADVL %EH ADV
+16	when	when	tmp:&gt;17	@ADVL %EH ADV WH
+17	transferred	transfer	tmp:&gt;14	@-FMAINV %VP EN
+18	to	to	ha:&gt;17	@ADVL %EH PREP
+19	lymphopenic	lymphopenic	attr:&gt;20	@A&gt; %&gt;N &lt;?&gt; A ABS
+20	hosts	host	pcomp:&gt;18	@&lt;P %NH N NOM PL
+21	.     .
+</fdg>
+			</example>
+			<example src="PNAS" no="2">
+				<text>
+HSC continued to proliferate in the bone marrow and spleen through 8 days of G-CSF treatment, but HSC released into the blood tended to be in G0/G1 phase.
+
+</text>
+				<arg n="1">HSC
+</arg>
+				<arg n="2">through 8 days of G-CSF treatment 
+</arg>
+				<arg n="3">in the bone marrow and spleen
+</arg>
+				<fdg>
+1	HSC	hsc	subj:&gt;2	@SUBJ %NH ABBR NOM SG
+2	continued	continue	main:&gt;0	@+FMAINV %VA V PAST
+3	to	to	pm:&gt;4	@INFMARK&gt; %AUX INFMARK&gt;
+4	proliferate	proliferate	obj:&gt;2	@-FMAINV %VA V INF
+5	in	in	ha:&gt;4	@ADVL %EH PREP
+6	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+7	bone	bone	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	marrow	marrow	pcomp:&gt;5	@&lt;P %NH N NOM SG
+9	and	and	cc:&gt;8	@CC %CC CC
+10	spleen	spleen	cc:&gt;8	@&lt;P %NH N NOM SG
+11	through	through	mod:&gt;10	@&lt;NOM %N&lt; PREP
+12	8	8	qn:&gt;13	@QN&gt; %&gt;N NUM CARD
+13	days	day	pcomp:&gt;11	@&lt;P %NH N NOM PL
+14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+15	G-CSF	g-csf	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	treatment	treatment	pcomp:&gt;14	@&lt;P %NH N NOM SG
+17	,	,
+18	but	but		@CC %CC CC
+19	HSC	hsc		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@PCOMPL-S %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+20	released	release		@-FMAINV %VP EN
+21	into	into	goa:&gt;20	@ADVL %EH PREP
+22	the	the	det:&gt;23	@DN&gt; %&gt;N DET
+23	blood	blood	pcomp:&gt;21	@&lt;P %NH N NOM SG
+24	tended	tend	mod:&gt;23	@-FMAINV %VP EN
+25	to	to	pm:&gt;26	@INFMARK&gt; %AUX INFMARK&gt;
+26	be	be	cnt:&gt;24	@-FMAINV %VA V INF
+27	in	in	ha:&gt;26	@ADVL %EH PREP
+28	G0/G1	g0/g1		@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+29	phase	phase	pcomp:&gt;27	@&lt;P %NH N NOM SG
+30	.     .
+</fdg>
+			</example>
+			<example src="PNAS" no="3">
+				<text>
+The ability of EBD cells to proliferate in vivo was examined by injection of 3 ? 106 LVEC cells into the calf muscle of 3 immunocompromised mice.
+
+</text>
+				<arg n="1">EBD cells 
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">in vivo
+</arg>
+				<fdg>
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	ability	ability	subj:&gt;9	@SUBJ %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	EBD	ebd	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	cells	cell	pcomp:&gt;3	@&lt;P %NH N NOM PL
+6	to	to	pm:&gt;7	@INFMARK&gt; %AUX INFMARK&gt;
+7	proliferate	proliferate	mod:&gt;5	@-FMAINV %VA V INF
+8	in vivo	in vivo	obj:&gt;7	@OBJ %NH A ABS
+9	was	be	v-ch:&gt;10	@+FAUXV %AUX V PAST
+10	examined	examine	main:&gt;0	@-FMAINV %VP EN
+11	by	by	agt:&gt;10	@ADVL %EH PREP
+12	injection	injection	pcomp:&gt;11	@&lt;P %NH N NOM SG
+13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+14	3	3	pcomp:&gt;13	@&lt;P %NH NUM CARD
+15	?	?
+16	&lt;s&gt;	&lt;s&gt;
+1	106	106	main:&gt;0	@NH %NH NUM CARD
+2	LVEC	lvec	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	cells	cell		@NH %NH N NOM PL
+4	into	into	mod:&gt;3	@&lt;NOM %N&lt; PREP
+5	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+6	calf	calf	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	muscle	muscle	pcomp:&gt;4	@&lt;P %NH N NOM SG
+8	of	of	mod:&gt;7	@&lt;NOM-OF %N&lt; PREP
+9	3	3	qn:&gt;11	@QN&gt; %&gt;N NUM CARD
+10	immunocompromised	immunocompromised	attr:&gt;11	@A&gt; %&gt;N &lt;?&gt; A ABS
+11	mice	mouse	pcomp:&gt;8	@&lt;P %NH N NOM PL
+12	.     .
+</fdg>
+			</example>
+			<example src="PNAS" no="4">
+				<text>
+Further, HIV-specific CD4+ T cells of viremic patients could be induced to proliferate in response to HIV antigens when costimulation was provided by anti-CD28 antibody in vitro.
+
+</text>
+				<arg n="1">HIV-specific CD4+ T cells of viremic patients 
+</arg>
+				<arg n="2">when costimulation was provided by anti-CD28 antibody 
+</arg>
+				<arg n="3">in vitro
+</arg>
+				<fdg>
+1	Further	far	loc:&gt;13	@ADVL %EH ADV CMP
+2	,	,
+3	HIV-specific	hiv-specific	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	CD4	cd4	cc:&gt;6	@A&gt; %&gt;N ABBR NOM SG
+5	+	+	cc:&gt;6	@CC %CC CC
+6	T	t	attr:&gt;7	@A&gt; %&gt;N ABBR NOM SG
+7	cells	cell	subj:&gt;11	@SUBJ %NH N NOM PL
+8	of	of	mod:&gt;7	@&lt;NOM-OF %N&lt; PREP
+9	viremic	viremic	attr:&gt;10	@A&gt; %&gt;N A ABS
+10	patients	patient	pcomp:&gt;8	@&lt;P %NH N NOM PL
+11	could	could	v-ch:&gt;12	@+FAUXV %AUX V AUXMOD
+12	be	be	v-ch:&gt;13	@-FAUXV %AUX V INF
+13	induced	induce	main:&gt;0	@-FMAINV %VP EN
+14	to	to	pm:&gt;15	@INFMARK&gt; %AUX INFMARK&gt;
+15	proliferate	proliferate	cnt:&gt;13	@-FMAINV %VA V INF
+16	in	in	ha:&gt;15	@ADVL %EH PREP
+17	response	response	pcomp:&gt;16	@&lt;P %NH N NOM SG
+18	to	to	mod:&gt;17	@&lt;NOM %N&lt; PREP
+19	HIV	hiv	attr:&gt;20	@A&gt; %&gt;N ABBR NOM SG
+20	antigens	antigen	pcomp:&gt;18	@&lt;P %NH N NOM PL
+21	when	when	tmp:&gt;24	@ADVL %EH ADV WH
+22	costimulation	costimulation	subj:&gt;23	@SUBJ %NH &lt;?&gt; N NOM SG
+23	was	be	v-ch:&gt;24	@+FAUXV %AUX V PAST
+24	provided	provide	tmp:&gt;15	@-FMAINV %VP EN
+25	by	by	ha:&gt;24	@ADVL %EH PREP
+26	anti-CD28	anti-cd28		@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+27	antibody	antibody		@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+28	in vitro	in vitro		@ADVL %EH ADV	@&lt;NOM %N&lt; A ABS
+29	.     .
+</fdg>
+			</example>
+			<example src="PNAS" no="5">
+				<text>
+Treatment of endothelial cells of different origin with the ganglioside biosynthesis inhibitors fumonisin B1, D-threo-1-phenyl-2-decanoylamino-3-morpholino-1-propanol or D-1-threo-1-phenyl-2-hexa-decanoylamino-3-pyrrolidino-1-propanol-HCl, impairs their capacity to proliferate when exposed to FGF2.
+
+</text>
+				<arg n="1">endothelial cells
+</arg>
+				<arg n="2">when exposed to FGF2
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+1	Treatment	treatment		@NH %NH N NOM SG	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	endothelial	endothelial	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	cells	cell	pcomp:&gt;2	@&lt;P %NH N NOM PL
+5	of	of	mod:&gt;4	@&lt;NOM-OF %N&lt; PREP
+6	different	different	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	origin	origin	pcomp:&gt;5	@&lt;P %NH N NOM SG
+8	with	with	mod:&gt;7	@&lt;NOM %N&lt; PREP
+9	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+10	ganglioside	ganglioside	attr:&gt;11	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+11	biosynthesis	biosynthesis	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	inhibitors	inhibitor	attr:&gt;13	@A&gt; %&gt;N N NOM PL
+13	fumonisin	fumonisin	attr:&gt;14	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+14	B1	b1	pcomp:&gt;8	@&lt;P %NH ABBR NOM SG
+15	,	,
+16	D-threo-1-phenyl-2-decanoylamino-3-morpholino-1-propanol	d-threo-1-phenyl-2-decanoylamino-3-morpholino-1-propanol		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+17	or	or		@CC %CC CC
+18	D-1-threo-1-phenyl-2-hexa-decanoylamino-3-pyrrolidino-1-propanol-HCl	d-1-threo-1-phenyl-2-hexa-decanoylamino-3-pyrrolidino-1-propanol-hcl		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+19	,	,
+20	impairs	impair	main:&gt;0	@+FMAINV %VA V PRES SG3
+21	their	they	attr:&gt;22	@A&gt; %&gt;N PRON PERS GEN PL3
+22	capacity	capacity	obj:&gt;20	@OBJ %NH N NOM SG
+23	to	to	pm:&gt;24	@INFMARK&gt; %AUX INFMARK&gt;
+24	proliferate	proliferate	mod:&gt;22	@-FMAINV %VA V INF
+25	when	when	tmp:&gt;26	@ADVL %EH ADV WH
+26	exposed	expose	tmp:&gt;24	@-FMAINV %VP EN
+27	to	to	ha:&gt;26	@ADVL %EH PREP
+28	FGF2	fgf2	pcomp:&gt;27	@&lt;P %NH N NOM SG
+29	.     .
+</fdg>
+			</example>
+		</roleset>
+	</predicate>
+</frameset>

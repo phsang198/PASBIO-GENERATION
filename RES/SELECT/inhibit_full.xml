@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="inhibit">
+            <roleset id="inhibit.01" name="" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent&#x0A;" />
+                    <role n="1" descr="the entity being inhibited by agent to get binding&#x0A;" />
+                    <role n="2" descr="the action or property being inhibited&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Binding is concentration dependent and saturable and is able to be totally inhibited with 10mM EDTA, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">10mM EDTA</arg>
+                    <arg n="2">Binding</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>CRP-cAMP inhibited sigma (54)-dependent glnAp2 strongly, by 21-fold.</text>
+                    <arg n="0">CRP-cAMP</arg>
+                    <arg n="1">sigma (54)-dependent glnAp2</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>For example, the phosphatase may have associated with another protein and thereby has been inhibited in its function or localization.</text>
+                    <arg n="0">another protein</arg>
+                    <arg n="1">the phosphatase</arg>
+                    <arg n="2">its function or localization</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while GadX-dependent activation is inhibited by GadW.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Here, we have found that the downregulation of phosphorylated Stat4, Stat5 and Stat6 was inhibited by the proteasome inhibitors MG132 and lactacystin, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">proteasome inhibitors MG132 and lactacystin</arg>
+                    <arg n="2">the downregulation of phosphorylated Stat4, Stat5 and Stat6</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that the CRP-cAMP complex has inhibited the glnAp2 promoter activity.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that the CRP-cAMP complex has the ability to inhibit the glnAp2 promoter activity.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that the glnAp2 promoter activity is inhibited by the CRP-cAMP complex.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Moreover, Dam methylation will inhibit binding of Lrp/PapI near the GATC1028 site and alters binding of Lrp at the GATC1130 site.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>NK-cell-mediated cytotoxicity was inhibited by cell-surface receptors of the immunoglobulin and C-type lectin superfamilies.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>The N-terminal SH3 domain (SH3A), unlike other SH3 domains from intersectin or various endocytic proteins, has specifically inhibited intermediate events leading to the formation of clathrin-coated pits.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>The N-terminal SH3 domain (SH3A), unlike other SH3 domains from intersectin or various endocytic proteins, specifically inhibited intermediate events leading to the formation of clathrin-coated pits.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>This synthetic peptide binds to P and inhibits its binding to C3b.</text>
+                    <arg n="0">This synthetic peptide</arg>
+                    <arg n="1">P</arg>
+                    <arg n="2">its binding to C3b</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>Transient overexpression in COS cells verified that a heat-stable inhibitor of protein kinase is produced by he human PKI cDNA, and both the C alpha and C beta isoforms of the PKA catalytic subunit are observed to be inhibited by protein extracts from the transfected COS cells.</text>
+                    <arg n="0">protein extracts from the transfected COS cells</arg>
+                    <arg n="1">both the C alpha and C beta isoforms of the PKA catalytic subunit</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>intermediate events leading to the formation of clathrin-coated pits have been inhibited by The N-terminal SH3 domain (SH3A) which is unlike other SH3 domains from intersectin or various endocytic proteins.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>late events of clathrin-coated vesicle formation has been inhibited by the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I.</text>
+                    <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I</arg>
+                    <arg n="2">late events of clathrin-coated vesicle formation</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>rolipram has the ability to inhibit multiple PDE4 cyclic AMP-specific phosphodiesterase isoforms encoded by PDE4C.</text>
+                    <arg n="0">rolipram</arg>
+                    <arg n="1">multiple PDE4 cyclic AMP-specific phosphodiesterase isoforms</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>the proteasome inhibitors MG132 and lactacystin have inhibited the downregulation of phosphorylated Stat4, Stat5 and Stat6.</text>
+                    <arg n="0">proteasome inhibitors MG132 and lactacystin</arg>
+                    <arg n="2">the downregulation of phosphorylated Stat4, Stat5 and Stat6</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>the proteasome inhibitors MG132 and lactacystin may have inhibited the downregulation of phosphorylated Stat4, Stat5 and Stat6.</text>
+                    <arg n="0">proteasome inhibitors MG132 and lactacystin</arg>
+                    <arg n="2">the downregulation of phosphorylated Stat4, Stat5 and Stat6</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Binding was concentration dependent and saturable and was totally inhibited with 10mM EDTA, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">10mM EDTA</arg>
+                    <arg n="2">Binding</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>Intriguingly, while the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I, selectively inhibit late events of clathrin-coated vesicle formation involving membrane fission, intersectin SH3A was unique in its ability to block earlier stages (Simpson et al., 1999).</text>
+                    <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I</arg>
+                    <arg n="2">late events of clathrin-coated vesicle formation</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Binding in transiently transfected Jurkat T-leukemia cells wil also be inhibited by 10mM EDTA.</text>
+                    <arg n="0">10mM EDTA</arg>
+                    <arg n="2">Binding</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Binding is observed to be inhibited by 10mM EDTA.</text>
+                    <arg n="0">10mM EDTA</arg>
+                    <arg n="2">Binding</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>For example, P associates with This synthetic peptide and is thereby inhibited in its binding to C3b.</text>
+                    <arg n="0">This synthetic peptide</arg>
+                    <arg n="1">P</arg>
+                    <arg n="2">its binding to C3b</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>For example, the phosphatase associated with another protein was inhibited in The phosphatases function and localization.</text>
+                    <arg n="0">another protein</arg>
+                    <arg n="1">the phosphatase</arg>
+                    <arg n="2">The phosphatases function and localization</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 in transiently transfected Jurkat T-leukemia cells has also been inhibited by by coexpression of MAD-3.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 in transiently transfected Jurkat T-leukemia cells is also inhibited by by coexpression of MAD-3.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 is concentration dependent and saturable and is observed to be totally inhibited with by coexpression of MAD-3, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 is concentration dependent and saturable and is totally inhibited with by coexpression of MAD-3, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 is concentration dependent and saturable and is totally inhibited with coexpression of MAD-3, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 is inhibited by by coexpression of MAD-3 (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 is observed to be inhibited by coexpression of MAD-3 (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 is observed to be inhibited by coexpression of MAD-3 (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Functional activation of an HIV reporter plasmid by p49/p65 were inhibited by coexpression of MAD-3.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>GadW (NO) activated the soluble isoform of guanylate cyclase in platelets and has inhibited GadX-dependent activation.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>GadW (NO) activates the soluble isoform of guanylate cyclase in platelets and has the ability to inhibit GadX-dependent activation.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>GadW (NO) activates the soluble isoform of guanylate cyclase in platelets and inhibits GadX-dependent activation.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>GadW (NO) that inhibits GadX-dependent activation activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while 10mM EDTA is able to inhibit Binding.</text>
+                    <arg n="0">10mM EDTA</arg>
+                    <arg n="2">Binding</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while 10mM EDTA may have inhibited Binding.</text>
+                    <arg n="0">10mM EDTA</arg>
+                    <arg n="2">Binding</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while Nitric oxide can inhibit platelet function.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while Nitric oxide will inhibit platelet function.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while chloramphenicol can inhibit protein synthesis.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while chloramphenicol will have inhibited protein synthesis.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while chloramphenicol will inhibit protein synthesis.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while coexpression of MAD-3 can inhibit Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while late events of clathrin-coated vesicle formation has been inhibited by the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I.</text>
+                    <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I</arg>
+                    <arg n="2">late events of clathrin-coated vesicle formation</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while proteasome inhibitors MG132 and lactacystin may have inhibited the downregulation of phosphorylated Stat4, Stat5 and Stat6.</text>
+                    <arg n="0">proteasome inhibitors MG132 and lactacystin</arg>
+                    <arg n="2">the downregulation of phosphorylated Stat4, Stat5 and Stat6</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while the CRP-cAMP complex has inhibited the glnAp2 promoter activity.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>GadX-dependent activation can be inhibited by GadW (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>GadX-dependent activation is inhibited by GadW (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>GadX-dependent activation was inhibited by GadW.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>GadX-dependent activation were inhibited by GadW (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>Here, we have found that Functional activation of an HIV reporter plasmid by p49/p65 is inhibited by the coexpression of MAD-3, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 is not sensitive to these inhibitors.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>Here, we have found that Functional activation of an HIV reporter plasmid by p49/p65 will be inhibited by the by coexpression of MAD-3, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>Here, we have found that Functional activation of an HIV reporter plasmid by p49/p65 will be inhibited by the by coexpression of MAD-3, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>Here, we have found that GadX-dependent activation will be inhibited by the GadW, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>Here, we have found that NK-cell-mediated cytotoxicity has been inhibited by the cell-surface receptors of the immunoglobulin and C-type lectin superfamilies, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>Here, we have found that NK-cell-mediated cytotoxicity was inhibited by the cell-surface receptors of the immunoglobulin and C-type lectin superfamilies, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>Here, we have found that protein synthesis is observed to be inhibited by the chloramphenicol, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>Here, we have found that protein synthesis was inhibited by the chloramphenicol, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>Here, we have found that the glnAp2 promoter activity will be inhibited by the the CRP-cAMP complex, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that Binding has been inhibited by 10mM EDTA.</text>
+                    <arg n="0">10mM EDTA</arg>
+                    <arg n="2">Binding</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that GadW has inhibited GadX-dependent activation.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that Nitric oxide is observed to inhibit platelet function.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that by coexpression of MAD-3 will inhibit Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that cell-surface receptors of the immunoglobulin and C-type lectin superfamilies inhibited NK-cell-mediated cytotoxicity.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that chloramphenicol is observed to inhibit protein synthesis.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that late events of clathrin-coated vesicle formation has been inhibited by the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I.</text>
+                    <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I</arg>
+                    <arg n="2">late events of clathrin-coated vesicle formation</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that platelet function is observed to be inhibited by Nitric oxide.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I will have inhibited late events of clathrin-coated vesicle formation.</text>
+                    <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I</arg>
+                    <arg n="2">late events of clathrin-coated vesicle formation</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>NK-cell-mediated cytotoxicity are inhibited by cell-surface receptors of the immunoglobulin and C-type lectin superfamilies.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>NK-cell-mediated cytotoxicity has been inhibited by cell-surface receptors of the immunoglobulin and C-type lectin superfamilies (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>NK-cell-mediated cytotoxicity is concentration dependent and saturable and may be totally inhibited with cell-surface receptors of the immunoglobulin and C-type lectin superfamilies, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>NK-cell-mediated cytotoxicity may have been inhibited by cell-surface receptors of the immunoglobulin and C-type lectin superfamilies (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>The half-life of the AGT proteins was determined by growing cells at 37 C in LB broth supplemented with 50 mg/ml ampicillin, 50 mg/ml kanamycin and 0.2 mM IPTG until the A600 reached 0.3 and then Binding are inhibited by 50 mg/ml 10mM EDTA.</text>
+                    <arg n="0">10mM EDTA</arg>
+                    <arg n="2">Binding</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>The half-life of the AGT proteins was determined by growing cells at 37 C in LB broth supplemented with 50 mg/ml ampicillin, 50 mg/ml kanamycin and 0.2 mM IPTG until the A600 reached 0.3 and then Functional activation of an HIV reporter plasmid by p49/p65 has been inhibited by 50 mg/ml by coexpression of MAD-3.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>The half-life of the AGT proteins was determined by growing cells at 37 C in LB broth supplemented with 50 mg/ml ampicillin, 50 mg/ml kanamycin and 0.2 mM IPTG until the A600 reached 0.3 and then GadX-dependent activation were inhibited by 50 mg/ml GadW.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>The half-life of the AGT proteins was determined by growing cells at 37 C in LB broth supplemented with 50 mg/ml ampicillin, 50 mg/ml kanamycin and 0.2 mM IPTG until the A600 reached 0.3 and then the downregulation of phosphorylated Stat4, Stat5 and Stat6 are inhibited by 50 mg/ml proteasome inhibitors MG132 and lactacystin.</text>
+                    <arg n="0">proteasome inhibitors MG132 and lactacystin</arg>
+                    <arg n="2">the downregulation of phosphorylated Stat4, Stat5 and Stat6</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>The half-life of the AGT proteins was determined by growing cells at 37 C in LB broth supplemented with 50 mg/ml ampicillin, 50 mg/ml kanamycin and 0.2 mM IPTG until the A600 reached 0.3 and then the glnAp2 promoter activity were inhibited by 50 mg/ml the CRP-cAMP complex.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>The half-life of the AGT proteins was determined by growing cells at 37 C in LB broth supplemented with 50 mg/ml ampicillin, 50 mg/ml kanamycin and 0.2 mM IPTG until the A600 reached 0.3 and then treating them with 50 mg/ml the CRP-cAMP complex for inhibiting the glnAp2 promoter activity.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>Transient overexpression in COS cells verified that a heat-stable inhibitor of protein kinase has been produced by he human PKI cDNA, and CRP-cAMP may have inhibited sigma (54)-dependent glnAp2 with equal efficacy.</text>
+                    <arg n="0">CRP-cAMP</arg>
+                    <arg n="1">sigma (54)-dependent glnAp2</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>Transient overexpression in COS cells verified that a heat-stable inhibitor of protein kinase is produced by he human PKI cDNA, and sigma (54)-dependent glnAp2 will be inhibited by CRP-cAMP.</text>
+                    <arg n="0">CRP-cAMP</arg>
+                    <arg n="1">sigma (54)-dependent glnAp2</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>another protein binds to the phosphatase and inhibits The phosphatases function and localization.</text>
+                    <arg n="0">another protein</arg>
+                    <arg n="1">the phosphatase</arg>
+                    <arg n="2">The phosphatases function and localization</arg>
+                </example>
+                <example src="PERMUTATE" no="64">
+                    <text>both the C alpha and C beta isoforms of the PKA catalytic subunit has been strongly inhibited by protein extracts from the transfected COS cells, by 21-fold.</text>
+                    <arg n="0">protein extracts from the transfected COS cells</arg>
+                    <arg n="1">both the C alpha and C beta isoforms of the PKA catalytic subunit</arg>
+                </example>
+                <example src="PERMUTATE" no="65">
+                    <text>by coexpression of MAD-3 (NO) activated the soluble isoform of guanylate cyclase in platelets and has inhibited Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="66">
+                    <text>by coexpression of MAD-3 (NO) activated the soluble isoform of guanylate cyclase in platelets and inhibited Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="67">
+                    <text>by coexpression of MAD-3 (NO) that has inhibited Functional activation of an HIV reporter plasmid by p49/p65 activated the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="68">
+                    <text>by coexpression of MAD-3 is totally inhibiting Functional activation of an HIV reporter plasmid by p49/p65 that is concentration dependent and saturable, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="69">
+                    <text>chloramphenicol (NO) that has inhibited protein synthesis activated the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="70">
+                    <text>coexpression of MAD-3 (NO) activated the soluble isoform of guanylate cyclase in platelets and was observed to inhibit Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="71">
+                    <text>coexpression of MAD-3 (NO) inhibiting Functional activation of an HIV reporter plasmid by p49/p65 activated the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="72">
+                    <text>coexpression of MAD-3 (NO) that has inhibited Functional activation of an HIV reporter plasmid by p49/p65 activated the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="73">
+                    <text>coexpression of MAD-3 (NO) that has inhibited Functional activation of an HIV reporter plasmid by p49/p65 activated the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="74">
+                    <text>its function or localization will be inhibited if the phosphatase associates with another protein.</text>
+                    <arg n="0">another protein</arg>
+                    <arg n="1">the phosphatase</arg>
+                    <arg n="2">its function or localization</arg>
+                </example>
+                <example src="PERMUTATE" no="75">
+                    <text>late events of clathrin-coated vesicle formation may have been inhibited by the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I</arg>
+                    <arg n="2">late events of clathrin-coated vesicle formation</arg>
+                </example>
+                <example src="PERMUTATE" no="76">
+                    <text>platelet function in transiently transfected Jurkat T-leukemia cells has also been inhibited by Nitric oxide.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="PERMUTATE" no="77">
+                    <text>platelet function in transiently transfected Jurkat T-leukemia cells wil also be inhibited by Nitric oxide.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="PERMUTATE" no="78">
+                    <text>platelet function in transiently transfected Jurkat T-leukemia cells wil also be inhibited by Nitric oxide.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="PERMUTATE" no="79">
+                    <text>platelet function was inhibited by Nitric oxide.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="PERMUTATE" no="80">
+                    <text>protein extracts from the transfected COS cells can inhibit both the C alpha and C beta isoforms of the PKA catalytic subunit strongly, by 21-fold.</text>
+                    <arg n="0">protein extracts from the transfected COS cells</arg>
+                    <arg n="1">both the C alpha and C beta isoforms of the PKA catalytic subunit</arg>
+                </example>
+                <example src="PERMUTATE" no="81">
+                    <text>protein extracts from the transfected COS cells inhibits both the C alpha and C beta isoforms of the PKA catalytic subunit strongly, by 21-fold.</text>
+                    <arg n="0">protein extracts from the transfected COS cells</arg>
+                    <arg n="1">both the C alpha and C beta isoforms of the PKA catalytic subunit</arg>
+                </example>
+                <example src="PERMUTATE" no="82">
+                    <text>protein synthesis are able to be inhibited by chloramphenicol.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="83">
+                    <text>protein synthesis is able to be inhibited by chloramphenicol (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="84">
+                    <text>protein synthesis is inhibited by chloramphenicol.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="85">
+                    <text>protein synthesis is inhibited by chloramphenicol.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="86">
+                    <text>protein synthesis were inhibited by chloramphenicol (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="87">
+                    <text>the GadW are able to inhibit GadX-dependent activation.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="88">
+                    <text>the GadW have the ability to inhibit GadX-dependent activation.</text>
+                    <arg n="0">GadW</arg>
+                    <arg n="2">GadX-dependent activation</arg>
+                </example>
+                <example src="PERMUTATE" no="89">
+                    <text>the Nitric oxide can inhibit platelet function.</text>
+                    <arg n="0">Nitric oxide</arg>
+                    <arg n="2">platelet function</arg>
+                </example>
+                <example src="PERMUTATE" no="90">
+                    <text>the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I (NO) that has inhibited late events of clathrin-coated vesicle formation activated the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I</arg>
+                    <arg n="2">late events of clathrin-coated vesicle formation</arg>
+                </example>
+                <example src="PERMUTATE" no="91">
+                    <text>the by coexpression of MAD-3 are able to inhibit Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="92">
+                    <text>the by coexpression of MAD-3 have the ability to inhibit Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">by coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="93">
+                    <text>the cell-surface receptors of the immunoglobulin and C-type lectin superfamilies have the ability to inhibit NK-cell-mediated cytotoxicity.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="94">
+                    <text>the cell-surface receptors of the immunoglobulin and C-type lectin superfamilies inhibit NK-cell-mediated cytotoxicity.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="95">
+                    <text>the cell-surface receptors of the immunoglobulin and C-type lectin superfamilies inhibit NK-cell-mediated cytotoxicity.</text>
+                    <arg n="0">cell-surface receptors of the immunoglobulin and C-type lectin superfamilies</arg>
+                    <arg n="2">NK-cell-mediated cytotoxicity</arg>
+                </example>
+                <example src="PERMUTATE" no="96">
+                    <text>the chloramphenicol have inhibited protein synthesis.</text>
+                    <arg n="0">chloramphenicol</arg>
+                    <arg n="2">protein synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="97">
+                    <text>the coexpression of MAD-3 have the ability to inhibit Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="98">
+                    <text>the coexpression of MAD-3 inhibit Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="99">
+                    <text>the coexpression of MAD-3 may have inhibited Functional activation of an HIV reporter plasmid by p49/p65.</text>
+                    <arg n="0">coexpression of MAD-3</arg>
+                    <arg n="2">Functional activation of an HIV reporter plasmid by p49/p65</arg>
+                </example>
+                <example src="PERMUTATE" no="100">
+                    <text>the downregulation of phosphorylated Stat4, Stat5 and Stat6 has been inhibited by proteasome inhibitors MG132 and lactacystin (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">proteasome inhibitors MG132 and lactacystin</arg>
+                    <arg n="2">the downregulation of phosphorylated Stat4, Stat5 and Stat6</arg>
+                </example>
+                <example src="PERMUTATE" no="101">
+                    <text>the downregulation of phosphorylated Stat4, Stat5 and Stat6 is concentration dependent and saturable and is totally inhibited with proteasome inhibitors MG132 and lactacystin, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">proteasome inhibitors MG132 and lactacystin</arg>
+                    <arg n="2">the downregulation of phosphorylated Stat4, Stat5 and Stat6</arg>
+                </example>
+                <example src="PERMUTATE" no="102">
+                    <text>the glnAp2 promoter activity can be inhibited by the CRP-cAMP complex (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="103">
+                    <text>the glnAp2 promoter activity in transiently transfected Jurkat T-leukemia cells has also been inhibited by the CRP-cAMP complex.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="104">
+                    <text>the glnAp2 promoter activity is concentration dependent and saturable and is observed to be totally inhibited with the CRP-cAMP complex, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="105">
+                    <text>the glnAp2 promoter activity will be inhibited by the CRP-cAMP complex.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="106">
+                    <text>the the CRP-cAMP complex inhibit the glnAp2 promoter activity.</text>
+                    <arg n="0">the CRP-cAMP complex</arg>
+                    <arg n="2">the glnAp2 promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="107">
+                    <text>the the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I inhibited late events of clathrin-coated vesicle formation.</text>
+                    <arg n="0">the SH3C and SH3E domains of intersectin, as well as the SH3 domains from the endocytic proteins endophilin I, amphiphysin II and syndaphin I</arg>
+                    <arg n="2">late events of clathrin-coated vesicle formation</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while Dam methylation has inhibited binding of Lrp/PapI.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>GadX activates expression of gadA and gadBC at any pH, while The N-terminal SH3 domain will inhibit intermediate events leading to the formation of clathrin-coated pits.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Here, we have found that binding of Lrp/PapI has been inhibited by the Dam methylation, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Here, we have found that intermediate events leading to the formation of clathrin-coated pits is observed to be inhibited by the The N-terminal SH3 domain, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Here, we have found that intermediate events leading to the formation of clathrin-coated pits is observed to be inhibited by the The N-terminal SH3 domain, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Here, we have found that intermediate events leading to the formation of clathrin-coated pits will be inhibited by the The N-terminal SH3 domain, while the downreglation of phosphorylated Stat1, Stat2 and Stat3 was not sensitive to these inhibitors.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that Dam methylation has inhibited binding of Lrp/PapI.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that Dam methylation has the ability to inhibit binding of Lrp/PapI.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that Dam methylation has the ability to inhibit binding of Lrp/PapI.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that Dam methylation inhibits binding of Lrp/PapI.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that binding of Lrp/PapI is observed to be inhibited by Dam methylation.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>Here, we show that glnAp2 expression is affected by different carbon sources and that intermediate events leading to the formation of clathrin-coated pits is inhibited by The N-terminal SH3 domain.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>The half-life of the AGT proteins was determined by growing cells at 37 C in LB broth supplemented with 50 mg/ml ampicillin, 50 mg/ml kanamycin and 0.2 mM IPTG until the A600 reached 0.3 and then binding of Lrp/PapI were about to be inhibited by 50 mg/ml Dam methylation.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>binding of Lrp/PapI has been inhibited by Dam methylation.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>binding of Lrp/PapI in transiently transfected Jurkat T-leukemia cells has also been inhibited by Dam methylation.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>binding of Lrp/PapI is inhibited by Dam methylation (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>binding of Lrp/PapI was concentration dependent and saturable and was totally inhibited with Dam methylation, suggesting that divalent cations were required for interaction of IN1B with Vero cells.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>binding of Lrp/PapI will be inhibited by Dam methylation.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>intermediate events leading to the formation of clathrin-coated pits can be inhibited by The N-terminal SH3 domain (NO) which activates the soluble isoform of guanylate cyclase in platelets.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>intermediate events leading to the formation of clathrin-coated pits is inhibited by The N-terminal SH3 domain.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>the Dam methylation inhibited binding of Lrp/PapI.</text>
+                    <arg n="0">Dam methylation</arg>
+                    <arg n="2">binding of Lrp/PapI</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>the The N-terminal SH3 domain have inhibited intermediate events leading to the formation of clathrin-coated pits.</text>
+                    <arg n="0">The N-terminal SH3 domain</arg>
+                    <arg n="2">intermediate events leading to the formation of clathrin-coated pits</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

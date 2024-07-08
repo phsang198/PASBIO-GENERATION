@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="decrease">
+            <roleset id="decrease.01" name="make smaller&#x0A;" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent&#x0A;" />
+                    <role n="1" descr="thing decrease&#x0A;" />
+                    <role n="2" descr="location&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and promoting activity can be decreased by mutation in cardiomyocytes.</text>
+                    <arg n="0">mutation</arg>
+                    <arg n="1">promoting activity</arg>
+                    <arg n="2">cardiomyocytes</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Melatonin treatment is able to decrease lipodyl peroxide synthesis, and allows the recovery of both reduced glutathione and scavenger enzyme.</text>
+                    <arg n="0">Melatonin treatment</arg>
+                    <arg n="1">lipodyl peroxide synthesis</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>hair peroxide synthesis has been shown to be decreased by melatonin treatment, and allows both glutathione reduction and scavenger enzyme to recover.</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">hair peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>ArchA gene suppression causes a 2-fold increase in the expression ptsG, and excessive expression ArcA may have significantly decreased glucose intake.</text>
+                    <arg n="0">excessive expression ArcA</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>ArchA gene suppression causes a 2-fold increase in the expression ptsG, and loco marA can significantly decrease OmpF porin expression.</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>C51 microcin production has decreased or been absent in rpoS, crp and cyanol mutant cells.</text>
+                    <arg n="1">C51 microcin production</arg>
+                    <arg n="2">rpoS, crp and cyanol mutant cells</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Druption of narL is able to decrease digit induction of the nirB promoter, while not suppressing nitrate induction, suggesting that there may be a second nitrate-responsive factor.</text>
+                    <arg n="0">Druption of narL</arg>
+                    <arg n="1">digit induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Elevation of the arcA gene caused a 2-fold increase in ptsG expression, and it was observed that narcophagus aborted significantly decreased nitric nirB promoter induction.</text>
+                    <arg n="0">narcophagus aborted</arg>
+                    <arg n="1">nitric nirB promoter induction</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Elevation of the arcA gene causes a 2-fold increase in ptsG expression, and Treaty with melatonin has been shown to significantly decrease lipid peroxide synthesis.</text>
+                    <arg n="0">Treaty with melatonin</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Elevation of the arcA gene causes a 2-fold increase in ptsG expression, and it has been shown that nitrite induction from the nirB promoter was significantly decreased to narL drive.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">nitrite induction from the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Elevation of the arcA gene causes a 2-fold increase in ptsG expression, and nail blackout has been shown to significantly decrease nitrite induction of the nirB promoter.</text>
+                    <arg n="0">nail blackout</arg>
+                    <arg n="1">nitrite induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>In brain areas of patients with schizophrenia who are homologous to those of non-psychiatric subjects, nirB-promoter nitrite induction may have been significantly decreased (4050%; see Table 2).</text>
+                    <arg n="0">nirB-promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>In contrast, only low levels of truncated RAP1 peptides are detected (consisting of these expression levels may have been lower and protection may have been decreased), and neither RAP2 nor RAP3 are co-immunoprecipitations in RAP1 mutants.</text>
+                    <arg n="1">protection</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>In the brain areas of patients with schizophrenia homologous to those of non-psychiatric individuals, it is demonstrated that mRNA reLN content is significantly decreased (4050%; see Table 2).</text>
+                    <arg n="0">mRNA reLN content</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>In the brain areas of patients with schizophrenia who are homologous to those of non-psychiatric subjects, the contents of MRNA would have been significantly decreased (4050%; see Table 2).</text>
+                    <arg n="0">the contents of MRNA</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>In the cerebral areas of patients of schizophrenia homologous to non-psychiatric subjects, RELN mRNA content can decreased significantly (4050%; see Table 2).</text>
+                    <arg n="0">RELN mRNA content</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>In the cerebral areas of schizophrenia patients homologous to those of non-psychiatric subjects, the reLN mRNA content is significantly decreased (4050%; see Table 2).</text>
+                    <arg n="0">the reLN mRNA content</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>It is believed that narL-disruption decreases nitrite induction of the nirB promoter without suppressing nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">narL-disruption</arg>
+                    <arg n="1">nitrite induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>It is believed that narthida withdrawal decreases nirB promoter nitrite induction without suppressing nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">narthida withdrawal</arg>
+                    <arg n="1">nirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>It was believed that narL breakdown decreases nirB promoter nirB induction without suppressing nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">narL breakdown</arg>
+                    <arg n="1">nirB promoter nirB induction</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>It was believed that the lipid peroxide synthesis was decreased by melatonin treatment that did not suppress nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>It was believed that the or OmpF porin was decreased by Loco de MarA that did not suppress nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">Loco de MarA</arg>
+                    <arg n="1">or OmpF porin</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>Local binding sites of MEF2 have been reported in several cardiac promoters and MarA locus would decrease OmpF porin expression in multi-antibiotic resistant (Mar) mutants of Escherichia coli.</text>
+                    <arg n="0">MarA locus</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                    <arg n="2">multi-antibiotic resistant (Mar) mutants of Escherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>Loco de MarA could decrease nitric induction OmpF porin while not suppressing nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">Loco de MarA</arg>
+                    <arg n="1">OmpF porin</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>Loco de MarA has decreased opmF porin expression without suppressing nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">Loco de MarA</arg>
+                    <arg n="1">opmF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>Loco de MarA may decrease nitrite induction OmpF porin expression without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">Loco de MarA</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>MEF2 binding sites have been reported in several cardiac promoters and MarA locus decreased OmpF porin expression in Many antibiotic resistant mutants (Mar) of Eschherichia coli.</text>
+                    <arg n="0">MarA locus</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                    <arg n="2">Many antibiotic resistant mutants (Mar) of Eschherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>MEF2 binding sites have been reported in several cardiac promoters and MarA locus has been able to decrease pore expression in multi-resistant mutants (Mar) of Escherichia coli.</text>
+                    <arg n="0">MarA locus</arg>
+                    <arg n="1">pore expression</arg>
+                    <arg n="2">multi-resistant mutants (Mar) of Escherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>MEF2 binding sites have been reported in several cardiac promoters and expressive expression of OmpF pores has been considered to be decreased by amara place in multi-resistant mutants (Mar) of Escherichia coli.</text>
+                    <arg n="0">amara place</arg>
+                    <arg n="1">expressive expression of OmpF pores</arg>
+                    <arg n="2">multi-resistant mutants (Mar) of Escherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>MEF2 binding sites have been reported in several cardiac promoters and loco marA has been considered to decrease or OmpF porin expression in resisting with multiple antibiotics (Mar).</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">or OmpF porin expression</arg>
+                    <arg n="2">resisting with multiple antibiotics (Mar)</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>MEF2 binding sites have been reported in several cardiac promoters and promoting activity has been considered to be decreased by mutation in coriomyocytes.</text>
+                    <arg n="0">mutation</arg>
+                    <arg n="1">promoting activity</arg>
+                    <arg n="2">coriomyocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>MEF2 binding sites have been reported in several cardiac promoters and their mutation had the ability to decrease promotive activity in cardiomyocytes.</text>
+                    <arg n="0">their mutation</arg>
+                    <arg n="1">promotive activity</arg>
+                    <arg n="2">cardiomyocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>MEF2 binding sites have been reported in various cardiac promoters and Expressive porin expression OmpF has been considered to be decreased by marA place in multi-antibiotic resistant mutants (Mar) of Escherichia coli.</text>
+                    <arg n="0">marA place</arg>
+                    <arg n="1">Expressive porin expression OmpF</arg>
+                    <arg n="2">multi-antibiotic resistant mutants (Mar) of Escherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>MEF2 binding sites have been reported in various cardiac promoters and expression of porin OmpF is believed to be decreased in loco marA into resistant to multiple antibiotics (Mar).</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">expression of porin OmpF</arg>
+                    <arg n="2">resistant to multiple antibiotics (Mar)</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>MEF2 binding sites have been reported in various cardiac promoters and promoting activity is able to be decreased in mutation into cardiomyocytes.</text>
+                    <arg n="0">mutation</arg>
+                    <arg n="1">promoting activity</arg>
+                    <arg n="2">cardiomyocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>MEF2 binding sites have been reported in various cardiac promoters and promoting activity is believed to be decreased in mutation into cardiomiocytics.</text>
+                    <arg n="0">mutation</arg>
+                    <arg n="1">promoting activity</arg>
+                    <arg n="2">cardiomiocytics</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>MarA site decreases the expression of OmpF porin expression in A2 mutants (multiresistant antibiotics (Mar) of Escherichia coli.</text>
+                    <arg n="0">MarA site</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and Expressive porin expression OmpF is decreased by mara place in multi-antibiotic resistant mutants (Mar) of Escherichia coli.</text>
+                    <arg n="0">mara place</arg>
+                    <arg n="1">Expressive porin expression OmpF</arg>
+                    <arg n="2">multi-antibiotic resistant mutants (Mar) of Escherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and MarA locus is thought to decrease OmpF porin expression in multi-antibiotic resistant (Mar) mutants of Eschrichia coli.</text>
+                    <arg n="0">MarA locus</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                    <arg n="2">multi-antibiotic resistant (Mar) mutants of Eschrichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and OmpF porin expression can be decreased by MarA locus in Many antibiotic resistant mutants (Mar) of Eschherichia coli.</text>
+                    <arg n="0">MarA locus</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                    <arg n="2">Many antibiotic resistant mutants (Mar) of Eschherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and OmpF porin expression can be decreased by MarA locus in multi-antibiotic resistant (Mar) mutants of Eschrichia coli.</text>
+                    <arg n="0">MarA locus</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                    <arg n="2">multi-antibiotic resistant (Mar) mutants of Eschrichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and OmpF porin expression was able to be decreased by MarA locus in Many antibiotic resistant mutants (Mar) of Eschherichia coli.</text>
+                    <arg n="0">MarA locus</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                    <arg n="2">Many antibiotic resistant mutants (Mar) of Eschherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and its mutation will decrease promotion activity in cardiomiocytes.</text>
+                    <arg n="0">its mutation</arg>
+                    <arg n="1">promotion activity</arg>
+                    <arg n="2">cardiomiocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and melatonin treatment is supposed to decrease lipodyl peroxide synthesis (cardiomyocytes).</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">lipodyl peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and mutation is thought to decrease promoter activity in cardiomycocytes.</text>
+                    <arg n="0">mutation</arg>
+                    <arg n="1">promoter activity</arg>
+                    <arg n="2">cardiomycocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and promoting activity was able to be decreased by mutation in cardiomiocytics.</text>
+                    <arg n="0">mutation</arg>
+                    <arg n="1">promoting activity</arg>
+                    <arg n="2">cardiomiocytics</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>MeF2 binding sites have been reported in various cardiac promoters and OmpF porin expression will be decreased by MarA locus to multi-antibiotic resistant (Mar) mutants of Escherichia coli.</text>
+                    <arg n="0">MarA locus</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                    <arg n="2">multi-antibiotic resistant (Mar) mutants of Escherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>MeF2 binding sites have been reported in various cardiac promoters and OmpF porin expression would be decreased by mara place to multibiotic resistant mutants (Mar) of Escherichia coli.</text>
+                    <arg n="0">mara place</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                    <arg n="2">multibiotic resistant mutants (Mar) of Escherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>MeF2 binding sites have been reported in various cardiac promoters and promotive activity will be decreased by their mutation to cardiomyocytes.</text>
+                    <arg n="0">their mutation</arg>
+                    <arg n="1">promotive activity</arg>
+                    <arg n="2">cardiomyocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Melatonin treatment decreased lipodyl peroxide synthesis without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">Melatonin treatment</arg>
+                    <arg n="1">lipodyl peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>NirB promoter nitrite induction has been shown to be decreased by narc removal, and allows both glutathione reduction and scavenger enzyme to recover.</text>
+                    <arg n="0">narc removal</arg>
+                    <arg n="1">NirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>The OmpF porin expression would be decreased by the Loco de MarA that did not suppress nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">Loco de MarA</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>The OmpF porin would be decreased by the Loco de Abraça that did not suppress nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">Loco de Abraça</arg>
+                    <arg n="1">OmpF porin</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>The deletion of the arcA gene caused a 2-fold increase in the expression of ptsG, and it is observed that Tractally with melatonin significantly decreased lipid peroxide synthesis.</text>
+                    <arg n="0">Tractally with melatonin</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>The deletion of the arcA gene caused a 2-fold increase in the expression ptsG, and it was observed that narcophagus interruption significantly decreased nitric nirB promoter induction.</text>
+                    <arg n="0">narcophagus interruption</arg>
+                    <arg n="1">nitric nirB promoter induction</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>The deletion of the arcA gene caused a 2-fold increase in the expression ptsG, and it was observed that narcotic induction significantly decreased NirB propulsion nitrite induction.</text>
+                    <arg n="0">narcotic induction</arg>
+                    <arg n="1">NirB propulsion nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>The deletion of the arcA gene caused a 2-fold increase in the expression ptsG, and it was observed that treatment with melatonin significantly decreased lipid peroxide synthesis.</text>
+                    <arg n="0">treatment with melatonin</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in ptsG expression, and it is observed that excessive ArcA significantly decreases the consumption of glucose.</text>
+                    <arg n="0">excessive ArcA</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and Loco de MarA decreases significantly OmpF porin expression.</text>
+                    <arg n="0">Loco de MarA</arg>
+                    <arg n="1">OmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and excess ArcA could significantly decrease glucose intake.</text>
+                    <arg n="0">excess ArcA</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and excessive Ark expression decreases significantly glucose intake.</text>
+                    <arg n="0">excessive Ark expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and excessive arcA expression could significantly decrease glucose intake.</text>
+                    <arg n="0">excessive arcA expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and glucose intake may have been significantly decreased by overexpression of ArcA in a significant manner.</text>
+                    <arg n="0">overexpression of ArcA</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and it is thought that narL withdrawal significantly decreases nirB promoter nitrite induction.</text>
+                    <arg n="0">narL withdrawal</arg>
+                    <arg n="1">nirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and it was shown that glucose intake was significantly decreased for excessive ArcA expression significantly.</text>
+                    <arg n="0">excessive ArcA expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and it was shown that narL drive significantly decreases nitrite induction of the nirB promoter.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">nitrite induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="64">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and lipid peroxide synthesis can be significantly decreased by Treaty with melatonin significantly.</text>
+                    <arg n="0">Treaty with melatonin</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="65">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and narcotic induction would significantly decrease NirB propulsion nitrite induction.</text>
+                    <arg n="0">narcotic induction</arg>
+                    <arg n="1">NirB propulsion nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="66">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and nirB promoter nitrite induction could be significantly decreased by narthida withdrawal significantly.</text>
+                    <arg n="0">narthida withdrawal</arg>
+                    <arg n="1">nirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="67">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and nitrite induction from the nirB promoter may have been significantly decreased by narcotic withdrawal in a significant manner.</text>
+                    <arg n="0">narcotic withdrawal</arg>
+                    <arg n="1">nitrite induction from the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="68">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and nitrite induction of the nirB promoter could be significantly decreased by narL-disruption significantly.</text>
+                    <arg n="0">narL-disruption</arg>
+                    <arg n="1">nitrite induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="69">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and promoter activity is thought to have been significantly decreased by whether its mutation to do so significantly.</text>
+                    <arg n="0">whether its mutation</arg>
+                    <arg n="1">promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="70">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and the consumption of glucose may have been decreased significantly for excess of ArcA significantly.</text>
+                    <arg n="0">excess of ArcA</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="71">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and the excessive expression of Arca will significantly decrease the glucose consumption.</text>
+                    <arg n="0">the excessive expression of Arca</arg>
+                    <arg n="1">the glucose consumption</arg>
+                </example>
+                <example src="PERMUTATE" no="72">
+                    <text>The elevation of the arcA gene caused approximately a 2-fold increase in the expression ptsG, and nirB promoter nitric induction was significantly decreased by narL discontinuation will be significantly smaller.</text>
+                    <arg n="0">narL discontinuation</arg>
+                    <arg n="1">nirB promoter nitric induction</arg>
+                </example>
+                <example src="PERMUTATE" no="73">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and Druption of narL decreases significantly the digit induction of the nirB promoter.</text>
+                    <arg n="0">Druption of narL</arg>
+                    <arg n="1">digit induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="74">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and NirB promoter nitrite induction will have been significantly decreased in narL drive.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">NirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="75">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and arcA expression would significantly decrease the the consumption of glucose.</text>
+                    <arg n="0">arcA expression</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="76">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and glucose intake decreased significantly for excessive arcA expression will be significantly smaller.</text>
+                    <arg n="0">excessive arcA expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="77">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and melatonin treatment decreases significantly the lipid peroxide synthesis.</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="78">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and melatonin treatment was able to significantly decrease hair peroxide synthesis.</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">hair peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="79">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and narL drive decreases significantly the nirB promoter nitrite induction.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">nirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="80">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and narcotic withdrawal can significantly decrease nitrite induction from the nirB promoter.</text>
+                    <arg n="0">narcotic withdrawal</arg>
+                    <arg n="1">nitrite induction from the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="81">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and narcotic withdrawal would significantly decrease the nitrite induction from the nirB promoter.</text>
+                    <arg n="0">narcotic withdrawal</arg>
+                    <arg n="1">nitrite induction from the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="82">
+                    <text>The elevation of the arcA gene causes an increase of about 2-fold in the expression ptsG, and nirB promoter nitrite induction may have been significantly decreased in rupture of narL will be significantly smaller.</text>
+                    <arg n="0">rupture of narL</arg>
+                    <arg n="1">nirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="83">
+                    <text>The expression of porin OmpF may have been decreased by loco marA which does not suppress nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">expression of porin OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="84">
+                    <text>The melatonin treatment showed that it decreases the hair peroxide synthesis without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">hair peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="85">
+                    <text>The narL drive is thought to decrease the nitrite induction from the nirB promoter without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">nitrite induction from the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="86">
+                    <text>The narL withdrawal showed that it decreases the nirB promoter nitrite induction without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">narL withdrawal</arg>
+                    <arg n="1">nirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="87">
+                    <text>The nitric induction promoter of nirB was decreased by narcophagus interruption, which did not suppress nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">narcophagus interruption</arg>
+                    <arg n="1">nitric induction promoter of nirB</arg>
+                </example>
+                <example src="PERMUTATE" no="88">
+                    <text>The nitrite induction from the nirB promoter will be decreased by narL drive, which does not suppress nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">nitrite induction from the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="89">
+                    <text>The nitrite induction of the nirB promoter would be decreased by narL drive, which did not suppress nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">nitrite induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="90">
+                    <text>The or OmpF porin expression was decreased in the MarA locus, which did not suppress nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">MarA locus</arg>
+                    <arg n="1">or OmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="91">
+                    <text>The porin expression OmpF has been decreased by loco marA which does not suppress nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">porin expression OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="92">
+                    <text>The promoter activity has been decreased by whether its mutation which has not been suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">whether its mutation</arg>
+                    <arg n="1">promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="93">
+                    <text>The removal of the arcA gene causes a 2-fold increase in the expression of ptsG, and nitrite induction of nickel nitrite promoters is thought to decreased significantly in natron activation will be significant.</text>
+                    <arg n="0">natron activation</arg>
+                    <arg n="1">nitrite induction of nickel nitrite promoters</arg>
+                </example>
+                <example src="PERMUTATE" no="94">
+                    <text>The removal of the arcA gene causes a 2-fold increase in the expression ptsG, and NirB promoter nitrite induction can be significantly decreased for narL drive will be significantly smaller.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">NirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="95">
+                    <text>The removal of the arcA gene causes a 2-fold increase in the expression ptsG, and glucose consumption can be significantly decreased for arcA expression.</text>
+                    <arg n="0">arcA expression</arg>
+                    <arg n="1">glucose consumption</arg>
+                </example>
+                <example src="PERMUTATE" no="96">
+                    <text>The removal of the arcA gene causes a 2-fold increase in the expression ptsG, and nitric nirB promoter induction may have been significantly decreased in narcophagus interruption will be significantly smaller.</text>
+                    <arg n="0">narcophagus interruption</arg>
+                    <arg n="1">nitric nirB promoter induction</arg>
+                </example>
+                <example src="PERMUTATE" no="97">
+                    <text>The removal of the arcA gene causes a 2-fold increase in the expression ptsG, and opmpF porin expression can be significantly decreased for loco marA will be significantly smaller.</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">opmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="98">
+                    <text>The removal of the arcA gene causes a 2-fold increase in the expression ptsG, and perhaps OmpF porin expression can be significantly decreased for loco marA.</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">perhaps OmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="99">
+                    <text>The suppression of the arcA gene caused a 2-fold increase in the expression ptsG, and nitrite induction of the nirB promoter was significantly decreased for nail blackout in a significant manner.</text>
+                    <arg n="0">nail blackout</arg>
+                    <arg n="1">nitrite induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="100">
+                    <text>The suppression of the arcA gene caused a 2-fold increase in the expression ptsG, and opmpF porin expression was significantly decreased for loco marA in a significant manner.</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">opmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="101">
+                    <text>The the consumption of glucose could be decreased by the excessive ArcA that was not suppressing nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">excessive ArcA</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="102">
+                    <text>The whether its mutation showed that it decreases the promoter activity without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">whether its mutation</arg>
+                    <arg n="1">promoter activity</arg>
+                </example>
+                <example src="PERMUTATE" no="103">
+                    <text>digit induction of the nirB promoter is shown to be decreased by Druption of narL that does not suppress nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">Druption of narL</arg>
+                    <arg n="1">digit induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="104">
+                    <text>excess of ArcA has decreased the consumption of glucose without suppressing nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">excess of ArcA</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="105">
+                    <text>excess of ArcA has the ability to decrease the expression of the consumption of glucose in A2 mutants (Resistance to Multi-antibiotics (Mar) of Escherichia coli.</text>
+                    <arg n="0">excess of ArcA</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="106">
+                    <text>excessive ArcA expression may have decreased glucose intake in A2 mutants (resistant to multiple antibiotics (Mar) of Escherichia coli.</text>
+                    <arg n="0">excessive ArcA expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="107">
+                    <text>excessive arcA expression was able to decrease the the consumption of glucose in A2 mutants (multi-antibiotics (Mar) of Escherichia coli.</text>
+                    <arg n="0">excessive arcA expression</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="108">
+                    <text>excessive expression of arcA will decrease glucose intake, and allow for the recovery of both reduced glutathione and scavenger activity.</text>
+                    <arg n="0">excessive expression of arcA</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="109">
+                    <text>glucose intake can be decreased by excessive arcA expression, which does not suppress nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">excessive arcA expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="110">
+                    <text>glucose intake has been shown to be decreased by excessive arc expression, and allows both reduced glutathione and scavenger enzyme to recover.</text>
+                    <arg n="0">excessive arc expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="111">
+                    <text>hair peroxide synthesis has been shown to be decreased by melatonin treatment, and allows both reduced glutathione and scavenger enzyme to recover.</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">hair peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="112">
+                    <text>lipodyl peroxide synthesis may have been decreased by melatonin treatment that is not suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">lipodyl peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="113">
+                    <text>loco marA has been shown to decrease the expression of perhaps OmpF porin expression in A2 mutants (multiresistant antibiotic (Mar) of Escherichia coli.</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">perhaps OmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="114">
+                    <text>loco marA would have decreased the porin expression OmpF in A2 mutants (multi-resistant antibiotics (Mar) of Escherichia coli).</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">porin expression OmpF</arg>
+                </example>
+                <example src="PERMUTATE" no="115">
+                    <text>mRNA reLN content can decrease the synthesis of lipodyl peroxide, and allow for the recovery of reduced glutathione and scavenger enzyme.</text>
+                    <arg n="0">mRNA reLN content</arg>
+                </example>
+                <example src="PERMUTATE" no="116">
+                    <text>mara place decreased Expressive porin expression OmpF in multi-antibiotic resistant mutants (Mar) of Escherichia coli.</text>
+                    <arg n="0">mara place</arg>
+                    <arg n="1">Expressive porin expression OmpF</arg>
+                    <arg n="2">multi-antibiotic resistant mutants (Mar) of Escherichia coli</arg>
+                </example>
+                <example src="PERMUTATE" no="117">
+                    <text>melatonin treatment was able to decrease the lipody peroxide synthesis in A2 mutants (multi-antibiotics (Mar) of Escherichia coli.</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">lipody peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="118">
+                    <text>melatonin treatment will decrease lipody peroxide synthesis, while not suppressing nitrate induction, suggesting that there may be a second nitrate-responsive factor.</text>
+                    <arg n="0">melatonin treatment</arg>
+                    <arg n="1">lipody peroxide synthesis</arg>
+                </example>
+                <example src="PERMUTATE" no="119">
+                    <text>mutation decreased promotive activity in cardiomyocytes.</text>
+                    <arg n="0">mutation</arg>
+                    <arg n="1">promotive activity</arg>
+                    <arg n="2">cardiomyocytes</arg>
+                </example>
+                <example src="PERMUTATE" no="120">
+                    <text>narL breakdown decreased nirB promoter nirB induction without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">narL breakdown</arg>
+                    <arg n="1">nirB promoter nirB induction</arg>
+                </example>
+                <example src="PERMUTATE" no="121">
+                    <text>narL drive was able to decrease the NirB promoter nitrite induction in A2 mutants (multi-antibiotics (Mar) of Escherichia coli.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">NirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="122">
+                    <text>narL drive was shown to decrease the nirB promoter nitrite induction in A2 mutants (multi-antibiotics (Mar) of Escherichia coli.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">nirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="123">
+                    <text>narL-disruption is believed to decrease nitrite induction from the nirB promoter in A2 (multi-resistant mutants (Mar) of Escherichia coli.</text>
+                    <arg n="0">narL-disruption</arg>
+                    <arg n="1">nitrite induction from the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="124">
+                    <text>narL-disruption may have decreased nitrite induction from the nirB promoter without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">narL-disruption</arg>
+                    <arg n="1">nitrite induction from the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="125">
+                    <text>narcotic withdrawal is shown to decrease nitrite induction from the nirB promoter without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">narcotic withdrawal</arg>
+                    <arg n="1">nitrite induction from the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="126">
+                    <text>narthida withdrawal would decrease nirB promoter nitrite induction, and would allow for both reduced glutathione and scaveners activity to recover.</text>
+                    <arg n="0">narthida withdrawal</arg>
+                    <arg n="1">nirB promoter nitrite induction</arg>
+                </example>
+                <example src="PERMUTATE" no="127">
+                    <text>nitric nirB promoter induction is decreased by narcophagus interruption that does not suppress nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">narcophagus interruption</arg>
+                    <arg n="1">nitric nirB promoter induction</arg>
+                </example>
+                <example src="PERMUTATE" no="128">
+                    <text>nitric nirB promoter induction may have been decreased by narcophagus interruption that is not suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">narcophagus interruption</arg>
+                    <arg n="1">nitric nirB promoter induction</arg>
+                </example>
+                <example src="PERMUTATE" no="129">
+                    <text>nitrite induction of the nirB promoter was shown to decreased for narL drive that it did not suppress nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">narL drive</arg>
+                    <arg n="1">nitrite induction of the nirB promoter</arg>
+                </example>
+                <example src="PERMUTATE" no="130">
+                    <text>over expression of ArcA is thought to decrease glucose intake, and allow for the recovery of both reduced glutathione and scavenger activity.</text>
+                    <arg n="0">over expression of ArcA</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="PERMUTATE" no="131">
+                    <text>perhaps OmpF porin expression is thought to be decreased in loco marA, which is not suppressed by nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">perhaps OmpF porin expression</arg>
+                </example>
+                <example src="PERMUTATE" no="132">
+                    <text>porin OmpF expression in multants of Escherichia coli resistant to multiple antibiotics (Mar) was thought to be decreased by loco marA.</text>
+                    <arg n="0">loco marA</arg>
+                    <arg n="1">porin OmpF expression</arg>
+                    <arg n="2">multants of Escherichia coli resistant to multiple antibiotics (Mar)</arg>
+                </example>
+                <example src="PERMUTATE" no="133">
+                    <text>production of microcins C51 will decrease or be absent in the A2 mutant cells (rpoS, crp and cya).</text>
+                    <arg n="1">production of microcins C51</arg>
+                </example>
+                <example src="PERMUTATE" no="134">
+                    <text>the consumption of glucose was considered to be decreased by excess of ArcA, and allowed the recovery of both reduced glutathione and scavenger enzyme.</text>
+                    <arg n="0">excess of ArcA</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="135">
+                    <text>the consumption of glucose was shown to decreased for excessive arcA expression that it did not suppress nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">excessive arcA expression</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="136">
+                    <text>the excessive expression of Arca decreased the glucose consumption without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">the excessive expression of Arca</arg>
+                    <arg n="1">the glucose consumption</arg>
+                </example>
+                <example src="PERMUTATE" no="137">
+                    <text>the expression of ArcAs overexpression can decrease the consumption of glucose, and allows for the recovery of both reduced glutathione and scavenger activity.</text>
+                    <arg n="0">the expression of ArcAs overexpression</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="138">
+                    <text>the expression of ArcAs overexpression was able to decrease the consumption of glucose without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">the expression of ArcAs overexpression</arg>
+                    <arg n="1">the consumption of glucose</arg>
+                </example>
+                <example src="PERMUTATE" no="139">
+                    <text>the production of C51 microcin is able to decrease or be absent in mutant cells rpoS, crp, and cya mutant cells.</text>
+                    <arg n="1">the production of C51 microcin</arg>
+                    <arg n="2">rpoS, crp, and cya mutant cells</arg>
+                </example>
+                <example src="PERMUTATE" no="140">
+                    <text>treatment with melatonin will decreased lipid peroxide synthesis without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">treatment with melatonin</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Elevation of the arcA gene caused a 2-fold increase in ptsG expression, and it was observed that Tractament with melatonin significantly decreased lipid peroxide synthesis.</text>
+                    <arg n="0">Tractament with melatonin</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>In contrast, only low levels of truncated RAP1 peptides are detected (consisting of these expression levels may have been lower and clench cell secretor protein levels may have been decreased), and neither RAP2 nor RAP3 are co-immunoprecipitations in RAP1 mutants.</text>
+                    <arg n="1">clench cell secretor protein levels</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>In the brain areas of patients with schizophrenia homologous to those of non-psychiatric individuals, it is demonstrated that Tractament with melatonin is significantly decreased (4050%; see Table 2).</text>
+                    <arg n="0">Tractament with melatonin</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>In the brain areas of patients with schizophrenia homologous to those of non-psychiatric subjects, Tractament with melatonin may decreased significantly (4050%; see Table 2).</text>
+                    <arg n="0">Tractament with melatonin</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>In the brain areas of patients with schizophrenia homologous to those of non-psychiatric subjects, over Arca expression is significantly decreased (4050%; see Table 2).</text>
+                    <arg n="0">over Arca expression</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Local binding sites of MEF2 have been reported in several cardiac promoters and sea would decrease Porina OmpF expression in multi-antibiotic resistant Escherichia coli (Mar) mutants can be decreased by A0 (sea).</text>
+                    <arg n="0">sea</arg>
+                    <arg n="1">Porina OmpF expression</arg>
+                    <arg n="2">multi-antibiotic resistant Escherichia coli (Mar) mutants can be decreased by A0 (sea)</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>MEF2 binding sites have been reported in several cardiac promoters and Porin OmpF expression can be decreased in sea in multi-antibiotic resistant Escherichia coli (Mar) mutants are considered to be decreased by A0 (sea).</text>
+                    <arg n="0">sea</arg>
+                    <arg n="1">Porin OmpF expression</arg>
+                    <arg n="2">multi-antibiotic resistant Escherichia coli (Mar) mutants are considered to be decreased by A0 (sea)</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>MEF2 binding sites have been reported in several cardiac promoters and marA locus will decrease porin OmpF expression in multi-antibiotic resistant Escherichia coli (Mar) mutants is considered to be decreased by A0 (marA locus).</text>
+                    <arg n="0">marA locus</arg>
+                    <arg n="1">porin OmpF expression</arg>
+                    <arg n="2">multi-antibiotic resistant Escherichia coli (Mar) mutants is considered to be decreased by A0 (marA locus)</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>MEF2 binding sites have been reported in several cardiac promoters and sea has been considered to decrease Porin OmpF expression in multi-antibiotic resistant Escherichia coli (Mar) mutants are considered to be decreased by A0 (sea).</text>
+                    <arg n="0">sea</arg>
+                    <arg n="1">Porin OmpF expression</arg>
+                    <arg n="2">multi-antibiotic resistant Escherichia coli (Mar) mutants are considered to be decreased by A0 (sea)</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>MeF2 binding sites have been reported in several cardiac promoters and porin OmpF expression will be decreased by marA locus in multi-antibiotic-resistant Escherichia coli (Mar) mutants was able to be decreased in A0 (marA locus).</text>
+                    <arg n="0">marA locus</arg>
+                    <arg n="1">porin OmpF expression</arg>
+                    <arg n="2">multi-antibiotic-resistant Escherichia coli (Mar) mutants was able to be decreased in A0 (marA locus)</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>MeF2 binding sites have been reported in various cardiac promoters and marA locus has been considered to decrease porin OmpF expression in multi-antibiotic resistant Escherichia coli (Mar) mutants is decreased in A0 (marA locus).</text>
+                    <arg n="0">marA locus</arg>
+                    <arg n="1">porin OmpF expression</arg>
+                    <arg n="2">multi-antibiotic resistant Escherichia coli (Mar) mutants is decreased in A0 (marA locus)</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>The deletion of the arcA gene caused a 2-fold increase in the expression of ptsG, and it is observed that over expression of Arca significantly decreased glucose intake.</text>
+                    <arg n="0">over expression of Arca</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>The deletion of the arcA gene caused a 2-fold increase in the expression ptsG, and it is observed that marA locus significantly decreased porin OmpF expression.</text>
+                    <arg n="0">marA locus</arg>
+                    <arg n="1">porin OmpF expression</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in ptsG expression, and the glucose consumption is able to be significantly decreased to the excessive expression of arcA to make it significant.</text>
+                    <arg n="0">the excessive expression of arcA</arg>
+                    <arg n="1">the glucose consumption</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression of ptsG, and Porina OmpF expression is significantly decreased to sea.</text>
+                    <arg n="0">sea</arg>
+                    <arg n="1">Porina OmpF expression</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>The deletion of the arcA gene causes a 2-fold increase in the expression ptsG, and over ArcA expression decreases significantly glucose intake.</text>
+                    <arg n="0">over ArcA expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>The elevation of the arcA gene caused approximately a 2-fold increase in the expression ptsG, and over ArcA expression will significantly decreased glucose intake.</text>
+                    <arg n="0">over ArcA expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>The elevation of the arcA gene causes a 2-fold increase in the expression ptsG, and sea can significantly decrease Porin OmpF expression.</text>
+                    <arg n="0">sea</arg>
+                    <arg n="1">Porin OmpF expression</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>The glucose intake could be decreased by the over expression of Arca that was not suppressing nitrate induction, suggesting that there could be a second nitrate response factor.</text>
+                    <arg n="0">over expression of Arca</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>The glucose intake will be decreased by the over expression of Arca that does not suppress nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">over expression of Arca</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>The marA locus will have decreased the porin expression OmpF without suppressing nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">marA locus</arg>
+                    <arg n="1">porin expression OmpF</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>The suppression of the arcA gene caused a 2-fold increase in the expression ptsG, and lipid peroxide synthesis was significantly decreased for Tractament with melatonin in a significant manner.</text>
+                    <arg n="0">Tractament with melatonin</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>Tractally with melatonin has been shown to decrease the expression of lipody peroxide synthesis in A2 mutants (multiresistant antibiotic (Mar) of Escherichia coli.</text>
+                    <arg n="0">Tractally with melatonin</arg>
+                    <arg n="1">lipody peroxide synthesis</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>Tractally with melatonin was able to decrease lipody peroxide synthesis, and allowed the recovery of both reduced glutathione and scavenger enzyme.</text>
+                    <arg n="0">Tractally with melatonin</arg>
+                    <arg n="1">lipody peroxide synthesis</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>clac secretor protein levels decreased or was absent in the A2 mutant cells (rpoS, crp and cya).</text>
+                    <arg n="1">clac secretor protein levels</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>glucose intake can be decreased by over ArcA expression that does not suppress nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">over ArcA expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>glucose intake can be decreased by over ArcA expression which does not suppress nitrate induction, suggesting that there may be a second nitrate response factor.</text>
+                    <arg n="0">over ArcA expression</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>marA locus has the ability to decrease the porin OmpF expression to multi-antibiotic resistant Escherichia coli (Mar) mutants will be decreased in A0 (marA locus).</text>
+                    <arg n="0">marA locus</arg>
+                    <arg n="1">porin OmpF expression</arg>
+                    <arg n="2">multi-antibiotic resistant Escherichia coli (Mar) mutants will be decreased in A0 (marA locus)</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>over expression of Arca can decrease glucose intake, and allows for the recovery of both reduced glutathione and scavenger enzymes.</text>
+                    <arg n="0">over expression of Arca</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>over expression of Arca may have decreased glucose intake in A2 mutants (resistant to multiple antibiotics (Mar) of Escherichia coli.</text>
+                    <arg n="0">over expression of Arca</arg>
+                    <arg n="1">glucose intake</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>sea is thought to decrease Porin OmpF expression and allows both reduced glutathione and scavenger activity to recover.</text>
+                    <arg n="0">sea</arg>
+                    <arg n="1">Porin OmpF expression</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

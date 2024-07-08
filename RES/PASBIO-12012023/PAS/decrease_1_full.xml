@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="decrease">
+            <roleset id="decrease.01" name="make smaller&#x0A;" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent&#x0A;" />
+                    <role n="1" descr="thing decreased&#x0A;" />
+                    <role n="2" descr="location&#x0A;" />
+                </roles>
+                <example src="EMBO" no="0">
+                    <text>If this distance of 30 amino acids is not maintained, as in human AspRS chimera#1, or in yeast LysTS chimera#1 and yeast AsnRS chimera#2 (Figure 5B), the binding to tRNA is strongly affected and the protection is decreased, or even abolished in the case of human AspRS chimera#1 (Table).</text>
+                    <arg n="1">the protection</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>In contrast, only low levels of the truncated RAP1 peptides were detected (consistent with lower expression levels and decreased methionine content), and neither RAP2 nor RAP3 was co-immunoprecipitated in the RAP1 mutants.</text>
+                    <arg n="1">methionine content</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>levels of Clara cell have been reported in several cardiac promoters and their mutation was shown to decrease promoter activity in cardiomyocytes.</text>
+                    <arg n="0">their mutation</arg>
+                    <arg n="1">promoter activity</arg>
+                    <arg n="2">cardiomyocytes</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>It was found that NLF from smokers contained decreased levels of Clara cell secretory protein, and increased proportions of a truncated variant of lipocortin-1, threee acidic forms of alpha (1)-antitrypsin, and one phosphorylated form of cystatin S.Syntrophin binds to an alternatively spliced exon of dystrophin.</text>
+                    <arg n="1">levels of Clara cell secretory protein</arg>
+                </example>
+                <example src="MEDLINE" no="2">
+                    <text>Treatment with melatonin decreased lipid peroxide synthesis, and permitted a recovery of both reduced glutathione and scavenger enzyme activity.</text>
+                    <arg n="0">Treatment with melatonin</arg>
+                    <arg n="1">lipid peroxide synthesis</arg>
+                </example>
+                <example src="PNAS" no="1">
+                    <text>In brain areas of schizophrenia patients homologous to those of the nonpsychiatric subjects, the RELN mRNA content was significantly decreased (4050%; see Table 2).</text>
+                    <arg n="1">the RELN mRNA content</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

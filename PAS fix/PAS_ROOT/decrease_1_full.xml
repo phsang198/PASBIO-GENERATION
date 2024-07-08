@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="decrease">
+<roleset id="decrease.01" name="make smaller
+" wordnet="2">
+<roles>
+  <role n="0" descr="agent
+"/>
+  <role n="1" descr="thing decreased
+"/>
+  <role n="2" descr="location
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Treatment with melatonin decreased lipid peroxide synthesis, and permitted a recovery of both reduced glutathione and scavenger enzyme activity.
+
+</text>
+       <arg n="0">Treatment with melatonin
+</arg>
+       <arg n="1">lipid peroxide synthesis 
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	Treatment	treatment	subj:&gt;4	@SUBJ %NH N NOM SG
+2	with	with	mod:&gt;1	@&lt;NOM %N&lt; PREP
+3	melatonin	melatonin	pcomp:&gt;2	@&lt;P %NH N NOM SG
+4	decreased	decrease	main:&gt;0	@+FMAINV %VA V PAST
+5	lipid	lipid	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	peroxide	peroxide	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	synthesis	synthesis	obj:&gt;4	@OBJ %NH N NOM SG
+8	,	,
+9	and	and	cc:&gt;4	@CC %CC CC
+10	permitted	permit	cc:&gt;4	@+FMAINV %VA V PAST
+11	a	a	det:&gt;12	@DN&gt; %&gt;N DET SG
+12	recovery	recovery	obj:&gt;10	@OBJ %NH N NOM SG
+13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+14	both	both	det:&gt;16	@DN&gt; %&gt;N DET PL
+15	reduced	reduced	attr:&gt;16	@A&gt; %&gt;N A ABS
+16	glutathione	glutathione	pcomp:&gt;13	@&lt;P %NH N NOM SG
+17	and	and	cc:&gt;16	@CC %CC CC
+18	scavenger	scavenger	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	enzyme	enzyme	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+20	activity	activity	cc:&gt;16	@&lt;P %NH N NOM SG
+21	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="*2">
+<text>
+It was found that NLF from smokers contained decreased levels of Clara cell secretory protein, and increased proportions of a truncated variant of lipocortin-1, threee acidic forms of alpha (1)-antitrypsin, and one phosphorylated form of cystatin S.Syntrophin binds to an alternatively spliced exon of dystrophin.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">levels of Clara cell secretory protein
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	It	it	subj:&gt;2	@SUBJ %NH PRON NOM SG3
+2	was	be	v-ch:&gt;3	@+FAUXV %AUX V PAST
+3	found	find		@-FMAINV %VP EN
+4	that	that		@CS %CS CS
+5	NLF	nlf		@SUBJ %NH ABBR NOM SG	@OBJ %NH ABBR NOM SG	@PCOMPL-S %NH ABBR NOM SG	@PCOMPL-O %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+6	from	from		@&lt;NOM %N&lt; PREP
+7	smokers	smoker	pcomp:&gt;6	@&lt;P %NH N NOM PL
+8	contained	contain	mod:&gt;7	@-FMAINV %VP EN
+9	decreased	decrease		@+FMAINV %VA V PAST
+10	levels	level	obj:&gt;9	@OBJ %NH N NOM PL
+11	of	of	mod:&gt;10	@&lt;NOM-OF %N&lt; PREP
+12	Clara	clara	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+13	cell	cell	pcomp:&gt;11	@&lt;P %NH N NOM SG
+14	secretory	secretory	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	protein	protein		@SUBJ %NH N NOM SG
+16	,	,
+17	and	and	cc:&gt;9	@CC %CC CC
+18	increased	increase	cc:&gt;9	@+FMAINV %VA V PAST
+19	proportions	proportion	obj:&gt;18	@OBJ %NH N NOM PL
+20	of	of	mod:&gt;19	@&lt;NOM-OF %N&lt; PREP
+21	a	a	det:&gt;23	@DN&gt; %&gt;N DET SG
+22	truncated	truncated	attr:&gt;23	@A&gt; %&gt;N A ABS
+23	variant	variant	pcomp:&gt;20	@&lt;P %NH N NOM SG
+24	of	of	mod:&gt;23	@&lt;NOM-OF %N&lt; PREP
+25	lipocortin-1	lipocortin-1	cc:&gt;27	@QN&gt; %&gt;N &lt;?&gt; NUM CARD
+26	,	,
+27	three	three	qn:&gt;29	@QN&gt; %&gt;N NUM CARD
+28	acidic	acidic	attr:&gt;29	@A&gt; %&gt;N A ABS
+29	forms	form	pcomp:&gt;24	@&lt;P %NH N NOM PL
+30	of	of	mod:&gt;29	@&lt;NOM-OF %N&lt; PREP
+31	alpha	alpha	pcomp:&gt;30	@&lt;P %NH N NOM SG
+32	(	(
+33	1	1	main:&gt;32	@NH %NH NUM CARD
+34	)	)
+35	-	-
+36	antitrypsin	antitrypsin		@&lt;P %NH &lt;?&gt; A ABS
+37	,	,
+38	and	and	cc:&gt;36	@CC %CC CC
+39	one	one	cc:&gt;36	@&lt;P %NH NUM CARD	@&lt;P %NH PRON NOM SG
+40	phosphorylated	phosphorylate		@+FMAINV %VA V PAST
+41	form	form	obj:&gt;40	@OBJ %NH N NOM SG
+42	of	of	mod:&gt;41	@&lt;NOM-OF %N&lt; PREP
+43	cystatin	cystatin	attr:&gt;44	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+44	S.	s.	attr:&gt;45	@A&gt; %&gt;N N NOM SG
+45	Syntrophin	syntrophin		@SUBJ %NH &lt;?&gt; N NOM SG	@A&gt; %&gt;N &lt;?&gt; N NOM SG	@&lt;P %NH &lt;?&gt; N NOM SG
+46	binds	bind		@SUBJ %NH N NOM PL	@&lt;P %NH N NOM PL	@+FMAINV %VA V PRES SG3
+47	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+48	an	an	det:&gt;51	@DN&gt; %&gt;N DET SG
+49	alternatively	alternatively	ad:&gt;50	@AD-A&gt; %E&gt; ADV
+50	spliced	spliced	attr:&gt;51	@A&gt; %&gt;N A ABS
+51	exon	exon	pcomp:&gt;47	@&lt;P %NH N NOM SG
+52	of	of	mod:&gt;51	@&lt;NOM-OF %N&lt; PREP
+53	dystrophin	dystrophin	pcomp:&gt;52	@&lt;P %NH N NOM SG
+54	.     .
+</fdg>
+</example>
+<example src="EMBO" no="*1">
+<text>
+  levels of Clara cell have been reported in several cardiac promoters and their mutation was shown to decrease promoter activity in cardiomyocytes.
+
+</text>
+       <arg n="0">their mutation
+</arg>
+       <arg n="1">promoter activity
+</arg>
+       <arg n="2">[in] cardiomyocytes
+</arg>
+<fdg>
+1	MEF2-binding	mef2-binding	attr:&gt;2	@A&gt; %&gt;N &lt;?&gt; A ABS
+2	sites	site	subj:&gt;3	@SUBJ %NH N NOM PL
+3	have	have	v-ch:&gt;4	@+FAUXV %AUX V PRES
+4	been	be	v-ch:&gt;5	@-FAUXV %AUX EN
+5	reported	report	main:&gt;0	@-FMAINV %VP EN
+6	in	in	loc:&gt;5	@ADVL %EH PREP
+7	several	several	det:&gt;9	@DN&gt; %&gt;N DET PL
+8	cardiac	cardiac	attr:&gt;9	@A&gt; %&gt;N A ABS
+9	promoters	promoter	pcomp:&gt;6	@&lt;P %NH N NOM PL
+10	and	and	cc:&gt;5	@CC %CC CC
+11	their	they	attr:&gt;12	@A&gt; %&gt;N PRON PERS GEN PL3
+12	mutation	mutation	subj:&gt;13	@SUBJ %NH N NOM SG
+13	was	be	v-ch:&gt;14	@+FAUXV %AUX V PAST
+14	shown	show	cc:&gt;5	@-FMAINV %VP EN
+15	to	to	pm:&gt;16	@INFMARK&gt; %AUX INFMARK&gt;
+16	decrease	decrease	cnt:&gt;14	@-FMAINV %VA V INF
+17	promoter	promoter	attr:&gt;18	@A&gt; %&gt;N N NOM SG
+18	activity	activity	obj:&gt;16	@OBJ %NH N NOM SG
+19	in	in	loc:&gt;16	@ADVL %EH PREP
+&lt;NAME_cl="cell_type"&gt;
+20	cardiomyocytes	cardiomyocyt*	pcomp:&gt;19	@&lt;P %NH &lt;?&gt; N NOM
+21	.     .
+</fdg>
+</example>
+<example src="EMBO" no="*2">
+<text>
+If this distance of 30 amino acids is not maintained, as in human AspRS chimera#1, or in yeast LysTS chimera#1 and yeast AsnRS chimera#2 (Figure 5B), the binding to tRNA is strongly affected and the protection is decreased, or even abolished in the case of human AspRS chimera#1 (Table).
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">the protection
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	If	if	pm:&gt;10	@CS %CS CS
+2	this	this	det:&gt;3	@DN&gt; %&gt;N DET DEM SG
+3	distance	distance	subj:&gt;8	@SUBJ %NH N NOM SG
+4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+5	30	30	qn:&gt;7	@QN&gt; %&gt;N NUM CARD
+6	amino	amino	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	acids	acid	pcomp:&gt;4	@&lt;P %NH N NOM PL
+8	is	be	v-ch:&gt;10	@+FAUXV %AUX V PRES SG3
+9	not	not	neg:&gt;8	@ADVL %EH NEG-PART
+10	maintained	maintain		@-FMAINV %VP EN
+11	,	,
+12	as in	as in	ha:&gt;10	@ADVL %EH PREP
+&lt;NAME_cl="protein"&gt;
+13	human	human	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	AspRS	asprs	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	chimera	chimera		@SUBJ %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+16	#1	#1		@SUBJ %NH NUM CARD	@PCOMPL-S %NH NUM CARD	@PCOMPL-O %NH NUM CARD	@APP %NH NUM CARD	@&lt;P %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+17	,	,
+18	or	or		@CC %CC CC
+19	in	in	cla:&gt;40	@ADVL %EH PREP
+&lt;NAME_cl="protein"&gt;
+20	yeast	yeast	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	LysRS	lysrs	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	chimera	chimera	pcomp:&gt;19	@&lt;P %NH N NOM SG
+23	#1	#1	mod:&gt;22	@&lt;NOM %N&lt; NUM CARD
+24	and	and		@CC %CC CC
+&lt;NAME_cl="protein"&gt;
+25	yeast	yeast	attr:&gt;26	@A&gt; %&gt;N N NOM SG
+26	AsnRS	asnrs	attr:&gt;27	@A&gt; %&gt;N N NOM SG
+27	chimera	chimera		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+28	#2	#2		@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@PCOMPL-S %NH NUM CARD	@PCOMPL-O %NH NUM CARD	@APP %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+29	(	(
+30	Figure	figure	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+31	5B	5b		@NH %NH NUM CARD	@APP %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD
+32	)	)
+33	,	,
+34	the	the	det:&gt;35	@DN&gt; %&gt;N DET
+35	binding	binding	subj:&gt;38	@SUBJ %NH N NOM SG
+36	to	to	mod:&gt;35	@&lt;NOM %N&lt; PREP
+&lt;NAME_cl="RNA"&gt;
+37	tRNA	trna	pcomp:&gt;36	@&lt;P %NH ABBR NOM SG
+38	is	be	v-ch:&gt;40	@+FAUXV %AUX V PRES SG3
+39	strongly	strongly	meta:&gt;40	@ADVL %EH ADV
+40	affected	affect		@-FMAINV %VP EN
+41	and	and	cc:&gt;40	@CC %CC CC
+42	the	the	det:&gt;43	@DN&gt; %&gt;N DET
+43	protection	protection	subj:&gt;44	@SUBJ %NH N NOM SG
+44	is	be	v-ch:&gt;45	@+FAUXV %AUX V PRES SG3
+45	decreased	decrease	cc:&gt;40	@-FMAINV %VP EN
+46	,	,
+47	or	or	cc:&gt;45	@CC %CC CC
+48	even	even	meta:&gt;49	@ADVL %EH ADV
+49	abolished	abolish	cc:&gt;45	@-FMAINV %VP EN
+50	in	in	ha:&gt;49	@ADVL %EH PREP
+51	the	the	det:&gt;52	@DN&gt; %&gt;N DET
+52	case	case	pcomp:&gt;50	@&lt;P %NH N NOM SG
+53	of	of	mod:&gt;52	@&lt;NOM-OF %N&lt; PREP
+&lt;NAME_cl="protein"&gt;
+54	human	human	attr:&gt;55	@A&gt; %&gt;N A ABS
+55	AspRS	asprs	attr:&gt;56	@A&gt; %&gt;N N NOM SG
+56	chimera	chimera		@SUBJ %NH N NOM SG	@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+57	#1	#1		@SUBJ %NH NUM CARD	@PCOMPL-O %NH NUM CARD	@APP %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+58	(	(
+59	Table	table		@NH %NH N NOM SG
+60	)	)
+61	.     .
+</fdg>
+</example>
+<example src="EMBO" no="*3">
+<text>
+In contrast, only low levels of the truncated RAP1 peptides were detected (consistent with lower expression levels and decreased methionine content), and neither RAP2 nor RAP3 was co-immunoprecipitated in the RAP1 mutants.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">methionine content
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	In	in	cla:&gt;13	@ADVL %EH PREP
+2	contrast	contrast	pcomp:&gt;1	@&lt;P %NH N NOM SG
+3	,	,
+4	only	only	meta:&gt;6	@ADVL %EH ADV
+5	low	low	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	levels	level	subj:&gt;12	@SUBJ %NH N NOM PL
+7	of	of	mod:&gt;6	@&lt;NOM-OF %N&lt; PREP
+8	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+&lt;NAME_cl="protein"&gt;
+9	truncated	truncated	attr:&gt;10	@A&gt; %&gt;N A ABS
+10	RAP1	rap1	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+11	peptides	peptide	pcomp:&gt;7	@&lt;P %NH N NOM PL
+12	were	be	v-ch:&gt;13	@+FAUXV %AUX V PAST PL
+13	detected	detect	main:&gt;0	@-FMAINV %VP EN
+14	(	(
+15	consistent	consistent		@SUBJ %NH A ABS	@OBJ %NH A ABS	@&lt;NOM %N&lt; A ABS	@NH %NH A ABS
+16	with	with	mod:&gt;15	@&lt;NOM %N&lt; PREP
+17	lower	low	attr:&gt;18	@A&gt; %&gt;N A CMP
+18	expression	expression	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	levels	level	pcomp:&gt;16	@&lt;P %NH N NOM PL
+20	and	and		@CC %CC CC
+21	decreased	decrease		@+FMAINV %VA V PAST
+&lt;NAME_cl="protein"&gt;
+22	methionine	methionine	attr:&gt;23	@A&gt; %&gt;N N NOM SG
+23	content	content	obj:&gt;21	@OBJ %NH N NOM SG
+24	)	)
+25	,	,
+26	and	and		@CC %CC CC
+27	neither	neither	ad:&gt;28	@AD-A&gt; %E&gt; ADV
+&lt;NAME_cl="protein"&gt;
+28	RAP2	rap2		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+29	nor	nor		@CC %CC CC
+&lt;NAME_cl="protein"&gt;
+30	RAP3	rap3		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+31	was	be		@+FMAINV %VA V PAST
+32	co-immunoprecipitated	co-immunoprecipitated	comp:&gt;31	@PCOMPL-S %NH &lt;?&gt; A ABS
+33	in	in	loc:&gt;31	@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+34	the	the	det:&gt;36	@DN&gt; %&gt;N DET
+&lt;NAME_cl="protein"&gt;
+35	RAP1	rap1	attr:&gt;36	@A&gt; %&gt;N N NOM SG
+36	mutants	mutant	pcomp:&gt;33	@&lt;P %NH N NOM PL
+37	.     .
+</fdg>
+</example>
+<example src="PNAS" no="1">
+<text>
+In brain areas of schizophrenia patients homologous to those of the nonpsychiatric subjects, the RELN mRNA content was significantly decreased (4050%; see Table 2).
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">the RELN mRNA content 
+</arg>
+       <arg n="2">-
+</arg>
+<fdg>
+1	In	in	cla:&gt;21	@ADVL %EH PREP
+2	brain	brain	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	areas	area	pcomp:&gt;1	@&lt;P %NH N NOM PL
+4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+5	schizophrenia	schizophrenia	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	patients	patient	pcomp:&gt;4	@&lt;P %NH N NOM PL
+7	homologous	homologous	mod:&gt;6	@&lt;NOM %N&lt; A ABS
+8	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+9	those	that	pcomp:&gt;8	@&lt;P %NH PRON DEM PL
+10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+11	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+12	nonpsychiatric	nonpsychiatric	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	subjects	subject	pcomp:&gt;10	@&lt;P %NH N NOM PL
+14	,	,
+15	the	the	det:&gt;18	@DN&gt; %&gt;N DET
+16	RELN	reln	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	mRNA	mrna	attr:&gt;18	@A&gt; %&gt;N ABBR NOM SG
+18	content	content	subj:&gt;19	@SUBJ %NH N NOM SG
+19	was	be	v-ch:&gt;21	@+FAUXV %AUX V PAST
+20	significantly	significantly	meta:&gt;21	@ADVL %EH ADV
+21	decreased	decrease	main:&gt;0	@-FMAINV %VP EN
+22	(	(
+23	40 - 	40 - 	qn:&gt;24	@QN&gt; %&gt;N NUM CARD
+24	50%	50%	qua:&gt;21	@ADVL %EH NUM CARD
+25	;	;
+26	see	see	cc:&gt;0	@+FMAINV %VA V IMP
+27	Table	table	obj:&gt;26	@OBJ %NH N NOM SG
+28	2	2	qua:&gt;26	@ADVL %EH NUM CARD
+29	)	)
+30	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

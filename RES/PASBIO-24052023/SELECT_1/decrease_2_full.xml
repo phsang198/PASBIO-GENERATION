@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="decrease">
+            <roleset id="decrease.02" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="theme&#x0A;" />
+                    <role n="2" descr="amount decreased &#x09;&#x09;&#x09;&#x0A;" />
+                    <role n="1" descr="location&#x0A;" />
+                </roles>
+                <example src="PERMUTATE" no="0">
+                    <text>In addition, the expression of CD3? expression can be decreased by the mixture of normal T cells with TBM-M?s in a cellular number-dependent manner (Fig.2B).</text>
+                    <arg n="0">CD3? expression</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>In contrast, PG may decrease only only in in people with little or no increase in plasma citrullin concentration (1.97 +/-0.13 to 1.73 +/-0.13 mg/kg/min; not significant [NS]) 12.4% +/-3.9%.</text>
+                    <arg n="0">PG</arg>
+                    <arg n="1">12.4% +/-3.9%</arg>
+                    <arg n="2">in people with little or no increase in plasma citrullin concentration</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>In addition, acetylcholine levels may have decreased by mixing normal T cells with TBM-M?s depending on the number of cells (Fig.2B).</text>
+                    <arg n="0">acetylcholine levels</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>In addition, the expression acetylcholine levels was decrease by mixing normal T cells with TBM-M?s in a cellular number-dependent manner (Fig.2B).</text>
+                    <arg n="0">acetylcholine levels</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Instead, acetylcholine levels may have decreased by lead animals treated with lead (1.97 +/-0.13 to 1.73 +/-0.13 mg/kg/min; not significant [NS]) 37.8%.</text>
+                    <arg n="0">acetylcholine levels</arg>
+                    <arg n="1">37.8%</arg>
+                    <arg n="2">lead animals treated with lead</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

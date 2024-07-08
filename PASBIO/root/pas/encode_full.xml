@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="encode">
+<roleset id="encode.01" name="to specify the genetic code for
+" wordnet="1">
+<roles>
+  <role n="1" descr="gene or rna				//gene//
+"/>
+  <role n="2" descr="gene product	 			//protein//
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Supt4h2 encodes a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference, indicating extreme conservation of this expressed processed gene with the spliced gene over evolutionary time.
+
+</text>
+       <arg n="1">Supt4h2
+</arg>
+       <arg n="2">a 117 amino acid protein nearly identical to the Supt4h gene product with only one amino acid difference
+</arg>
+<fdg>
+
+1	Supt4h2	supt4h2	subj:&gt;2	@SUBJ %NH &lt;?&gt; NUM CARD
+2	encodes	encode	main:&gt;0	@+FMAINV %VA V PRES SG3
+3	a	a	det:&gt;7	@DN&gt; %&gt;N DET SG
+4	117	117		@QN&gt; %&gt;N NUM CARD
+5	amino	amino	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	acid	acid	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	protein	protein	obj:&gt;2	@OBJ %NH N NOM SG
+8	nearly	nearly	ad:&gt;9	@AD-A&gt; %E&gt; ADV
+9	identical	identical		@OBJ %NH A ABS
+10	to	to	mod:&gt;9	@&lt;NOM %N&lt; PREP
+11	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+12	Supt4h	supt4h	attr:&gt;13	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+13	gene	gene	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	product	product	pcomp:&gt;10	@&lt;P %NH N NOM SG
+15	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+16	only	only	meta:&gt;20	@ADVL %EH ADV
+17	one	one	qn:&gt;20	@QN&gt; %&gt;N NUM CARD
+18	amino	amino	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	acid	acid	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+20	difference	difference	pcomp:&gt;15	@&lt;P %NH N NOM SG
+21	,	,
+22	indicating	indicate	ha:&gt;2	@-FMAINV %VA ING
+23	extreme	extreme	attr:&gt;24	@A&gt; %&gt;N A ABS
+24	conservation	conservation	obj:&gt;22	@OBJ %NH N NOM SG
+25	of	of	mod:&gt;24	@&lt;NOM-OF %N&lt; PREP
+26	this	this	det:&gt;29	@DN&gt; %&gt;N DET DEM SG
+27	expressed	expressed	attr:&gt;28	@A&gt; %&gt;N A ABS
+28	processed	processed	attr:&gt;29	@A&gt; %&gt;N A ABS
+29	gene	gene	pcomp:&gt;25	@&lt;P %NH N NOM SG
+30	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+31	the	the	det:&gt;33	@DN&gt; %&gt;N DET
+32	spliced	spliced	attr:&gt;33	@A&gt; %&gt;N A ABS
+33	gene	gene	pcomp:&gt;30	@&lt;P %NH N NOM SG
+34	over	over	tmp:&gt;22	@ADVL %EH PREP
+35	evolutionary	evolutionary	attr:&gt;36	@A&gt; %&gt;N A ABS
+36	time	time	pcomp:&gt;
+34	@&lt;P %NH N NOM SG
+37	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+Compound heterozygous or homozygous mutations spread over all six exons encoding the 6-pyruvoyl-tetrahydropterin synthase cause an autosomal recessively inherited variant of hyperphenylalaninemia, mostly accompanied by a deficiency of dopamine and serotonin.
+
+</text>
+       <arg n="1">six exons
+</arg>
+       <arg n="2">the 6-pyruvoyl-tetrahydropterin synthase
+</arg>
+<fdg>
+1	Compound	compound		@+FMAINV %VA V IMP
+2	heterozygous	heterozygous	cc:&gt;4	@A&gt; %&gt;N A ABS
+3	or	or	cc:&gt;4	@CC %CC CC
+4	homozygous	homozygous	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	mutations	mutation	obj:&gt;1	@OBJ %NH N NOM PL
+6	spread	spread	mod:&gt;5	@-FMAINV %VP EN
+7	over	over	ha:&gt;6	@ADVL %EH PREP
+8	all	all	det:&gt;10	@DN&gt; %&gt;N DET
+9	six	six	qn:&gt;10	@QN&gt; %&gt;N NUM CARD
+10	exons	exon	pcomp:&gt;7	@&lt;P %NH &lt;?&gt; N NOM PL
+11	encoding	encode	mod:&gt;10	@-FMAINV %VA ING
+12	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+13	6-pyruvoyl-tetrahydropterin	6-pyruvoyl-tetrahydropterin	attr:&gt;14	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+14	synthase	synthase	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	cause	cause	obj:&gt;11	@OBJ %NH N NOM SG
+16	an	an	det:&gt;20	@DN&gt; %&gt;N DET SG
+17	autosomal	autosomal	attr:&gt;19	@A&gt; %&gt;N A ABS
+18	recessively	recessively	ad:&gt;19	@AD-A&gt; %E&gt; ADV
+19	inherited	inherited	attr:&gt;20	@A&gt; %&gt;N A ABS
+20	variant	variant		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+21	of	of	mod:&gt;20	@&lt;NOM-OF %N&lt; PREP
+22	hyperphenylalaninemia	hyperphenylalaninemia	pcomp:&gt;21	@&lt;P %NH &lt;?&gt; N NOM SG
+23	,	,
+24	mostly	mostly		@ADVL %EH ADV
+25	accompanied	accompany		@-FMAINV %VP EN
+26	by	by	ha:&gt;25	@ADVL %EH PREP
+27	a	a	det:&gt;28	@DN&gt; %&gt;N DET SG
+28	deficiency	deficiency	pcomp:&gt;26	@&lt;P %NH N NOM SG
+29	of	of	mod:&gt;28	@&lt;NOM-OF %N&lt; PREP
+30	dopamine	dopamine	pcomp:&gt;29	@&lt;P %NH N NOM SG
+31	and	and	cc:&gt;30	@CC %CC CC
+32	serotonin	serotonin	cc:&gt;30	@&lt;P %NH N NOM SG
+33	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+This is the first known example of such mutations that has apparently abolished the functional splicing of a pre-mRNA encoding a multipass integral membrane protein.
+
+</text>
+       <arg n="1">pre-mRNA
+</arg>
+       <arg n="2">a multipass integral membrane protein
+</arg>
+<fdg>
+1	This	this	subj:&gt;2	@SUBJ %NH PRON DEM SG
+2	is	be	main:&gt;0	@+FMAINV %VA V PRES SG3
+3	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+4	first	first	attr:&gt;5	@A&gt; %&gt;N NUM ORD
+5	known	known	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	example	example	comp:&gt;2	@PCOMPL-S %NH N NOM SG
+7	of	of	mod:&gt;6	@&lt;NOM-OF %N&lt; PREP
+8	such	such	det:&gt;9	@DN&gt; %&gt;N DET
+9	mutations	mutation	pcomp:&gt;7	@&lt;P %NH N NOM PL
+10	that	that	subj:&gt;11	@SUBJ %NH &lt;Rel&gt; PRON
+11	has	have	v-ch:&gt;13	@+FAUXV %AUX V PRES SG3
+12	apparently	apparently	meta:&gt;13	@ADVL %EH ADV
+13	abolished	abolish	mod:&gt;9	@-FMAINV %VA EN
+14	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+15	functional	functional	attr:&gt;16	@A&gt; %&gt;N A ABS
+16	splicing	splicing	obj:&gt;13	@OBJ %NH N NOM SG
+17	of	of	mod:&gt;16	@&lt;NOM-OF %N&lt; PREP
+18	a	a	det:&gt;19	@DN&gt; %&gt;N DET SG
+19	pre-mRNA	pre-mrna	pcomp:&gt;17	@&lt;P %NH &lt;?&gt; N NOM SG
+20	encoding	encode	mod:&gt;19	@-FMAINV %VA ING
+21	a	a	det:&gt;25	@DN&gt; %&gt;N DET SG
+22	multipass	multipass	attr:&gt;23	@A&gt; %&gt;N &lt;?&gt; A ABS
+23	integral	integral	attr:&gt;24	@A&gt; %&gt;N A ABS
+24	membrane	membrane	attr:&gt;25	@A&gt; %&gt;N N NOM SG
+25	protein	protein	obj:&gt;20	@OBJ %NH N NOM SG
+26	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+The PRP17 gene of the yeast Saccharomyces cerevisiae encodes a protein that participates in the second step of the splicing reaction.
+
+</text>
+       <arg n="1">The PRP17 gene of the yeast Saccharomyces cerevisiae
+</arg>
+       <arg n="2">a protein that participates in the second step of the splicing reaction
+</arg>
+<fdg>
+1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+2	PRP17	prp17	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	gene	gene	subj:&gt;9	@SUBJ %NH N NOM SG
+4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+5	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+6	yeast	yeast	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	Saccharomyces	saccharomyces	attr:&gt;8	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+8	cerevisiae	cerevisiae	pcomp:&gt;4	@&lt;P %NH &lt;?&gt; N NOM SG
+9	encodes	encode	main:&gt;0	@+FMAINV %VA V PRES SG3
+10	a	a	det:&gt;11	@DN&gt; %&gt;N DET SG
+11	protein	protein	obj:&gt;9	@OBJ %NH N NOM SG
+12	that	that	subj:&gt;13	@SUBJ %NH &lt;Rel&gt; PRON
+13	participates	participate	mod:&gt;11	@+FMAINV %VA V PRES SG3
+14	in	in	ha:&gt;13	@ADVL %EH PREP
+15	the	the	det:&gt;17	@DN&gt; %&gt;N DET
+16	second	second	attr:&gt;17	@A&gt; %&gt;N NUM ORD
+17	step	step	pcomp:&gt;14	@&lt;P %NH N NOM SG
+18	of	of	mod:&gt;17	@&lt;NOM-OF %N&lt; PREP
+19	the	the	det:&gt;21	@DN&gt; %&gt;N DET
+20	splicing	splicing	attr:&gt;21	@A&gt; %&gt;N A ABS
+21	reaction	reaction	pcomp:&gt;18	@&lt;P %NH N NOM SG
+22	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+The human SNRPN (small nuclear ribonucleoprotein polypeptide N) gene is one of a gene family that encode proteins involved in pre-mRNA splicing and maps to the smallest deletion region involved in the Prader-Willi syndrome (PWS) within chromosome 15q11-q13.
+
+</text>
+       <arg n="1">a gene family
+</arg>
+       <arg n="2">proteins involved in pre-mRNA splicing
+</arg>
+<fdg>
+1	The	the	det:&gt;3	@DN&gt; %&gt;N DET
+2	human	human	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	SNRPN	snrpn		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@PCOMPL-O %NH N NOM SG
+4	(	(
+5	small	small	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	nuclear	nuclear	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	ribonucleoprotein	ribonucleoprotein	attr:&gt;8	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+8	polypeptide	polypeptide	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	N	n		@SUBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG
+10	)	)
+11	gene	gene		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG
+12	is	be		@+FMAINV %VA V PRES SG3
+13	one	one	comp:&gt;12	@PCOMPL-S %NH NUM CARD
+14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+15	a	a	det:&gt;17	@DN&gt; %&gt;N DET SG
+16	gene	gene	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	family	family	pcomp:&gt;14	@&lt;P %NH N NOM
+18	that	that	subj:&gt;19	@SUBJ %NH &lt;Rel&gt; PRON
+19	encode	encode	mod:&gt;17	@+FMAINV %VA V PRES
+20	proteins	protein	obj:&gt;19	@OBJ %NH N NOM PL
+21	involved	involve	mod:&gt;20	@-FMAINV %VP EN
+22	in	in	phr:&gt;21	@ADVL %EH PREP
+23	pre-mRNA	pre-mrna	attr:&gt;24	@A&gt; %&gt;N &lt;?&gt; A ABS
+24	splicing	splicing	pcomp:&gt;22	@&lt;P %NH N NOM SG
+25	and	and	cc:&gt;24	@CC %CC CC
+26	maps	map	cc:&gt;24	@&lt;P %NH N NOM PL
+27	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+28	the	the	det:&gt;31	@DN&gt; %&gt;N DET
+29	smallest	small	attr:&gt;30	@A&gt; %&gt;N A SUP
+30	deletion	deletion	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+31	region	region	pcomp:&gt;27	@&lt;P %NH N NOM SG
+32	involved	involve	mod:&gt;31	@-FMAINV %VP EN
+33	in	in	phr:&gt;32	@ADVL %EH PREP
+34	the	the	det:&gt;36	@DN&gt; %&gt;N DET
+35	Prader-Willi	prader-willi	attr:&gt;36	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+36	syndrome	syndrome	pcomp:&gt;33	@&lt;P %NH N NOM SG
+37	(	(
+38	PWS	pw	mod:&gt;36	@NH %NH ABBR NOM PL
+39	)	)
+40	within	within		@ADVL %EH PREP
+41	chromosome	chromosome	attr:&gt;42	@A&gt; %&gt;N N NOM SG
+42	15q11-q13	15q11-q13	pcomp:&gt;40	@&lt;P %NH &lt;?&gt; NUM CARD
+43	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Expression SBP2 Northern analysis of poly (A) + RNA from various tissues reveals that SBP2 may be encoded by as many as three distinct transcripts.
+
+</text>
+       <arg n="1">three distinct transcripts
+</arg>
+       <arg n="2">SBP2
+</arg>
+<fdg>
+1	Expression	expression	subj:&gt;14	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	SBP2	sbp2	attr:&gt;4	@A&gt; %&gt;N N NOM SG
+4	Northern	northern	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	analysis	analysis	pcomp:&gt;2	@&lt;P %NH N NOM SG
+6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+7	poly	poly	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	(A)	(a)	pcomp:&gt;6	@&lt;P %NH ABBR NOM SG
+9	+	+	cc:&gt;8	@CC %CC CC
+10	RNA	rna	cc:&gt;8	@&lt;P %NH ABBR NOM SG
+11	from	from	mod:&gt;10	@&lt;NOM %N&lt; PREP
+12	various	various	attr:&gt;13	@A&gt; %&gt;N A ABS
+13	tissues	tissue	pcomp:&gt;11	@&lt;P %NH N NOM PL
+14	reveals	reveal	main:&gt;0	@+FMAINV %VA V PRES SG3
+15	that	that	pm:&gt;19	@CS %CS CS
+16	SBP2	sbp2	subj:&gt;17	@SUBJ %NH N NOM SG
+17	may	may	v-ch:&gt;18	@+FAUXV %AUX V AUXMOD
+18	be	be	v-ch:&gt;19	@-FAUXV %AUX V INF
+19	encoded	encode	obj:&gt;14	@-FMAINV %VP EN
+20	by	by	ha:&gt;19	@ADVL %EH PREP
+21	as	as	ad:&gt;22	@AD-A&gt; %E&gt; ADV
+22	many	many		@SUBJ %NH PRON ABS PL
+23	as	as	mod:&gt;21	@ADVL %EH PREP
+24	three	three	qn:&gt;26	@QN&gt; %&gt;N NUM CARD
+25	distinct	distinct	attr:&gt;26	@A&gt; %&gt;N A ABS
+26	transcripts	transcript	pcomp:&gt;23	@&lt;P %NH N NOM PL
+27	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+It is possible, therefore, that the added sequences in the larger forms of SBP2 mRNA are involved in regulating its expression of encoding proteins with other functions.
+
+</text>
+       <arg n="1">the added sequences in the larger forms of SBP2 mRNA
+</arg>
+       <arg n="2">proteins with other functions
+</arg>
+<fdg>
+1	It	it	subj:&gt;2	@SUBJ %NH PRON NOM SG3
+2	is	be	main:&gt;0	@+FMAINV %VA V PRES SG3
+3	possible	possible	comp:&gt;2	@PCOMPL-S %NH A ABS
+4	,	,
+5	therefore	therefore	meta:&gt;2	@ADVL %EH ADV
+6	,	,
+7	that	that	pm:&gt;19	@CS %CS CS
+8	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+9	added	added	attr:&gt;10	@A&gt; %&gt;N A ABS
+10	sequences	sequence	subj:&gt;18	@SUBJ %NH N NOM PL
+11	in	in	mod:&gt;10	@&lt;NOM %N&lt; PREP
+12	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+13	larger	large	attr:&gt;14	@A&gt; %&gt;N A CMP
+14	forms	form	pcomp:&gt;11	@&lt;P %NH N NOM PL
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	SBP2	sbp2	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	mRNA	mrna	pcomp:&gt;15	@&lt;P %NH ABBR NOM SG
+18	are	be	v-ch:&gt;19	@+FAUXV %AUX V PRES
+19	involved	involve	mod:&gt;1	@-FMAINV %VP EN
+20	in	in	phr:&gt;19	@ADVL %EH PREP
+21	regulating	regulate	pcomp:&gt;20	@&lt;P-FMAINV %VA ING
+22	its	it	attr:&gt;23	@A&gt; %&gt;N PRON GEN SG3
+23	expression	expression	obj:&gt;21	@OBJ %NH N NOM SG
+24	or	or	cc:&gt;21	@CC %CC CC
+25	encoding	encode	cc:&gt;21	@&lt;P-FMAINV %VA ING
+26	proteins	protein	obj:&gt;25	@OBJ %NH N NOM PL
+27	with	with		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+28	other	other	det:&gt;29	@DN&gt; %&gt;N DET
+29	functions	function	pcomp:&gt;27	@&lt;P %NH N NOM PL
+30	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+In plants it is estimated that between 1000 and 5000 chloroplast proteins are encoded by nuclear genes (Martin and Herrmann, 1998) and, by analogy, in Apicomplexa most of the protein content of the apicoplast will most likely also be nucleus encoded.
+
+</text>
+       <arg n="1">nuclear genes
+</arg>
+       <arg n="2">between 1000 and 5000 chloroplast proteins
+</arg>
+<fdg>
+1	In	in	cla:&gt;5	@ADVL %EH PREP
+2	plants	plant	pcomp:&gt;1	@&lt;P %NH N NOM PL
+3	it	it	subj:&gt;4	@SUBJ %NH PRON NOM SG3
+4	is	be	v-ch:&gt;5	@+FAUXV %AUX V PRES SG3
+5	estimated	estimate	main:&gt;0	@-FMAINV %VP EN
+6	that	that		@CS %CS CS
+7	between	between		@ADVL %EH PREP
+8	1000	1000	cc:&gt;10	@QN&gt; %&gt;N NUM CARD
+9	and	and	cc:&gt;10	@CC %CC CC
+10	5000	5000	qn:&gt;12	@QN&gt; %&gt;N NUM CARD
+11	chloroplast	chloroplast	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	proteins	protein	pcomp:&gt;7	@&lt;P %NH N NOM PL
+13	are	be	v-ch:&gt;14	@+FAUXV %AUX V PRES
+14	encoded	encode		@-FMAINV %VP EN
+15	by	by	agt:&gt;14	@ADVL %EH PREP
+16	nuclear	nuclear	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	genes	gene	pcomp:&gt;15	@&lt;P %NH N NOM PL
+18	(	(
+19	Martin	martin	main:&gt;18	@APP %NH N NOM SG
+20	and	and		@CC %CC CC
+21	Herrmann	herrmann		@APP %NH N NOM SG	@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+22	,	,
+23	1998	1998		@NH %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+24	)	)
+25	and	and		@CC %CC CC
+26	,	,
+27	by	by	meta:&gt;44	@ADVL %EH PREP
+28	analogy	analogy	pcomp:&gt;27	@&lt;P %NH N NOM SG
+29	,	,
+30	in	in	cla:&gt;44	@ADVL %EH PREP
+31	Apicomplexa	apicomplexa	pcomp:&gt;30	@&lt;P %NH &lt;?&gt; N NOM SG
+32	most	many	subj:&gt;40	@SUBJ %NH PRON SUP PL	@SUBJ %NH PRON SUP SG
+33	of	of	mod:&gt;32	@&lt;NOM-OF %N&lt; PREP
+34	the	the	det:&gt;36	@DN&gt; %&gt;N DET
+35	protein	protein	attr:&gt;36	@A&gt; %&gt;N N NOM SG
+36	content	content	pcomp:&gt;33	@&lt;P %NH N NOM SG
+37	of	of	mod:&gt;36	@&lt;NOM-OF %N&lt; PREP
+38	the	the	det:&gt;39	@DN&gt; %&gt;N DET
+39	apicoplast	apicoplast	pcomp:&gt;37	@&lt;P %NH &lt;?&gt; N NOM SG
+40	will	will	v-ch:&gt;44	@+FAUXV %AUX V AUXMOD
+41	most	much	ad:&gt;42	@AD-A&gt; %E&gt; ADV SUP
+42	likely	likely		@ADVL %EH ADV
+43	also	also	meta:&gt;44	@ADVL %EH ADV
+44	be	be		@-FMAINV %VA V INF
+45	nucleus	nucleus	comp:&gt;44	@PCOMPL-S %NH N NOM SG
+46	encoded	encode	mod:&gt;45	@-FMAINV %VP EN
+47	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+In this vector the T.gondii dhfr-ts region was excised with BamHI and KpnI and replaced with human dhfr mutated to encode resistance to WR99210 (Fidock and Wellems, 1997).
+
+</text>
+       <arg n="1">the T.gondii dhfr-ts region
+</arg>
+       <arg n="2">resistance to WR99210
+</arg>
+<fdg>
+1	In	in	cla:&gt;9	@ADVL %EH PREP
+2	this	this	det:&gt;3	@DN&gt; %&gt;N DET DEM SG
+3	vector	vector	pcomp:&gt;1	@&lt;P %NH N NOM SG
+4	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+5	T.gondii	t.gondii	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	dhfr-ts	dhfr-t	attr:&gt;7	@A&gt; %&gt;N &lt;?&gt; N NOM PL
+7	region	region	subj:&gt;8	@SUBJ %NH N NOM SG
+8	was	be	v-ch:&gt;9	@+FAUXV %AUX V PAST
+9	excised	excise	main:&gt;0	@-FMAINV %VP EN
+10	with	with	com:&gt;9	@ADVL %EH PREP
+11	BamHI	bamhi	pcomp:&gt;10	@&lt;P %NH N NOM SG
+12	and	and	cc:&gt;11	@CC %CC CC
+13	KpnI	kpni	cc:&gt;11	@&lt;P %NH N NOM SG
+14	and	and	cc:&gt;9	@CC %CC CC
+15	replaced	replace	cc:&gt;9	@-FMAINV %VP EN
+16	with	with	phr:&gt;15	@ADVL %EH PREP
+17	human	human	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	dhfr	dhfr	pcomp:&gt;16	@&lt;P %NH &lt;?&gt; N NOM SG
+19	mutated	mutate	mod:&gt;18	@-FMAINV %VP EN
+20	to	to	pm:&gt;21	@INFMARK&gt; %AUX INFMARK&gt;
+21	encode	encode	cnt:&gt;19	@-FMAINV %VA V INF
+22	resistance	resistance	obj:&gt;21	@OBJ %NH N NOM SG
+23	to	to	mod:&gt;22	@&lt;NOM %N&lt; PREP
+24	WR99210	wr99210	pcomp:&gt;23	@&lt;P %NH N NOM SG
+25	(	(
+26	Fidock	fidock	main:&gt;25	@APP %NH &lt;?&gt; N NOM SG
+27	and	and		@CC %CC CC
+28	Wellems	wellems		@SUBJ %NH &lt;?&gt; N NOM SG	@OBJ %NH &lt;?&gt; N NOM SG	@APP %NH &lt;?&gt; N NOM SG	@A&gt; %&gt;N &lt;?&gt; N NOM SG	@&lt;P %NH &lt;?&gt; N NOM SG
+29	,	,
+30	1997	1997		@NH %NH NUM CARD	@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+31	)	)
+32	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

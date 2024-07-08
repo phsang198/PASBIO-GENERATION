@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="delete">
+            <roleset id="delete.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="causer mechanism&#x09;&#x09;&#x09;&#x09;// mutation, alternative splicing //&#x0A;" />
+                    <role n="1" descr="entity being removed&#x09;&#x09;&#x09;// exon, gene, chromosomal region, cell //&#x0A;" />
+                    <role n="2" descr="resultant product&#x09;&#x09;&#x09;// transcripts //&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="3">
+                    <text>Alternative mRNA splicing in the coding region (encoded by exons 3-12) generates transcripts deleting exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and that encode distinct protein isoforms (delta25, delta52 and delta56 aa, respectively).</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Alternative mRNA splicing in the coding region (encoded by exons 3-12) generates transcripts which can delete exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and that encode distinct protein isoforms (delta25, delta52 and delta56 aa, respectively).</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="EGRAM" no="0">
+                    <text>Alternative mRNA splicing in the coding region (encoded by exons 3-12) generates transcripts which deleted exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and that encode distinct protein isoforms (delta25, delta52 and delta56 aa, respectively).</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Alternative mRNA splicing in the coding region (encoded by exons 3-12) generates transcripts which have deleted exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt) and that encode distinct protein isoforms (delta25, delta52 and delta56 aa, respectively).</text>
+                    <arg n="1">exons 8 (75 nt), 7+8 (156 nt) or 8+9 (168 nt)</arg>
+                    <arg n="2">transcripts</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Alternative messenger RNA (mRNA) splicing may delete exon 4 sequences, resulting in a mRNA that does not encode a functional IL-2 receptor.</text>
+                    <arg n="0">Alternative messenger RNA (mRNA) splicing</arg>
+                    <arg n="1">exon 4 sequences</arg>
+                    <arg n="M-MOD">may</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Appropriate progenitor strains can now be constructed to delete virtually any chromosomal region by utilizing an extensive collection of lines containing single P element insertions throughout the Drosophila genome.</text>
+                    <arg n="0">Appropriate progenitor strains</arg>
+                    <arg n="1">any chromosomal region</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Appropriate progenitor strains may now be constructed to delete virtually any chromosomal region by utilizing an extensive collection of lines containing single P element insertions throughout the Drosophila genome.</text>
+                    <arg n="0">Appropriate progenitor strains</arg>
+                    <arg n="1">any chromosomal region</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Appropriate progenitor strains will be constructed to delete virtually any chromosomal region by utilizing an extensive collection of lines containing single P element insertions throughout the Drosophila genome.</text>
+                    <arg n="0">Appropriate progenitor strains</arg>
+                    <arg n="1">any chromosomal region</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>By using homologous recombination in mouse embryonic stem cells, the headpiece domain of dematin is deleted to evaluate its function in vivo.</text>
+                    <arg n="0">using homologous recombination in mouse embryonic stem cells</arg>
+                    <arg n="1">the headpiece domain of dematin</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>By using homologous recombination in mouse embryonic stem cells, the headpiece domain of dematin will be deleted to evaluate its function in vivo.</text>
+                    <arg n="0">using homologous recombination in mouse embryonic stem cells</arg>
+                    <arg n="1">the headpiece domain of dematin</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>Colonies of C.albicans cells being deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">Colonies of C.albicans cells</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Colonies of C.albicans cells that are deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">Colonies of C.albicans cells</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Colonies of C.albicans cells that can be deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">CST20</arg>
+                    <arg n="2">Colonies of C.albicans cells</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Colonies of C.albicans cells which CST20 deleted revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">Colonies of C.albicans cells</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Colonies of C.albicans cells which are deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">Colonies of C.albicans cells</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Colonies of C.albicans cells which were deleted for CST20 revealed defects in the lateral formation of mycelia on synthetic solid Spider media.</text>
+                    <arg n="1">Colonies of C.albicans cells</arg>
+                    <arg n="2">CST20</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Exon 4 sequences may be deleted by alternative messenger RNA (mRNA) splicing, resulting in a mRNA that does not encode a functional IL-2 receptor.</text>
+                    <arg n="0">Alternative messenger RNA (mRNA) splicing</arg>
+                    <arg n="1">exon 4 sequences</arg>
+                    <arg n="M-MOD">may</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>From both the man and mouse we have isolated an alternative spliced form of Dmc1 cDNA (Dmc1-d) being deleted for a region between the two motifs involved in nucleotide binding.</text>
+                    <arg n="1">an alternative spliced form of Dmc1 cDNA (Dmc1-d)</arg>
+                    <arg n="2">a region between the two motifs</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>From both the man and mouse we have isolated an alternative spliced form of Dmc1 cDNA (Dmc1-d) deleted for a region between the two motifs involved in nucleotide binding.</text>
+                    <arg n="1">an alternative spliced form of Dmc1 cDNA (Dmc1-d)</arg>
+                    <arg n="2">a region between the two motifs</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>From both the man and mouse we have isolated an alternative spliced form of Dmc1 cDNA (Dmc1-d) that can be deleted for a region between the two motifs involved in nucleotide binding.</text>
+                    <arg n="1">an alternative spliced form of Dmc1 cDNA (Dmc1-d)</arg>
+                    <arg n="2">a region between the two motifs</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>From both the man and mouse we have isolated an alternative spliced form of Dmc1 cDNA (Dmc1-d) which was deleted for a region between the two motifs involved in nucleotide binding.</text>
+                    <arg n="1">an alternative spliced form of Dmc1 cDNA (Dmc1-d)</arg>
+                    <arg n="2">a region between the two motifs</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>However, the GATA-4 mutants being able to delete the C-terminal transactivition domain (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">C-terminal transactivition domain</arg>
+                    <arg n="2">the GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>However, the GATA-4 mutants deleting the C-terminal transactivition domain (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">C-terminal transactivition domain</arg>
+                    <arg n="2">the GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>However, the GATA-4 mutants that make the C-terminal transactivition domain (1  332, 201  332) deleted were all unable to support MEF2 synergy.</text>
+                    <arg n="1">C-terminal transactivition domain</arg>
+                    <arg n="2">the GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>However, the GATA-4 mutants which can delete the C-terminal transactivition domain (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">C-terminal transactivition domain</arg>
+                    <arg n="2">the GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>However, the GATA-4 mutants which deleted the C-terminal transactivition domain (1  332, 201  332) were all unable to support MEF2 synergy.</text>
+                    <arg n="1">C-terminal transactivition domain</arg>
+                    <arg n="2">the GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>In plasmid ErbB-2: S-D, the ZONAB binding has been deleted, and in ErbB-2: S-A the inverted CCAAT box has been substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">plasmid ErbB-2: S-D</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>In plasmid ErbB-2: S-D, the ZONAB binding is deleted, and in ErbB-2: S-A the inverted CCAAT box is substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">plasmid ErbB-2: S-D</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>In the presence of the phage P1 cyclization recombinase cre, the transposon could delete the URA3, tetA, and lacZ genes between the two loxP sites.</text>
+                    <arg n="0">the transposon</arg>
+                    <arg n="1">the URA3, tetA, and lacZ genes between the two loxP sites</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>In the presence of the phage P1 cyclization recombinase cre, the transposon is able to delete the URA3, tetA, and lacZ genes between the two loxP sites.</text>
+                    <arg n="0">the transposon</arg>
+                    <arg n="1">the URA3, tetA, and lacZ genes between the two loxP sites</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>In the presence of the phage P1 cyclization recombinase cre, the transposon may delete the URA3, tetA, and lacZ genes between the two loxP sites.</text>
+                    <arg n="0">the transposon</arg>
+                    <arg n="1">the URA3, tetA, and lacZ genes between the two loxP sites</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>Mutation of the hns gene in E. coli has resulted in strong expression of the V. fischeri lux system at low cell density even in an rpoS that deleted strain of E. coli that emits very low levels of luminescence.</text>
+                    <arg n="1">strain of E. coli that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>Mutation of the hns gene in E. coli has resulted in strong expression of the V. fischeri lux system at low cell density even in an rpoS which has deleted strain of E. coli that emits very low levels of luminescence.</text>
+                    <arg n="1">strain of E. coli that emits very low levels of luminescence</arg>
+                    <arg n="2">rpoS</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>Of note, the V82F mutation, which occurs adjacent to the 5 donor site of intron 4, resulted in approximately 54% aberrantly spliced transcripts where exon 4 has been deleted.</text>
+                    <arg n="1">exon 4</arg>
+                    <arg n="2">aberrantly spliced transcripts</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>Of note, the V82F mutation, which occurs adjacent to the 5 donor site of intron 4, resulted in approximately 54% aberrantly spliced transcripts where exon 4 is deleted.</text>
+                    <arg n="1">exon 4</arg>
+                    <arg n="2">aberrantly spliced transcripts</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>Of note, the V82F mutation, which occurs adjacent to the 5 donor site of intron 4, resulted in approximately 54% aberrantly spliced transcripts where exon 4 was deleted.</text>
+                    <arg n="1">exon 4</arg>
+                    <arg n="2">aberrantly spliced transcripts</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>Of note, the V82F mutation, which occurs adjacent to the 5 donor site of intron 4, resulted in approximately 54% aberrantly spliced transcripts with exon 4 being deleted.</text>
+                    <arg n="1">exon 4</arg>
+                    <arg n="2">aberrantly spliced transcripts</arg>
+                </example>
+                <example src="EGRAM" no="48b">
+                    <text>Of the splicing mutations, the IVS2+1 allele produced a single transcript where exon 2 can be deleted.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcript</arg>
+                </example>
+                <example src="EGRAM" no="47b">
+                    <text>Of the splicing mutations, the IVS2+1 allele produced a single transcript where exon 2 has been deleted.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcript</arg>
+                </example>
+                <example src="EGRAM" no="45b">
+                    <text>Of the splicing mutations, the IVS2+1 allele produced a single transcript where exon 2 is deleted.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcript</arg>
+                </example>
+                <example src="EGRAM" no="46b">
+                    <text>Of the splicing mutations, the IVS2+1 allele produced a single transcript where exon 2 was deleted.</text>
+                    <arg n="1">exon 2</arg>
+                    <arg n="2">a single transcript</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>Of the splicing mutations, the IVS9 delta A+4 allele was alternatively spliced, approximately 26% being normal transcripts and the remainder where exon 9 can be deleted.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>Of the splicing mutations, the IVS9 delta A+4 allele was alternatively spliced, approximately 26% being normal transcripts and the remainder where exon 9 has been deleted.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>Of the splicing mutations, the IVS9 delta A+4 allele was alternatively spliced, approximately 26% being normal transcripts and the remainder where exon 9 is deleted.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>Of the splicing mutations, the IVS9 delta A+4 allele was alternatively spliced, approximately 26% being normal transcripts and the remainder where exon 9 was deleted.</text>
+                    <arg n="1">exon 9</arg>
+                    <arg n="2">the remainder</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>Recent experiments have provided direct evidence that antigen-loaded immature DCs are able to delete T cells to silence them.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>Recent experiments have provided direct evidence that antigen-loaded immature DCs can delete T cells to silence them.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>Recent experiments have provided direct evidence that antigen-loaded immature DCs delete T cells or by expanding regulatory T cells.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>Recent experiments have provided direct evidence that antigen-loaded immature DCs deleted T cells to silence them.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>Recent experiments have provided direct evidence that antigen-loaded immature DCs have deleted T cells to silence them.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>Recent experiments have provided direct evidence that antigen-loaded immature DCs will delete T cells to silence them.</text>
+                    <arg n="0">antigen-loaded immature DCs</arg>
+                    <arg n="1">T cells</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>Studies with strains which are deleted for the micF locus showed that the marA-dependent reduction of OmpF required an intact micF locus.</text>
+                    <arg n="0">micF locus</arg>
+                    <arg n="1">strains</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>Studies with strains which has been deleted for the micF locus showed that the marA-dependent reduction of OmpF required an intact micF locus.</text>
+                    <arg n="0">micF locus</arg>
+                    <arg n="1">strains</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>Studies with strains which were deleted for the micF locus showed that the marA-dependent reduction of OmpF required an intact micF locus.</text>
+                    <arg n="0">micF locus</arg>
+                    <arg n="1">strains</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>Studies with strains which will be deleted for the micF locus showed that the marA-dependent reduction of OmpF required an intact micF locus.</text>
+                    <arg n="0">micF locus</arg>
+                    <arg n="1">strains</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>Study of the promoter-lacZ gene fusions introduced into the chromosome indicated that galS expression was elevated in cells in which the normal galS gene was interrupted, but not in cells in which the galR gene has been deleted.</text>
+                    <arg n="1">the galR gene</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>Study of the promoter-lacZ gene fusions introduced into the chromosome indicated that galS expression was elevated in cells in which the normal galS gene was interrupted, but not in cells in which the galR gene is deleted.</text>
+                    <arg n="1">the galR gene</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>Study of the promoter-lacZ gene fusions introduced into the chromosome indicated that galS expression was elevated in cells in which the normal galS gene was interrupted, but not in cells in which the galR gene was deleted.</text>
+                    <arg n="1">the galR gene</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>The GATA-4 mutants that delete the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443) were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="66">
+                    <text>The GATA-4 mutants which can delete the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443) were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>The GATA-4 mutants which delete the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443) were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>The GATA-4 mutants which deleted the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443) were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>The GATA-4 mutants which has deleted the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443) were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="67">
+                    <text>The GATA-4 mutants with the N-terminal region (127 443 and 201 443) and the first zinc finger (242 443) deleted were able to synergize with MEF2A (Figure 6A).</text>
+                    <arg n="1">the N-terminal region and the first zinc finger</arg>
+                    <arg n="2">The GATA-4 mutants</arg>
+                </example>
+                <example src="EGRAM" no="68">
+                    <text>The ZONAB binding is deleted in plasmid ErbB-2: S-D, and in ErbB-2: S-A the inverted CCAAT box is substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">plasmid ErbB-2: S-D</arg>
+                </example>
+                <example src="EGRAM" no="69">
+                    <text>The ZONAB binding was deleted in plasmid ErbB-2: S-D, and in ErbB-2: S-A the inverted CCAAT box was substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">plasmid ErbB-2: S-D</arg>
+                </example>
+                <example src="EGRAM" no="70">
+                    <text>The ZONAB binding will be deleted in plasmid ErbB-2: S-D, and in ErbB-2: S-A the inverted CCAAT box will be substituted.</text>
+                    <arg n="1">the ZONAB binding</arg>
+                    <arg n="2">plasmid ErbB-2: S-D</arg>
+                </example>
+                <example src="EGRAM" no="72">
+                    <text>The generation of replication-competent virus is considered less likely with vectors deleting the viral transcription elements.</text>
+                    <arg n="1">the viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="EGRAM" no="71">
+                    <text>The generation of replication-competent virus is considered less likely with vectors that deleted the viral transcription elements.</text>
+                    <arg n="1">the viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="EGRAM" no="73">
+                    <text>The generation of replication-competent virus is considered less likely with vectors which delete the viral transcription elements.</text>
+                    <arg n="1">the viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="EGRAM" no="74">
+                    <text>The generation of replication-competent virus is considered less likely with vectors which deleted the viral transcription elements.</text>
+                    <arg n="1">the viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="EGRAM" no="75">
+                    <text>The generation of replication-competent virus is considered less likely with vectors which that delete the viral transcription elements.</text>
+                    <arg n="1">the viral transcription elements</arg>
+                    <arg n="2">vectors</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>The propensity of isolates of the malaria parasite Plasmodium falciparum beleieved to delete a segment of chromosome 9 has provided positional information that has allowed us to identify a gene necessary for cytoadherence.</text>
+                    <arg n="0">isolates of the malaria parasite Plasmodium falciparum</arg>
+                    <arg n="1">a segment of chromosome 9</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>The propensity of isolates of the malaria parasite Plasmodium falciparum deleting a segment of chromosome 9 has provided positional information that has allowed us to identify a gene necessary for cytoadherence.</text>
+                    <arg n="0">isolates of the malaria parasite Plasmodium falciparum</arg>
+                    <arg n="1">a segment of chromosome 9</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>The propensity of isolates of the malaria parasite Plasmodium falciparum proven to delete a segment of chromosome 9 has provided positional information that has allowed us to identify a gene necessary for cytoadherence.</text>
+                    <arg n="0">isolates of the malaria parasite Plasmodium falciparum</arg>
+                    <arg n="1">a segment of chromosome 9</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The propensity of isolates of the malaria parasite Plasmodium falciparum which delete a segment of chromosome 9 has provided positional information that has allowed us to identify a gene necessary for cytoadherence.</text>
+                    <arg n="0">isolates of the malaria parasite Plasmodium falciparum</arg>
+                    <arg n="1">a segment of chromosome 9</arg>
+                </example>
+                <example src="EGRAM" no="77">
+                    <text>The reporter plasmids contained a shorter fragment of the ErbB-2 promoter with a functional (D: ErbB-2: S) or mutated ZONAB-binding site (D: ErbB-2: S-D, being deleted; ErbB-2: S-A, substitution of the inverted CCAAT box).</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="EGRAM" no="76">
+                    <text>The reporter plasmids contained a shorter fragment of the ErbB-2 promoter with a functional (D: ErbB-2: S) or mutated ZONAB-binding site (D: ErbB-2: S-D, deleted; ErbB-2: S-A, substitution of the inverted CCAAT box).</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="EGRAM" no="79">
+                    <text>The reporter plasmids contained a shorter fragment of the ErbB-2 promoter with a functional (D: ErbB-2: S) or mutated ZONAB-binding site where D: ErbB-2: S-D has been deleted (ErbB-2: S-A, substitution of the inverted CCAAT box).</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="EGRAM" no="78">
+                    <text>The reporter plasmids contained a shorter fragment of the ErbB-2 promoter with a functional (D: ErbB-2: S) or mutated ZONAB-binding site where D: ErbB-2: S-D is deleted (ErbB-2: S-A, substitution of the inverted CCAAT box).</text>
+                    <arg n="1">D: ErbB-2: S-D</arg>
+                    <arg n="2">mutated ZONAB-binding site</arg>
+                </example>
+                <example src="EGRAM" no="82">
+                    <text>Thus, this granule enzyme is required for the unique effects of Leu-Leu-OMe and may provide a target for the development of other immunotherapeutic agents being proven to delete cytotoxic lymphocyte responses.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="EGRAM" no="80">
+                    <text>Thus, this granule enzyme is required for the unique effects of Leu-Leu-OMe and may provide a target for the development of other immunotherapeutic agents found to delete cytotoxic lymphocyte responses.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="EGRAM" no="81">
+                    <text>Thus, this granule enzyme is required for the unique effects of Leu-Leu-OMe and may provide a target for the development of other immunotherapeutic agents proven to delete cytotoxic lymphocyte responses.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="EGRAM" no="83">
+                    <text>Thus, this granule enzyme is required for the unique effects of Leu-Leu-OMe and may provide a target for the development of other immunotherapeutic agents which are proven to delete cytotoxic lymphocyte responses.</text>
+                    <arg n="0">the development of other immunotherapeutic agents</arg>
+                    <arg n="1">cytotoxic lymphocyte responses</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>Using homologous recombination in mouse embryonic stem cells deletes the headpiece domain of dematin to evaluate its function in vivo.</text>
+                    <arg n="0">using homologous recombination in mouse embryonic stem cells</arg>
+                    <arg n="1">the headpiece domain of dematin</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Using homologous recombination in mouse embryonic stem cells will delete the headpiece domain of dematin to evaluate its function in vivo.</text>
+                    <arg n="0">using homologous recombination in mouse embryonic stem cells</arg>
+                    <arg n="1">the headpiece domain of dematin</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

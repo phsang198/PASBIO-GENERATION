@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="encode">
+            <roleset id="encode.01" name="to specify the genetic code for&#x0A;" wordnet="1">
+                <roles>
+                    <role n="0" descr="gene or rna&#x09;&#x09;&#x09;&#x09;//gene//&#x0A;" />
+                    <role n="1" descr="gene product&#x09; &#x09;&#x09;&#x09;//protein//&#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>We recently encloned murine and human cDNAs that encode CP2, a cellular transcription factor that interacts with the alpha-globin promoter as well as with additional cellular and viral promoter elements.</text>
+                    <arg n="0">encloned murine and human cDNAs</arg>
+                    <arg n="1">CP2</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>MAZ may encode a transcription factor with dual roles in transcription initiation and termination.</text>
+                    <arg n="0">MAZ</arg>
+                    <arg n="1">a transcription factor with dual roles in transcription initiation and termination</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>Expression of the ompF and ompC genes, which encode the major outer membrane proteins, OmpF and OmpC, respectively, is affected in a reciprocal manner by the osmolarity of the growth medium.</text>
+                    <arg n="0">Expression of the ompF and ompC genes</arg>
+                    <arg n="1">the major outer membrane proteins, OmpF and OmpC</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>The glp regulon of Escherichia coli encodes the proteins required for utilization of sn-glycerol 3-phosphate and its precursors.</text>
+                    <arg n="0">The glp regulon of Escherichia coli</arg>
+                    <arg n="1">the proteins required for utilization of sn-glycerol 3-phosphate and its precursors</arg>
+                </example>
+                <example src="GREC" no="5">
+                    <text>The Escherichia coli yjhA (renamed nanC) gene encodes a protein of the KdgM family of outer membrane-specific channels.</text>
+                    <arg n="0">The Escherichia coli yjhA (renamed nanC) gene</arg>
+                    <arg n="1">a protein of the KdgM family of outer membrane-specific channels</arg>
+                </example>
+                <example src="GREC" no="6">
+                    <text>The gene yjfQ encodes the repressor of the yjfR-X regulon (ula), which is involved in L-ascorbate metabolism in Escherichia coli.</text>
+                    <arg n="0">The gene yjfQ</arg>
+                    <arg n="1">the repressor of the yjfR-X regulon (ula)</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

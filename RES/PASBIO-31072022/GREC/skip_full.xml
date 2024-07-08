@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="transcribe">
+            <roleset id="Transcribe.01" name="convert DNA into RNA&#x0A;" wordnet="5">
+                <roles>
+                    <role n="0" descr="causer, agent &#x09;&#x09;&#x09;&#x09;&#x09;&#x09;// protein ...low chances to be mentioned //&#x0A;" />
+                    <role n="1" descr="entity transcribed &#x09;&#x09;&#x09;&#x09;&#x09;// gene, DNA //&#x0A;" />
+                    <role n="2" descr="transcription site&#x09;&#x09;&#x09; &#x09;&#x09;// promoter //&#x0A;" />
+                    <role n="3" descr="entity after transcription&#x0A;" />
+                    <role n="4" descr="location as organ or tissue expressing transcription&#x0A;" />
+                </roles>
+                <example src="GREC" no="1">
+                    <text>The ula regulon, responsible for the utilization of L-ascorbate in Escherichia coli, is formed by two divergently transcribed operons, ulaG and ulaABCDEF.</text>
+                    <arg n="1">ulaG and ulaABCDEF</arg>
+                    <arg n="3">ula regulon</arg>
+                    <arg n="4">Escherichia coli</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>Interaction at a distance between multiple operators controls the adjacent, divergently transcribed glpTQ-glpACB operons of Escherichia coli K-12s.</text>
+                    <arg n="1">glpTQ-glpACB operons</arg>
+                    <arg n="4">Escherichia coli K-12s</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>The fhlA gene resides next to the hydB gene at 59 min in the E. coli chromosome, and the two genes are transcribed in opposite directions.</text>
+                    <arg n="1">the two genes</arg>
+                    <arg n="4">E. coli chromosome</arg>
+                </example>
+                <example src="GREC" no="4">
+                    <text>Restriction endonuclease cleavage analysis of these two plasmids demonstrated that glpD and glpR are divergently transcribed.</text>
+                    <arg n="1">glpD and glpR</arg>
+                    <arg n="4">these two plasmids</arg>
+                </example>
+                <example src="GREC" no="5">
+                    <text>This operon, activated by growth on glycolate, is transcribed as a single message and is under the positive control of GlcC encoded by a divergent gene.</text>
+                    <arg n="0">glycolate</arg>
+                    <arg n="1">This operon</arg>
+                    <arg n="3">a single message</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

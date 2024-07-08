@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+	<predicate lemma="truncate">
+		<roleset id="Truncate.01" name="" wordnet="3">
+			<roles>
+				<role n="0" descr="cause			// mutation //
+"/>
+				<role n="1" descr="entity getting shorter 	// gene products //
+"/>
+				<role n="2" descr="entity removed		// domains, exon, intron //
+"/>
+				<role n="3" descr="break point 		/* related to prepositional phrase such as &quot;at&quot;, &quot;prior to&quot; */
+"/>
+			</roles>
+			<example src="MEDLINE" no="1">
+				<text>
+The majority of changes were predicted to truncate the protein through nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although the figures were biased by the methods employed, and, in sequenced areas, approximately 50% of all mutations were missense or in-frame.
+
+</text>
+				<arg n="0">[through] nonsense mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%) 
+</arg>
+				<arg n="1">the protein
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+					<line>         1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+</line>
+					<line>         2	majority	majority	subj:&gt;5	@SUBJ %NH N NOM
+</line>
+					<line>         3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>         4	changes	change	pcomp:&gt;3	@&lt;P %NH N NOM PL
+</line>
+					<line>         5	were	be	v-ch:&gt;6	@+FAUXV %AUX V PAST PL
+</line>
+					<line>         6	predicted	predict	main:&gt;0	@-FMAINV %VP EN
+</line>
+					<line>         7	to	to	pm:&gt;8	@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>         8	truncate	truncate	cnt:&gt;6	@-FMAINV %VA V INF
+</line>
+					<line>         9	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+</line>
+					<line>         10	protein	protein	obj:&gt;8	@OBJ %NH N NOM SG
+</line>
+					<line>         11	through	through	ha:&gt;8	@ADVL %EH PREP
+</line>
+					<line>         12	nonsense	nonsense	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         13	mutations	mutation	pcomp:&gt;11	@&lt;P %NH N NOM PL
+</line>
+					<line>         14	(	(
+</line>
+					<line>         15	32%	32%	main:&gt;14	@NH %NH NUM CARD
+</line>
+					<line>         16	)	)
+</line>
+					<line>         17	,	,
+</line>
+					<line>         18	insertions	insertion		@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@APP %NH N NOM PL	@&lt;P %NH N NOM PL
+</line>
+					<line>         19	or	or		@CC %CC CC
+</line>
+					<line>         20	deletions	deletion		@SUBJ %NH N NOM PL	@&lt;P %NH N NOM PL
+</line>
+					<line>         21	(	(
+</line>
+					<line>         22	29.6%	29.6%	main:&gt;21	@NH %NH NUM CARD
+</line>
+					<line>         23	)	)
+</line>
+					<line>         24	,	,
+</line>
+					<line>         25	or	or	cc:&gt;6	@CC %CC CC
+</line>
+					<line>         26	splicing	splicing	subj:&gt;27	@SUBJ %NH A ABS
+</line>
+					<line>         27	changes	change	cc:&gt;6	@+FMAINV %VA V PRES SG3
+</line>
+					<line>         28	(	(
+</line>
+					<line>         29	6.2%	6.2%	main:&gt;28	@NH %NH NUM CARD
+</line>
+					<line>         30	)	)
+</line>
+					<line>         31	,	,
+</line>
+					<line>         32	although	although	pm:&gt;36	@CS %CS CS
+</line>
+					<line>         33	the	the	det:&gt;34	@DN&gt; %&gt;N DET
+</line>
+					<line>         34	figures	figure	subj:&gt;35	@SUBJ %NH N NOM PL
+</line>
+					<line>         35	were	be	v-ch:&gt;36	@+FAUXV %AUX V PAST PL
+</line>
+					<line>         36	biased	bias	cnd:&gt;27	@-FMAINV %VP EN
+</line>
+					<line>         37	by	by	agt:&gt;36	@ADVL %EH PREP
+</line>
+					<line>         38	the	the	det:&gt;39	@DN&gt; %&gt;N DET
+</line>
+					<line>         39	methods	method	pcomp:&gt;37	@&lt;P %NH N NOM PL
+</line>
+					<line>         40	employed	employ	mod:&gt;39	@-FMAINV %VP EN
+</line>
+					<line>         41	,	,
+</line>
+					<line>         42	and	and	cc:&gt;40	@CC %CC CC
+</line>
+					<line>         43	,	,
+</line>
+					<line>         44	in	in	meta:&gt;53	@ADVL %EH PREP
+</line>
+					<line>         45	sequenced	sequenced	attr:&gt;46	@A&gt; %&gt;N A ABS
+</line>
+					<line>         46	areas	area	pcomp:&gt;44	@&lt;P %NH N NOM PL
+</line>
+					<line>         47	,	,
+</line>
+					<line>         48	approximately	approximately	ad:&gt;49	@AD-A&gt; %E&gt; ADV
+</line>
+					<line>         49	50%	50%	subj:&gt;53	@SUBJ %NH NUM CARD
+</line>
+					<line>         50	of	of	mod:&gt;49	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>         51	all	all	det:&gt;52	@DN&gt; %&gt;N DET
+</line>
+					<line>         52	mutations	mutation	pcomp:&gt;50	@&lt;P %NH N NOM PL
+</line>
+					<line>         53	were	be	cc:&gt;40	@+FMAINV %VA V PAST PL
+</line>
+					<line>         54	missense	missense	comp:&gt;53	@PCOMPL-S %NH &lt;?&gt; N NOM SG
+</line>
+					<line>         55	or	or	cc:&gt;54	@CC %CC CC
+</line>
+					<line>         56	in-frame	in-frame	cc:&gt;54	@PCOMPL-S %NH &lt;?&gt; A ABS
+</line>
+					<line>         57	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="2">
+				<text>
+The putative resulting protein retained the region encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains were truncated and the potential BMP-1 cleavage site was not present.  		
+
+</text>
+				<arg n="0">-
+</arg>
+				<arg n="1">-  
+</arg>
+				<arg n="2">the second and fourth SRCR domains
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+					<line>         1	The	the	det:&gt;4	@DN&gt; %&gt;N DET
+</line>
+					<line>         2	putative	putative	attr:&gt;3	@A&gt; %&gt;N A ABS
+</line>
+					<line>         3	resulting	resulting	attr:&gt;4	@A&gt; %&gt;N A ABS
+</line>
+					<line>         4	protein	protein	subj:&gt;5	@SUBJ %NH N NOM SG
+</line>
+					<line>         5	retained	retain	main:&gt;0	@+FMAINV %VA V PAST
+</line>
+					<line>         6	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+</line>
+					<line>         7	region	region	obj:&gt;5	@OBJ %NH N NOM SG
+</line>
+					<line>         8	encoding	encode	mod:&gt;7	@-FMAINV %VA ING
+</line>
+					<line>         9	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+</line>
+					<line>         10	structural	structural	cc:&gt;12	@A&gt; %&gt;N A ABS
+</line>
+					<line>         11	and	and	cc:&gt;12	@CC %CC CC
+</line>
+					<line>         12	functional	functional	attr:&gt;13	@A&gt; %&gt;N A ABS
+</line>
+					<line>         13	elements	element	obj:&gt;8	@OBJ %NH N NOM PL
+</line>
+					<line>         14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>         15	the	the	det:&gt;17	@DN&gt; %&gt;N DET
+</line>
+					<line>         16	amine	amine	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         17	oxidase	oxidase	pcomp:&gt;14	@&lt;P %NH N NOM SG
+</line>
+					<line>         18	but	but	cc:&gt;17	@CC %CC CC
+</line>
+					<line>         19	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+</line>
+					<line>         20	second	second	cc:&gt;22	@A&gt; %&gt;N NUM ORD
+</line>
+					<line>         21	and	and	cc:&gt;22	@CC %CC CC
+</line>
+					<line>         22	fourth	fourth	attr:&gt;23	@A&gt; %&gt;N NUM ORD
+</line>
+					<line>         23	SRCR	srcr	attr:&gt;24	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         24	domains	domain	cc:&gt;17	@&lt;P %NH N NOM PL
+</line>
+					<line>         25	were	be	v-ch:&gt;26	@+FAUXV %AUX V PAST PL
+</line>
+					<line>         26	truncated	truncate		@-FMAINV %VP EN
+</line>
+					<line>         27	and	and	cc:&gt;5	@CC %CC CC
+</line>
+					<line>         28	the	the	det:&gt;32	@DN&gt; %&gt;N DET
+</line>
+					<line>         29	potential	potential	attr:&gt;30	@A&gt; %&gt;N A ABS
+</line>
+					<line>         30	BMP-1	bmp-1	attr:&gt;31	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         31	cleavage	cleavage	attr:&gt;32	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>         32	site	site	subj:&gt;33	@SUBJ %NH N NOM SG
+</line>
+					<line>         33	was	be	cc:&gt;5	@+FMAINV %VA V PAST
+</line>
+					<line>         34	not	not	neg:&gt;33	@ADVL %EH NEG-PART
+</line>
+					<line>         35	present	present	comp:&gt;33	@PCOMPL-S %NH N NOM SG
+</line>
+					<line>         36	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="3">
+				<text>
+Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that dramatically truncate the protein.  									
+
+</text>
+				<arg n="0">altered postsynaptic density 95 (PSD95) isoforms
+</arg>
+				<arg n="1">the protein
+</arg>
+				<arg n="2">- 
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+					<line>1	Two	two	subj:&gt;5	@SUBJ %NH NUM CARD
+</line>
+					<line>2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>3	these	this	det:&gt;4	@DN&gt; %&gt;N DET DEM PL
+</line>
+					<line>4	variants	variant	pcomp:&gt;2	@&lt;P %NH N NOM PL
+</line>
+					<line>5	result	result	main:&gt;0	@+FMAINV %VA V PRES
+</line>
+					<line>6	in	in	phr:&gt;5	@ADVL %EH PREP
+</line>
+					<line>7	altered	altered	attr:&gt;8	@A&gt; %&gt;N A ABS
+</line>
+					<line>8	postsynaptic	postsynaptic	attr:&gt;9	@A&gt; %&gt;N A ABS
+</line>
+					<line>9	density	density	pcomp:&gt;6	@&lt;P %NH N NOM SG
+</line>
+					<line>10	95	95	qn:&gt;13	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>11	(	(
+</line>
+					<line>12	PSD95)	psd95)	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>13	isoforms	isoform	mod:&gt;9	@APP %NH &lt;?&gt; N NOM PL
+</line>
+					<line>14	that	that	subj:&gt;16	@SUBJ %NH &lt;Rel&gt; PRON
+</line>
+					<line>15	dramatically	dramatically	man:&gt;16	@ADVL %EH ADV
+</line>
+					<line>16	truncate	truncate	mod:&gt;13	@+FMAINV %VA V PRES
+</line>
+					<line>17	the	the	det:&gt;18	@DN&gt; %&gt;N DET
+</line>
+					<line>18	protein	protein	obj:&gt;16	@OBJ %NH N NOM SG
+</line>
+					<line>19	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="4">
+				<text>
+We used a gene-targeting approach in cultured myoblasts to truncate the titin gene so that the kinase domain and other domains downstream of the kinase were not expressed.
+
+</text>
+				<arg n="0">a gene-targeting approach
+</arg>
+				<arg n="1">the titin gene
+</arg>
+				<arg n="2">- 
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+					<line>1	We	we	subj:&gt;2	@SUBJ %NH PRON PERS NOM PL1
+</line>
+					<line>2	used	use	main:&gt;0	@+FMAINV %VA V PAST
+</line>
+					<line>3	a	a	det:&gt;5	@DN&gt; %&gt;N DET SG
+</line>
+					<line>4	gene-targeting	gene-targeting	attr:&gt;5	@A&gt; %&gt;N &lt;?&gt; A ABS
+</line>
+					<line>5	approach	approach	obj:&gt;2	@OBJ %NH N NOM SG
+</line>
+					<line>6	in	in	loc:&gt;2	@ADVL %EH PREP
+</line>
+					<line>7	cultured	cultured	attr:&gt;8	@A&gt; %&gt;N A ABS
+</line>
+					<line>8	myoblasts	myoblast	pcomp:&gt;6	@&lt;P %NH &lt;?&gt; N NOM PL
+</line>
+					<line>9	to	to	pm:&gt;10	@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>10	truncate	truncate	cnt:&gt;2	@-FMAINV %VA V INF
+</line>
+					<line>11	the	the	det:&gt;13	@DN&gt; %&gt;N DET
+</line>
+					<line>12	titin	titin	attr:&gt;13	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>13	gene	gene	obj:&gt;10	@OBJ %NH N NOM SG
+</line>
+					<line>14	so	so	pm:&gt;15	@ADVL %EH ADV
+</line>
+					<line>15	that	that	pm:&gt;28	@CS %CS CS
+</line>
+					<line>16	the	the	det:&gt;18	@DN&gt; %&gt;N DET
+</line>
+					<line>17	kinase	kinase	attr:&gt;18	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>18	domain	domain	cc:&gt;22	@SUBJ %NH N NOM SG
+</line>
+					<line>19	and	and	cc:&gt;22	@CC %CC CC
+</line>
+					<line>20	other	other	det:&gt;22	@DN&gt; %&gt;N DET
+</line>
+					<line>21	domains	domain	attr:&gt;22	@A&gt; %&gt;N N NOM PL
+</line>
+					<line>22	downstream	downstream	subj:&gt;26	@SUBJ %NH N NOM SG
+</line>
+					<line>23	of	of	mod:&gt;22	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>24	the	the	det:&gt;25	@DN&gt; %&gt;N DET
+</line>
+					<line>25	kinase	kinase	pcomp:&gt;23	@&lt;P %NH N NOM SG
+</line>
+					<line>26	were	be	v-ch:&gt;28	@+FAUXV %AUX V PAST PL
+</line>
+					<line>27	not	not	neg:&gt;26	@ADVL %EH NEG-PART
+</line>
+					<line>28	expressed	express	cnt:&gt;10	@-FMAINV %VP EN
+</line>
+					<line>29	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="5">
+				<text>
+Previous studies using wild-type Encephalomyocarditis virus (EMCV) and Mengo virus, which have long poly(C) tracts (61 to 146 C&apos;s) at the 5&apos; nontranslated region of the genome, and variants of these viruses genetically engineered to truncate or substitute the poly(C) tracts have produced conflicting data on the role of the poly(C) tract in the virulence of these viruses.
+
+</text>
+				<arg n="0">wild-type Encephalomyocarditis virus (EMCV) and Mengo virus and variants of these viruses genetically engineered
+</arg>
+				<arg n="1">the poly(C) tracts 
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+					<line>1	Previous	previous	attr:&gt;2	@A&gt; %&gt;N A ABS
+</line>
+					<line>2	studies	study		@NH %NH N NOM PL	@SUBJ %NH N NOM PL
+</line>
+					<line>3	using	use		@-FMAINV %VA ING
+</line>
+					<line>4	wild-type	wild-type	attr:&gt;5	@A&gt; %&gt;N A ABS
+</line>
+					<line>5	Encephalomyocarditis	encephalomyocarditis	attr:&gt;6	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>6	virus	virus	obj:&gt;3	@OBJ %NH N NOM SG
+</line>
+					<line>7	(	(
+</line>
+					<line>8	EMCV	emcv	mod:&gt;6	@NH %NH N NOM SG
+</line>
+					<line>9	)	)
+</line>
+					<line>10	and	and		@CC %CC CC
+</line>
+					<line>11	Mengo	mengo	attr:&gt;12	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>12	virus	virus		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG
+</line>
+					<line>13	,	,
+</line>
+					<line>14	which	which	subj:&gt;15	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+					<line>15	have	have	mod:&gt;12	@+FMAINV %VA V PRES
+</line>
+					<line>16	long	long	attr:&gt;17	@A&gt; %&gt;N A ABS
+</line>
+					<line>17	poly	poly	obj:&gt;15	@OBJ %NH N NOM SG
+</line>
+					<line>18	(	(
+</line>
+					<line>19	C	c	mod:&gt;17	@NH %NH N NOM SG
+</line>
+					<line>20	)	)
+</line>
+					<line>21	tracts	tract	mod:&gt;13	@+FMAINV %VA V PRES SG3
+</line>
+					<line>22	(	(
+</line>
+					<line>23	61	61		@NH %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+</line>
+					<line>24	to	to		@&lt;NOM %N&lt; PREP
+</line>
+					<line>25	146	146		@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>26	C&apos;s	c		@A&gt; %&gt;N N GEN SG	@&lt;P %NH N GEN SG
+</line>
+					<line>27	)	)
+</line>
+					<line>28	at	at		@ADVL %EH PREP
+</line>
+					<line>29	the	the	det:&gt;33	@DN&gt; %&gt;N DET
+</line>
+					<line>30	5	5	qn:&gt;33	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>31	&apos;	&apos;
+</line>
+					<line>32	nontranslated	nontranslated	attr:&gt;33	@A&gt; %&gt;N &lt;?&gt; A ABS
+</line>
+					<line>33	region	region	pcomp:&gt;28	@&lt;P %NH N NOM SG
+</line>
+					<line>34	of	of	mod:&gt;33	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>35	the	the	det:&gt;36	@DN&gt; %&gt;N DET
+</line>
+					<line>36	genome	genome	pcomp:&gt;34	@&lt;P %NH N NOM SG
+</line>
+					<line>37	,	,
+</line>
+					<line>38	and	and		@CC %CC CC
+</line>
+					<line>39	variants	variant		@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@APP %NH N NOM PL	@&lt;P %NH N NOM PL
+</line>
+					<line>40	of	of	mod:&gt;39	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>41	these	this	det:&gt;42	@DN&gt; %&gt;N DET DEM PL
+</line>
+					<line>42	viruses	virus	pcomp:&gt;40	@&lt;P %NH N NOM PL
+</line>
+					<line>43	genetically	genetically		@ADVL %EH ADV
+</line>
+					<line>44	engineered	engineer	mod:&gt;42	@-FMAINV %VP EN
+</line>
+					<line>45	to	to	pm:&gt;46	@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>46	truncate	truncate	obj:&gt;44	@-FMAINV %VA V INF
+</line>
+					<line>47	or	or	cc:&gt;46	@CC %CC CC
+</line>
+					<line>48	substitute	substitute	cc:&gt;46	@-FMAINV %VA V INF
+</line>
+					<line>49	the	the	det:&gt;50	@DN&gt; %&gt;N DET
+</line>
+					<line>50	poly	poly	obj:&gt;48	@OBJ %NH N NOM SG
+</line>
+					<line>51	(	(
+</line>
+					<line>52	C	c	mod:&gt;50	@NH %NH N NOM SG
+</line>
+					<line>53	)	)
+</line>
+					<line>54	tracts	tract		@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@APP %NH N NOM PL
+</line>
+					<line>55	have	have	v-ch:&gt;56	@+FAUXV %AUX V PRES
+</line>
+					<line>56	produced	produce		@-FMAINV %VA EN
+</line>
+					<line>57	conflicting	conflicting	attr:&gt;58	@A&gt; %&gt;N A ABS
+</line>
+					<line>58	data	data	obj:&gt;56	@OBJ %NH N NOM
+</line>
+					<line>59	on	on	loc:&gt;56	@ADVL %EH PREP
+</line>
+					<line>60	the	the	det:&gt;61	@DN&gt; %&gt;N DET
+</line>
+					<line>61	role	role	pcomp:&gt;59	@&lt;P %NH N NOM SG
+</line>
+					<line>62	of	of	mod:&gt;61	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>63	the	the	det:&gt;64	@DN&gt; %&gt;N DET
+</line>
+					<line>64	poly	poly	pcomp:&gt;62	@&lt;P %NH N NOM SG
+</line>
+					<line>65	(	(
+</line>
+					<line>66	C	c	mod:&gt;64	@NH %NH N NOM SG
+</line>
+					<line>67	)	)
+</line>
+					<line>68	tract	tract		@+FMAINV %VA V PRES	@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG
+</line>
+					<line>69	in	in		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+</line>
+					<line>70	the	the	det:&gt;71	@DN&gt; %&gt;N DET
+</line>
+					<line>71	virulence	virulence	pcomp:&gt;69	@&lt;P %NH N NOM SG
+</line>
+					<line>72	of	of	mod:&gt;71	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>73	these	this	det:&gt;74	@DN&gt; %&gt;N DET DEM PL
+</line>
+					<line>74	viruses	virus	pcomp:&gt;72	@&lt;P %NH N NOM PL
+</line>
+					<line>75	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="6">
+				<text>
+Frameshift SOX9 mutations truncate its two activation domains, while all missense mutations reported to date lie in the high mobility group (HMG) DNA-binding domain.
+
+</text>
+				<arg n="0">Frameshift SOX9 mutations
+</arg>
+				<arg n="1">- 
+</arg>
+				<arg n="2">its two activation domains
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+					<line>1	Frameshift	frameshift	attr:&gt;2	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>2	SOX9	sox9	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>3	mutations	mutation	subj:&gt;4	@SUBJ %NH N NOM PL
+</line>
+					<line>4	truncate	truncate	main:&gt;0	@+FMAINV %VA V PRES
+</line>
+					<line>5	its	it	attr:&gt;6	@A&gt; %&gt;N PRON GEN SG3
+</line>
+					<line>6	two	two	qn:&gt;8	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>7	activation	activation	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>8	domains	domain	obj:&gt;4	@OBJ %NH N NOM PL
+</line>
+					<line>9	,	,
+</line>
+					<line>10	while	while	tmp:&gt;14	@ADVL %EH ADV WH
+</line>
+					<line>11	all	all	det:&gt;13	@DN&gt; %&gt;N DET
+</line>
+					<line>12	missense	missense	attr:&gt;13	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>13	mutations	mutation	subj:&gt;14	@SUBJ %NH N NOM PL
+</line>
+					<line>14	reported	report	tmp:&gt;4	@+FMAINV %VA V PAST
+</line>
+					<line>15	to	to	pm:&gt;16	@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>16	date	date	cnt:&gt;14	@-FMAINV %VA V INF
+</line>
+					<line>17	lie	lie	obj:&gt;16	@OBJ %NH N NOM SG
+</line>
+					<line>18	in	in	loc:&gt;16	@ADVL %EH PREP
+</line>
+					<line>19	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+</line>
+					<line>20	high	high	attr:&gt;21	@A&gt; %&gt;N A ABS
+</line>
+					<line>21	mobility	mobility	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>22	group	group	pcomp:&gt;18	@&lt;P %NH N NOM
+</line>
+					<line>23	(	(
+</line>
+					<line>24	HMG	hmg	mod:&gt;22	@NH %NH ABBR NOM SG
+</line>
+					<line>25	)	)
+</line>
+					<line>26	DNA-binding	dna-binding	attr:&gt;27	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>27	domain	domain		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG
+</line>
+					<line>28	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="7">
+				<text>
+Virtually all TSC1 mutations are predicted to truncate the protein product.
+
+</text>
+				<arg n="0">TSC1 mutations
+</arg>
+				<arg n="1">the protein product 
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">-
+</arg>
+				<fdg>
+					<line>1	Virtually	virtually	meta:&gt;6	@ADVL %EH ADV
+</line>
+					<line>2	all	all	det:&gt;4	@DN&gt; %&gt;N DET
+</line>
+					<line>3	TSC1	tsc1	attr:&gt;4	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>4	mutations	mutation	subj:&gt;5	@SUBJ %NH N NOM PL
+</line>
+					<line>5	are	be	v-ch:&gt;6	@+FAUXV %AUX V PRES
+</line>
+					<line>6	predicted	predict	main:&gt;0	@-FMAINV %VP EN
+</line>
+					<line>7	to	to	pm:&gt;8	@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>8	truncate	truncate	cnt:&gt;6	@-FMAINV %VA V INF
+</line>
+					<line>9	the	the	det:&gt;11	@DN&gt; %&gt;N DET
+</line>
+					<line>10	protein	protein	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>11	product	product	obj:&gt;8	@OBJ %NH N NOM SG
+</line>
+					<line>12	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="8">
+				<text>
+To evaluate the role of the N-terminus of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) was used to truncate M.MspI between residues 34 and 35.
+
+</text>
+				<arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)
+</arg>
+				<arg n="1">M.MspI
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">residues 34 and 35
+</arg>
+				<fdg>
+					<line>1	To	to	pm:&gt;2	@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>2	evaluate	evaluate		@-FMAINV %VA V INF	@&lt;P-FMAINV %VA V INF
+</line>
+					<line>3	the	the	det:&gt;4	@DN&gt; %&gt;N DET
+</line>
+					<line>4	role	role	obj:&gt;2	@OBJ %NH N NOM SG
+</line>
+					<line>5	of	of	mod:&gt;4	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>6	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+</line>
+					<line>7	N-terminus	n-terminus	pcomp:&gt;5	@&lt;P %NH N NOM SG
+</line>
+					<line>8	of	of	mod:&gt;7	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>9	M.MspI	m.mspi	pcomp:&gt;8	@&lt;P %NH N NOM SG
+</line>
+					<line>10	,	,
+</line>
+					<line>11	2-hydroxy-5-nitrobenzyl	2-hydroxy-5-nitrobenzyl	attr:&gt;12	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>12	bromide	bromide	subj:&gt;16	@SUBJ %NH N NOM SG
+</line>
+					<line>13	(	(
+</line>
+					<line>14	HNBB	hnbb	mod:&gt;12	@NH %NH N NOM SG
+</line>
+					<line>15	)	)
+</line>
+					<line>16	was	be	v-ch:&gt;17	@+FAUXV %AUX V PAST
+</line>
+					<line>17	used	use		@-FMAINV %VP EN
+</line>
+					<line>18	to	to	pm:&gt;19	@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>19	truncate	truncate	cnt:&gt;17	@-FMAINV %VA V INF
+</line>
+					<line>20	M.MspI	m.mspi	obj:&gt;19	@OBJ %NH N NOM SG
+</line>
+					<line>21	between	between	ha:&gt;19	@ADVL %EH PREP
+</line>
+					<line>22	residues	residue	pcomp:&gt;21	@&lt;P %NH N NOM PL
+</line>
+					<line>23	34	34	mod:&gt;22	@&lt;NOM %N&lt; NUM CARD
+</line>
+					<line>24	and	and	cc:&gt;23	@CC %CC CC
+</line>
+					<line>25	35	35	cc:&gt;23	@&lt;NOM %N&lt; NUM CARD
+</line>
+					<line>26	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="EMBO" no="1">
+				<text>
+Specifically, the Stat5a molecule in which the C-terminus was truncated at amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, whereas the C-terminal truncations at amino acids 762 or 773 had no effect on the induction of either gene.
+
+</text>
+				<arg n="0">-
+</arg>
+				<arg n="1">the Stat5a molecule
+</arg>
+				<arg n="2">C-terminus
+</arg>
+				<arg n="3">[at] amino acids 740 or 751
+</arg>
+				
+			</example>
+			<example src="EMBO" no="2">
+				<text>
+C-terminally truncated Stat5a proteins, truncated at amino acids 762 or 773 had no effect on the induction of either gene.
+
+</text>
+				<arg n="0">-
+</arg>
+				<arg n="1">C-terminally truncated Stat5a proteins
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">[at] amino acids 762 or 773
+</arg>
+				
+			</example>
+			<example src="EMBO" no="3">
+				<text>
+To generate this protein, the receptor was truncated prior to two consecutive proline residues (`PP-motif_) present in the junction between domains 2 and 3 (Figure 1).
+
+</text>
+				<arg n="0">-
+</arg>
+				<arg n="1">the receptor
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">[prior to] two consecutive proline residues
+</arg>
+				
+			</example>
+			<example src="EMBO" no="4">
+				<text>
+Therefor, to generate a comparable soluble fragment to IC1-2D/190, PVR was also truncated prior to the PP-motif.
+
+</text>
+				<arg n="0">-
+</arg>
+				<arg n="1">PVR
+</arg>
+				<arg n="2">-
+</arg>
+				<arg n="3">[prior to] the PP-motif
+</arg>
+				
+			</example>
+		</roleset>
+	</predicate>
+</frameset>

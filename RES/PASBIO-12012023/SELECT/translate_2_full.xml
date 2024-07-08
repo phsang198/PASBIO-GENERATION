@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="translate">
+            <roleset id="translate.02" name="changes from one form into another form&#x0A;" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent/ causer mechanism&#x0A;" />
+                    <role n="1" descr="after translation&#x09;&#x09;&#x0A;" />
+                    <role n="2" descr="before translation       &#x09;&#x09;&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Acj6 and Drifter, thus, have been shown to efficiently translate PN lineage information into distinct dendritic targeting specificity.</text>
+                    <arg n="0">Acj6 and Drifter</arg>
+                    <arg n="1">distinct dendritic targeting specificity</arg>
+                    <arg n="2">PN lineage information</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Cells are able to successfully translate with high fidelity extracellular signals into specific cellular functions.</text>
+                    <arg n="0">Cells</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Cells are able to use signalling networks to translate with high fidelity extracellular signals into specific cellular functions.</text>
+                    <arg n="0">Cells</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Cells, as our data suggested, are able to translate with high fidelity extracellular signals into specific cellular functions.</text>
+                    <arg n="0">Cells, as our data suggested,</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>PN lineage information can be translated into distinct dendritic targeting specificity by Acj6 and Drifter.</text>
+                    <arg n="0">Acj6 and Drifter</arg>
+                    <arg n="1">distinct dendritic targeting specificity</arg>
+                    <arg n="2">PN lineage information</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>PN lineage information was translated into distinct dendritic targeting specificity by Acj6 and Drifter.</text>
+                    <arg n="0">Acj6 and Drifter</arg>
+                    <arg n="1">distinct dendritic targeting specificity</arg>
+                    <arg n="2">PN lineage information</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>This review examines the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies that could be used to discover, validate, and translate information resulting from the completion of the Human Genome Project.</text>
+                    <arg n="0">the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies</arg>
+                    <arg n="1">information resulting from the completion of the Human Genome Project</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>This review examines the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies that, as our study suggested, may be used to discover, validate, and translate information resulting from the completion of the Human Genome Project.</text>
+                    <arg n="0">the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies</arg>
+                    <arg n="1">information resulting from the completion of the Human Genome Project</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Thus, Acj6 and Drifter are able to translate PN lineage information into distinct dendritic targeting specificity.</text>
+                    <arg n="0">Acj6 and Drifter</arg>
+                    <arg n="1">distinct dendritic targeting specificity</arg>
+                    <arg n="2">PN lineage information</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>This review examines the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies that can be used to discover, validate, and translate information resulting from the completion of the Human Genome Project.</text>
+                    <arg n="0">the use of new and emerging DNA, tissue, and live-cell transfection microarray technologies</arg>
+                    <arg n="1">information resulting from the completion of the Human Genome Project</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Cells, as our data suggested,, thus, can efficiently translate extracellular signals into specific cellular functions.</text>
+                    <arg n="0">Cells, as our data suggested,</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Cells, as our data suggested,, thus, have translated extracellular signals into specific cellular functions.</text>
+                    <arg n="0">Cells, as our data suggested,</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Cells, as our data suggested,, thus, have translated extracellular signals into specific cellular functions.</text>
+                    <arg n="0">Cells, as our data suggested,</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Cells, as our data suggested,, thus, may translate extracellular signals into specific cellular functions.</text>
+                    <arg n="0">Cells, as our data suggested,</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Cells, thus, are likely to efficiently translate extracellular signals into specific cellular functions.</text>
+                    <arg n="0">Cells</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>extracellular signals has been efficiently translated by Cells into specific cellular functions.</text>
+                    <arg n="0">Cells</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>extracellular signals is efficiently translated by Cells into specific cellular functions.</text>
+                    <arg n="0">Cells</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>extracellular signals is observed to be translated into specific cellular functions by Cells, as our data suggested,.</text>
+                    <arg n="0">Cells, as our data suggested,</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>extracellular signals is observed to be translated into specific cellular functions by Cells, as our data suggested,.</text>
+                    <arg n="0">Cells, as our data suggested,</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>extracellular signals was translated by Cells into specific cellular functions.</text>
+                    <arg n="0">Cells</arg>
+                    <arg n="1">specific cellular functions</arg>
+                    <arg n="2">extracellular signals</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

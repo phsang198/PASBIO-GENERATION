@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="skip">
+            <roleset id="Skip.01" name="" wordnet="1">
+                <roles>
+                    <role n="0" descr="agent, causer&#x09;&#x09;&#x09;// mutation, cell, molecule//&#x0A;" />
+                    <role n="1" descr="entity skipped           &#x09;// exon, intron, process  //&#x0A;" />
+                    <role n="R" descr="results/consequences&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A stop codon-containing exon (exon 4) has been shown to be finally skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>A stop codon-containing exon (exon 4) has the ability to be finally skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>A stop codon-containing exon (exon 4) has the probability of being finally skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>A stop codon-containing exon (exon 4) is able to be finally skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>A stop codon-containing exon (exon 4) may have been finally skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Alternative splicing can finally skip a stop codon-containing exon (exon 4) and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>Alternative splicing has the ability to finally skip a stop codon-containing exon (exon 4) and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>Alternative splicing is able to finally skip a stop codon-containing exon (exon 4) and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>Alternative splicing is able to finally skip a stop codon-containing exon (exon 4) and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>Alternative splicing is able to finally skip a stop codon-containing exon (exon 4) and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>Alternative splicing is likely to finally skip a stop codon-containing exon (exon 4) and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>Alternative splicing is likely to finally skip a stop codon-containing exon (exon 4) and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>Direct sequencing of the PAF-2 gene revealed a homozygous 1-bp insertion at nucleotide 511 (511 insT) in one patient with group C Zellweger syndrome (ZS), which introduces a premature termination codon in the PAF-2 gene, and, in the second patient, revealed a splice-site mutation in intron 3 (IVS3+1G--&gt;A) having skipped exon 3, an event that leads to peroxisome deficiency.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>Direct sequencing of the PAF-2 gene revealed a homozygous 1-bp insertion at nucleotide 511 (511 insT) in one patient with group C Zellweger syndrome (ZS), which introduces a premature termination codon in the PAF-2 gene, and, in the second patient, revealed a splice-site mutation in intron 3 (IVS3+1G--&gt;A) observed to skip exon 3, an event that leads to peroxisome deficiency.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Direct sequencing of the PAF-2 gene revealed a homozygous 1-bp insertion at nucleotide 511 (511 insT) in one patient with group C Zellweger syndrome (ZS), which introduces a premature termination codon in the PAF-2 gene, and, in the second patient, revealed a splice-site mutation in intron 3 (IVS3+1G--&gt;A) shown to skip exon 3, an event that leads to peroxisome deficiency.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Direct sequencing of the PAF-2 gene revealed a homozygous 1-bp insertion at nucleotide 511 (511 insT) in one patient with group C Zellweger syndrome (ZS), which introduces a premature termination codon in the PAF-2 gene, and, in the second patient, revealed a splice-site mutation in intron 3 (IVS3+1G--&gt;A), which will skip exon 3, an event that leads to peroxisome deficiency.</text>
+                    <arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)</arg>
+                    <arg n="1">exon 3</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Finally, a stop codon-containing exon (exon 4) has been shown to be skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Finally, a stop codon-containing exon (exon 4) has been shown to be skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Finally, a stop codon-containing exon (exon 4) is able to be skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Finally, a stop codon-containing exon (exon 4) is skipped by alternative splicing and generates a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Finally, a stop codon-containing exon (exon 4) may have been skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Finally, alternative splicing is able to skip a stop codon-containing exon (exon 4) and can generate a transcript that is predicted to encode a fusion protein.</text>
+                    <arg n="0">alternative splicing</arg>
+                    <arg n="1">a stop codon-containing exon (exon 4)</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>In the case of the 12-membered ring macrolide, an acyl-enzyme intermediate on PikAIII can efficiently skip the last extension step and is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>In the case of the 12-membered ring macrolide, an acyl-enzyme intermediate on PikAIII has efficiently skipped the last extension step and is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>In the case of the 12-membered ring macrolide, an acyl-enzyme intermediate on PikAIII is observed to efficiently skip the last extension step and is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>In the case of the 12-membered ring macrolide, an acyl-enzyme intermediate on PikAIII is observed to skip the last extension step and is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>In the case of the 12-membered ring macrolide, an acyl-enzyme intermediate on PikAIII will efficiently skip the last extension step and is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>In the case of the 12-membered ring macrolide, the last extension step has been shown to be efficiently skipped by an acyl-enzyme intermediate on PikAIII which is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>In the case of the 12-membered ring macrolide, the last extension step has been skipped by an acyl-enzyme intermediate on PikAIII which is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>In the case of the 12-membered ring macrolide, the last extension step is efficiently skipped by an acyl-enzyme intermediate on PikAIII which is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>In the case of the 12-membered ring macrolide, the last extension step is skipped by an acyl-enzyme intermediate on PikAIII which is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>In the case of the 12-membered ring macrolide, the last extension step may have been efficiently skipped by an acyl-enzyme intermediate on PikAIII which is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>In the case of the 12-membered ring macrolide, the last extension step will be skipped by an acyl-enzyme intermediate on PikAIII which is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which anaphase B and cytokinesis are able to be skipped by the cells.</text>
+                    <arg n="0">the cells</arg>
+                    <arg n="1">anaphase B and cytokinesis</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which anaphase B and cytokinesis are able to be skipped by the cells.</text>
+                    <arg n="0">the cells</arg>
+                    <arg n="1">anaphase B and cytokinesis</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the cells enter mitosis but are likely to skip anaphase B and cytokinesis.</text>
+                    <arg n="0">the cells</arg>
+                    <arg n="1">anaphase B and cytokinesis</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the cells enter mitosis but may have skipped anaphase B and cytokinesis.</text>
+                    <arg n="0">the cells</arg>
+                    <arg n="1">anaphase B and cytokinesis</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the cells enter mitosis but may have skipped anaphase B and cytokinesis.</text>
+                    <arg n="0">the cells</arg>
+                    <arg n="1">anaphase B and cytokinesis</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>The centromere has been skipped on all Tg autosomes as on the female Xi.</text>
+                    <arg n="1">The centromere</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>The centromere is observed to be finally skipped on all Tg autosomes as on the female Xi.</text>
+                    <arg n="1">The centromere</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>The centromere is observed to be skipped on all Tg autosomes as on the female Xi.</text>
+                    <arg n="1">The centromere</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>The centromere may have been skipped on all Tg autosomes as on the female Xi.</text>
+                    <arg n="1">The centromere</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>The centromere will be finally skipped on all Tg autosomes as on the female Xi.</text>
+                    <arg n="1">The centromere</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>The observation that Tg Xist RNA efficiently skipped the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>The observation that Tg Xist RNA has been shown to skip the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>The observation that Tg Xist RNA has been shown to skip the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>The observation that Tg Xist RNA has skipped the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>The observation that Tg Xist RNA has the ability to skip the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>The observation that Tg Xist RNA has the probability of efficiently skipping the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>The observation that Tg Xist RNA has the probability of efficiently skipping the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>The observation that Tg Xist RNA may have efficiently skipped the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>The observation that the ectopic Xic has been shown to be efficiently skipped by Tg Xist RNA raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>The observation that the ectopic Xic is observed to be efficiently skipped by Tg Xist RNA raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>The observation that the ectopic Xic is observed to be skipped by Tg Xist RNA raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>The observation that the ectopic Xic may have been efficiently skipped by Tg Xist RNA raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>The observation that the ectopic Xic will be efficiently skipped by Tg Xist RNA raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>Translation of this RNA is initiated by a ribosome shunt mechanism, in which a large region of the leader containing a putative RNA encapsidation signal has been skipped by ribosomes that translate the most 5-proximal short ORF (sORF A) and reinitiate translation at the first long viral ORF.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>Translation of this RNA is initiated by a ribosome shunt mechanism, in which a large region of the leader containing a putative RNA encapsidation signal was skipped by ribosomes that translate the most 5-proximal short ORF (sORF A) and reinitiate translation at the first long viral ORF.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>Translation of this RNA is initiated by a ribosome shunt mechanism, in which ribosomes have translated the most 5-proximal short ORF (sORF A), then have skipped a large region of the leader containing a putative RNA encapsidation signal and reinitiate translation at the first long viral ORF.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>Translation of this RNA is initiated by a ribosome shunt mechanism, in which ribosomes have translated the most 5-proximal short ORF (sORF A), then have skipped a large region of the leader containing a putative RNA encapsidation signal and reinitiate translation at the first long viral ORF.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>Translation of this RNA is initiated by a ribosome shunt mechanism, in which ribosomes translated the most 5-proximal short ORF (sORF A), then skipped a large region of the leader containing a putative RNA encapsidation signal and reinitiate translation at the first long viral ORF.</text>
+                    <arg n="0">ribosomes</arg>
+                    <arg n="1">a large region of the leader containing a putative RNA encapsidation signal</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>Xist RNA coated the autosome but has skipped the Xic Tg, raising the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="EGRAM" no="62">
+                    <text>Xist RNA coats the autosome but is able to skip the Xic Tg, raising the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="EGRAM" no="63">
+                    <text>Xist RNA coats the autosome but, as we predicted, can skip the Xic Tg, raising the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="EGRAM" no="64">
+                    <text>Xist RNA coats the autosome but, as we predicted, is observed to skip the Xic Tg, raising the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="EGRAM" no="65">
+                    <text>Xist RNA coats the autosome but, as we predicted, will skip the Xic Tg, raising the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>In the case of the 12-membered ring macrolide, an acyl-enzyme intermediate on PikAIII is able to efficiently skip the last extension step and is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.</text>
+                    <arg n="0">an acyl-enzyme intermediate on PikAIII</arg>
+                    <arg n="1">the last extension step</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Tg Xist RNA coated the autosome but skipped the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Tg Xist RNA coated the autosome but skipped the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Tg Xist RNA coats the autosome but can skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Tg Xist RNA coats the autosome but can skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Tg Xist RNA coats the autosome but is able to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Tg Xist RNA coats the autosome but will skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, can skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, has been shown to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Tg Xist RNA coats the autosome but, as we predicted, is able to skip the ectopic Xic, raising the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>The observation that Xist RNA can efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>The observation that Xist RNA has been shown to skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>The observation that Xist RNA is observed to efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>The observation that Xist RNA skips the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>The observation that Xist RNA will efficiently skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>The observation that Xist RNA will skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>The observation that Xist RNA will skip the Xic Tg raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>The observation that the Xic Tg has been efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>The observation that the Xic Tg has been shown to be efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>The observation that the Xic Tg has been shown to be skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>The observation that the Xic Tg is efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>The observation that the Xic Tg was efficiently skipped by Xist RNA raises the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.</text>
+                    <arg n="0">Xist RNA</arg>
+                    <arg n="1">the Xic Tg</arg>
+                    <arg n="R">the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding</arg>
+                </example>
+                <example src="PNAS" no="1">
+                    <text>The observation that Tg Xist RNA skips the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.</text>
+                    <arg n="0">Tg Xist RNA</arg>
+                    <arg n="1">the ectopic Xic</arg>
+                    <arg n="R">the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="splice">
+            <roleset id="splice.02" name="SPLICE OUT&#x0A;" wordnet="-">
+                <roles>
+                    <role n="0" descr="thing get spliced&#x09;&#x09;&#x09;&#x09;    // entity (gene, premRNA) //&#x0A;" />
+                    <role n="1" descr="lost component, cut out component&#x09;&#x09;    // intron, exon, or more than one of them //&#x0A;" />
+                    <role n="2" descr="location refering to organelle, cell or tissue &#x0A;" />
+                    <role n="3" descr="secondary predicates&#x09;&#x09;&#x09;&#x09;    // purpose or reason&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>A retained intron in the 5 UTR of HYAL1 mRNA is spliced out by the cell lines.</text>
+                    <arg n="0">the 5 UTR of HYAL1 mRNA</arg>
+                    <arg n="1">a retained intron</arg>
+                    <arg n="2">the cell lines</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>CD1c has a duplicated form of this exon observed to be completely spliced out.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>CD1c has a duplicated form of this exon that is observed to be completely spliced out.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Exon 16, Moreover, is able to be spliced out from the mature transcripts that contain exons 15 to 24.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>Exon 16, Moreover, is spliced out from the mature transcripts that contain exons 15 to 24.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>Exon 16, Moreover, will be spliced out from the mature transcripts that contain exons 15 to 24.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>In both human and chicken, one exon, as our study suggested, has the ability to be spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon, as our study suggested,</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>In both human and chicken, one exon, as our study suggested, is able to be spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon, as our study suggested,</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>In the remaining allelic p53 gene, there was a single-base substitution of G to T at position 1 within the splice donor site of intron 7, and the mutated intron has been shown not to be spliced out during the mRNA maturation process.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>In the remaining allelic p53 gene, there was a single-base substitution of G to T at position 1 within the splice donor site of intron 7, and the mutated intron is not spliced out during the mRNA maturation process.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>In the remaining allelic p53 gene, there was a single-base substitution of G to T at position 1 within the splice donor site of intron 7, and the mutated intron is not spliced out during the mRNA maturation process.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>It did not splice out this intron and resulted in a substitution of the final 13 amino acids of the deduced amino acid sequence.</text>
+                    <arg n="1">this intron</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>It was observed that the cell lines may have differed in their ability to completely splice out a retained intron in the 5 UTR of HYAL1 mRNA.</text>
+                    <arg n="0">the 5 UTR of HYAL1 mRNA</arg>
+                    <arg n="1">a retained intron</arg>
+                    <arg n="2">the cell lines</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>It was observed that the cell lines will differ in their ability to completely splice out a retained intron in the 5 UTR of HYAL1 mRNA.</text>
+                    <arg n="0">the 5 UTR of HYAL1 mRNA</arg>
+                    <arg n="1">a retained intron</arg>
+                    <arg n="2">the cell lines</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Moreover, exon 16 has the ability to be efficiently spliced out from the mature transcripts that contain exons 15 to 24.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Moreover, exon 16 is able to be spliced out from the mature transcripts that contain exons 15 to 24.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Moreover, exon 16 will be spliced out from the mature transcripts that contain exons 15 to 24.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Moreover, exon 16 will be spliced out from the mature transcripts that contain exons 15 to 24.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>That putative intron sequences fail to be properly spliced out in transcripts which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">transcripts</arg>
+                    <arg n="1">putative intron sequences</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>That putative intron sequences may fail to be spliced out in transcripts which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">transcripts</arg>
+                    <arg n="1">putative intron sequences</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>That putative intron sequences will fail to be properly spliced out in transcripts which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">transcripts</arg>
+                    <arg n="1">putative intron sequences</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>That this intron has not been spliced out resulted in a substitution of the final 13 amino acids of the deduced amino acid sequence.</text>
+                    <arg n="1">this intron</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>That this intron is not able to be properly spliced out results in a substitution of the final 13 amino acids of the deduced amino acid sequence.</text>
+                    <arg n="1">this intron</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>That this intron is not observed to be properly spliced out results in a substitution of the final 13 amino acids of the deduced amino acid sequence.</text>
+                    <arg n="1">this intron</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>That this intron is not observed to be spliced out results in a substitution of the final 13 amino acids of the deduced amino acid sequence.</text>
+                    <arg n="1">this intron</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>The cell lines are able to spliced out a retained intron in the 5 UTR of HYAL1 mRNA.</text>
+                    <arg n="0">the 5 UTR of HYAL1 mRNA</arg>
+                    <arg n="1">a retained intron</arg>
+                    <arg n="2">the cell lines</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>This isoform results from the fact that an intron is not found to be spliced out during mRNA processing.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Three of the revertants obtained from the null allele unc-68(e540), which displayed normal motility, had intragenic mutations resulting in failure to splice out intron 21.</text>
+                    <arg n="0">intragenic mutations</arg>
+                    <arg n="2">intron 21</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Three of the revertants obtained from the null allele unc-68(e540), which displayed normal motility, had intragenic mutations that fail to splice out intron 21.</text>
+                    <arg n="0">intragenic mutations</arg>
+                    <arg n="2">intron 21</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Three of the revertants obtained from the null allele unc-68(e540), which displayed normal motility, had intragenic mutations that may fail to splice out intron 21.</text>
+                    <arg n="0">intragenic mutations</arg>
+                    <arg n="2">intron 21</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>Three of the revertants obtained from the null allele unc-68(e540), which displayed normal motility, had intragenic mutations that may have failed to splice out intron 21.</text>
+                    <arg n="0">intragenic mutations</arg>
+                    <arg n="2">intron 21</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>Three of the revertants obtained from the null allele unc-68(e540), which displayed normal motility, had intragenic mutations that will fail to splice out intron 21.</text>
+                    <arg n="0">intragenic mutations</arg>
+                    <arg n="2">intron 21</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>We have shown that in the human, as in the chicken, one exon has been spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>We have shown that in the human, as in the chicken, one exon is observed to be spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>We have shown that in the human, as in the chicken, one exon is observed to be spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>We have shown that in the human, as in the chicken, one exon will be efficiently spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>an intron has been spliced out during mRNA processing.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>an intron is spliced out during mRNA processing.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>Three of the revertants obtained from the null allele unc-68(e540), which displayed normal motility, had intragenic mutations that resulted in failure to splice out intron 21.</text>
+                    <arg n="0">intragenic mutations</arg>
+                    <arg n="2">intron 21</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>In both human and chicken, one exon can be spliced out of the MLC3nm transcript in smooth muscle to an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>In both human and chicken, one exon has been shown to be spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>In both human and chicken, one exon has been spliced out of the MLC3nm transcript in smooth muscle to an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>In both human and chicken, one exon has been spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>Moreover, a duplicated form of this exon is observed to be spliced out from CD1c that contain exons 15 to 24.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>Moreover, a duplicated form of this exon may have been spliced out from CD1c that contain exons 15 to 24.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Moreover, a duplicated form of this exon might be efficiently spliced out from CD1c that contain exons 15 to 24.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Moreover, a duplicated form of this exon might be spliced out from CD1c that contain exons 15 to 24.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>Moreover, an intron has ben efficiently spliced out from mRNA processing that contain exons 15 to 24.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>Moreover, an intron has ben efficiently spliced out from mRNA processing that contain exons 15 to 24.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>Moreover, an intron is able to be spliced out from mRNA processing that contain exons 15 to 24.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>Moreover, an intron may have been efficiently spliced out from mRNA processing that contain exons 15 to 24.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>Moreover, an intron may have been spliced out from mRNA processing that contain exons 15 to 24.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>Moreover, an intron was efficiently spliced out from mRNA processing that contain exons 15 to 24.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>Moreover, putative intron sequences can be spliced out from transcripts that contain exons 15 to 24.</text>
+                    <arg n="0">transcripts</arg>
+                    <arg n="1">putative intron sequences</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>That a duplicated form of this exon fail to be properly spliced out in CD1c which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>That a duplicated form of this exon will fail to be spliced out in CD1c which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>That an intron can fail to be spliced out in mRNA processing which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>That an intron fail to be properly spliced out in mRNA processing which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>That an intron will fail to be spliced out in mRNA processing which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>That exon 16 failed to be spliced out in the mature transcripts which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>That exon 16 has not been shown to be spliced out in the mature transcripts which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>That exon 16 is able to fail to be spliced out in the mature transcripts which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>That exon 16 will fail to be properly spliced out in the mature transcripts which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>We have shown that in the human, as in the chicken, one exon can be efficiently spliced out of the MLC3nm transcript in smooth muscle to an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>We have shown that in the human, as in the chicken, one exon may be spliced out of the MLC3nm transcript in smooth muscle to an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>We have shown that in the human, as in the chicken, one exon, as our study suggested, can be spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon, as our study suggested,</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>We have shown that in the human, as in the chicken, one exon, as our study suggested, has been efficiently spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon, as our study suggested,</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>We have shown that in the human, as in the chicken, one exon, as our study suggested, has been shown to be spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon, as our study suggested,</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>We have shown that in the human, as in the chicken, one exon, as our study suggested, was efficiently spliced out of the MLC3nm transcript in smooth muscle to give an alternative product.</text>
+                    <arg n="0">MLC3nm transcript</arg>
+                    <arg n="1">one exon, as our study suggested,</arg>
+                    <arg n="2">smooth muscle</arg>
+                    <arg n="3">give an alternative product</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>a duplicated form of this exon has been efficiently spliced out during CD1c.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>a duplicated form of this exon has been spliced out during CD1c.</text>
+                    <arg n="0">CD1c</arg>
+                    <arg n="1">a duplicated form of this exon</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>exon 16 is efficiently spliced out during the mature transcripts.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>mRNA processing has an intron that has been shown to be completely spliced out.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>mRNA processing has an intron that has been shown to be spliced out.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>mRNA processing has an intron that is observed to be completely spliced out.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>mRNA processing has an intron that may have been spliced out.</text>
+                    <arg n="0">mRNA processing</arg>
+                    <arg n="1">an intron</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>putative intron sequences may have been efficiently spliced out during transcripts.</text>
+                    <arg n="0">transcripts</arg>
+                    <arg n="1">putative intron sequences</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>the mature transcripts has exon 16 being shown to be spliced out.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>the mature transcripts has exon 16 completely spliced out.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>the mature transcripts has exon 16 that is spliced out.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>the mature transcripts has exon 16 that may have been completely spliced out.</text>
+                    <arg n="0">the mature transcripts</arg>
+                    <arg n="1">exon 16</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>transcripts has putative intron sequences observed to be spliced out.</text>
+                    <arg n="0">transcripts</arg>
+                    <arg n="1">putative intron sequences</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>transcripts has putative intron sequences spliced out.</text>
+                    <arg n="0">transcripts</arg>
+                    <arg n="1">putative intron sequences</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>transcripts has putative intron sequences that may have been completely spliced out.</text>
+                    <arg n="0">transcripts</arg>
+                    <arg n="1">putative intron sequences</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Moreover, the mutated intron has been shown to be efficiently spliced out from the mRNA maturation process that contain exons 15 to 24.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Moreover, the mutated intron has ben spliced out from the mRNA maturation process that contain exons 15 to 24.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Moreover, the mutated intron is observed to be efficiently spliced out from the mRNA maturation process that contain exons 15 to 24.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Moreover, the mutated intron might be spliced out from the mRNA maturation process that contain exons 15 to 24.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>That the mutated intron failed to be properly spliced out in the mRNA maturation process which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>That the mutated intron failed to be spliced out in the mRNA maturation process which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>That the mutated intron have failed to be properly spliced out in the mRNA maturation process which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>That the mutated intron is likely to fail to be properly spliced out in the mRNA maturation process which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>That the mutated intron is likely to fail to be properly spliced out in the mRNA maturation process which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>The failure to splice out the mutated intron in the mRNA maturation process which spanned exon-intron boundaries is expected in antisense transcripts.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>the mRNA maturation process has the mutated intron that has been completely spliced out.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>the mRNA maturation process has the mutated intron that is able to be completely spliced out.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>the mRNA maturation process has the mutated intron that is observed to be spliced out.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>the mutated intron was efficiently spliced out during the mRNA maturation process.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>the mutated intron was spliced out during the mRNA maturation process.</text>
+                    <arg n="0">the mRNA maturation process</arg>
+                    <arg n="1">the mutated intron</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

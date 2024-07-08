@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="truncate">
+            <roleset id="Truncate.01" name="" wordnet="3">
+                <roles>
+                    <role n="0" descr="cause&#x09;&#x09;&#x09;// mutation //&#x0A;" />
+                    <role n="1" descr="entity getting shorter &#x09;// gene products //&#x0A;" />
+                    <role n="2" descr="entity removed&#x09;&#x09;// domains, exon, intron //&#x0A;" />
+                    <role n="3" descr='break point &#x09;&#x09;/* related to prepositional phrase such as &quot;at&quot;, &quot;prior to&quot; */&#x0A;' />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Electrophoretic mobility change tests showed that the full-length BCL6 protein extracted from infected body cells and a bacterially expressed protein that can be significantly truncated and contains the BCL6 zinc fingers can specifically bind to the DNA in the promoter/enhancing U3 region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Electrophoretic mobility tests showed that the total length BCL6 protein extracted from infected body cells and a bacterially expressed protein containing the zinc fingers BCL6 and observed that it will be truncated can specifically bind to the DNA in the promoter/U3 expansion region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Electrophoretic mobility tests showed that the total length BCL6 protein extracted from infected body cells and a bacterially expressed protein that can be truncated and contains the zinc fingers BCL6 can specifically bind to the DNA in the promoter/U3 expansion region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>Electrophoretic mobility tests showed that the total length BCL6 protein extracted from infected body cells and a bacterially expressed protein that may have been truncated and contains the zinc fingers BCL6 may specifically bind to the DNA of the promoter/use valuer region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>For the generation of this protein, the receptor can be truncated before two consecutive proline residues (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>For the generation of this protein, the receptor was truncated before two consecutive proline residues (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>For the generation of this protein, the the receptor is thought to be truncated before the two consecutive proline residues (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="7">
+                    <text>For the generation of this protein, the the receptor was truncated before the two consecutive proline residues (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="8">
+                    <text>In particular, the Stat5a molecule in which C-terminal can be notably truncated to amino acids 740 or 751 blocks the induction of both CIS and OSM, while C-terminal truncas to amino acids 762 or 773 have no effect on the induction of both genes.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminal</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="9">
+                    <text>It has been shown that the protein is truncated by A0 (senseless mutations (32%), insertions or deletions (29.6%) or splicing alterations (6.2%) by most alterations, although the values have been biased by the methods used, and in sequenced areas, approximately 50% of all mutations were senseless or framed.</text>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="10">
+                    <text>It has been shown that the protein is truncated through A0 (senseless mutations (32%), insertions or deletions (29.6%) or splicing changes (6.2%) by most changes, although figures were biased by the methods used, and, in sequenced areas, about 50% of all mutations were senseless or framed.</text>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="11">
+                    <text>It is observed that SOX9 shift motion frame actually truncates to its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="12">
+                    <text>Merchshift SOX9 mutations has the ability to truncate its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="13">
+                    <text>Merchshift SOX9 mutations is likely to actually truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="14">
+                    <text>Merchshift SOX9 mutations, as our data show, it is likely that its two activation domains is actually truncated, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="15">
+                    <text>Merchshift SOX9 mutations, as shown by our data, can truncate its two activation domains, while all incorrect-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="16">
+                    <text>Most changes have been found to truncate the protein through A0 (senseless mutations (32%), insertions or deletions (29.6%), or splicing changes (6.2%), although figures were biased by the methods used, and, in sequenced areas, about 50% of all mutations were unfounded or in frames.</text>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="17">
+                    <text>Practically all A0 mutations (TSC1) can truncate protein product.</text>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="EGRAM" no="18">
+                    <text>Practically all A0 mutations (TSC1) may have truncated protein product.</text>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="EGRAM" no="19">
+                    <text>Previous studies using the Encephalomyocarditis Virus Type EMCV and Mengo virus, and variants of these viruses, which may be genetically modified to replace or truncate the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">EMCV</arg>
+                </example>
+                <example src="EGRAM" no="20">
+                    <text>Previous studies using the Encephalomyocarditis virus type EMCV and the Mengo virus, and variants of these viruses ), which were genetically designed to truncate or replace poly(C) sectors produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">EMCV</arg>
+                    <arg n="1">poly(C) sectors</arg>
+                </example>
+                <example src="EGRAM" no="21">
+                    <text>Previous studies using the encephalomiocarditis virus type EMCV and Mengo virus, and variants of these viruses, have been shown to replace or truncate sectors Poly(C) to produce conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">EMCV</arg>
+                    <arg n="1">sectors Poly(C)</arg>
+                </example>
+                <example src="EGRAM" no="22">
+                    <text>Previous studies using the encephalomiocarditis virus type EMCV and Mengo virus, and variants of these viruses, noted that genetic engineering is capable of replacing or truncating the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">EMCV</arg>
+                </example>
+                <example src="EGRAM" no="23">
+                    <text>Previous studies using the encephalomiocarditis virus type EMCV and Mengo virus, and variants of these viruses, which have been shown to replace or truncate the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">EMCV</arg>
+                </example>
+                <example src="EGRAM" no="24">
+                    <text>Previous studies using the encephalomiocarditis virus type EMCV and Mengo virus, and variants of these viruses, which will be genetically modified to replace or truncate the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">EMCV</arg>
+                </example>
+                <example src="EGRAM" no="25">
+                    <text>SOX9 shift frame changes, as shown by our data, can truncate its two activation domains, while all remaining mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="26">
+                    <text>SOX9 shift of frame has been shown to truncate to its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="27">
+                    <text>Specifically, the Stat5a molecule in which C-terminal is able to be truncated to amino acids 740 or 751 blocks the induction of both CIS and OSM, while C-terminal truncas for amino acids 762 or 773 have no effect on the induction of both genes.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminal</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="28">
+                    <text>Specifically, the Stat5a molecule in which C-terminal is truncated to amino acids 740 or 751 blocks the induction of both CIS and OSM, while C-terminal truncas to amino acids 762 or 773 have no effect on the induction of both genes.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminal</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="29">
+                    <text>Specifically, the Stat5a molecule in which it was demonstrated that C-terminal was notably truncated to amino acids 740 or 751 blocked the induction of both SIC and SHO, while C-terminal truncas to amino acids 762 or 773 had no effect on the induction of both genes.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                    <arg n="2">C-terminal</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="30">
+                    <text>Specifically, the molecule Stat5a in which C-terminal has been shown to be truncated to amino acids 740 or 751 blocks the induction of both CIS and OSM, while C-terminal truncations to amino acids 762 or 773 have no effect on the induction of either gene.</text>
+                    <arg n="1">the molecule Stat5a</arg>
+                    <arg n="2">C-terminal</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="31">
+                    <text>Specifically, the molecule Stat5a in which it has been shown that C-terminal was notably truncated to amino acids 740 or 751 effectively blocked the induction of both CIS and OSM, while C-terminal truncations to amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">the molecule Stat5a</arg>
+                    <arg n="2">C-terminal</arg>
+                    <arg n="3">amino acids 740 or 751</arg>
+                </example>
+                <example src="EGRAM" no="32">
+                    <text>Stat5a proteins truncated by C-terminally probably truncated to amino acids 762 or 773 had no effect on the induction of either gene.</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="33">
+                    <text>Stat5a truncated proteins by C was observed to be strongly truncated in amino acids 762 or 773 had no effect on the induction of any of the two genes.</text>
+                    <arg n="1">Stat5a truncated proteins by C</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="34">
+                    <text>Strat5a proteins truncated by C-terminal was probably truncated to amino acids 762 or 773 had no effect on the induction of both genes.</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminal</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="35">
+                    <text>Strat5a proteins truncated by C-terminally that were truncated to amino acids 762 or 773 had no effect on the induction of both genes.</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="EGRAM" no="36">
+                    <text>Tests for changing electrophoretic mobility showed that the full-length BCL6 protein extracted from infected body cells and a bacterially expressed protein containing the BCL6 zinc fingers and truncated can specifically bind to the DNA in the promoter/best region of U3 HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="37">
+                    <text>Tests for changing electrophoretic mobility showed that the full-length BCL6 protein extracted from infected body cells and a bacterially expressed protein containing the BCL6 zinc fingers and will be significantly truncated can specifically bind to the DNA in the promoter/enhancement region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="38">
+                    <text>Tests for changing electrophoretic mobility showed that the full-length BCL6 protein extracted from infected body cells and a bacterially expressed protein that is notably truncated and contains the BCL6 zinc fingers can specifically bind to the DNA from the promoter/enhancement U3 region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="39">
+                    <text>Tests for changing electrophoretic mobility showed that the full-length BCL6 protein extracted from infected body cells and a bacterially expressed protein that may have been notably truncated and contains the BCL6 zinc fingers can specifically bind to the DNA in the promoter/enhancing U3 region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="40">
+                    <text>Tests for changing electrophoretic mobility showed that the full-length BCL6 protein extracted from infected body cells and a bacterially expressed protein that was truncated and contained the BCL6 zinc fingers can specifically bind to the DNA from the promoter/enhancement U3 region of HIV-1.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="EGRAM" no="41">
+                    <text>The resulting putative protein retained the coding region of the structural and functional elements of amine oxidase, but the second and fourth domains of SRCR are truncated and the potential cleavage site of BMP-1 is not present.</text>
+                    <arg n="2">the second and fourth domains of SRCR</arg>
+                </example>
+                <example src="EGRAM" no="42">
+                    <text>The resulting putative protein retained the region by encoding the structural and functional elements of the amine oxidase but the second and fourth SRCR domains were able to be truncated and the potential BMP-1 was not present.</text>
+                    <arg n="2">the second and fourth SRCR domains</arg>
+                </example>
+                <example src="EGRAM" no="43">
+                    <text>To assess the role of the N-terminal of M.MspI, 2-hydroxy-5-nitrobenzyl bromide (HNBB) is found to be used to truncate M.MspI between residus 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="1">M.MspI</arg>
+                    <arg n="3">residus 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="44">
+                    <text>To evaluate the role of A1 N-term (M.MspI ), 2-hydroxy-5-nitrobenzyl bromide (HNBB) will be used to truncate A1 (M.MspI) between residence 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="3">residence 34 and 35</arg>
+                </example>
+                <example src="EGRAM" no="45">
+                    <text>To generate a soluble fragment comparable to CI1-2D/190, PVR is likely to be truncated before the PP reason.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP reason</arg>
+                </example>
+                <example src="EGRAM" no="46">
+                    <text>To generate a soluble fragment comparable to CI1-2D/190, PVR was truncated before PP reason.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">PP reason</arg>
+                </example>
+                <example src="EGRAM" no="47">
+                    <text>To generate a soluble fragment comparable to IC1-2D/190, PVR is likely to be truncated before the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="48">
+                    <text>To generate a soluble fragment comparable to IC1-2D/190, PVR is therefore able to be truncated before the PP-motif.</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="EGRAM" no="49">
+                    <text>To generate this protein, it has been shown that the receptor is truncated before two consecutive proline residues (`PP-motif_) present in the 2&#x13;3 (Figure 1) domain binding.</text>
+                    <arg n="1">the receptor</arg>
+                    <arg n="3">two consecutive proline residues</arg>
+                </example>
+                <example src="EGRAM" no="50">
+                    <text>To truncate the titin gene, we use a gene orientation approach so that the kinase domain and other downstream kinase domains are not expressed.</text>
+                    <arg n="0">a gene orientation approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="EGRAM" no="51">
+                    <text>Two of these variants result in altered postsynaptic density 95 (PSD95) isoforms that are able to truncate the protein .</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="52">
+                    <text>We found a genetic direction approach to truncate the the titin gene so that the kinase domain and other kinase domains downstream were not expressed.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="EGRAM" no="53">
+                    <text>frameshift SOX9 mutations actually truncated both activation domains while all the missing mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="EGRAM" no="54">
+                    <text>frameshift SOX9 mutations is likely to truncate both activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="EGRAM" no="55">
+                    <text>frameshift SOX9 mutations may truncate six activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="EGRAM" no="56">
+                    <text>frameshift SOX9, as our data, has the ability to truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="EGRAM" no="57">
+                    <text>of SOX9 frame change, as our data show, A2 truncated (its two activation domains), while all remaining mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                </example>
+                <example src="EGRAM" no="58">
+                    <text>soX9 shift frame changes, such as our data, can truncate its two activation domains, while all remaining mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="EGRAM" no="59">
+                    <text>the protein is observed to be truncated through A0 (senseless mutations (32%), insertions or deletions (29.6%) or splicing changes (6.2%) by most changes, although figures were biased by the methods used, and, in sequenced areas, about 50% of all mutations were senseless or framed.</text>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="60">
+                    <text>the protein is predicted to be truncated by A0 (nonsense mutations (32%), insertions or deletions (29.6%) or splicing alterations (6.2%) by most alterations, although the values were biased by the methods used, and in sequenced areas, approximately 50% of all mutations were absent or in table.</text>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="EGRAM" no="61">
+                    <text>the protein is truncated through A0 (senseless mutations (32%), insertions or deletions (29.6%) or splicing changes (6.2%) by most changes, although figures were biased by the methods used, and, in sequenced areas, about 50% of all mutations were senseless or framed.</text>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Almost all A0 mutations (TSC1) are found as dramatically truncated the protein.</text>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>For the generation of this protein, PVR is likely to be truncated before PP reason (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">PP reason</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>For the generation of this protein, PVR may have been truncated before PP reason (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">PP reason</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>It has been shown that SOX9 shift motion frame truncates six activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>It has been shown that the SOX9 shift motion frame truncates to the its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>It has been shown that the frameshift SOX9 mutations truncates to the both activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>It has been shown that the frameshift SOX9 truncates to the six activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>It has been shown that the of SOX9 truncates to the the two activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>It is observed that SOX9 shift frame changes truncates its two activation domains, while all the counter-sense mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>It is observed that SOX9 shift motion frame truncates six activation domains, while all the counter-sense mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>It is observed that SOX9 shifts of frame change actually truncates to its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shifts of frame change</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>It is observed that frameshift SOX9 mutations actually truncates to its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>It is observed that frameshift SOX9 mutations truncates its two activation domains, while all the counter-sense mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>It is observed that frameshift SOX9 mutations truncates their two activation domains, while all the counter-sense mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>It is observed that merchshift SOX9 mutations actually truncates to six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>It is observed that soX9 shift frame changes actually truncates to six activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>It is observed that soX9 shift frame changes actually truncates to six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>It is observed that the SOX9 shift frame changes truncates the its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>Merchshift SOX9 actually truncated six activation domains while all the missing mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>Merchshift SOX9 frame change, as shown in our data, truncated six activation domains, while all remaining mutations reported so far were in the high-mobility DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>Merchshift SOX9 has been shown to truncate to six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>Merchshift SOX9 mutations may truncate its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>Merchshift SOX9 mutations, as our data show, are observed to truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>Merchshift SOX9 mutations, as our data show, will truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>Merchshift SOX9 mutations, as shown by our data, has shown to truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>Merchshift SOX9 mutations, as shown by our data, truncated its two activation domains, while all remaining mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>Merchshift SOX9 mutations, like our data, are able to truncate its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>Merchshift SOX9, as our data show, may have truncated six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>Merchshift SOX9, as our data, are susceptible to truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>Merchshift SOX9, as our data, may truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>Merchshift SOX9, as shown by our data, has shown that it actually truncates six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>Merchshift SOX9, as shown by our data, have the probability of actually truncating six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>Merchshift SOX9, as shown by our data, truncated six activation domains, while all remaining mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>Merchshift SOX9, as shown by our data, will truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>Merchshift SOX9, like our data, are able to truncate six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">Merchshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>Practically all A0 mutations (TSC1) are able to dramatically truncate a protein that expresses bacteria.</text>
+                    <arg n="1">a protein that expresses bacteria</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>Practically all A0 mutations (TSC1) have the ability to dramatically truncate a protein that expresses bacteria.</text>
+                    <arg n="1">a protein that expresses bacteria</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>Practically all A0 mutations (TSC1) have the ability to truncate the protein.</text>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>Practically all A0 mutations (TSC1) may have dramatically truncated a protein that expresses bacteria.</text>
+                    <arg n="1">a protein that expresses bacteria</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>Practically all A0 mutations (TSC1) were predicted to dramatically truncate the protein.</text>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>Practically all EMCV mutations are able to truncate sectors Poly(C).</text>
+                    <arg n="0">EMCV</arg>
+                    <arg n="1">sectors Poly(C)</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>Practically all EMCV mutations can dramatically truncate poly(C) sectors.</text>
+                    <arg n="0">EMCV</arg>
+                    <arg n="1">poly(C) sectors</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>Practically all EMCV mutations dramatically truncated poly(C) sectors.</text>
+                    <arg n="0">EMCV</arg>
+                    <arg n="1">poly(C) sectors</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>Practically all EMCV mutations may have dramatically truncated sectors Poly(C).</text>
+                    <arg n="0">EMCV</arg>
+                    <arg n="1">sectors Poly(C)</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>Practically all EMCV mutations may have truncated poly(C) sectors.</text>
+                    <arg n="0">EMCV</arg>
+                    <arg n="1">poly(C) sectors</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Practically all EMCV mutations may have truncated sectors Poly(C).</text>
+                    <arg n="0">EMCV</arg>
+                    <arg n="1">sectors Poly(C)</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Practically all TSC1 mutations can truncate protein product.</text>
+                    <arg n="0">TSC1</arg>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>Practically all TSC1 mutations have been predicted to truncate protein product.</text>
+                    <arg n="0">TSC1</arg>
+                    <arg n="1">protein product</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>Previous studies using the Encephalomyocarditis Virus Type EMCV and the Mengo virus, and variants of these viruses, which are likely to be genetic engineering to replace or truncate sectors Poly(C) produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">EMCV</arg>
+                    <arg n="1">sectors Poly(C)</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>Previous studies using the encephalomiocarditis virus type of SOX9 and Mengo virus, and variants of these viruses, noted that genetic engineering is capable of replacing or truncating the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">of SOX9</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>SOX9 shift frame changes can actually truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>SOX9 shift frame changes can truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>SOX9 shift frame changes frame change, as shown in our data, truncated its two activation domains, while all remaining mutations reported so far were in the high-mobility DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>SOX9 shift frame changes has been shown to truncate its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>SOX9 shift frame changes is likely to truncating its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>SOX9 shift frame changes may have truncated its two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>SOX9 shift frame changes, as our data show, can truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>SOX9 shift frame changes, as shown by our data, has shown to truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>SOX9 shift frame changes, like our data, are able to truncate its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>SOX9 shift motion frame actually truncated its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>SOX9 shift motion frame can truncate six activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>SOX9 shift motion frame frame change, as shown in our data, is observed to truncate six activation domains, while all the reported absent mutations are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>SOX9 shift motion frame frame change, as shown in our data, truncated its two activation domains, while all remaining mutations reported so far were in the high-mobility DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="64">
+                    <text>SOX9 shift motion frame frame change, as shown in our data, truncated six activation domains, while all remaining mutations reported so far were in the high-mobility DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="65">
+                    <text>SOX9 shift motion frame frame change, like our data, is able to truncate six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="66">
+                    <text>SOX9 shift motion frame has been shown to truncate to six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="67">
+                    <text>SOX9 shift motion frame have the probability of truncating its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="68">
+                    <text>SOX9 shift motion frame is able to truncate its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="69">
+                    <text>SOX9 shift motion frame is likely to actually truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="70">
+                    <text>SOX9 shift motion frame is likely to truncate its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="71">
+                    <text>SOX9 shift motion frame is likely to truncate six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="72">
+                    <text>SOX9 shift motion frame may truncate its two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="73">
+                    <text>SOX9 shift motion frame truncated six activation domains, while all the missing mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="74">
+                    <text>SOX9 shift motion frame will actually truncate its two activation domains, while all incorrect-sense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="75">
+                    <text>SOX9 shift motion frame, as our data show, has the ability to truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="76">
+                    <text>SOX9 shift motion frame, as our data show, has the probability of truncating six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="77">
+                    <text>SOX9 shift motion frame, as our data show, is likely to truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="78">
+                    <text>SOX9 shift motion frame, as our data show, truncated six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="79">
+                    <text>SOX9 shift motion frame, as shown by our data, are able to truncate its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="80">
+                    <text>SOX9 shift motion frame, as shown by our data, are able to truncate six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="81">
+                    <text>SOX9 shift motion frame, as shown by our data, can truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="82">
+                    <text>SOX9 shift motion frame, as shown by our data, has shown that it actually truncates its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="83">
+                    <text>SOX9 shift motion frame, as shown by our data, have the probability of actually truncating its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="84">
+                    <text>SOX9 shift motion frame, as shown by our data, have the probability of truncating its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="85">
+                    <text>SOX9 shift motion frame, as shown by our data, may have truncated six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift motion frame</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="86">
+                    <text>SOX9 shift of frame is able to actually truncate its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="87">
+                    <text>SOX9 shift of frame is likely to truncate its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="88">
+                    <text>SOX9 shift of frame truncated its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="89">
+                    <text>SOX9 shift of frame will truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="90">
+                    <text>SOX9 shift of frame, as our data show, are observed to truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="91">
+                    <text>SOX9 shift of frame, as shown by our data, has shown that it actually truncates its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="92">
+                    <text>SOX9 shift of frame, as shown by our data, have the ability to truncate its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="93">
+                    <text>SOX9 shift of frame, as shown by our data, will actually truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="94">
+                    <text>SOX9 shift of frame, such as our data, can truncate its two activation domains, while all remaining mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shift of frame</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="95">
+                    <text>SOX9 shifts of frame change actually truncated its two activation domains while all the missing mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shifts of frame change</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="96">
+                    <text>SOX9 shifts of frame change frame change, as shown in our data, is observed to truncate its two activation domains, while all the reported absent mutations are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shifts of frame change</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="97">
+                    <text>SOX9 shifts of frame change frame change, like our data, is able to truncate its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shifts of frame change</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="98">
+                    <text>SOX9 shifts of frame change has the ability to truncate its two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shifts of frame change</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="99">
+                    <text>SOX9 shifts of frame change have the probability of truncating its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">SOX9 shifts of frame change</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="100">
+                    <text>SOX9 shifts of frame change may have truncated its two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shifts of frame change</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="101">
+                    <text>SOX9 shifts of frame change, as our data show, have the probability of truncating its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shifts of frame change</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="102">
+                    <text>SOX9 shifts of frame change, as shown by our data, is observed to truncate its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">SOX9 shifts of frame change</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="103">
+                    <text>To evaluate the role of A1 N-term (M.MspI ), 2-hydroxy-5-nitrobenzyl bromide (HNBB) will be used to truncate A1 (M.MspI) between waste 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="3">waste 34 and 35</arg>
+                </example>
+                <example src="PERMUTATE" no="104">
+                    <text>To evaluate the role of A1 N-term (M.MspI), 2-hydroxy-5-nitrobenzyl bromide (HNBB) can be used to truncate A1 (M.MspI) between residue 34 and 35.</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="3">residue 34 and 35</arg>
+                </example>
+                <example src="PERMUTATE" no="105">
+                    <text>To evaluate the role of A1 N-terminal (M.MspI), 2-hydroxy-5-nitrobenzyl bromide (HNBB) is used to truncate A1 (M.MspI) between residence 34 and 35 to evaluate the role of A1 N-terminal (M.MspI), 2-hydroxy-5-nitrobenzyl bromide (HNBB) is used to trunca</text>
+                    <arg n="0">2-hydroxy-5-nitrobenzyl bromide (HNBB)</arg>
+                    <arg n="3">residence 34 and 35</arg>
+                </example>
+                <example src="PERMUTATE" no="106">
+                    <text>frameshift SOX9 actually truncated its two activation domains while all the missing mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="107">
+                    <text>frameshift SOX9 has been shown to truncate to its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="108">
+                    <text>frameshift SOX9 has the ability to truncate its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="109">
+                    <text>frameshift SOX9 have the probability of actually truncating its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="110">
+                    <text>frameshift SOX9 have the probability of actually truncating six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="111">
+                    <text>frameshift SOX9 have truncated six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="112">
+                    <text>frameshift SOX9 is able to truncate its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="113">
+                    <text>frameshift SOX9 is likely to truncate its two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="114">
+                    <text>frameshift SOX9 is likely to truncate six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="115">
+                    <text>frameshift SOX9 may have truncated six activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="116">
+                    <text>frameshift SOX9 may truncate its two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="117">
+                    <text>frameshift SOX9 mutations actually truncated its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="118">
+                    <text>frameshift SOX9 mutations actually truncated six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="119">
+                    <text>frameshift SOX9 mutations can truncate six activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="120">
+                    <text>frameshift SOX9 mutations can truncate six activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="121">
+                    <text>frameshift SOX9 mutations frame change, as shown in our data, truncated six activation domains, while all remaining mutations reported so far were in the high-mobility DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="122">
+                    <text>frameshift SOX9 mutations frame change, like our data, is able to truncate six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="123">
+                    <text>frameshift SOX9 mutations has been shown to truncate six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="124">
+                    <text>frameshift SOX9 mutations has the ability to truncate both activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="125">
+                    <text>frameshift SOX9 mutations has the ability to truncate its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="126">
+                    <text>frameshift SOX9 mutations has the ability to truncate six activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="127">
+                    <text>frameshift SOX9 mutations has the ability to truncate their two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="128">
+                    <text>frameshift SOX9 mutations have truncated both activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="129">
+                    <text>frameshift SOX9 mutations have truncated its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="130">
+                    <text>frameshift SOX9 mutations is able to actually truncate its two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="131">
+                    <text>frameshift SOX9 mutations is able to truncate six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="132">
+                    <text>frameshift SOX9 mutations is likely to actually truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="133">
+                    <text>frameshift SOX9 mutations is likely to truncate both activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="134">
+                    <text>frameshift SOX9 mutations is likely to truncate its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="135">
+                    <text>frameshift SOX9 mutations is likely to truncate six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="136">
+                    <text>frameshift SOX9 mutations is likely to truncate six activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="137">
+                    <text>frameshift SOX9 mutations is likely to truncate their two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="138">
+                    <text>frameshift SOX9 mutations is likely to truncate their two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="139">
+                    <text>frameshift SOX9 mutations is likely to truncating six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="140">
+                    <text>frameshift SOX9 mutations is likely to truncating their two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="141">
+                    <text>frameshift SOX9 mutations may have truncated its two activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="142">
+                    <text>frameshift SOX9 mutations may have truncated six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="143">
+                    <text>frameshift SOX9 mutations truncated both activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="144">
+                    <text>frameshift SOX9 mutations truncated their two activation domains, while all the missing mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="145">
+                    <text>frameshift SOX9 mutations will actually truncate six activation domains, while all incorrect-sense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="146">
+                    <text>frameshift SOX9 mutations will truncate its two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="147">
+                    <text>frameshift SOX9 mutations will truncate six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="148">
+                    <text>frameshift SOX9 mutations, as our data show, has the ability to truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="149">
+                    <text>frameshift SOX9 mutations, as our data show, is likely to truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="150">
+                    <text>frameshift SOX9 mutations, as our data show, is likely to truncate their two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="151">
+                    <text>frameshift SOX9 mutations, as our data show, it is likely that their two activation domains is actually truncated, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="152">
+                    <text>frameshift SOX9 mutations, as our data show, truncated both activation domains, while all the absent mutations reported so far were in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="153">
+                    <text>frameshift SOX9 mutations, as our data show, truncated six activation domains, while all the absent mutations reported so far were in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="154">
+                    <text>frameshift SOX9 mutations, as our data, can truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="155">
+                    <text>frameshift SOX9 mutations, as our data, may truncate both activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="156">
+                    <text>frameshift SOX9 mutations, as our data, may truncate their two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="157">
+                    <text>frameshift SOX9 mutations, as shown by our data, are able to truncate their two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="158">
+                    <text>frameshift SOX9 mutations, as shown by our data, has been shown to truncate their two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="159">
+                    <text>frameshift SOX9 mutations, as shown by our data, have the ability to truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="160">
+                    <text>frameshift SOX9 mutations, as shown by our data, have the probability of truncating its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="161">
+                    <text>frameshift SOX9 mutations, as shown by our data, have truncated its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="162">
+                    <text>frameshift SOX9 mutations, as shown by our data, is observed to actually truncate six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="163">
+                    <text>frameshift SOX9 mutations, as shown by our data, is observed to actually truncate their two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="164">
+                    <text>frameshift SOX9 mutations, as shown by our data, will actually truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="165">
+                    <text>frameshift SOX9 mutations, like our data, are able to truncate both activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">both activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="166">
+                    <text>frameshift SOX9 mutations, such as our data, can truncate their two activation domains, while all remaining mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9 mutations</arg>
+                    <arg n="2">their two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="167">
+                    <text>frameshift SOX9 truncated six activation domains, while all the missing mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="168">
+                    <text>frameshift SOX9 will actually truncate six activation domains, while all incorrect-sense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="169">
+                    <text>frameshift SOX9, as our data show, are observed to truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="170">
+                    <text>frameshift SOX9, as our data show, may have truncated its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="171">
+                    <text>frameshift SOX9, as our data, can truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="172">
+                    <text>frameshift SOX9, as our data, may truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="173">
+                    <text>frameshift SOX9, as shown by our data, are able to truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="174">
+                    <text>frameshift SOX9, as shown by our data, are able to truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="175">
+                    <text>frameshift SOX9, as shown by our data, can truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="176">
+                    <text>frameshift SOX9, as shown by our data, can truncate six activation domains, while all remaining mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="177">
+                    <text>frameshift SOX9, as shown by our data, has shown that it actually truncates six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="178">
+                    <text>frameshift SOX9, as shown by our data, is observed to actually truncate six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">frameshift SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="179">
+                    <text>merchshift SOX9 mutations has the ability to truncate six activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="180">
+                    <text>merchshift SOX9 mutations have the probability of actually truncating six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="181">
+                    <text>merchshift SOX9 mutations is likely to truncating six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="182">
+                    <text>merchshift SOX9 mutations may have truncated six activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="183">
+                    <text>merchshift SOX9 mutations may truncate six activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="184">
+                    <text>merchshift SOX9 mutations truncated six activation domains, while all the missing mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="185">
+                    <text>merchshift SOX9 mutations, as our data show, are observed to truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="186">
+                    <text>merchshift SOX9 mutations, as our data show, truncated six activation domains, while all the absent mutations reported so far were in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="187">
+                    <text>merchshift SOX9 mutations, as shown by our data, is observed to truncate six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">merchshift SOX9 mutations</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="188">
+                    <text>of SOX9 actually truncated six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="189">
+                    <text>of SOX9 frame change, as shown in our data, is observed to truncate the two activation domains, while all the reported absent mutations are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="190">
+                    <text>of SOX9 has the ability to truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="191">
+                    <text>of SOX9 has the ability to truncate the two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="192">
+                    <text>of SOX9 have the probability of actually truncating six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="193">
+                    <text>of SOX9 have truncated six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="194">
+                    <text>of SOX9 is likely to truncate six activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="195">
+                    <text>of SOX9 may have truncated the two activation domains, while all missense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="196">
+                    <text>of SOX9 may have truncated the two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="197">
+                    <text>of SOX9 truncated six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="198">
+                    <text>of SOX9 truncated six activation domains, while all the missing mutations reported so far were in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="199">
+                    <text>of SOX9 will actually truncate the two activation domains, while all incorrect-sense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="200">
+                    <text>of SOX9, as our data show, is likely to truncate the two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="201">
+                    <text>of SOX9, as our data show, it is likely that the two activation domains is actually truncated, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="202">
+                    <text>of SOX9, as our data show, truncated the two activation domains, while all the absent mutations reported so far were in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="203">
+                    <text>of SOX9, as our data, are susceptible to truncate the two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="204">
+                    <text>of SOX9, as shown by our data, actually truncated six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="205">
+                    <text>of SOX9, as shown by our data, actually truncated the two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="206">
+                    <text>of SOX9, as shown by our data, can truncate six activation domains, while all remaining mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="207">
+                    <text>of SOX9, as shown by our data, can truncate the two activation domains, while all incorrect-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="208">
+                    <text>of SOX9, as shown by our data, has shown that it actually truncates the two activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="209">
+                    <text>of SOX9, as shown by our data, has shown to truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="210">
+                    <text>of SOX9, as shown by our data, have truncated six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="211">
+                    <text>of SOX9, as shown by our data, have truncated the two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">the two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="212">
+                    <text>of SOX9, as shown by our data, is observed to truncate six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="213">
+                    <text>of SOX9, as shown by our data, will truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">of SOX9</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="214">
+                    <text>soX9 shift frame changes has the ability to actually truncate its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="215">
+                    <text>soX9 shift frame changes has the ability to truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="216">
+                    <text>soX9 shift frame changes have the probability of truncating six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="217">
+                    <text>soX9 shift frame changes is able to actually truncate six activation domains, while all counter-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="218">
+                    <text>soX9 shift frame changes is likely to truncate six activation domains, while all the missing mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="219">
+                    <text>soX9 shift frame changes is likely to truncate six activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="220">
+                    <text>soX9 shift frame changes is likely to truncating its two activation domains, while all the missing mutations reported so far fall within the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="221">
+                    <text>soX9 shift frame changes may have truncated its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="222">
+                    <text>soX9 shift frame changes truncated its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="223">
+                    <text>soX9 shift frame changes, as our data show, can truncate six activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="224">
+                    <text>soX9 shift frame changes, as our data show, have the probability of truncating its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="225">
+                    <text>soX9 shift frame changes, as our data, are susceptible to truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="226">
+                    <text>soX9 shift frame changes, as shown by our data, are able to truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="227">
+                    <text>soX9 shift frame changes, as shown by our data, are able to truncate six activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="228">
+                    <text>soX9 shift frame changes, as shown by our data, can truncate six activation domains, while all remaining mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="229">
+                    <text>soX9 shift frame changes, as shown by our data, has shown to truncate its two activation domains, while all the absent mutations reported so far are in the high mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="230">
+                    <text>soX9 shift frame changes, as shown by our data, have the probability of truncating six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="231">
+                    <text>soX9 shift frame changes, as shown by our data, have truncated its two activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="232">
+                    <text>soX9 shift frame changes, as shown by our data, will actually truncate its two activation domains, while all missense mutations reported to date are in the high-mobility group DNA-binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">its two activation domains</arg>
+                </example>
+                <example src="PERMUTATE" no="233">
+                    <text>soX9 shift frame changes, as shown by our data, will truncate six activation domains, while all common-sense mutations reported to date are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">soX9 shift frame changes</arg>
+                    <arg n="2">six activation domains</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>Almost all A0 mutations (TSC1) are found as dramatically truncated Strat5a proteins truncated by C-terminal.</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminal</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>Almost all A0 mutations (TSC1) are found as dramatically truncated protein.</text>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>Almost all A0 mutations (TSC1) are found to truncate PVR.</text>
+                    <arg n="1">PVR</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>Almost all A0 mutations (TSC1) are found to truncate Stat5a truncated proteins by C.</text>
+                    <arg n="1">Stat5a truncated proteins by C</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>Almost all A0 mutations (TSC1) are found to truncate Strat5a truncated by C-terminally.</text>
+                    <arg n="1">Strat5a truncated by C-terminally</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>Almost all A0 mutations (TSC1) are found to truncate a protein expressed by bacteria.</text>
+                    <arg n="1">a protein expressed by bacteria</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>Almost all A0 mutations (TSC1) are found to truncate the molecule Stat5a.</text>
+                    <arg n="1">the molecule Stat5a</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>Almost all A0 mutations (TSC1) have dramatically truncated Strat5a proteins truncated by C-terminal.</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminal</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>Electrophoric mobility tests showed that the total length of the BCL6 protein extracted from infected body cells and PVR that contains the BCL6 zinc fingers and that has been strongly truncated can specifically bind to the DNA of the HIV-1 U3 promoter/valuer region.</text>
+                    <arg n="1">PVR</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>Electrophoric mobility tests showed that the total length of the BCL6 protein extracted from infected body cells and the molecule Stat5a that contains the BCL6 zinc fingers and that has been strongly truncated can specifically bind to the DNA of the HIV-1 U3 promoter/valuer region.</text>
+                    <arg n="1">the molecule Stat5a</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>For the generation of this protein, PVR can be truncated before the PP reason (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP reason</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>For the generation of this protein, PVR is likely to be truncated before the PP-motif (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>For the generation of this protein, PVR is truncated before P motif (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">P motif</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>For the generation of this protein, PVR may have been truncated before P motif (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">P motif</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>For the generation of this protein, PVR may have been truncated before PP-motif (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">PP-motif</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>For the generation of this protein, PVR will be truncated before PP-motif (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">PP-motif</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>For the generation of this protein, PVR will be truncated before PP-motif (`PP-motif_) present in the binding between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">PP-motif</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>For the generation of this protein, PVR will be truncated before the PP reason (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP reason</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>For the generation of this protein, Stat5a proteins truncated by C-terminal can be truncated before amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminal</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>For the generation of this protein, Stat5a proteins truncated by C-terminal is able to be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminal</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>For the generation of this protein, Stat5a proteins truncated by C-terminally can be truncated before amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="22">
+                    <text>For the generation of this protein, Stat5a proteins truncated by C-terminally is able to be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="23">
+                    <text>For the generation of this protein, Stat5a proteins truncated by C-terminally is likely to be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="24">
+                    <text>For the generation of this protein, Stat5a proteins truncated by C-terminally is truncated before amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="25">
+                    <text>For the generation of this protein, Stat5a truncated proteins C was truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Stat5a truncated proteins C</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="26">
+                    <text>For the generation of this protein, Stat5a truncated proteins by C is likely to be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Stat5a truncated proteins by C</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="27">
+                    <text>For the generation of this protein, State 5th C truncated proteins can be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">State 5th C truncated proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="28">
+                    <text>For the generation of this protein, State 5th C truncated proteins was truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">State 5th C truncated proteins</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="29">
+                    <text>For the generation of this protein, Strat5a proteins truncated by C-terminal is truncated before amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminal</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="30">
+                    <text>For the generation of this protein, Strat5a proteins truncated by C-terminal will be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminal</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="31">
+                    <text>For the generation of this protein, Strat5a proteins truncated by C-terminally is truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="32">
+                    <text>For the generation of this protein, Strat5a proteins truncated by C-terminally will be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="33">
+                    <text>For the generation of this protein, Strat5a truncated by C-terminally can be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Strat5a truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="34">
+                    <text>For the generation of this protein, Strat5a truncated by C-terminally is able to be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Strat5a truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="35">
+                    <text>For the generation of this protein, Strat5a truncated by C-terminally is able to be truncated before amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Strat5a truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="36">
+                    <text>For the generation of this protein, Strat5a truncated by C-terminally is likely to be truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Strat5a truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="37">
+                    <text>For the generation of this protein, Strat5a truncated by C-terminally may have been truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Strat5a truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="38">
+                    <text>For the generation of this protein, Strat5a truncated proteins by C is truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Strat5a truncated proteins by C</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="39">
+                    <text>For the generation of this protein, it is likely that Stat5a proteins truncated by C-terminal will be truncated before amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminal</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="40">
+                    <text>For the generation of this protein, it is observed that PVR is truncated before PP-motif (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">PP-motif</arg>
+                </example>
+                <example src="REPLACE" no="41">
+                    <text>For the generation of this protein, it is observed that PVR is truncated before PP-reason (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">PP-reason</arg>
+                </example>
+                <example src="REPLACE" no="42">
+                    <text>For the generation of this protein, it is observed that PVR is truncated before the PP-motif (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">the PP-motif</arg>
+                </example>
+                <example src="REPLACE" no="43">
+                    <text>For the generation of this protein, it is observed that Stat5a truncated proteins by C is truncated before amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Stat5a truncated proteins by C</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="44">
+                    <text>For the generation of this protein, it is observed that Strat5a proteins truncated by C-terminally is truncated before amino acids 762 or 773 (`PP-motif_) present at the junction between domains 2 and 3 (figure 1).</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="45">
+                    <text>For the generation of this protein, the PVR was truncated before the PP-motif (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">PVR</arg>
+                    <arg n="3">PP-motif</arg>
+                </example>
+                <example src="REPLACE" no="46">
+                    <text>For the generation of this protein, the Stat5a truncated proteins by C was truncated before the amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Stat5a truncated proteins by C</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="47">
+                    <text>For the generation of this protein, the Strat5a proteins truncated by C-terminal was truncated before the amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminal</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="48">
+                    <text>For the generation of this protein, the Strat5a proteins truncated by C-terminally was truncated before the amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="49">
+                    <text>For the generation of this protein, the Strat5a truncated by C-terminally is thought to be truncated before the amino acids 762 or 773 (`PP-motif_) present in the binding of domains 2 to 3 (figure 1).</text>
+                    <arg n="1">Strat5a truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="50">
+                    <text>Most of the alterations found were the truncation Stat5a truncated proteins C through A0 (senseless mutations (32%), insertions or deletions (29.6%) or truncate alterations (6.2%), although the values were biased by the methods used, and in sequenced areas, about 50% of all mutations were absent or on table.</text>
+                    <arg n="1">Stat5a truncated proteins C</arg>
+                </example>
+                <example src="REPLACE" no="51">
+                    <text>Most of the alterations found were the truncation State 5th C truncated proteins through A0 (senseless mutations (32%), insertions or deletions (29.6%) or truncate alterations (6.2%), although the values were biased by the methods used, and in sequenced areas, about 50% of all mutations were absent or on table.</text>
+                    <arg n="1">State 5th C truncated proteins</arg>
+                </example>
+                <example src="REPLACE" no="52">
+                    <text>Most of the alterations found were the truncation a protein expressed bacteria through A0 (senseless mutations (32%), insertions or deletions (29.6%) or truncate alterations (6.2%), although the values were biased by the methods used, and in sequenced areas, about 50% of all mutations were absent or on table.</text>
+                    <arg n="1">a protein expressed bacteria</arg>
+                </example>
+                <example src="REPLACE" no="53">
+                    <text>Most of the alterations found were the truncation a protein expressing bacteria through A0 (senseless mutations (32%), insertions or deletions (29.6%) or truncate alterations (6.2%), although the values were biased by the methods used, and in sequenced areas, about 50% of all mutations were absent or on table.</text>
+                    <arg n="1">a protein expressing bacteria</arg>
+                </example>
+                <example src="REPLACE" no="54">
+                    <text>Most of the alterations found were the truncation the molecule Stat5a through A0 (senseless mutations (32%), insertions or deletions (29.6%) or truncate alterations (6.2%), although the values were biased by the methods used, and in sequenced areas, about 50% of all mutations were absent or on table.</text>
+                    <arg n="1">the molecule Stat5a</arg>
+                </example>
+                <example src="REPLACE" no="55">
+                    <text>Practically all A0 mutations (TSC1) are able to dramatically truncate State 5th C truncated proteins.</text>
+                    <arg n="1">State 5th C truncated proteins</arg>
+                </example>
+                <example src="REPLACE" no="56">
+                    <text>Practically all A0 mutations (TSC1) are able to dramatically truncate a protein expressed by bacteria.</text>
+                    <arg n="1">a protein expressed by bacteria</arg>
+                </example>
+                <example src="REPLACE" no="57">
+                    <text>Practically all A0 mutations (TSC1) are able to dramatically truncate the receptor.</text>
+                    <arg n="1">the receptor</arg>
+                </example>
+                <example src="REPLACE" no="58">
+                    <text>Practically all A0 mutations (TSC1) are able to truncate protein.</text>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="59">
+                    <text>Practically all A0 mutations (TSC1) can truncate PVR.</text>
+                    <arg n="1">PVR</arg>
+                </example>
+                <example src="REPLACE" no="60">
+                    <text>Practically all A0 mutations (TSC1) can truncate a bacterially expressed protein.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="REPLACE" no="61">
+                    <text>Practically all A0 mutations (TSC1) can truncate protein.</text>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="62">
+                    <text>Practically all A0 mutations (TSC1) can truncate the molecule Stat5a.</text>
+                    <arg n="1">the molecule Stat5a</arg>
+                </example>
+                <example src="REPLACE" no="63">
+                    <text>Practically all A0 mutations (TSC1) have the ability to dramatically truncate Stat5a truncated proteins C.</text>
+                    <arg n="1">Stat5a truncated proteins C</arg>
+                </example>
+                <example src="REPLACE" no="64">
+                    <text>Practically all A0 mutations (TSC1) have the ability to dramatically truncate the molecule Stat5a.</text>
+                    <arg n="1">the molecule Stat5a</arg>
+                </example>
+                <example src="REPLACE" no="65">
+                    <text>Practically all A0 mutations (TSC1) have the ability to dramatically truncate the receptor.</text>
+                    <arg n="1">the receptor</arg>
+                </example>
+                <example src="REPLACE" no="66">
+                    <text>Practically all A0 mutations (TSC1) have the ability to truncate PVR.</text>
+                    <arg n="1">PVR</arg>
+                </example>
+                <example src="REPLACE" no="67">
+                    <text>Practically all A0 mutations (TSC1) have the ability to truncate Strat5a proteins truncated by C-terminal.</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminal</arg>
+                </example>
+                <example src="REPLACE" no="68">
+                    <text>Practically all A0 mutations (TSC1) have the ability to truncate Strat5a truncated by C-terminally.</text>
+                    <arg n="1">Strat5a truncated by C-terminally</arg>
+                </example>
+                <example src="REPLACE" no="69">
+                    <text>Practically all A0 mutations (TSC1) have the ability to truncate Strat5a truncated proteins by C.</text>
+                    <arg n="1">Strat5a truncated proteins by C</arg>
+                </example>
+                <example src="REPLACE" no="70">
+                    <text>Practically all A0 mutations (TSC1) have the ability to truncate a protein expressed by bacteria.</text>
+                    <arg n="1">a protein expressed by bacteria</arg>
+                </example>
+                <example src="REPLACE" no="71">
+                    <text>Practically all A0 mutations (TSC1) have the ability to truncate the Stat5a molecule.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                </example>
+                <example src="REPLACE" no="72">
+                    <text>Practically all A0 mutations (TSC1) may dramatically truncate State 5th C truncated proteins.</text>
+                    <arg n="1">State 5th C truncated proteins</arg>
+                </example>
+                <example src="REPLACE" no="73">
+                    <text>Practically all A0 mutations (TSC1) may dramatically truncate a protein expressed bacteria.</text>
+                    <arg n="1">a protein expressed bacteria</arg>
+                </example>
+                <example src="REPLACE" no="74">
+                    <text>Practically all A0 mutations (TSC1) may dramatically truncate protein.</text>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="75">
+                    <text>Practically all A0 mutations (TSC1) may dramatically truncate the Stat5a molecule.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                </example>
+                <example src="REPLACE" no="76">
+                    <text>Practically all A0 mutations (TSC1) may have dramatically truncated Stat5a proteins truncated by C-terminal.</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminal</arg>
+                </example>
+                <example src="REPLACE" no="77">
+                    <text>Practically all A0 mutations (TSC1) may have dramatically truncated a protein expressing bacteria.</text>
+                    <arg n="1">a protein expressing bacteria</arg>
+                </example>
+                <example src="REPLACE" no="78">
+                    <text>Practically all A0 mutations (TSC1) may have dramatically truncated protein.</text>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="79">
+                    <text>Practically all A0 mutations (TSC1) may have dramatically truncated the Stat5a molecule.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                </example>
+                <example src="REPLACE" no="80">
+                    <text>Practically all A0 mutations (TSC1) may have truncated PVR.</text>
+                    <arg n="1">PVR</arg>
+                </example>
+                <example src="REPLACE" no="81">
+                    <text>Practically all A0 mutations (TSC1) may have truncated Stat5a proteins truncated by C-terminal.</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminal</arg>
+                </example>
+                <example src="REPLACE" no="82">
+                    <text>Practically all A0 mutations (TSC1) may have truncated State 5th C truncated proteins.</text>
+                    <arg n="1">State 5th C truncated proteins</arg>
+                </example>
+                <example src="REPLACE" no="83">
+                    <text>Practically all A0 mutations (TSC1) may have truncated Strat5a truncated proteins by C.</text>
+                    <arg n="1">Strat5a truncated proteins by C</arg>
+                </example>
+                <example src="REPLACE" no="84">
+                    <text>Practically all A0 mutations (TSC1) truncated Stat5a truncated proteins C.</text>
+                    <arg n="1">Stat5a truncated proteins C</arg>
+                </example>
+                <example src="REPLACE" no="85">
+                    <text>Practically all A0 mutations (TSC1) truncated Stat5a truncated proteins by C.</text>
+                    <arg n="1">Stat5a truncated proteins by C</arg>
+                </example>
+                <example src="REPLACE" no="86">
+                    <text>Practically all A0 mutations (TSC1) truncated a bacterially expressed protein.</text>
+                    <arg n="1">a bacterially expressed protein</arg>
+                </example>
+                <example src="REPLACE" no="87">
+                    <text>Practically all A0 mutations (TSC1) truncated dramatically Stat5a proteins truncated by C-terminal.</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminal</arg>
+                </example>
+                <example src="REPLACE" no="88">
+                    <text>Practically all A0 mutations (TSC1) truncated dramatically a protein expressed by bacteria.</text>
+                    <arg n="1">a protein expressed by bacteria</arg>
+                </example>
+                <example src="REPLACE" no="89">
+                    <text>Practically all A0 mutations (TSC1) truncated dramatically a protein expressing bacteria.</text>
+                    <arg n="1">a protein expressing bacteria</arg>
+                </example>
+                <example src="REPLACE" no="90">
+                    <text>Practically all A0 mutations (TSC1) truncated dramatically the Stat5a molecule.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                </example>
+                <example src="REPLACE" no="91">
+                    <text>Practically all A0 mutations (TSC1) were predicted to dramatically truncate Strat5a proteins truncated by C-terminally.</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminally</arg>
+                </example>
+                <example src="REPLACE" no="92">
+                    <text>Practically all A0 mutations (TSC1) were predicted to dramatically truncate a protein expressed bacteria.</text>
+                    <arg n="1">a protein expressed bacteria</arg>
+                </example>
+                <example src="REPLACE" no="93">
+                    <text>Practically all A0 mutations (TSC1) were predicted to dramatically truncate the Stat5a molecule.</text>
+                    <arg n="1">the Stat5a molecule</arg>
+                </example>
+                <example src="REPLACE" no="94">
+                    <text>Practically all A0 mutations (TSC1) will dramatically truncate Strat5a truncated by C-terminally.</text>
+                    <arg n="1">Strat5a truncated by C-terminally</arg>
+                </example>
+                <example src="REPLACE" no="95">
+                    <text>Practically all A0 mutations (TSC1) will dramatically truncate a protein expressed by bacteria.</text>
+                    <arg n="1">a protein expressed by bacteria</arg>
+                </example>
+                <example src="REPLACE" no="96">
+                    <text>Practically all A0 mutations (TSC1) will truncate Strat5a proteins truncated by C-terminally.</text>
+                    <arg n="1">Strat5a proteins truncated by C-terminally</arg>
+                </example>
+                <example src="REPLACE" no="97">
+                    <text>Practically all a gene orientation approach mutations can truncate the titin gene.</text>
+                    <arg n="0">a gene orientation approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="98">
+                    <text>Practically all a genetic direction approach mutations are able to dramatically truncate the titin gene.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="99">
+                    <text>Practically all a genetic direction approach mutations can dramatically truncate the titin gene.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="100">
+                    <text>Practically all a genetic direction approach mutations can truncate the titin gene.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="101">
+                    <text>Practically all a genetic direction approach mutations have been predicted to dramatically truncate the titin gene.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="102">
+                    <text>Practically all a genetic direction approach mutations have been predicted to truncate the titin gene.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="103">
+                    <text>Practically all a genetic direction approach mutations may have dramatically truncated the titin gene.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="104">
+                    <text>Practically all a genetic direction approach mutations were predicted to truncate the titin gene.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="105">
+                    <text>Practically all altered post-synaptic density level 95 (PSD95) isoforms mutations are able to truncate protein.</text>
+                    <arg n="0">altered post-synaptic density level 95 (PSD95) isoforms</arg>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="106">
+                    <text>Practically all altered post-synaptic density level 95 (PSD95) isoforms mutations may have truncated protein.</text>
+                    <arg n="0">altered post-synaptic density level 95 (PSD95) isoforms</arg>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="107">
+                    <text>Practically all altered postsynaptic density 95 (PSD95) isoforms mutations are able to dramatically truncate protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="108">
+                    <text>Practically all altered postsynaptic density 95 (PSD95) isoforms mutations truncated protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="109">
+                    <text>Practically all altered postsynaptic density 95 (PSD95) isoforms mutations will dramatically truncate protein.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="110">
+                    <text>Practically all altered the post-synaptic density level 95 (PSD95) isoformes mutations have truncated protein.</text>
+                    <arg n="0">altered the post-synaptic density level 95 (PSD95) isoformes</arg>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="111">
+                    <text>Practically all altered the post-synaptic density level 95 (PSD95) isoformes mutations truncated protein.</text>
+                    <arg n="0">altered the post-synaptic density level 95 (PSD95) isoformes</arg>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="112">
+                    <text>Practically all altered the postsynaptic density 95 (PSD95) isoforms mutations may have dramatically truncated the protein.</text>
+                    <arg n="0">altered the postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="113">
+                    <text>Practically all altered the postsynaptic density 95 (PSD95) isoforms mutations were predicted to truncate the protein.</text>
+                    <arg n="0">altered the postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="114">
+                    <text>Practically all alternate postsynaptic density 95 (PSD95) isoforms mutations have dramatically truncated the protein.</text>
+                    <arg n="0">alternate postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="115">
+                    <text>Practically all alternate postsynaptic density 95 (PSD95) isoforms mutations may have truncated the protein.</text>
+                    <arg n="0">alternate postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="116">
+                    <text>Practically all alternated postsynaptic density 95 (PSD95) isoforms mutations have the ability to truncate the protein.</text>
+                    <arg n="0">alternated postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="117">
+                    <text>Practically all alternated postsynaptic density 95 (PSD95) isoforms mutations truncated the protein.</text>
+                    <arg n="0">alternated postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="118">
+                    <text>Previous studies using the Encephalomyocarditis Virus Type a gene orientation approach and the Mengo virus, and variants of these viruses, which may have been genetically designed to truncate or replace the titin gene produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">a gene orientation approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="119">
+                    <text>Previous studies using the Encephalomyocarditis Virus Type a genetic direction approach and the Mengo virus, and variants of these viruses, which are genetically designed to truncate or replace the titin gene produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="120">
+                    <text>Previous studies using the Encephalomyocarditis Virus Type altered the postsynaptic density 95 (PSD95) isoforms and Mengo virus, and variants of these viruses, which may have been genetically designed to truncate or replace the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">altered the postsynaptic density 95 (PSD95) isoforms</arg>
+                </example>
+                <example src="REPLACE" no="121">
+                    <text>Previous studies using the Encephalomyocarditis Virus Type altered the postsynaptic density 95 (PSD95) isoforms and the Mengo virus, and variants of these viruses, which are genetically designed to truncate or replace the protein produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">altered the postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="122">
+                    <text>Previous studies using the Encephalomyocarditis Virus Type alternate postsynaptic density 95 (PSD95) isoforms and the Mengo virus, and variants of these viruses, which were genetically designed to truncate or replace the protein produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">alternate postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="123">
+                    <text>Previous studies using the Encephalomyocarditis Virus Type alternated postsynaptic density 95 (PSD95) isoforms and the Mengo virus, and variants of these viruses, which are genetically designed to truncate or replace the protein produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">alternated postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="124">
+                    <text>Previous studies using the Encephalomyocarditis Virus type a gene orientation approach and the Mengo virus, and variants of these viruses, which are likely to be genetic engineering to truncate or replace the titin gene produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">a gene orientation approach</arg>
+                    <arg n="1">the titin gene</arg>
+                </example>
+                <example src="REPLACE" no="125">
+                    <text>Previous studies using the Encephalomyocarditis Virus type alternated postsynaptic density 95 (PSD95) isoforms and Mengo virus, and variants of these viruses, which are probably genetic engineering to truncate or replace the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">alternated postsynaptic density 95 (PSD95) isoforms</arg>
+                </example>
+                <example src="REPLACE" no="126">
+                    <text>Previous studies using the Encephalomyocarditis virus type altered post-synaptic density level 95 (PSD95) isoforms and the Mengo virus, and variants of these viruses ), which were genetically designed to truncate or replace protein produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">altered post-synaptic density level 95 (PSD95) isoforms</arg>
+                    <arg n="1">protein</arg>
+                </example>
+                <example src="REPLACE" no="127">
+                    <text>Previous studies using the Encephalomyocarditis virus type altered postsynaptic density 95 (PSD95) isoforms and the Mengo virus, and variants of these viruses ), observed that genetic engineering is able to replace or truncate the protein produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="128">
+                    <text>Previous studies using the Encephalomyocarditis virus type altered the postsynaptic density 95 (PSD95) isoforms and the Mengo virus, and variants of these viruses ), which are observed as genetic engineering to replace or truncate the protein produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">altered the postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="129">
+                    <text>Previous studies using the Encephalomyocarditis virus type altered the postsynaptic density 95 (PSD95) isoforms and the Mengo virus, and variants of these viruses) which will be genetically designed to truncate or replace the protein produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">altered the postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="130">
+                    <text>Previous studies using the Encephalomyocarditis virus type alternate postsynaptic density 95 (PSD95) isoforms and the Mengo virus, and variants of these viruses ), observed that genetic engineering is able to replace or truncate the protein produced conflicting data on the role of the poly(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">alternate postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="131">
+                    <text>Previous studies using the encephalomiocarditis virus type a genetic direction approach and Mengo virus, and variants of these viruses, which are observed as genetic engineering to replace or truncate the poly(C) sectors, produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                </example>
+                <example src="REPLACE" no="132">
+                    <text>Previous studies using the encephalomiocarditis virus type a genetic direction approach and Mengo virus, and variants of these viruses, which were genetically designed to truncate or replace the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">a genetic direction approach</arg>
+                </example>
+                <example src="REPLACE" no="133">
+                    <text>Previous studies using the encephalomiocarditis virus type altered post-synaptic density level 95 (PSD95) isoforms and Mengo virus, and variants of these viruses, which will be genetically designed to truncate or replace the A1 sectors (poly(C)) produced conflicting data on the role of the polio sector in the virulence of these viruses.</text>
+                    <arg n="0">altered post-synaptic density level 95 (PSD95) isoforms</arg>
+                </example>
+                <example src="REPLACE" no="134">
+                    <text>Previous studies using the encephalomiocarditis virus type altered postsynaptic density 95 (PSD95) isoforms and Mengo virus, and variants of these viruses, which are observed as genetic engineering to replace or truncate the poly(C) sectors, produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                </example>
+                <example src="REPLACE" no="135">
+                    <text>Previous studies using the encephalomiocarditis virus type altered postsynaptic density 95 (PSD95) isoforms and Mengo virus, and variants of these viruses, which have been shown to replace or truncate the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                </example>
+                <example src="REPLACE" no="136">
+                    <text>Previous studies using the encephalomiocarditis virus type altered the post-synaptic density level 95 (PSD95) isoformes and Mengo virus, and variants of these viruses, which are observed as genetic engineering to replace or truncate the poly(C) sectors, produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">altered the post-synaptic density level 95 (PSD95) isoformes</arg>
+                </example>
+                <example src="REPLACE" no="137">
+                    <text>Previous studies using the encephalomiocarditis virus type altered the postsynaptic density 95 (PSD95) isoforms and Mengo virus, and variants of these viruses, which will be genetically designed to truncate or replace the A1 sectors (poly(C)) produced conflicting data on the role of the polio sector in the virulence of these viruses.</text>
+                    <arg n="0">altered the postsynaptic density 95 (PSD95) isoforms</arg>
+                </example>
+                <example src="REPLACE" no="138">
+                    <text>Previous studies using the encephalomiocarditis virus type alternated postsynaptic density 95 (PSD95) isoforms and Mengo virus, and variants of these viruses, have been shown to replace or truncate the protein to produce conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">alternated postsynaptic density 95 (PSD95) isoforms</arg>
+                    <arg n="1">the protein</arg>
+                </example>
+                <example src="REPLACE" no="139">
+                    <text>Previous studies using the encephalomiocarditis virus type alternated postsynaptic density 95 (PSD95) isoforms and Mengo virus, and variants of these viruses, noted that genetic engineering is capable of replacing or truncating the A1 sectors (poli(C)) produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">alternated postsynaptic density 95 (PSD95) isoforms</arg>
+                </example>
+                <example src="REPLACE" no="140">
+                    <text>Previous studies using the encephalomiocarditis virus type alternated postsynaptic density 95 (PSD95) isoforms and Mengo virus, and variants of these viruses, which are observed as genetic engineering to replace or truncate the poly(C) sectors, produced conflicting data on the role of the poli(C) sector in the virulence of these viruses.</text>
+                    <arg n="0">alternated postsynaptic density 95 (PSD95) isoforms</arg>
+                </example>
+                <example src="REPLACE" no="141">
+                    <text>Thus, to truncated a soluble fragment comparable to IC1-2D/190, Stat5a proteins truncated by C-terminally is also liable to truncation before amino acids 762 or 773.</text>
+                    <arg n="1">Stat5a proteins truncated by C-terminally</arg>
+                    <arg n="3">amino acids 762 or 773</arg>
+                </example>
+                <example src="REPLACE" no="142">
+                    <text>altered postsynaptic density 95 (PSD95) isoforms frame change, as our data show, A2 truncated (its two activation domains), while all remaining mutations reported so far are in the high-mobility group DNA binding domain (HMG).</text>
+                    <arg n="0">altered postsynaptic density 95 (PSD95) isoforms</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

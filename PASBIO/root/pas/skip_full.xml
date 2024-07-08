@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+	<predicate lemma="skip">
+		<roleset id="Skip.01" name="" wordnet="1">
+			<roles>
+				<role n="0" descr="agent, causer			// mutation, cell, molecule//
+"/>
+				<role n="1" descr="entity skipped           	// exon, intron, process  //
+"/>
+				<role n="R" descr="results/consequences
+"/>
+			</roles>
+			<example src="MEDLINE" no="1">
+				<text>
+Direct sequencing of the PAF-2 gene revealed a homozygous 1-bp insertion at nucleotide 511 (511 insT) in one patient with group C Zellweger syndrome (ZS), which introduces a premature termination codon in the PAF-2 gene, and, in the second patient, revealed a splice-site mutation in intron 3 (IVS3+1G--&gt;A), which skipped exon 3, an event that leads to peroxisome deficiency.       						
+
+</text>
+				<arg n="0">a splice-site mutation in intron 3 (IVS3+1G--&gt;A)
+</arg>
+				<arg n="1">exon 3
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>1	Direct	direct	attr:&gt;2	@A&gt; %&gt;N A ABS
+</line>
+					<line>2	sequencing	sequencing	subj:&gt;7	@SUBJ %NH N NOM SG
+</line>
+					<line>3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>4	the	the	det:&gt;6	@DN&gt; %&gt;N DET
+</line>
+					<line>5	PAF-2	paf-2	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>6	gene	gene	pcomp:&gt;3	@&lt;P %NH N NOM SG
+</line>
+					<line>7	revealed	reveal	main:&gt;0	@+FMAINV %VA V PAST
+</line>
+					<line>8	a	a	det:&gt;11	@DN&gt; %&gt;N DET SG
+</line>
+					<line>9	homozygous	homozygous	attr:&gt;10	@A&gt; %&gt;N A ABS
+</line>
+					<line>10	1-bp	1-bp	attr:&gt;11	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>11	insertion	insertion	obj:&gt;7	@OBJ %NH N NOM SG
+</line>
+					<line>12	at	at	ha:&gt;7	@ADVL %EH PREP
+</line>
+					<line>13	nucleotide	nucleotide	pcomp:&gt;12	@&lt;P %NH N NOM SG
+</line>
+					<line>14	511	511	qn:&gt;16	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>15	(	(
+</line>
+					<line>16	511	511	mod:&gt;13	@NH %NH NUM CARD
+</line>
+					<line>17	insT	inst		@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+</line>
+					<line>18	)	)
+</line>
+					<line>19	in	in		@ADVL %EH PREP
+</line>
+					<line>20	one	one	qn:&gt;21	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>21	patient	patient	pcomp:&gt;19	@&lt;P %NH A ABS
+</line>
+					<line>22	with	with	mod:&gt;21	@&lt;NOM %N&lt; PREP
+</line>
+					<line>23	group	group	attr:&gt;24	@A&gt; %&gt;N N NOM
+</line>
+					<line>24	C	c	attr:&gt;25	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>25	Zellweger	zellweger	attr:&gt;26	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>26	syndrome	syndrome	cc:&gt;31	@SUBJ %NH N NOM SG
+</line>
+					<line>27	(	(
+</line>
+					<line>28	ZS	zs	mod:&gt;26	@NH %NH ABBR NOM SG
+</line>
+					<line>29	)	)
+</line>
+					<line>30	,	,
+</line>
+					<line>31	which	which	subj:&gt;32	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+					<line>32	introduces	introduce		@+FMAINV %VA V PRES SG3
+</line>
+					<line>33	a	a	det:&gt;36	@DN&gt; %&gt;N DET SG
+</line>
+					<line>34	premature	premature	attr:&gt;35	@A&gt; %&gt;N A ABS
+</line>
+					<line>35	termination	termination	attr:&gt;36	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>36	codon	codon	obj:&gt;32	@OBJ %NH N NOM SG
+</line>
+					<line>37	in	in	loc:&gt;32	@ADVL %EH PREP
+</line>
+					<line>38	the	the	det:&gt;40	@DN&gt; %&gt;N DET
+</line>
+					<line>39	PAF-2	paf-2	attr:&gt;40	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>40	gene	gene	pcomp:&gt;37	@&lt;P %NH N NOM SG
+</line>
+					<line>41	,	,
+</line>
+					<line>42	and	and	cc:&gt;32	@CC %CC CC
+</line>
+					<line>43	,	,
+</line>
+					<line>44	in	in	meta:&gt;49	@ADVL %EH PREP
+</line>
+					<line>45	the	the	det:&gt;47	@DN&gt; %&gt;N DET
+</line>
+					<line>46	second	second	attr:&gt;47	@A&gt; %&gt;N NUM ORD
+</line>
+					<line>47	patient	patient	pcomp:&gt;44	@&lt;P %NH N NOM SG
+</line>
+					<line>48	,	,
+</line>
+					<line>49	revealed	reveal	cc:&gt;32	@+FMAINV %VA V PAST
+</line>
+					<line>50	a	a	det:&gt;52	@DN&gt; %&gt;N DET SG
+</line>
+					<line>51	splice-site	splice-site	attr:&gt;52	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>52	mutation	mutation	obj:&gt;49	@OBJ %NH N NOM SG
+</line>
+					<line>53	in	in	ha:&gt;49	@ADVL %EH PREP
+</line>
+					<line>54	intron	intron	pcomp:&gt;53	@&lt;P %NH N NOM SG
+</line>
+					<line>55	3	3	qn:&gt;58	@QN&gt; %&gt;N NUM CARD
+</line>
+					<line>56	(	(
+</line>
+					<line>57	IVS3	ivs3	attr:&gt;58	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>58	+1G	+1g		@APP %NH NUM CARD
+</line>
+					<line>59	--	-
+</line>
+					<line>60	&gt;	&gt;
+</line>
+					<line>61	A)	a)		@SUBJ %NH ABBR NOM SG	@APP %NH ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+</line>
+					<line>62	,	,
+</line>
+					<line>63	which	which	subj:&gt;64	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+					<line>64	skipped	skip	mod:&gt;61	@+FMAINV %VA V PAST
+</line>
+					<line>65	exon	exon	obj:&gt;64	@OBJ %NH N NOM SG
+</line>
+					<line>66	3	3	mod:&gt;65	@&lt;NOM %N&lt; NUM CARD
+</line>
+					<line>67	,	,
+</line>
+					<line>68	an	an	det:&gt;69	@DN&gt; %&gt;N DET SG
+</line>
+					<line>69	event	event	mod:&gt;66	@APP %NH N NOM SG
+</line>
+					<line>70	that	that	subj:&gt;71	@SUBJ %NH &lt;Rel&gt; PRON
+</line>
+					<line>71	leads	lead	mod:&gt;69	@+FMAINV %VA V PRES SG3
+</line>
+					<line>72	to	to	ha:&gt;71	@ADVL %EH PREP
+</line>
+					<line>73	peroxisome	peroxisome	attr:&gt;74	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>74	deficiency	deficiency	pcomp:&gt;72	@&lt;P %NH N NOM SG
+</line>
+					<line>75	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="2">
+				<text>
+Finally, a stop codon-containing exon (exon 4) can be skipped by alternative splicing and can generate a transcript that is predicted to encode a fusion protein.  
+
+</text>
+				<arg n="0">alternative splicing
+</arg>
+				<arg n="1">a stop codon-containing exon (exon 4)
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>1	Finally	finally		@ADVL %EH ADV
+</line>
+					<line>2	,	,
+</line>
+					<line>3	a	a	det:&gt;6	@DN&gt; %&gt;N DET SG
+</line>
+					<line>4	stop	stop	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>5	codon-containing	codon-containing	attr:&gt;6	@A&gt; %&gt;N &lt;?&gt; A ABS
+</line>
+					<line>6	exon	exon		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@PCOMPL-S %NH N NOM SG
+</line>
+					<line>7	(	(
+</line>
+					<line>8	exon	exon		@NH %NH N NOM SG	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>9	4	4		@NH %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+</line>
+					<line>10	)	)
+</line>
+					<line>11	can	can	v-ch:&gt;12	@+FAUXV %AUX V AUXMOD
+</line>
+					<line>12	be	be	v-ch:&gt;13	@-FAUXV %AUX V INF
+</line>
+					<line>13	skipped	skip		@-FMAINV %VP EN
+</line>
+					<line>14	by	by	agt:&gt;13	@ADVL %EH PREP
+</line>
+					<line>15	alternative	alternative	attr:&gt;16	@A&gt; %&gt;N A ABS
+</line>
+					<line>16	splicing	splicing	pcomp:&gt;14	@&lt;P %NH N NOM SG
+</line>
+					<line>17	and	and	cc:&gt;13	@CC %CC CC
+</line>
+					<line>18	can	can	v-ch:&gt;19	@+FAUXV %AUX V AUXMOD
+</line>
+					<line>19	generate	generate	cc:&gt;13	@-FMAINV %VA V INF
+</line>
+					<line>20	a	a	det:&gt;21	@DN&gt; %&gt;N DET SG
+</line>
+					<line>21	transcript	transcript	obj:&gt;19	@OBJ %NH N NOM SG
+</line>
+					<line>22	that	that	subj:&gt;23	@SUBJ %NH &lt;Rel&gt; PRON
+</line>
+					<line>23	is	be	v-ch:&gt;24	@+FAUXV %AUX V PRES SG3
+</line>
+					<line>24	predicted	predict	mod:&gt;21	@-FMAINV %VP EN
+</line>
+					<line>25	to	to	pm:&gt;26	@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>26	encode	encode	cnt:&gt;24	@-FMAINV %VA V INF
+</line>
+					<line>27	a	a	det:&gt;29	@DN&gt; %&gt;N DET SG
+</line>
+					<line>28	fusion	fusion	attr:&gt;29	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>29	protein	protein	obj:&gt;26	@OBJ %NH N NOM SG
+</line>
+					<line>30	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="3">
+				<text>
+Megakaryocytes undergo an endomitotic cell cycle, which consists of an S phase interrupted by a gap, during which the cells enter mitosis but skip anaphase B and cytokinesis.
+
+</text>
+				<arg n="0">the cells
+</arg>
+				<arg n="1">anaphase B and cytokinesis
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>1	Megakaryocytes	megakaryocytes	subj:&gt;2	@SUBJ %NH &lt;?&gt; N NOM SG
+</line>
+					<line>2	undergo	undergo		@+FMAINV %VA V PRES
+</line>
+					<line>3	an	an	det:&gt;6	@DN&gt; %&gt;N DET SG
+</line>
+					<line>4	endomitotic	endomitotic	attr:&gt;5	@A&gt; %&gt;N &lt;?&gt; A ABS
+</line>
+					<line>5	cell	cell	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>6	cycle	cycle	comp:&gt;2	@PCOMPL-S %NH N NOM SG
+</line>
+					<line>7	,	,
+</line>
+					<line>8	which	which	subj:&gt;9	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+					<line>9	consists	consist	meta:&gt;2	@+FMAINV %VA V PRES SG3
+</line>
+					<line>10	of	of	phr:&gt;9	@ADVL %EH PREP
+</line>
+					<line>11	an	an	det:&gt;13	@DN&gt; %&gt;N DET SG
+</line>
+					<line>12	S	s	attr:&gt;13	@A&gt; %&gt;N ABBR NOM SG
+</line>
+					<line>13	phase	phase	pcomp:&gt;10	@&lt;P %NH N NOM SG
+</line>
+					<line>14	interrupted	interrupt		@+FMAINV %VA V PAST
+</line>
+					<line>15	by	by	ha:&gt;14	@ADVL %EH PREP
+</line>
+					<line>16	a	a	det:&gt;17	@DN&gt; %&gt;N DET SG
+</line>
+					<line>17	gap	gap	pcomp:&gt;15	@&lt;P %NH N NOM SG
+</line>
+					<line>18	,	,
+</line>
+					<line>19	during	during	cla:&gt;23	@ADVL %EH PREP
+</line>
+					<line>20	which	which	pcomp:&gt;19	@&lt;P %NH &lt;Rel&gt; PRON WH NOM
+</line>
+					<line>21	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+</line>
+					<line>22	cells	cell	subj:&gt;23	@SUBJ %NH N NOM PL
+</line>
+					<line>23	enter	enter	mod:&gt;17	@+FMAINV %VA V PRES
+</line>
+					<line>24	mitosis	mitosis	obj:&gt;23	@OBJ %NH N NOM SG
+</line>
+					<line>25	but	but	cc:&gt;23	@CC %CC CC
+</line>
+					<line>26	skip	skip	cc:&gt;23	@+FMAINV %VA V PRES
+</line>
+					<line>27	anaphase	anaphase	attr:&gt;28	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>28	B	b	obj:&gt;26	@OBJ %NH ABBR NOM SG
+</line>
+					<line>29	and	and	cc:&gt;28	@CC %CC CC
+</line>
+					<line>30	cytokinesis	cytokinesis	cc:&gt;28	@OBJ %NH N NOM SG
+</line>
+					<line>31	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="MEDLINE" no="4">
+				<text>
+In the case of the 12-membered ring macrolide, an acyl-enzyme intermediate on PikAIII is able to efficiently skip the last extension step and is cyclized by the TE domain of PikAIV, presumably as a result of a PikAIII-PikAIV interaction.
+
+</text>
+				<arg n="0">an acyl-enzyme intermediate on PikAIII
+</arg>
+				<arg n="1">the last extension step
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>1	In	in	cla:&gt;15	@ADVL %EH PREP
+</line>
+					<line>2	the	the	det:&gt;3	@DN&gt; %&gt;N DET
+</line>
+					<line>3	case	case	pcomp:&gt;1	@&lt;P %NH N NOM SG
+</line>
+					<line>4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>5	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+</line>
+					<line>6	12-membered	12-membered	attr:&gt;7	@A&gt; %&gt;N &lt;?&gt; A ABS
+</line>
+					<line>7	ring	ring	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>8	macrolide	macrolide	pcomp:&gt;4	@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+					<line>9	,	,
+</line>
+					<line>10	an	an	det:&gt;11	@DN&gt; %&gt;N DET SG
+</line>
+					<line>11	acyl-enzyme	acyl-enzyme	subj:&gt;15	@SUBJ %NH &lt;?&gt; N NOM SG
+</line>
+					<line>12	intermediate	intermediate	mod:&gt;11	@&lt;NOM %N&lt; A ABS
+</line>
+					<line>13	on	on		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+</line>
+					<line>14	PikAIII	pikaiii	pcomp:&gt;13	@&lt;P %NH N NOM SG
+</line>
+					<line>15	is	be	main:&gt;0	@+FMAINV %VA V PRES SG3
+</line>
+					<line>16	able	able	comp:&gt;15	@PCOMPL-S %NH A ABS
+</line>
+					<line>17	to	to		@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+					<line>18	efficiently	efficiently	man:&gt;15	@ADVL %EH ADV
+</line>
+					<line>19	&quot;	&quot;
+</line>
+					<line>20	skip	skip	mod:&gt;25	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>21	&quot;	&quot;
+</line>
+					<line>22	the	the	det:&gt;25	@DN&gt; %&gt;N DET
+</line>
+					<line>23	last	last		@DN&gt; %&gt;N DET
+</line>
+					<line>24	extension	extension	attr:&gt;25	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>25	step	step		@PCOMPL-S %NH N NOM SG
+</line>
+					<line>26	and	and	cc:&gt;15	@CC %CC CC
+</line>
+					<line>27	is	be	v-ch:&gt;28	@+FAUXV %AUX V PRES SG3
+</line>
+					<line>28	cyclized	cyclize	cc:&gt;15	@-FMAINV %VP EN
+</line>
+					<line>29	by	by	agt:&gt;28	@ADVL %EH PREP
+</line>
+					<line>30	the	the	det:&gt;32	@DN&gt; %&gt;N DET
+</line>
+					<line>31	TE	te	attr:&gt;32	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>32	domain	domain	pcomp:&gt;29	@&lt;P %NH N NOM SG
+</line>
+					<line>33	of	of	mod:&gt;32	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>34	PikAIV	pikaiv	pcomp:&gt;33	@&lt;P %NH N NOM SG
+</line>
+					<line>35	,	,
+</line>
+					<line>36	presumably	presumably	ad:&gt;37	@AD-A&gt; %E&gt; ADV
+</line>
+					<line>37	as	as		@ADVL %EH PREP
+</line>
+					<line>38	a	a	det:&gt;39	@DN&gt; %&gt;N DET SG
+</line>
+					<line>39	result	result	pcomp:&gt;37	@&lt;P %NH N NOM SG
+</line>
+					<line>40	of	of	mod:&gt;39	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>41	a	a	det:&gt;43	@DN&gt; %&gt;N DET SG
+</line>
+					<line>42	PikAIII-PikAIV	pikaiii-pikaiv	attr:&gt;43	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>43	interaction	interaction	pcomp:&gt;40	@&lt;P %NH N NOM SG
+</line>
+				</fdg>
+			</example>
+			<example src="PNAS" no="1">
+				<text>
+Translation of this RNA is initiated by a ribosome shunt mechanism, in which ribosomes translate the most 5′-proximal short ORF (sORF A), then skip a large region of the leader containing a putative RNA encapsidation signal and reinitiate translation at the first long viral ORF.
+
+</text>
+				<arg n="0">ribosomes
+</arg>
+				<arg n="1">a large region of the leader containing a putative RNA encapsidation signal
+</arg>
+				<arg n="R">-
+</arg>
+				<fdg>
+					<line>1	Translation	translation	subj:&gt;5	@SUBJ %NH N NOM SG
+</line>
+					<line>2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>3	this	this	det:&gt;4	@DN&gt; %&gt;N DET DEM SG
+</line>
+					<line>4	RNA	rna	pcomp:&gt;2	@&lt;P %NH ABBR NOM SG
+</line>
+					<line>5	is	be	v-ch:&gt;6	@+FAUXV %AUX V PRES SG3
+</line>
+					<line>6	initiated	initiate	main:&gt;0	@-FMAINV %VP EN
+</line>
+					<line>7	by	by	agt:&gt;6	@ADVL %EH PREP
+</line>
+					<line>8	a	a	det:&gt;11	@DN&gt; %&gt;N DET SG
+</line>
+					<line>9	ribosome	ribosome	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>10	shunt	shunt	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>11	mechanism	mechanism	pcomp:&gt;7	@&lt;P %NH N NOM SG
+</line>
+					<line>12	,	,
+</line>
+					<line>13	in	in	cla:&gt;16	@ADVL %EH PREP
+</line>
+					<line>14	which	which	pcomp:&gt;13	@&lt;P %NH &lt;Rel&gt; PRON WH NOM
+</line>
+					<line>15	ribosomes	ribosome	subj:&gt;16	@SUBJ %NH N NOM PL
+</line>
+					<line>16	translate	translate	mod:&gt;11	@+FMAINV %VA V PRES
+</line>
+					<line>17	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+</line>
+					<line>18	most	much	qua:&gt;16	@ADVL %EH ADV SUP
+</line>
+					<line>19	5	5	obj:&gt;16	@OBJ %NH NUM CARD
+</line>
+					<line>20	′	′
+</line>
+					<line>21	&lt;s&gt;	&lt;s&gt;
+</line>
+					<line>22	-	-
+</line>
+					<line>23	proximal	proximal	attr:&gt;3	@A&gt; %&gt;N A ABS
+</line>
+					<line>24	short	short	attr:&gt;4	@A&gt; %&gt;N A ABS
+</line>
+					<line>25	ORF	orf	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+</line>
+					<line>26	(	(
+</line>
+					<line>27	sORF	sorf	attr:&gt;7	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>28	A)	a)	mod:&gt;5	@APP %NH ABBR NOM SG
+</line>
+					<line>29	,	,
+</line>
+					<line>30	then	then	meta:&gt;10	@ADVL %EH ADV
+</line>
+					<line>31	skip	skip		@+FMAINV %VA V PRES
+</line>
+					<line>32	a	a	det:&gt;13	@DN&gt; %&gt;N DET SG
+</line>
+					<line>33	large	large	attr:&gt;13	@A&gt; %&gt;N A ABS
+</line>
+					<line>34	region	region	obj:&gt;10	@OBJ %NH N NOM SG
+</line>
+					<line>35	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+</line>
+					<line>36	the	the	det:&gt;16	@DN&gt; %&gt;N DET
+</line>
+					<line>37	leader	leader	pcomp:&gt;14	@&lt;P %NH N NOM SG
+</line>
+					<line>38	containing	contain	mod:&gt;16	@-FMAINV %VA ING
+</line>
+					<line>39	a	a	det:&gt;22	@DN&gt; %&gt;N DET SG
+</line>
+					<line>40	putative	putative	attr:&gt;20	@A&gt; %&gt;N A ABS
+</line>
+					<line>41	RNA	rna	attr:&gt;21	@A&gt; %&gt;N ABBR NOM SG
+</line>
+					<line>42	encapsidation	encapsidation	attr:&gt;22	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+					<line>43	signal	signal	obj:&gt;17	@OBJ %NH N NOM SG
+</line>
+					<line>44	and	and	cc:&gt;17	@CC %CC CC
+</line>
+					<line>45	reinitiate	reinitiate	cc:&gt;17	@+FMAINV %VA V PRES
+</line>
+					<line>46	translation	translation	obj:&gt;24	@OBJ %NH N NOM SG
+</line>
+					<line>47	at	at	loc:&gt;24	@ADVL %EH PREP
+</line>
+					<line>48	the	the	det:&gt;31	@DN&gt; %&gt;N DET
+</line>
+					<line>49	first	first	attr:&gt;29	@A&gt; %&gt;N NUM ORD
+</line>
+					<line>50	long	long	attr:&gt;30	@A&gt; %&gt;N A ABS
+</line>
+					<line>51	viral	viral	attr:&gt;31	@A&gt; %&gt;N A ABS
+</line>
+					<line>52	ORF	orf	pcomp:&gt;26	@&lt;P %NH N NOM SG
+</line>
+					<line>53	.	.
+</line>
+				</fdg>
+			</example>
+			<example src="PNAS" no="2">
+				<text>
+Xist RNA coated the autosome but skipped the Xic Tg, raising the possibility that X chromosome domains escape inactivation by excluding Xist RNA binding.
+
+</text>
+				<arg n="0">Xist RNA
+</arg>
+				<arg n="1">the Xic Tg
+</arg>
+				<arg n="R">-
+</arg>
+				
+			</example>
+			<example src="PNAS" no="3">
+				<text>
+The centromere was skipped on all Tg autosomes as on the female Xi. 
+
+</text>
+				<arg n="0">-
+</arg>
+				<arg n="1">The centromere 
+</arg>
+				<arg n="R">-
+</arg>
+			
+			</example>
+			<example src="PNAS" no="4">
+				<text>
+The observation that Tg Xist RNA skips the ectopic Xic raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi.
+
+</text>
+				<arg n="0">Tg Xist RNA 
+</arg>
+				<arg n="1">the ectopic Xic 
+</arg>
+				<arg n="R">raises the possibility that the Xic lacks Xist-binding sites and therefore escapes inactivation on the Xi
+</arg>
+				
+			</example>
+		</roleset>
+	</predicate>
+</frameset>

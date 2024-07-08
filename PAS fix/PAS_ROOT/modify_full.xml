@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="modify">
+<roleset id="modify.01" name="" wordnet="3">
+<roles>
+  <role n="0" descr="agent, cause of transformation
+"/>
+  <role n="1" descr="thing changing
+"/>
+  <role n="2" descr="method
+"/>
+  <role n="3" descr="consequence				// secondary predication //
+"/>
+</roles>
+<example src="MEDLINE" no="*1">
+<text>
+To define the subcellular location of HVDAC isoforms, HVDAC genes were modified so that the encoded proteins contain COOH-terminal epitopes recognized by either of two monoclonal antibodies.
+
+</text>
+       <arg n="0">-
+</arg>
+       <arg n="1">HVDAC genes
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">-
+</arg>
+<fdg>
+1	To	to	pm:&gt;2	@INFMARK&gt; %AUX INFMARK&gt;
+2	define	define	cnt:&gt;13	@-FMAINV %VA V INF
+3	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+4	subcellular	subcellular	attr:&gt;5	@A&gt; %&gt;N A ABS
+5	location	location	obj:&gt;2	@OBJ %NH N NOM SG
+6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+7	HVDAC	hvdac	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	isoforms	isoform	pcomp:&gt;6	@&lt;P %NH &lt;?&gt; N NOM PL
+9	,	,
+10	HVDAC	hvdac	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+11	genes	gene	subj:&gt;12	@SUBJ %NH N NOM PL
+12	were	be	v-ch:&gt;13	@+FAUXV %AUX V PAST PL
+13	modified	modify	main:&gt;0	@-FMAINV %VP EN
+14	so	so	pm:&gt;15	@ADVL %EH ADV
+15	that	that	pm:&gt;19	@CS %CS CS
+16	the	the	det:&gt;18	@DN&gt; %&gt;N DET
+17	encoded	encoded	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	proteins	protein	subj:&gt;19	@SUBJ %NH N NOM PL
+19	contain	contain	obj:&gt;13	@+FMAINV %VA V PRES
+20	COOH-terminal	cooh-terminal	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	epitopes	epitop*	obj:&gt;19	@OBJ %NH &lt;?&gt; N NOM
+22	recognized	recognize	mod:&gt;21	@-FMAINV %VP EN
+23	by	by	ha:&gt;22	@ADVL %EH PREP
+24	either	either	pcomp:&gt;23	@&lt;P %NH PRON NOM SG
+25	of	of	mod:&gt;24	@&lt;NOM-OF %N&lt; PREP
+26	two	two	qn:&gt;28	@QN&gt; %&gt;N NUM CARD
+27	monoclonal	monoclonal	attr:&gt;28	@A&gt; %&gt;N A ABS
+28	antibodies	antibody	pcomp:&gt;25	@&lt;P %NH N NOM PL
+29	.     .
+</fdg>
+</example>
+<example src="EMBO" no="*1">
+<text>
+We have used the ability to modify P.falciparum genetically by transfection (Crabb and Cowman, 1996; Crabb et al., 1997a) to disrupt the RAP1 gene.
+
+</text>
+       <arg n="0">We
+</arg>
+       <arg n="1">P.falciparum
+</arg>
+       <arg n="2">by transfection
+</arg>
+       <arg n="3">to disrupt the RAP1 gene 
+</arg>
+       <arg n="M-ADV">genetically
+</arg>
+<fdg>
+         
+1	We	we	subj:&gt;2	@SUBJ %NH PRON PERS NOM PL1
+2	have	have	v-ch:&gt;3	@+FAUXV %AUX V PRES
+3	used	use	main:&gt;0	@-FMAINV %VA EN
+4	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+5	ability	ability	obj:&gt;3	@OBJ %NH N NOM SG
+6	to	to	pm:&gt;7	@INFMARK&gt; %AUX INFMARK&gt;
+7	modify	modify	mod:&gt;5	@-FMAINV %VA V INF
+8	P.falciparum	p.falciparum	obj:&gt;7	@OBJ %NH N NOM SG
+9	genetically	genetically	man:&gt;7	@ADVL %EH ADV
+10	by	by	ha:&gt;7	@ADVL %EH PREP
+11	transfection	transfection	pcomp:&gt;10	@&lt;P %NH &lt;?&gt; N NOM SG
+12	(	(
+13	Crabb	crabb	main:&gt;12	@APP %NH N NOM SG
+14	and	and	cc:&gt;13	@CC %CC CC
+15	Cowman	cowman	cc:&gt;13	@APP %NH N NOM SG
+16	,	,
+17	1996	1996		@NH %NH NUM CARD	@&lt;P %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD
+18	;	;
+19	Wu	wu	mod:&gt;17	@NH %NH N NOM SG
+20	et	et	cc:&gt;19	@CC %CC CC
+21	al.	al.	cc:&gt;19	@NH %NH ABBR NOM SG
+22	,	,
+23	1996	1996	cc:&gt;21	@NH %NH NUM CARD
+24	;	;
+25	Crabb	crabb	main:&gt;24	@NH %NH N NOM SG
+26	et	et	cc:&gt;25	@CC %CC CC
+27	al.	al.	cc:&gt;25	@NH %NH ABBR NOM SG
+28	,	,
+29	1997a	1997a	cc:&gt;27	@NH %NH NUM CARD
+30	)	)
+31	to	to	pm:&gt;32	@INFMARK&gt; %AUX INFMARK&gt;
+32	disrupt	disrupt	cnt:&gt;7	@-FMAINV %VA V INF
+33	the	the	det:&gt;35	@DN&gt; %&gt;N DET
+34	RAP1	rap1	attr:&gt;35	@A&gt; %&gt;N N NOM SG
+35	gene	gene	obj:&gt;32	@OBJ %NH N NOM SG
+36	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+Taken together these data suggest that the SH3 acts to position the U5 region through its own association with the GUK domain and that factors that can modify the binding of either U5 or SH3 to the GUK domain may regulate GKAP binding to the GUK domain.
+
+</text>
+       <arg n="0">factors
+</arg>
+       <arg n="1">the binding of either U5 or SH3
+</arg>
+       <arg n="2">-
+</arg>
+       <arg n="3">to the GUK domain
+</arg>
+       <arg n="M-MOD">can
+</arg>
+<fdg>
+
+1	Taken	take	cla:&gt;5	@-FMAINV %VP EN
+2	together	together	ha:&gt;1	@ADVL %EH ADV
+3	these	this	det:&gt;4	@DN&gt; %&gt;N DET DEM PL
+4	data	data	subj:&gt;5	@SUBJ %NH N NOM
+5	suggest	suggest	main:&gt;0	@+FMAINV %VA V PRES
+6	that	that	pm:&gt;9	@CS %CS CS
+7	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+8	SH3	sh3	subj:&gt;9	@SUBJ %NH N NOM SG
+9	acts	act	obj:&gt;5	@+FMAINV %VA V PRES SG3
+10	to	to	pm:&gt;11	@INFMARK&gt; %AUX INFMARK&gt;
+11	position	position	obj:&gt;9	@-FMAINV %VA V INF
+12	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+13	U5	u5	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	region	region	obj:&gt;11	@OBJ %NH N NOM SG
+15	through	through	ha:&gt;11	@ADVL %EH PREP
+16	its	it	attr:&gt;17	@A&gt; %&gt;N PRON GEN SG3
+17	own	own	attr:&gt;18	@A&gt; %&gt;N A ABS
+18	association	association	pcomp:&gt;15	@&lt;P %NH N NOM SG
+19	with	with	mod:&gt;18	@&lt;NOM %N&lt; PREP
+20	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+21	GUK	guk	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	domain	domain	pcomp:&gt;19	@&lt;P %NH N NOM SG
+23	and	and		@CC %CC CC
+24	that	that	pm:&gt;41	@CS %CS CS
+25	factors	factor	subj:&gt;40	@SUBJ %NH N NOM PL
+26	that	that	subj:&gt;27	@SUBJ %NH &lt;Rel&gt; PRON
+27	can	can	v-ch:&gt;28	@+FAUXV %AUX V AUXMOD
+28	modify	modify	mod:&gt;25	@-FMAINV %VA V INF
+29	the	the	det:&gt;30	@DN&gt; %&gt;N DET
+30	binding	binding	obj:&gt;28	@OBJ %NH N NOM SG
+31	of	of	mod:&gt;30	@&lt;NOM-OF %N&lt; PREP
+32	either	either	ad:&gt;33	@AD-A&gt; %E&gt; ADV
+33	U5	u5	pcomp:&gt;31	@&lt;P %NH N NOM SG
+34	or	or	cc:&gt;33	@CC %CC CC
+35	SH3	sh3	cc:&gt;33	@&lt;P %NH N NOM SG
+36	to	to	mod:&gt;35	@&lt;NOM %N&lt; PREP
+37	the	the	det:&gt;39	@DN&gt; %&gt;N DET
+38	GUK	guk	attr:&gt;39	@A&gt; %&gt;N N NOM SG
+39	domain	domain	pcomp:&gt;36	@&lt;P %NH N NOM SG
+40	may	may	v-ch:&gt;41	@+FAUXV %AUX V AUXMOD
+41	regulate	regulate		@-FMAINV %VA V INF
+42	GKAP	gkap	obj:&gt;41	@OBJ %NH N NOM SG
+43	binding	bind		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING	@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+44	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+45	the	the	det:&gt;47	@DN&gt; %&gt;N DET
+46	GUK	guk	attr:&gt;47	@A&gt; %&gt;N N NOM SG
+47	domain	domain	pcomp:&gt;44	@&lt;P %NH N NOM SG
+48	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

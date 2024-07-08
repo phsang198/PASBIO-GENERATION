@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="eliminate">
+            <roleset id="eliminate.01" name="remove&#x0A;" wordnet="1">
+                <roles>
+                    <role n="0" descr="entity removing&#x0A;" />
+                    <role n="1" descr="thing being removed&#x0A;" />
+                    <role n="2" descr="removed from&#x0A;" />
+                </roles>
+                <example src="GREC" no="0">
+                    <text>A 6-bp insertion located within O2 or between OT and O1 eliminated repression of the glpTQ promoter, whereas significant repression was maintained in the case of a 10-bp insertion within O2.</text>
+                    <arg n="0">A 6-bp insertion</arg>
+                    <arg n="1">repression of the glpTQ promoter</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Binding of GntR to the operators is eliminated by gluconate and also by 6-phosphogluconate at a 10-fold-higher concentration.</text>
+                    <arg n="0">gluconate and also by 6-phosphogluconate</arg>
+                    <arg n="1">Binding of GntR to the operators</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>In gel shift assay, anti-ref1 antibody eliminated formation of the nCaRE-protein complex.</text>
+                    <arg n="0">anti-ref1 antibody</arg>
+                    <arg n="1">formation of the nCaRE-protein complex</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>The requirement of induction can be eliminated by mutation of a new locus, galS, resulting in constitutive and ultrainduced levels of gal expression.</text>
+                    <arg n="0">mutation of a new locus, galS</arg>
+                    <arg n="1">The requirement of induction</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

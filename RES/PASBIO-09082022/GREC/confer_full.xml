@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="decrease">
+            <roleset id="decrease.01" name="make smaller&#x0A;" wordnet="2">
+                <roles>
+                    <role n="0" descr="agent&#x0A;" />
+                    <role n="1" descr="thing decreased&#x0A;" />
+                    <role n="2" descr="location&#x0A;" />
+                </roles>
+                <example src="GREC" no="0">
+                    <text>Deletion of the arcA gene caused about a 2-fold increase in the ptsG expression, and overexpression of ArcA significantly decreased glucose consumption.</text>
+                    <arg n="0">overexpression of ArcA</arg>
+                    <arg n="1">glucose consumption</arg>
+                </example>
+                <example src="GREC" no="1">
+                    <text>Disruption of narL decreases nitrite induction of the nirB promoter whilst not suppressing induction by nitrate, suggesting that there may be a second nitrate-responsive factor.</text>
+                    <arg n="0">Disruption of narL</arg>
+                    <arg n="1">nitrite induction of the nirB promoter</arg>
+                </example>
+                <example src="GREC" no="2">
+                    <text>The production of C51 microcin decreased or was absent in rpoS, crp and cya mutant cells.</text>
+                    <arg n="1">The production of C51 microcin</arg>
+                    <arg n="2">rpoS, crp and cya mutant cells</arg>
+                </example>
+                <example src="GREC" no="3">
+                    <text>marA locus causes decreased expression of OmpF porin in multiple-antibiotic-resistant (Mar) mutants of Escherichia coli.</text>
+                    <arg n="0">marA locus</arg>
+                    <arg n="1">expression of OmpF porin</arg>
+                    <arg n="2">multiple-antibiotic-resistant (Mar) mutants of Escherichia coli</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

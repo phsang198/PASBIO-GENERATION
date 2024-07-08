@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="transform">
+            <roleset id="transform.02" name="to transfer gene from source organism into target organism&#x0A;" wordnet="6">
+                <roles>
+                    <role n="0" descr="entity being inserted&#x0A;" />
+                    <role n="1" descr="organism or cell undergoing transformation&#x0A;" />
+                </roles>
+                <example src="EMBO" no="0">
+                    <text>Expression of recombinat proteins Full-lenght and C-terminal SBP2 constructs in pASK-IB7 were transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinat proteins Full-lenght and C-terminal SBP2 constructs in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EMBO" no="1">
+                    <text>Expression plasmids of the combinations indicated (central panel) were transformed into yeast and selected for by growth on plates lacking leucine and tryptophan (left panel).</text>
+                    <arg n="0">Expression plasmids of the combinations indicated (central panel)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="EMBO" no="2">
+                    <text>For expression of the recombinant protein, pET28a-5 was transformed into Escherichia coli strain BL21(DE3).</text>
+                    <arg n="0">pET28a-5</arg>
+                    <arg n="1">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="EMBO" no="3">
+                    <text>This construct was transformed into the yeast strain HF7c (Clontech).</text>
+                    <arg n="0">This construct</arg>
+                    <arg n="1">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="EMBO" no="4">
+                    <text>To generate GST fusion proteins, the relevant DNA fragments were cloned into pGex2T(Pharmacia) and transformed into the bacterial strains BL21 or TOPP (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>The DNA of budded viruses (BVs) was used to transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

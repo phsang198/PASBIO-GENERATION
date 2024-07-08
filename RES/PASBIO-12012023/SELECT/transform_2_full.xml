@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="transform">
+            <roleset id="transform.02" name="to transfer gene from source organism into target organism&#x0A;" wordnet="6">
+                <roles>
+                    <role n="0" descr="entity being inserted&#x0A;" />
+                    <role n="1" descr="organism or cell undergoing transformation&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>Expression of recombinat proteins Full-lenght and C-terminal SBP2 constructs in pASK-IB7, as our study suggested, are transformed into Escherichia coli BL21 (Promega)</text>
+                    <arg n="0">Expression of recombinat proteins Full-lenght and C-terminal SBP2 constructs in pASK-IB7</arg>
+                    <arg n="1">Escherichia coli BL21 (Promega)</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>Expression plasmids of the combinations indicated (central panel) are observed to be efficiently transformed into yeast and selected for by growth on plates lacking leucine and tryptophan (left panel).</text>
+                    <arg n="0">Expression plasmids of the combinations indicated (central panel)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>Expression plasmids of the combinations indicated (central panel), however, are transformed into yeast and selected for by growth on plates lacking leucine and tryptophan (left panel).</text>
+                    <arg n="0">Expression plasmids of the combinations indicated (central panel)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="EGRAM" no="3">
+                    <text>The DNA of budded viruses (BVs) can be used to transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="4">
+                    <text>The DNA of budded viruses (BVs) is observed to be used to transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="5">
+                    <text>The DNA of budded viruses, as we mentioned earlier, is likely to be used to completely transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="EGRAM" no="6">
+                    <text>To generate GST fusion proteins, the relevant DNA fragments are cloned into pGex2T(Pharmacia) and transformed into the bacterial strains BL21 or TOPP (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="MEDLINE" no="1">
+                    <text>The DNA of budded viruses (BVs) was used to transform E.coli.</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Expression plasmids of the combinations indicated (central panel) (BVs) has been used to completely transform yeast.</text>
+                    <arg n="0">Expression plasmids of the combinations indicated (central panel)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>Expression plasmids of the combinations indicated (central panel) are able to be transformed into yeast</text>
+                    <arg n="0">Expression plasmids of the combinations indicated (central panel)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>Expression plasmids of the combinations indicated (central panel), as our study suggested, are specifically transformed into yeast</text>
+                    <arg n="0">Expression plasmids of the combinations indicated (central panel)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>Expression plasmids of the combinations indicated (central panel), as our study suggested, are specifically transformed into yeast</text>
+                    <arg n="0">Expression plasmids of the combinations indicated (central panel)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>For expression of the recombinant protein, Expression plasmids of the combinations indicated (central panel) was transformed into yeast.</text>
+                    <arg n="0">Expression plasmids of the combinations indicated (central panel)</arg>
+                    <arg n="1">yeast</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>The DNA of budded viruses have the ability to be efficiently transformed into E.coli and selected for by growth on plates lacking leucine and tryptophan (left panel).</text>
+                    <arg n="0">The DNA of budded viruses</arg>
+                    <arg n="1">E.coli</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>This construct (BVs) is likely to be used to transform the yeast strain HF7c (Clontech).</text>
+                    <arg n="0">This construct</arg>
+                    <arg n="1">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>This construct are able to be transformed into the yeast strain HF7c (Clontech) and selected for by growth on plates lacking leucine and tryptophan (left panel).</text>
+                    <arg n="0">This construct</arg>
+                    <arg n="1">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>This construct were transformed into the yeast strain HF7c (Clontech)</text>
+                    <arg n="0">This construct</arg>
+                    <arg n="1">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>This construct, as we mentioned earlier, will be used to completely transform the yeast strain HF7c (Clontech).</text>
+                    <arg n="0">This construct</arg>
+                    <arg n="1">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>This construct, however, can be efficiently transformed into the yeast strain HF7c (Clontech) and selected for by growth on plates lacking leucine and tryptophan (left panel).</text>
+                    <arg n="0">This construct</arg>
+                    <arg n="1">the yeast strain HF7c (Clontech)</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>pET28a-5 (BVs) has been shown to be used to transform Escherichia coli strain BL21(DE3).</text>
+                    <arg n="0">pET28a-5</arg>
+                    <arg n="1">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>pET28a-5 (BVs) may have been used to transform Escherichia coli strain BL21(DE3).</text>
+                    <arg n="0">pET28a-5</arg>
+                    <arg n="1">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>pET28a-5 have been shown to be transformed into Escherichia coli strain BL21(DE3)</text>
+                    <arg n="0">pET28a-5</arg>
+                    <arg n="1">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>pET28a-5 may have been transformed into Escherichia coli strain BL21(DE3)</text>
+                    <arg n="0">pET28a-5</arg>
+                    <arg n="1">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>pET28a-5, as we mentioned earlier, has been shown to be used to transform Escherichia coli strain BL21(DE3).</text>
+                    <arg n="0">pET28a-5</arg>
+                    <arg n="1">Escherichia coli strain BL21(DE3)</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>the relevant DNA fragments (BVs) has been shown to be used to completely transform the bacterial strains BL21 or TOPP (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>the relevant DNA fragments (BVs) is able to be used to transform the bacterial strains BL21 or TOPP (Stratagene).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>the relevant DNA fragments are likely to be efficiently transformed into the bacterial strains BL21 or TOPP (Stratagene) and selected for by growth on plates lacking leucine and tryptophan (left panel).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>the relevant DNA fragments are likely to be transformed into the bacterial strains BL21 or TOPP (Stratagene) and selected for by growth on plates lacking leucine and tryptophan (left panel).</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>the relevant DNA fragments are observed to be transformed into the bacterial strains BL21 or TOPP (Stratagene)</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>the relevant DNA fragments may be specifically transformed into the bacterial strains BL21 or TOPP (Stratagene)</text>
+                    <arg n="0">the relevant DNA fragments</arg>
+                    <arg n="1">the bacterial strains BL21 or TOPP (Stratagene)</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>

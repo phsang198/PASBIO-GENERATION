@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="initiate">
+<roleset id="Initiate.01" name="" wordnet="1">
+<roles>
+<role n="0" descr="agent      //protein//
+"/>
+<role n="1" descr="entity created      //transcription or translation or process//
+"/>
+<role n="2" descr="specific location of tissue or cell  //mostly saying about exon or intron//
+"/>
+<role n="3" descr="location as tissue or cell
+"/>
+<role n="4" descr="method
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+Tumours with breakpoints just 5&apos; to exon 1, or distant from c-myc, had normal c-myc mRNAs of 2.25 and 2.4 kb, which differ at their 5&apos; ends, while tumours with breakpoints within exon 1 or intron 1 had altered c-myc mRNAs (2.1-2.7 kb in Burkitt lines), initiated within intron 1.       
+
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">altered c-myc mRNAs 
+</arg>
+<arg n="2">[within] intron 1
+</arg>
+<arg n="3">-
+</arg>
+<arg n="4">-
+</arg>
+<fdg>
+<line>         1Tumourstumourcc:&gt;12@SUBJ %NH N NOM PL
+</line>
+<line>         2withwithmod:&gt;1@&lt;NOM %N&lt; PREP
+</line>
+<line>         3breakpointsbreakpoint@&lt;P %NH N NOM PL
+</line>
+<line>         4justjustad:&gt;5@AD-A&gt; %E&gt; ADV
+</line>
+<line>         555qn:&gt;9@QN&gt; %&gt;N NUM CARD
+</line>
+<line>         6&apos;&apos;
+</line>
+<line>         7toto@ADVL %EH PREP
+</line>
+<line>         8exonexonattr:&gt;9@A&gt; %&gt;N N NOM SG
+</line>
+<line>         911pcomp:&gt;7@&lt;P %NH NUM CARD
+</line>
+<line>         10,,
+</line>
+<line>         11ororcc:&gt;12@CC %CC CC
+</line>
+<line>         12distantdistant@SUBJ %NH A ABS
+</line>
+<line>         13fromfrommod:&gt;12@&lt;NOM %N&lt; PREP
+</line>
+<line>         14c-mycc-mycpcomp:&gt;13@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+<line>         15,,
+</line>
+<line>         16hadhave@+FMAINV %VA V PAST
+</line>
+<line>         17normalnormalattr:&gt;18@A&gt; %&gt;N A ABS
+</line>
+<line>         18c-mycc-mycattr:&gt;19@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+<line>         19mRNAsmrnaobj:&gt;16@OBJ %NH &lt;?&gt; N NOM PL
+</line>
+<line>         20ofofmod:&gt;19@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>         212.252.25pcomp:&gt;20@&lt;P %NH NUM CARD
+</line>
+<line>         22andand@CC %CC CC
+</line>
+<line>         232.42.4@OBJ %NH NUM CARD@PCOMPL-O %NH NUM CARD@QN&gt; %&gt;N NUM CARD@A&gt; %&gt;N NUM CARD@&lt;NOM %N&lt; NUM CARD@ADVL %EH NUM CARD
+</line>
+<line>         24kbkb@SUBJ %NH ABBR NOM SG@OBJ %NH ABBR NOM SG@&lt;P %NH ABBR NOM SG@&lt;NOM %N&lt; ABBR NOM SG
+</line>
+<line>         25,,
+</line>
+<line>         26whichwhichsubj:&gt;27@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+<line>         27differdiffermod:&gt;24@+FMAINV %VA V PRES
+</line>
+<line>         28atatha:&gt;27@ADVL %EH PREP
+</line>
+<line>         29theirtheyattr:&gt;30@A&gt; %&gt;N PRON PERS GEN PL3
+</line>
+<line>         3055pcomp:&gt;28@&lt;P %NH NUM CARD
+</line>
+<line>         31&apos;&apos;
+</line>
+<line>         32endsend@SUBJ %NH N NOM PL
+</line>
+<line>         33,,
+</line>
+<line>         34whilewhile@ADVL %EH ADV WH@&lt;P %NH ADV WH
+</line>
+<line>         35tumourstumour@SUBJ %NH N NOM PL@OBJ %NH N NOM PL@&lt;P %NH N NOM PL
+</line>
+<line>         36withwithmod:&gt;35@&lt;NOM %N&lt; PREP
+</line>
+<line>         37breakpointsbreakpointpcomp:&gt;36@&lt;P %NH N NOM PL
+</line>
+<line>         38withinwithinmod:&gt;37@&lt;NOM %N&lt; PREP
+</line>
+<line>         39exonexonattr:&gt;40@A&gt; %&gt;N N NOM SG
+</line>
+<line>         4011pcomp:&gt;38@&lt;P %NH NUM CARD
+</line>
+<line>         41oror@CC %CC CC
+</line>
+<line>         42intronintronsubj:&gt;44@SUBJ %NH N NOM SG
+</line>
+<line>         4311mod:&gt;42@&lt;NOM %N&lt; NUM CARD
+</line>
+<line>         44hadhavev-ch:&gt;45@+FAUXV %AUX V PAST
+</line>
+<line>         45alteredalter@-FMAINV %VA EN
+</line>
+<line>         46c-mycc-mycattr:&gt;47@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+<line>         47mRNAsmrnaobj:&gt;45@OBJ %NH &lt;?&gt; N NOM PL
+</line>
+<line>         48((
+</line>
+<line>         492.1-2.1-qn:&gt;50@QN&gt; %&gt;N NUM CARD
+</line>
+<line>         502.72.7@NH %NH NUM CARD@APP %NH NUM CARD@QN&gt; %&gt;N NUM CARD@A&gt; %&gt;N NUM CARD@&lt;NOM %N&lt; NUM CARD@ADVL %EH NUM CARD
+</line>
+<line>         51kbkb@APP %NH ABBR NOM SG@NH %NH ABBR NOM SG@&lt;NOM %N&lt; ABBR NOM SG@ADVL %EH ABBR NOM SG
+</line>
+<line>         52inin@&lt;NOM %N&lt; PREP@ADVL %EH PREP
+</line>
+<line>         53Burkittburkittattr:&gt;54@A&gt; %&gt;N N NOM SG
+</line>
+<line>         54lineslinepcomp:&gt;52@&lt;P %NH N NOM PL
+</line>
+<line>         55))
+</line>
+<line>         56,,
+</line>
+<line>         57initiatedinitiate@-FMAINV %VP EN
+</line>
+<line>         58withinwithinha:&gt;57@ADVL %EH PREP
+</line>
+<line>         59intronintronattr:&gt;60@A&gt; %&gt;N N NOM SG
+</line>
+<line>         6011pcomp:&gt;58@&lt;P %NH NUM CARD
+</line>
+<line>         61..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+Apparently HeLa cells either initiate transcription at multiple sites within RPS14 exon 1, or capped 5&apos; oligonucleotides are removed from most S14 mRNAs posttranscription.     
+
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">transcription
+</arg>
+<arg n="2">[at] multiple sites within RPS14 exon 1
+</arg>
+<arg n="3">HeLa cells
+</arg>
+<arg n="4">-
+</arg>
+<fdg>
+<line>1Apparentlyapparentlymeta:&gt;5@ADVL %EH ADV
+</line>
+<line>2HeLahelaattr:&gt;3@A&gt; %&gt;N N NOM SG
+</line>
+<line>3cellscellsubj:&gt;5@SUBJ %NH N NOM PL
+</line>
+<line>4eithereither@ADVL %EH ADV@AD-A&gt; %E&gt; ADV
+</line>
+<line>5initiateinitiatemain:&gt;0@+FMAINV %VA V PRES
+</line>
+<line>6transcriptiontranscriptionobj:&gt;5@OBJ %NH N NOM SG
+</line>
+<line>7atatloc:&gt;5@ADVL %EH PREP
+</line>
+<line>8multiplemultipleattr:&gt;9@A&gt; %&gt;N A ABS
+</line>
+<line>9sitessitepcomp:&gt;7@&lt;P %NH N NOM PL
+</line>
+<line>10withinwithinmod:&gt;9@&lt;NOM %N&lt; PREP
+</line>
+<line>11RPS14rps14attr:&gt;12@A&gt; %&gt;N N NOM SG
+</line>
+<line>12exonexonpcomp:&gt;10@&lt;P %NH N NOM SG
+</line>
+<line>1311mod:&gt;12@&lt;NOM %N&lt; NUM CARD
+</line>
+<line>14,,
+</line>
+<line>15ororcc:&gt;5@CC %CC CC
+</line>
+<line>16cappedcappedattr:&gt;17@A&gt; %&gt;N A ABS
+</line>
+<line>1755qn:&gt;19@QN&gt; %&gt;N NUM CARD
+</line>
+<line>18&apos;&apos;
+</line>
+<line>19oligonucleotidesoligonucleotid*subj:&gt;20@SUBJ %NH &lt;?&gt; N NOM
+</line>
+<line>20arebev-ch:&gt;21@+FAUXV %AUX V PRES
+</line>
+<line>21removedremovecc:&gt;5@-FMAINV %VP EN
+</line>
+<line>22fromfromsou:&gt;21@ADVL %EH PREP
+</line>
+<line>23mostmanydet:&gt;26@DN&gt; %&gt;N DET SUP PL
+</line>
+<line>24S14s14attr:&gt;25@A&gt; %&gt;N N NOM SG
+</line>
+<line>25mRNAsmrnaattr:&gt;26@A&gt; %&gt;N &lt;?&gt; N NOM PL
+</line>
+<line>26posttranscriptionposttranscriptionpcomp:&gt;22@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+<line>27..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+I kappa B-epsilon translation initiates from an internal ATG codon to give rise to a protein of 45 kDa, which exists as multiple phosphorylated isoforms in resting cells. 
+
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">I kappa B-epsilon translation
+</arg>
+<arg n="2">[from] an internal ATG codon
+</arg>
+<arg n="3">-
+</arg>
+<arg n="4">-
+</arg>
+<fdg>
+<line>         1Ii@SUBJ %NH PRON PERS NOM SG1
+</line>
+<line>         2kappakappaattr:&gt;3@A&gt; %&gt;N N NOM SG
+</line>
+<line>         3B-epsilonb-epsilonattr:&gt;4@A&gt; %&gt;N N NOM SG
+</line>
+<line>         4translationtranslationsubj:&gt;5@SUBJ %NH N NOM SG
+</line>
+<line>         5initiatesinitiatemain:&gt;0@+FMAINV %VA V PRES SG3
+</line>
+<line>         6fromfromsou:&gt;5@ADVL %EH PREP
+</line>
+<line>         7anandet:&gt;10@DN&gt; %&gt;N DET SG
+</line>
+<line>         8internalinternalattr:&gt;9@A&gt; %&gt;N A ABS
+</line>
+<line>         9ATGatgattr:&gt;10@A&gt; %&gt;N N NOM SG
+</line>
+<line>         10codoncodonpcomp:&gt;6@&lt;P %NH N NOM SG
+</line>
+<line>         11totopth:&gt;6@ADVL %EH PREP
+</line>
+<line>         12givegiveattr:&gt;13@A&gt; %&gt;N N NOM SG
+</line>
+<line>         13riserisepcomp:&gt;11@&lt;P %NH N NOM SG
+</line>
+<line>         14totomod:&gt;13@&lt;NOM %N&lt; PREP
+</line>
+<line>         15aadet:&gt;16@DN&gt; %&gt;N DET SG
+</line>
+<line>         16proteinproteinpcomp:&gt;14@&lt;P %NH N NOM SG
+</line>
+<line>         17ofofmod:&gt;16@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>         184545@QN&gt; %&gt;N NUM CARD
+</line>
+<line>         19kDakdapcomp:&gt;17@&lt;P %NH &lt;?&gt; N NOM SG
+</line>
+<line>         20,,
+</line>
+<line>         21whichwhichsubj:&gt;22@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+<line>         22existsexistmod:&gt;19@+FMAINV %VA V PRES SG3
+</line>
+<line>         23asascopred:&gt;22@ADVL %EH PREP
+</line>
+<line>         24multiplemultipleattr:&gt;25@A&gt; %&gt;N A ABS
+</line>
+<line>         25phosphorylatedphosphorylatedattr:&gt;26@A&gt; %&gt;N A ABS
+</line>
+<line>         26isoformsisoformpcomp:&gt;23@&lt;P %NH &lt;?&gt; N NOM PL
+</line>
+<line>         27inin@&lt;NOM %N&lt; PREP@ADVL %EH PREP
+</line>
+<line>         28restingrestpcomp:&gt;27@&lt;P-FMAINV %VA ING
+</line>
+<line>         29cellscellobj:&gt;28@OBJ %NH N NOM PL
+</line>
+<line>         30..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+Platelet agonists initiate aggregation and secretion by activating receptors coupled to the G-protein G(q), thereby raising cytosolic Ca(2+), [Ca(2+)](i).
+
+</text>
+<arg n="0">Platelet agonists 
+</arg>
+<arg n="1">aggregation and secretion 
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">-
+</arg>
+<arg n="4">activating receptors coupled to the G-protein G(q)
+</arg>
+<fdg>
+<line>1Plateletplateletattr:&gt;2@A&gt; %&gt;N N NOM SG
+</line>
+<line>2agonistsagonistsubj:&gt;3@SUBJ %NH N NOM PL
+</line>
+<line>3initiateinitiatemain:&gt;0@+FMAINV %VA V PRES
+</line>
+<line>4aggregationaggregationobj:&gt;3@OBJ %NH N NOM SG
+</line>
+<line>5andandcc:&gt;4@CC %CC CC
+</line>
+<line>6secretionsecretioncc:&gt;4@OBJ %NH N NOM SG
+</line>
+<line>7byby@&lt;NOM %N&lt; PREP@ADVL %EH PREP
+</line>
+<line>8activatingactivatepcomp:&gt;7@&lt;P-FMAINV %VA ING
+</line>
+<line>9receptorsreceptorobj:&gt;8@OBJ %NH N NOM PL
+</line>
+<line>10coupledcouplemod:&gt;9@-FMAINV %VP EN
+</line>
+<line>11totoha:&gt;10@ADVL %EH PREP
+</line>
+<line>12thethedet:&gt;14@DN&gt; %&gt;N DET
+</line>
+<line>13G-proteing-proteinattr:&gt;14@A&gt; %&gt;N N NOM SG
+</line>
+<line>14G(q)g(q)pcomp:&gt;11@&lt;P %NH N NOM SG
+</line>
+<line>15,,
+</line>
+<line>16therebytherebymeta:&gt;17@ADVL %EH ADV
+</line>
+<line>17raisingraisemod:&gt;14@-FMAINV %VA ING
+</line>
+<line>18cytosoliccytosolicobj:&gt;17@OBJ %NH &lt;?&gt; A ABS
+</line>
+<line>19Caca@OBJ %NH ABBR NOM SG@A&gt; %&gt;N ABBR NOM SG@&lt;NOM %N&lt; ABBR NOM SG
+</line>
+<line>20((
+</line>
+<line>212+2+main:&gt;20@NH %NH NUM CARD
+</line>
+<line>22))
+</line>
+<line>23,,
+</line>
+<line>24[[
+</line>
+<line>25Caca@A&gt; %&gt;N ABBR NOM SG@&lt;P %NH ABBR NOM SG@NH %NH ABBR NOM SG@&lt;NOM %N&lt; ABBR NOM SG
+</line>
+<line>26((
+</line>
+<line>272+2+main:&gt;26@NH %NH NUM CARD
+</line>
+<line>28)])]
+</line>
+<line>29((
+</line>
+<line>30ii@SUBJ %NH PRON PERS NOM SG1
+</line>
+<line>31))
+</line>
+<line>32..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+This has led to the prevailing interpretation that genetic changes, in addition to those present in the most advanced clone of the primary tumor, are required to initiate invasion, dissemination, and growth at anatomically distant sites.
+
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">invasion, dissemination, and growth at anatomically distant sites
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">
+</arg>
+<arg n="4">those present in the most advanced clone of the primary tumor
+</arg>
+<fdg>
+<line>1Thisthissubj:&gt;2@SUBJ %NH PRON DEM SG
+</line>
+<line>2hashavev-ch:&gt;3@+FAUXV %AUX V PRES SG3
+</line>
+<line>3ledleadmain:&gt;0@-FMAINV %VA EN
+</line>
+<line>4totoha:&gt;3@ADVL %EH PREP
+</line>
+<line>5thethedet:&gt;7@DN&gt; %&gt;N DET
+</line>
+<line>6prevailingprevailingattr:&gt;7@A&gt; %&gt;N A ABS
+</line>
+<line>7interpretationinterpretationpcomp:&gt;4@&lt;P %NH N NOM SG
+</line>
+<line>8thatthatobj:&gt;28@OBJ %NH &lt;Rel&gt; PRON
+</line>
+<line>9geneticgeneticattr:&gt;10@A&gt; %&gt;N A ABS
+</line>
+<line>10changeschangesubj:&gt;27@SUBJ %NH N NOM PL
+</line>
+<line>11,,
+</line>
+<line>12ininmod:&gt;10@ADVL %EH PREP
+</line>
+<line>13additionadditionpcomp:&gt;12@&lt;P %NH N NOM SG
+</line>
+<line>14totomod:&gt;13@&lt;NOM %N&lt; PREP
+</line>
+<line>15thosethatpcomp:&gt;14@&lt;P %NH PRON DEM PL
+</line>
+<line>16presentpresent@+FMAINV %VA V PRES@SUBJ %NH A ABS@&lt;NOM %N&lt; A ABS
+</line>
+<line>17inin@&lt;NOM %N&lt; PREP@ADVL %EH PREP
+</line>
+<line>18thethedet:&gt;21@DN&gt; %&gt;N DET
+</line>
+<line>19mostmuchad:&gt;20@AD-A&gt; %E&gt; ADV SUP
+</line>
+<line>20advancedadvancedattr:&gt;21@A&gt; %&gt;N A ABS
+</line>
+<line>21cloneclonepcomp:&gt;17@&lt;P %NH N NOM SG
+</line>
+<line>22ofofmod:&gt;21@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>23thethedet:&gt;25@DN&gt; %&gt;N DET
+</line>
+<line>24primaryprimaryattr:&gt;25@A&gt; %&gt;N A ABS
+</line>
+<line>25tumortumorpcomp:&gt;22@&lt;P %NH N NOM SG
+</line>
+<line>26,,
+</line>
+<line>27arebev-ch:&gt;28@+FAUXV %AUX V PRES
+</line>
+<line>28requiredrequiremod:&gt;7@-FMAINV %VP EN
+</line>
+<line>29totopm:&gt;30@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+<line>30initiateinitiatecnt:&gt;28@-FMAINV %VA V INF
+</line>
+<line>31invasioninvasionobj:&gt;30@OBJ %NH N NOM SG
+</line>
+<line>32,,
+</line>
+<line>33disseminationdisseminationcc:&gt;31@OBJ %NH N NOM SG
+</line>
+<line>34,,
+</line>
+<line>35andandcc:&gt;33@CC %CC CC
+</line>
+<line>36growthgrowthcc:&gt;33@OBJ %NH N NOM SG
+</line>
+<line>37atatloc:&gt;30@ADVL %EH PREP
+</line>
+<line>38anatomicallyanatomicallyad:&gt;39@AD-A&gt; %E&gt; ADV
+</line>
+<line>39distantdistantattr:&gt;40@A&gt; %&gt;N A ABS
+</line>
+<line>40sitessitepcomp:&gt;37@&lt;P %NH N NOM PL
+</line>
+<line>41..
+</line>
+</fdg>
+</example>
+<example src="MEDLINE" no="6">
+<text>
+Ligand binding induces cell surface receptor complex formation and activates a cascade of phosphorylation events of intracellular intermediaries termed Smads, which initiate transcriptional regulation.
+
+</text>
+<arg n="0">Smads 
+</arg>
+<arg n="1">transcriptional regulation 
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">- 
+</arg>
+<arg n="4">-
+</arg>
+<fdg>
+<line>1Ligandligandattr:&gt;2@A&gt; %&gt;N N NOM SG
+</line>
+<line>2bindingbindingsubj:&gt;3@SUBJ %NH N NOM SG
+</line>
+<line>3inducesinduce@+FMAINV %VA V PRES SG3
+</line>
+<line>4cellcellattr:&gt;5@A&gt; %&gt;N N NOM SG
+</line>
+<line>5surfacesurfaceattr:&gt;6@A&gt; %&gt;N N NOM SG
+</line>
+<line>6receptorreceptorattr:&gt;7@A&gt; %&gt;N N NOM SG
+</line>
+<line>7complexcomplexattr:&gt;8@A&gt; %&gt;N A ABS
+</line>
+<line>8formationformationobj:&gt;3@OBJ %NH N NOM SG
+</line>
+<line>9andandcc:&gt;3@CC %CC CC
+</line>
+<line>10activatesactivatecc:&gt;3@+FMAINV %VA V PRES SG3
+</line>
+<line>11aadet:&gt;12@DN&gt; %&gt;N DET SG
+</line>
+<line>12cascadecascadeobj:&gt;10@OBJ %NH N NOM SG
+</line>
+<line>13ofofmod:&gt;12@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>14phosphorylationphosphorylationattr:&gt;15@A&gt; %&gt;N N NOM SG
+</line>
+<line>15eventseventpcomp:&gt;13@&lt;P %NH N NOM PL
+</line>
+<line>16ofofmod:&gt;15@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>17intracellularintracellularattr:&gt;18@A&gt; %&gt;N A ABS
+</line>
+<line>18intermediariesintermediarypcomp:&gt;16@&lt;P %NH N NOM PL
+</line>
+<line>19termedterm@+FMAINV %VA V PAST
+</line>
+<line>20Smadssmadsobj:&gt;19@OBJ %NH &lt;?&gt; N NOM SG
+</line>
+<line>21,,
+</line>
+<line>22whichwhichsubj:&gt;23@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+</line>
+<line>23initiateinitiatemod:&gt;20@+FMAINV %VA V PRES
+</line>
+<line>24transcriptionaltranscriptionalattr:&gt;25@A&gt; %&gt;N A ABS
+</line>
+<line>25regulationregulationobj:&gt;23@OBJ %NH N NOM SG
+</line>
+<line>26..
+</line>
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+Since RTKs initiate signaling by recruiting downstream components to the activated receptor, proteins that are immediately downstreamof an activated RTK can be identified by first identifying sequences in the RTK that are necessary to activate downstream signaling (Schlessinger and Ullrich, 1992; Pawson, 1995).
+
+</text>
+<arg n="0">RTKs
+</arg>
+<arg n="1">signaling
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">-
+</arg>
+<arg n="4">[by] recruiting downstream components to the activated receptor
+</arg>
+<fdg>
+<line>     1Sincesincepm:&gt;3@CS %CS CS
+</line>
+<line>     2RTKsrtkssubj:&gt;3@SUBJ %NH N NOM SG
+</line>
+<line>     3initiateinitiatecnt:&gt;25@+FMAINV %VA V PRES
+</line>
+<line>     4signalingsignalobj:&gt;3@-FMAINV %VA ING
+</line>
+<line>     5bybyman:&gt;3@ADVL %EH PREP
+</line>
+<line>     6recruitingrecruitpcomp:&gt;5@&lt;P-FMAINV %VA ING
+</line>
+<line>     7downstreamdownstreamattr:&gt;8@A&gt; %&gt;N N NOM SG
+</line>
+<line>     8componentscomponentobj:&gt;6@OBJ %NH N NOM PL
+</line>
+<line>     9totogoa:&gt;6@ADVL %EH PREP
+</line>
+<line>     10thethedet:&gt;12@DN&gt; %&gt;N DET
+</line>
+<line>     11activatedactivatedattr:&gt;12@A&gt; %&gt;N A ABS
+</line>
+<line>     12receptorreceptorpcomp:&gt;9@&lt;P %NH N NOM SG
+</line>
+<line>     13,,
+</line>
+<line>     14proteinsproteinsubj:&gt;23@SUBJ %NH N NOM PL
+</line>
+<line>     15thatthatsubj:&gt;16@SUBJ %NH &lt;Rel&gt; PRON
+</line>
+<line>     16arebemod:&gt;14@+FMAINV %VA V PRES
+</line>
+<line>     17immediatelyimmediatelyman:&gt;16@ADVL %EH ADV
+</line>
+<line>     18downstreamdownstreamcomp:&gt;16@PCOMPL-S %NH N NOM SG
+</line>
+<line>     19ofofmod:&gt;18@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>     20anandet:&gt;22@DN&gt; %&gt;N DET SG
+</line>
+<line>     21activatedactivatedattr:&gt;22@A&gt; %&gt;N A ABS
+</line>
+<line>     22RTKrtkpcomp:&gt;19@&lt;P %NH N NOM SG
+</line>
+<line>     23cancanv-ch:&gt;24@+FAUXV %AUX V AUXMOD
+</line>
+<line>     24bebev-ch:&gt;25@-FAUXV %AUX V INF
+</line>
+<line>     25identifiedidentifymain:&gt;0@-FMAINV %VP EN
+</line>
+<line>     26bybyha:&gt;25@ADVL %EH PREP
+</line>
+<line>     27firstfirst@ADVL %EH NUM ORD@&lt;P %NH NUM ORD@&lt;NOM %N&lt; NUM ORD
+</line>
+<line>     28identifyingidentify@-FMAINV %VA ING
+</line>
+<line>     29sequencessequenceobj:&gt;28@OBJ %NH N NOM PL
+</line>
+<line>     30ininloc:&gt;28@ADVL %EH PREP
+</line>
+<line>     31thethedet:&gt;32@DN&gt; %&gt;N DET
+</line>
+<line>     32RTKrtkpcomp:&gt;30@&lt;P %NH N NOM SG
+</line>
+<line>     33thatthatsubj:&gt;34@SUBJ %NH &lt;Rel&gt; PRON
+</line>
+<line>     34arebemod:&gt;32@+FMAINV %VA V PRES
+</line>
+<line>     35necessarynecessarycomp:&gt;34@PCOMPL-S %NH A ABS
+</line>
+<line>     36totopm:&gt;37@INFMARK&gt; %AUX INFMARK&gt;
+</line>
+<line>     37activateactivatemod:&gt;35@-FMAINV %VA V INF
+</line>
+<line>     38downstreamdownstreamtmp:&gt;37@ADVL %EH N NOM SG
+</line>
+<line>     39signalingsignalingobj:&gt;37@OBJ %NH A ABS
+</line>
+<line>     40((
+</line>
+<line>     41Schlessingerschlessingermain:&gt;40@APP %NH N NOM SG
+</line>
+<line>     42andandcc:&gt;41@CC %CC CC
+</line>
+<line>     43Ullrichullrichcc:&gt;41@APP %NH N NOM SG
+</line>
+<line>     44,,
+</line>
+<line>     4519921992@NH %NH NUM CARD@&lt;NOM %N&lt; NUM CARD@ADVL %EH NUM CARD
+</line>
+<line>     46;;
+</line>
+<line>     47Pawsonpawsonmain:&gt;46@NH %NH N NOM SG
+</line>
+<line>     48,,
+</line>
+<line>     4919951995cc:&gt;47@NH %NH NUM CARD
+</line>
+<line>     50))
+</line>
+<line>     51..
+</line>
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+Sxl is a key regulator of sex determination and dosage compensation, whose transcription is initiated only in female blastoderm embryos.
+
+</text>
+<arg n="0">-
+</arg>
+<arg n="1">whose transcription
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">[in] female blastoderm embryos
+</arg>
+<arg n="4">-
+</arg>
+<arg n="M-ADV">only
+</arg>
+<fdg>
+<line>     1Sxlsxlsubj:&gt;2@SUBJ %NH &lt;?&gt; N NOM SG
+</line>
+<line>     2isbemain:&gt;0@+FMAINV %VA V PRES SG3
+</line>
+<line>     3aadet:&gt;5@DN&gt; %&gt;N DET SG
+</line>
+<line>     4keykeyattr:&gt;5@A&gt; %&gt;N N NOM SG
+</line>
+<line>     5regulatorregulatorcomp:&gt;2@PCOMPL-S %NH N NOM SG
+</line>
+<line>     6ofofmod:&gt;5@&lt;NOM-OF %N&lt; PREP
+</line>
+<line>     7sexsexattr:&gt;8@A&gt; %&gt;N N NOM SG
+</line>
+<line>     8determinationdeterminationpcomp:&gt;6@&lt;P %NH N NOM SG
+</line>
+<line>     9andandcc:&gt;8@CC %CC CC
+</line>
+<line>     10dosagedosageattr:&gt;11@A&gt; %&gt;N N NOM SG
+</line>
+<line>     11compensationcompensationcc:&gt;8@&lt;P %NH N NOM SG
+</line>
+<line>     12,,
+</line>
+<line>     13whosewhodet:&gt;14@DN&gt; %&gt;N DET WH GEN
+</line>
+<line>     14transcriptiontranscriptionsubj:&gt;15@SUBJ %NH N NOM SG
+</line>
+<line>     15isbemod:&gt;11@+FMAINV %VA V PRES SG3
+</line>
+<line>     16initiatedinitiate@-FMAINV %VP EN
+</line>
+<line>     17onlyonlymeta:&gt;18@ADVL %EH ADV
+</line>
+<line>     18ininloc:&gt;16@ADVL %EH PREP
+</line>
+<line>     19femalefemaleattr:&gt;20@A&gt; %&gt;N N NOM SG
+</line>
+<line>     20blastodermblastodermattr:&gt;21@A&gt; %&gt;N &lt;?&gt; N NOM SG
+</line>
+<line>     21embryosembryopcomp:&gt;18@&lt;P %NH N NOM PL
+</line>
+<line>     22..
+</line>
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+SCF, like the other dimeric ligands, initates signal transduction by direct dimerization of its receptor, Kit,and the two juxtaposed receptors undergo tyrosine autophosphorylation (Heldin, 1995; Broudy, 1997), which initiates downstream intracellular signaling.
+
+</text>
+<arg n="0">SCF
+</arg>
+<arg n="1">signal transduction
+</arg>
+<arg n="2">-
+</arg>
+<arg n="3">-
+</arg>
+<arg n="4">by direct dimerization of its receptor 
+</arg>
+</example>
+<example src="EMBO" no="4">
+<text>
+Our data present a novel apical sorting pathway by which MV envelope glycoproteins are chaperoned by the M protein to initiate virus release at that surface.
+
+</text>
+<arg n="0">MV envelope glycoproteins are chaperoned by the M protein
+</arg>
+<arg n="1">virus release
+</arg>
+<arg n="2">at that surface 
+</arg>
+<arg n="3">-
+</arg>
+<arg n="4">-
+</arg>
+</example>
+</roleset>
+</predicate>
+</frameset>

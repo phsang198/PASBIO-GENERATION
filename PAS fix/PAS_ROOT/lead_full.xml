@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<frameset>
+<predicate lemma="lead">
+<roleset id="lead.01" name="resulted
+" wordnet="3">
+<roles>
+  <role n="0" descr="factors
+"/>
+  <role n="1" descr="result
+"/>
+</roles>
+<example src="MEDLINE" no="1">
+<text>
+In this homologous part of the genes, GPB lacks one exon due to a point mutation at the 5&apos; splicing site of the third intron, which inactivates the 5&apos; cleavage event of splicing and leads to ligation of the second to the fourth exon.
+
+</text>
+       <arg n="0">a point mutation at the 5&apos; splicing site of the third intron
+</arg>
+       <arg n="1">ligation of the second to the fourth exon
+</arg>
+<fdg>
+1	In	in	cla:&gt;10	@ADVL %EH PREP
+2	this	this	det:&gt;4	@DN&gt; %&gt;N DET DEM SG
+3	homologous	homologous	attr:&gt;4	@A&gt; %&gt;N A ABS
+4	part	part	pcomp:&gt;1	@&lt;P %NH N NOM SG
+5	of	of	mod:&gt;4	@&lt;NOM-OF %N&lt; PREP
+6	the	the	det:&gt;7	@DN&gt; %&gt;N DET
+7	genes	gene	pcomp:&gt;5	@&lt;P %NH N NOM PL
+8	,	,
+9	GPB	gpb	subj:&gt;10	@SUBJ %NH N NOM SG
+10	lacks	lack	main:&gt;0	@+FMAINV %VA V PRES SG3
+11	one	one	qn:&gt;12	@QN&gt; %&gt;N NUM CARD
+12	exon	exon	obj:&gt;10	@OBJ %NH N NOM SG
+13	due to	due to	ha:&gt;10	@ADVL %EH PREP
+14	a	a	det:&gt;16	@DN&gt; %&gt;N DET SG
+15	point	point	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	mutation	mutation	pcomp:&gt;13	@&lt;P %NH N NOM SG
+17	at	at		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+18	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+19	5	5	pcomp:&gt;17	@&lt;P %NH NUM CARD
+20	&apos;	&apos;
+21	splicing	splice		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING
+22	site	site	obj:&gt;21	@OBJ %NH N NOM SG
+23	of	of	mod:&gt;22	@&lt;NOM-OF %N&lt; PREP
+24	the	the	det:&gt;26	@DN&gt; %&gt;N DET
+25	third	third	attr:&gt;26	@A&gt; %&gt;N NUM ORD
+26	intron	intron	pcomp:&gt;23	@&lt;P %NH N NOM SG
+27	,	,
+28	which	which	subj:&gt;29	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+29	inactivates	inactivate	mod:&gt;26	@+FMAINV %VA V PRES SG3
+30	the	the	det:&gt;34	@DN&gt; %&gt;N DET
+31	5	5	qn:&gt;34	@QN&gt; %&gt;N NUM CARD
+32	&apos;	&apos;
+33	cleavage	cleavage	attr:&gt;34	@A&gt; %&gt;N N NOM SG
+34	event	event	obj:&gt;29	@OBJ %NH N NOM SG
+35	of	of	mod:&gt;34	@&lt;NOM-OF %N&lt; PREP
+36	splicing	splicing		@&lt;P %NH A ABS	@&lt;NOM %N&lt; A ABS	@&lt;P-FMAINV %VA ING
+37	and	and	cc:&gt;29	@CC %CC CC
+38	leads	lead	cc:&gt;29	@+FMAINV %VA V PRES SG3
+39	to	to	ha:&gt;38	@ADVL %EH PREP
+40	ligation	ligation	pcomp:&gt;39	@&lt;P %NH N NOM SG
+41	of	of	mod:&gt;40	@&lt;NOM-OF %N&lt; PREP
+42	the	the	det:&gt;43	@DN&gt; %&gt;N DET
+43	second	second	pcomp:&gt;41	@&lt;P %NH NUM ORD
+44	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+45	the	the	det:&gt;47	@DN&gt; %&gt;N DET
+46	fourth	fourth	attr:&gt;47	@A&gt; %&gt;N NUM ORD
+47	exon	exon	pcomp:&gt;44	@&lt;P %NH N NOM SG
+48	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="2">
+<text>
+We also studied in detail a complex splice site mutation, 3332dupl8bp, which was shown to lead to an abnormal JAG1 mRNA, resulting in a premature stop codon.
+
+</text>
+       <arg n="0">a complex splice site mutation
+</arg>
+       <arg n="1">an abnormal JAG1 mRNA, resulting in a premature stop codon
+</arg>
+<fdg>
+1	We	we	subj:&gt;3	@SUBJ %NH PRON PERS NOM PL1
+2	also	also	meta:&gt;3	@ADVL %EH ADV
+3	studied	study	main:&gt;0	@+FMAINV %VA V PAST
+4	in	in	loc:&gt;3	@ADVL %EH PREP
+5	detail	detail	pcomp:&gt;4	@&lt;P %NH N NOM SG
+6	a	a	det:&gt;10	@DN&gt; %&gt;N DET SG
+7	complex	complex	attr:&gt;8	@A&gt; %&gt;N A ABS
+8	splice	splice	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	site	site	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	mutation	mutation	obj:&gt;3	@OBJ %NH N NOM SG
+11	,	,
+12	3332dupl8bp	3332dupl8bp	mod:&gt;10	@APP %NH N NOM SG
+13	,	,
+14	which	which	subj:&gt;15	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+15	was	be	mod:&gt;12	@+FMAINV %VA V PAST
+16	shown	show		@-FMAINV %VP EN
+17	to	to	pm:&gt;18	@INFMARK&gt; %AUX INFMARK&gt;
+18	lead	lead	cnt:&gt;16	@-FMAINV %VA V INF
+19	to	to	ha:&gt;18	@ADVL %EH PREP
+20	an	an	det:&gt;22	@DN&gt; %&gt;N DET SG
+21	abnormal	abnormal	attr:&gt;22	@A&gt; %&gt;N A ABS
+22	JAG1	jag1	pcomp:&gt;19	@&lt;P %NH N NOM SG
+23	mRNA	mrna	mod:&gt;22	@&lt;NOM %N&lt; ABBR NOM SG
+24	,	,
+25	resulting	result		@-FMAINV %VA ING
+26	in	in	loc:&gt;25	@ADVL %EH PREP
+27	a	a	det:&gt;30	@DN&gt; %&gt;N DET SG
+28	premature	premature	attr:&gt;29	@A&gt; %&gt;N A ABS
+29	stop	stop	attr:&gt;30	@A&gt; %&gt;N N NOM SG
+30	codon	codon	pcomp:&gt;26	@&lt;P %NH N NOM SG
+31	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="3">
+<text>
+This patient&apos;s DNA contains a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele that is detectably expressed, leading to a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein.
+
+</text>
+       <arg n="0">a C----A transversion in the splice acceptor sequence of the last intron of the only ERCC-3 allele 
+</arg>
+       <arg n="1">a 4 bp insertion in the mRNA and an inactivating frameshift in the C-terminus of the protein
+</arg>
+<fdg>
+1	This	this	det:&gt;3	@DN&gt; %&gt;N DET DEM SG
+2	patient&apos;s	patient	attr:&gt;3	@A&gt; %&gt;N N GEN SG
+3	DNA	dna	subj:&gt;4	@SUBJ %NH ABBR NOM SG
+4	contains	contain	main:&gt;0	@+FMAINV %VA V PRES SG3
+5	a	a	det:&gt;6	@DN&gt; %&gt;N DET SG
+6	C	c	obj:&gt;4	@OBJ %NH N NOM SG
+7	---	-	
+8	-	-
+9	A	a	det:&gt;10	@DN&gt; %&gt;N DET SG
+10	transversion	transversion		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG	@APP %NH N NOM SG
+11	in	in	mod:&gt;10	@&lt;NOM %N&lt; PREP
+12	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+13	splice	splice	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	acceptor	acceptor	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	sequence	sequence	pcomp:&gt;11	@&lt;P %NH N NOM SG
+16	of	of	mod:&gt;15	@&lt;NOM-OF %N&lt; PREP
+17	the	the	det:&gt;19	@DN&gt; %&gt;N DET
+18	last	last	attr:&gt;19	@DN&gt; %&gt;N DET
+19	intron	intron	pcomp:&gt;16	@&lt;P %NH N NOM SG
+20	of	of	mod:&gt;19	@&lt;NOM-OF %N&lt; PREP
+21	the	the	det:&gt;24	@DN&gt; %&gt;N DET
+22	only	only	attr:&gt;23	@A&gt; %&gt;N A ABS
+23	ERCC-3	ercc-3	attr:&gt;24	@A&gt; %&gt;N N NOM SG
+24	allele	allele	pcomp:&gt;20	@&lt;P %NH N NOM SG
+25	that	that	subj:&gt;26	@SUBJ %NH &lt;Rel&gt; PRON
+26	is	be	v-ch:&gt;28	@+FAUXV %AUX V PRES SG3
+27	detectably	detectably	meta:&gt;28	@ADVL %EH ADV
+28	expressed	express	mod:&gt;24	@-FMAINV %VP EN
+29	,	,
+30	leading	lead		@-FMAINV %VA ING
+31	to	to	ha:&gt;30	@ADVL %EH PREP
+32	a	a	det:&gt;33	@DN&gt; %&gt;N DET SG
+33	4	4	pcomp:&gt;31	@&lt;P %NH NUM CARD
+34	bp	bp	attr:&gt;35	@A&gt; %&gt;N ABBR NOM SG
+35	insertion	insertion		@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+36	in	in	mod:&gt;35	@&lt;NOM %N&lt; PREP
+37	the	the	det:&gt;38	@DN&gt; %&gt;N DET
+38	mRNA	mrna	pcomp:&gt;36	@&lt;P %NH ABBR NOM SG
+39	and	and	cc:&gt;38	@CC %CC CC
+40	an	an	det:&gt;42	@DN&gt; %&gt;N DET SG
+41	inactivating	inactivating	attr:&gt;42	@A&gt; %&gt;N A ABS
+42	frameshift	frameshift	cc:&gt;38	@&lt;P %NH &lt;?&gt; N NOM SG
+43	in	in	mod:&gt;42	@&lt;NOM %N&lt; PREP
+44	the	the	det:&gt;45	@DN&gt; %&gt;N DET
+45	C-terminus	c-terminus	pcomp:&gt;43	@&lt;P %NH N NOM SG
+46	of	of	mod:&gt;45	@&lt;NOM-OF %N&lt; PREP
+47	the	the	det:&gt;48	@DN&gt; %&gt;N DET
+48	protein	protein	pcomp:&gt;46	@&lt;P %NH N NOM SG
+49	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="4">
+<text>
+G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14 leads to a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S).
+
+</text>
+       <arg n="0">G979A affects a splice consensus site at the end of exon 8, and G1488T in exon 14
+</arg>
+       <arg n="1">a replacement of a positive charge in a highly conserved putative transmembrane domain (R496S)
+</arg>
+<fdg>
+
+1	G979A	g979a	subj:&gt;2	@SUBJ %NH N NOM SG
+2	affects	affect	main:&gt;0	@+FMAINV %VA V PRES SG3
+3	a	a	det:&gt;6	@DN&gt; %&gt;N DET SG
+4	splice	splice	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	consensus	consensus	attr:&gt;6	@A&gt; %&gt;N N NOM SG
+6	site	site	obj:&gt;2	@OBJ %NH N NOM SG
+7	at	at	loc:&gt;2	@ADVL %EH PREP
+8	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+9	end	end	pcomp:&gt;7	@&lt;P %NH N NOM SG
+10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+11	exon	exon	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	8	8	pcomp:&gt;10	@&lt;P %NH NUM CARD
+13	,	,
+14	and	and	cc:&gt;12	@CC %CC CC
+15	G1488T	g1488t	cc:&gt;12	@&lt;P %NH N NOM SG
+16	in	in	mod:&gt;15	@&lt;NOM %N&lt; PREP
+17	exon	exon	pcomp:&gt;16	@&lt;P %NH N NOM SG
+18	14	14	qn:&gt;19	@QN&gt; %&gt;N NUM CARD
+19	leads	lead		@SUBJ %NH N NOM PL
+20	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+21	a	a	det:&gt;22	@DN&gt; %&gt;N DET SG
+22	replacement	replacement	pcomp:&gt;20	@&lt;P %NH N NOM SG
+23	of	of	mod:&gt;22	@&lt;NOM-OF %N&lt; PREP
+24	a	a	det:&gt;26	@DN&gt; %&gt;N DET SG
+25	positive	positive	attr:&gt;26	@A&gt; %&gt;N A ABS
+26	charge	charge	pcomp:&gt;23	@&lt;P %NH N NOM SG
+27	in	in		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+28	a	a		@DN&gt; %&gt;N DET SG
+29	highly	highly	ad:&gt;30	@AD-A&gt; %E&gt; ADV
+30	conserved	conserved	attr:&gt;31	@A&gt; %&gt;N A ABS
+31	putative	putative	attr:&gt;32	@A&gt; %&gt;N A ABS
+32	transmembrane	transmembrane	attr:&gt;33	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+33	domain	domain		@A&gt; %&gt;N N NOM SG	@&lt;P %NH N NOM SG
+34	(	(
+35	R496S)	r496s)		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@APP %NH N NOM SG	@&lt;P %NH N NOM SG
+36	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="5">
+<text>
+By direct sequencing of aberrant SSCA conformers were revealed 15 different mutations in a total of 18 unrelated families and 13 single patients. Of these, 10 were novel (7 missense mutations, 2 mutations leading to frameshift, and 1 mutation predicted to affect normal splicing).
+
+</text>
+       <arg n="0">7 missense mutations, 2 mutations
+</arg>
+       <arg n="1">frameshift
+</arg>
+<fdg>
+1	By	by	cla:&gt;9	@ADVL %EH PREP
+2	direct	direct	attr:&gt;3	@A&gt; %&gt;N A ABS
+3	sequencing	sequencing	pcomp:&gt;1	@&lt;P %NH N NOM SG
+4	of	of	mod:&gt;3	@&lt;NOM-OF %N&lt; PREP
+5	aberrant	aberrant	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	SSCA	ssca	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	conformers	conformer	subj:&gt;8	@SUBJ %NH N NOM PL
+8	were	be	v-ch:&gt;9	@+FAUXV %AUX V PAST PL
+9	revealed	reveal	main:&gt;0	@-FMAINV %VP EN
+10	15	15	qn:&gt;12	@QN&gt; %&gt;N NUM CARD
+11	different	different	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	mutations	mutation		@SUBJ %NH N NOM PL
+13	in	in	ha:&gt;9	@ADVL %EH PREP
+14	a	a	det:&gt;15	@DN&gt; %&gt;N DET SG
+15	total	total	pcomp:&gt;13	@&lt;P %NH A ABS
+16	of	of	mod:&gt;15	@&lt;NOM-OF %N&lt; PREP
+17	18	18	qn:&gt;19	@QN&gt; %&gt;N NUM CARD
+18	unrelated	unrelated	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	families	family	pcomp:&gt;16	@&lt;P %NH N NOM PL
+20	and	and	cc:&gt;19	@CC %CC CC
+21	13	13	qn:&gt;23	@QN&gt; %&gt;N NUM CARD
+22	single	single	attr:&gt;23	@A&gt; %&gt;N A ABS
+23	patients	patient	cc:&gt;19	@&lt;P %NH N NOM PL
+24	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="6">
+<text>
+Disruption of the SNU246 gene in yeast is lethal and leads to a splicing defect in vivo, indicating that the protein is essential for splicing.
+
+</text>
+       <arg n="0">Disruption of the SNU246 gene in yeast
+</arg>
+       <arg n="1">a splicing defect in vivo, indicating that the protein is essential for splicing
+</arg>
+<fdg>
+1	Disruption	disruption	subj:&gt;8	@SUBJ %NH N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	the	the	det:&gt;5	@DN&gt; %&gt;N DET
+4	SNU246	snu246	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	gene	gene	pcomp:&gt;2	@&lt;P %NH N NOM SG
+6	in	in	mod:&gt;5	@&lt;NOM %N&lt; PREP
+7	yeast	yeast	pcomp:&gt;6	@&lt;P %NH N NOM SG
+8	is	be	main:&gt;0	@+FMAINV %VA V PRES SG3
+9	lethal	lethal	comp:&gt;8	@PCOMPL-S %NH A ABS
+10	and	and	cc:&gt;8	@CC %CC CC
+11	leads	lead	cc:&gt;8	@+FMAINV %VA V PRES SG3
+12	to	to	ha:&gt;11	@ADVL %EH PREP
+13	a	a		@DN&gt; %&gt;N DET SG
+14	splicing	splicing	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	defect	defect	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	in vivo	in vivo		@A&gt; %&gt;N A ABS
+17	,	,
+18	indicating	indicate	man:&gt;11	@-FMAINV %VA ING
+19	that	that	pm:&gt;22	@CS %CS CS
+20	the	the	det:&gt;21	@DN&gt; %&gt;N DET
+21	protein	protein	subj:&gt;22	@SUBJ %NH N NOM SG
+22	is	be	obj:&gt;18	@+FMAINV %VA V PRES SG3
+23	essential	essential	comp:&gt;22	@PCOMPL-S %NH A ABS
+24	for	for	mod:&gt;23	@&lt;NOM %N&lt; PREP
+25	splicing	splicing	pcomp:&gt;24	@&lt;P %NH A ABS
+26	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="7">
+<text>
+The mutations identified include: two frameshifts and a splice site mutation leading to truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations, two of which involve amino acids located within putative transmembrane domains.
+
+</text>
+       <arg n="0">two frameshifts and a splice site mutation
+</arg>
+       <arg n="1">truncated OA1 proteins; a deletion of a threonine codon at position 290; and four missense mutations 
+</arg>
+<fdg>
+
+1	The	the	det:&gt;2	@DN&gt; %&gt;N DET
+2	mutations	mutation	subj:&gt;4	@SUBJ %NH N NOM PL
+3	identified	identify	mod:&gt;2	@-FMAINV %VP EN
+4	include	include	main:&gt;0	@+FMAINV %VA V PRES
+5	:	:
+6	two	two	qn:&gt;7	@QN&gt; %&gt;N NUM CARD
+7	frameshifts	frameshift		@NH %NH &lt;?&gt; N NOM PL	@SUBJ %NH &lt;?&gt; N NOM PL	@OBJ %NH &lt;?&gt; N NOM PL
+8	and	and	cc:&gt;7	@CC %CC CC
+9	a	a	det:&gt;12	@DN&gt; %&gt;N DET SG
+10	splice	splice	attr:&gt;11	@A&gt; %&gt;N N NOM SG
+11	site	site	attr:&gt;12	@A&gt; %&gt;N N NOM SG
+12	mutation	mutation	cc:&gt;7	@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+13	leading	lead	mod:&gt;12	@-FMAINV %VA ING
+14	to	to	ha:&gt;13	@ADVL %EH PREP
+15	truncated	truncated	attr:&gt;16	@A&gt; %&gt;N A ABS
+16	OA1	oa1	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	proteins	protein	pcomp:&gt;14	@&lt;P %NH N NOM PL
+18	;	;
+19	a	a	det:&gt;20	@DN&gt; %&gt;N DET SG
+20	deletion	deletion		@NH %NH N NOM SG	@SUBJ %NH N NOM SG	@OBJ %NH N NOM SG
+21	of	of	mod:&gt;20	@&lt;NOM-OF %N&lt; PREP
+22	a	a	det:&gt;24	@DN&gt; %&gt;N DET SG
+23	threonine	threonine	attr:&gt;24	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+24	codon	codon	pcomp:&gt;21	@&lt;P %NH N NOM SG
+25	at	at		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+26	position	position	attr:&gt;27	@A&gt; %&gt;N N NOM SG
+27	290	290	pcomp:&gt;25	@&lt;P %NH NUM CARD
+28	;	;
+29	and	and	cc:&gt;28	@CC %CC CC
+30	four	four	qn:&gt;32	@QN&gt; %&gt;N NUM CARD
+31	missense	missense	attr:&gt;32	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+32	mutations	mutation		@NH %NH N NOM PL	@SUBJ %NH N NOM PL	@OBJ %NH N NOM PL	@&lt;P %NH N NOM PL
+33	,	,
+34	two	two	subj:&gt;37	@SUBJ %NH NUM CARD
+35	of	of	mod:&gt;34	@&lt;NOM-OF %N&lt; PREP
+36	which	which	pcomp:&gt;35	@&lt;P %NH &lt;Rel&gt; PRON WH NOM
+37	involve	involve	cc:&gt;13	@+FMAINV %VA V PRES
+38	amino	amino	attr:&gt;39	@A&gt; %&gt;N N NOM SG
+39	acids	acid	obj:&gt;37	@OBJ %NH N NOM PL
+40	located	locate	mod:&gt;39	@-FMAINV %VP EN
+41	within	within	ha:&gt;40	@ADVL %EH PREP
+42	putative	putative	attr:&gt;43	@A&gt; %&gt;N A ABS
+43	transmembrane	transmembrane	attr:&gt;44	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+44	domains	domain	pcomp:&gt;41	@&lt;P %NH N NOM PL
+45	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="8">
+<text>
+This was caused by a point mutation (GTC----ATC) at codon 383, which leads to the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter.
+
+</text>
+       <arg n="0">a point mutation (GTC----ATC) at codon 383
+</arg>
+       <arg n="1">the conservative substitution of isoleucine for valine in the putative fifth extracellular loop of the transporter
+</arg>
+<fdg>
+
+1	This	this	subj:&gt;2	@SUBJ %NH PRON DEM SG
+2	was	be	v-ch:&gt;3	@+FAUXV %AUX V PAST
+3	caused	cause	main:&gt;0	@-FMAINV %VP EN
+4	by	by	ha:&gt;3	@ADVL %EH PREP
+5	a	a	det:&gt;7	@DN&gt; %&gt;N DET SG
+6	point	point	attr:&gt;7	@A&gt; %&gt;N N NOM SG
+7	mutation	mutation	pcomp:&gt;4	@&lt;P %NH N NOM SG
+8	(	(
+9	GTC	gtc		@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG
+10	---	-	
+11	-	-
+12	&lt;s&gt;	&lt;s&gt;
+1	ATC	atc		@NH %NH ABBR NOM SG
+2	)	)
+3	at	at		@ADVL %EH PREP
+4	codon	codon	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	383	383	pcomp:&gt;3	@&lt;P %NH NUM CARD
+6	,	,
+7	which	which	subj:&gt;8	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+8	leads	lead	mod:&gt;5	@+FMAINV %VA V PRES SG3
+9	to	to	ha:&gt;8	@ADVL %EH PREP
+10	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+11	conservative	conservative	attr:&gt;12	@A&gt; %&gt;N A ABS
+12	substitution	substitution	pcomp:&gt;9	@&lt;P %NH N NOM SG
+13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+14	isoleucine	isoleucine	pcomp:&gt;13	@&lt;P %NH &lt;?&gt; N NOM SG
+15	for	for	mod:&gt;14	@&lt;NOM %N&lt; PREP
+16	valine	valine	pcomp:&gt;15	@&lt;P %NH &lt;?&gt; N NOM SG
+17	in	in	mod:&gt;16	@&lt;NOM %N&lt; PREP
+18	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+19	putative	putative	attr:&gt;20	@A&gt; %&gt;N A ABS
+20	fifth	fifth	attr:&gt;21	@A&gt; %&gt;N NUM ORD
+21	extracellular	extracellular	attr:&gt;22	@A&gt; %&gt;N A ABS
+22	loop	loop	pcomp:&gt;17	@&lt;P %NH N NOM SG
+23	of	of	mod:&gt;22	@&lt;NOM-OF %N&lt; PREP
+24	the	the	det:&gt;25	@DN&gt; %&gt;N DET
+25	transporter	transporter	pcomp:&gt;23	@&lt;P %NH N NOM SG
+26	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="9">
+<text>
+Genetic deficiency of GM2 activator leads to a neurological disorder, an atypical form of Tay-Sachs disease (GM2 gangliosidosis variant AB).
+
+</text>
+       <arg n="0">Genetic deficiency of GM2 activator
+</arg>
+       <arg n="1">a neurological disorder
+</arg>
+<fdg>
+1	Genetic	genetic	attr:&gt;2	@A&gt; %&gt;N A ABS
+2	deficiency	deficiency	subj:&gt;6	@SUBJ %NH N NOM SG
+3	of	of	mod:&gt;2	@&lt;NOM-OF %N&lt; PREP
+4	GM2	gm2	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	activator	activator	pcomp:&gt;3	@&lt;P %NH N NOM SG
+6	leads	lead	main:&gt;0	@+FMAINV %VA V PRES SG3
+7	to	to	ha:&gt;6	@ADVL %EH PREP
+8	a	a	det:&gt;10	@DN&gt; %&gt;N DET SG
+9	neurological	neurological	attr:&gt;10	@A&gt; %&gt;N A ABS
+10	disorder	disorder	pcomp:&gt;7	@&lt;P %NH N NOM SG
+11	,	,
+12	an	an	det:&gt;14	@DN&gt; %&gt;N DET SG
+13	atypical	atypical	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	form	form	mod:&gt;10	@APP %NH N NOM SG
+15	of	of	mod:&gt;14	@&lt;NOM-OF %N&lt; PREP
+16	Tay-Sachs	tay-#sachs	attr:&gt;17	@A&gt; %&gt;N N NOM SG
+17	disease	disease	pcomp:&gt;15	@&lt;P %NH N NOM SG
+18	(	(
+19	GM2	gm2	attr:&gt;20	@A&gt; %&gt;N N NOM SG
+20	gangliosidosis	gangliosidosis	attr:&gt;21	@A&gt; %&gt;N &lt;?&gt; N NOM
+21	variant	variant	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	AB	ab		@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@NH %NH ABBR NOM SG
+23	)	)
+24	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="10">
+<text>
+These results suggest that the distinct amino termini lead to the targeting of individual VDAC isoforms to different cellular compartments.
+
+</text>
+       <arg n="0">the distinct amino termini
+</arg>
+       <arg n="1">the targeting of individual VDAC isoforms to different cellular compartments
+</arg>
+<fdg>
+1	These	this	det:&gt;2	@DN&gt; %&gt;N DET DEM PL
+2	results	result	subj:&gt;3	@SUBJ %NH N NOM PL
+3	suggest	suggest	main:&gt;0	@+FMAINV %VA V PRES
+4	that	that	pm:&gt;9	@CS %CS CS
+5	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+6	distinct	distinct	attr:&gt;7	@A&gt; %&gt;N A ABS
+7	amino	amino	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	termini	terminus	subj:&gt;9	@SUBJ %NH N NOM PL
+9	lead	lead	obj:&gt;3	@+FMAINV %VA V PRES
+10	to	to	ha:&gt;9	@ADVL %EH PREP
+11	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+12	targeting	targeting	pcomp:&gt;10	@&lt;P %NH A ABS
+13	of	of	mod:&gt;12	@&lt;NOM-OF %N&lt; PREP
+14	individual	individual	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	VDAC	vdac	attr:&gt;16	@A&gt; %&gt;N N NOM SG
+16	isoforms	isoform	pcomp:&gt;13	@&lt;P %NH &lt;?&gt; N NOM PL
+17	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+18	different	different	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	cellular	cellular	attr:&gt;20	@A&gt; %&gt;N A ABS
+20	compartments	compartment	pcomp:&gt;17	@&lt;P %NH N NOM PL
+21	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="11">
+<text>
+This splice mutation in 5 end of intron 5 might lead to abnormal splice in exon 5 and exon 6 and bring about unstable and abnormal ALD protein; the lignoceryl CoA ligase could not transport very long chain fatty acids (VLCFA) into peroxisome and could not function normally; consequently, defective beta-oxidation of VLCFA in peroxisome could result in an accumulation of VLCFAS in the central nervous system, adrenal gland and blood.
+
+</text>
+       <arg n="0">This splice mutation in 5 end of intron 5
+</arg>
+       <arg n="1">abnormal splice in exon 5 and exon 6
+</arg>
+<fdg>
+1	This	this	det:&gt;3	@DN&gt; %&gt;N DET DEM SG
+2	splice	splice	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	mutation	mutation	main:&gt;0	@NH %NH N NOM SG
+4	in	in	mod:&gt;3	@&lt;NOM %N&lt; PREP
+5	5	5	pcomp:&gt;4	@&lt;P %NH NUM CARD
+6	&apos;	&apos;
+7	end	end	subj:&gt;11	@SUBJ %NH N NOM SG
+8	of	of	mod:&gt;7	@&lt;NOM-OF %N&lt; PREP
+9	intron	intron	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	5	5	pcomp:&gt;8	@&lt;P %NH NUM CARD
+11	might	might	v-ch:&gt;12	@+FAUXV %AUX V AUXMOD
+12	lead	lead		@-FMAINV %VA V INF
+13	to	to	ha:&gt;12	@ADVL %EH PREP
+14	abnormal	abnormal	attr:&gt;15	@A&gt; %&gt;N A ABS
+15	splice	splice	pcomp:&gt;13	@&lt;P %NH N NOM SG
+16	in	in	mod:&gt;15	@&lt;NOM %N&lt; PREP
+17	exon	exon	attr:&gt;18	@A&gt; %&gt;N N NOM SG
+18	5	5	pcomp:&gt;16	@&lt;P %NH NUM CARD
+19	and	and		@CC %CC CC
+20	exon	exon	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	6	6		@SUBJ %NH NUM CARD	@OBJ %NH NUM CARD	@&lt;P %NH NUM CARD
+22	and	and	cc:&gt;12	@CC %CC CC
+23	bring	bring	cc:&gt;12	@-FMAINV %VA V INF
+24	about	about	ad:&gt;25	@AD-A&gt; %E&gt; ADV
+25	unstable	unstable	cc:&gt;27	@A&gt; %&gt;N A ABS
+26	and	and	cc:&gt;27	@CC %CC CC
+27	abnormal	abnormal	attr:&gt;28	@A&gt; %&gt;N A ABS
+28	ALD	ald	attr:&gt;29	@A&gt; %&gt;N N NOM SG
+29	protein	protein	obj:&gt;23	@OBJ %NH N NOM SG
+30	;	;
+31	the	the	det:&gt;34	@DN&gt; %&gt;N DET
+32	lignoceryl	lignoceryl	attr:&gt;33	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+33	CoA	coa	attr:&gt;34	@A&gt; %&gt;N N NOM SG
+34	ligase	ligase	subj:&gt;35	@SUBJ %NH &lt;?&gt; N NOM SG
+35	could	could	v-ch:&gt;37	@+FAUXV %AUX V AUXMOD
+36	not	not	neg:&gt;35	@ADVL %EH NEG-PART
+37	transport	transport	cc:&gt;23	@-FMAINV %VA V INF
+38	very	very	ad:&gt;39	@AD-A&gt; %E&gt; ADV
+39	long	long	attr:&gt;40	@A&gt; %&gt;N A ABS
+40	chain	chain	attr:&gt;41	@A&gt; %&gt;N N NOM SG
+41	fatty	fatty	attr:&gt;42	@A&gt; %&gt;N A ABS
+42	acids	acid	obj:&gt;37	@OBJ %NH N NOM PL
+43	(	(
+44	VLCFA	vlcfa	mod:&gt;42	@NH %NH N NOM SG
+45	)	)
+46	into	into	goa:&gt;37	@ADVL %EH PREP
+47	peroxisome	peroxisome	pcomp:&gt;46	@&lt;P %NH &lt;?&gt; N NOM SG
+48	and	and	cc:&gt;37	@CC %CC CC
+49	could	could	v-ch:&gt;51	@+FAUXV %AUX V AUXMOD
+50	not	not	neg:&gt;49	@ADVL %EH NEG-PART
+51	function	function	cc:&gt;37	@-FMAINV %VA V INF
+52	normally	normally	man:&gt;51	@ADVL %EH ADV
+53	;	;
+54	consequently	consequently		@ADVL %EH ADV	@AD-A&gt; %E&gt; ADV
+55	,	,
+56	defective	defective	attr:&gt;57	@A&gt; %&gt;N A ABS
+57	beta-oxidation	beta-oxidation	subj:&gt;62	@SUBJ %NH &lt;?&gt; N NOM SG
+58	of	of	mod:&gt;57	@&lt;NOM-OF %N&lt; PREP
+59	VLCFA	vlcfa	pcomp:&gt;58	@&lt;P %NH N NOM SG
+60	in	in	mod:&gt;59	@&lt;NOM %N&lt; PREP
+61	peroxisome	peroxisome	pcomp:&gt;60	@&lt;P %NH &lt;?&gt; N NOM SG
+62	could	could	v-ch:&gt;63	@+FAUXV %AUX V AUXMOD
+63	result	result	cc:&gt;51	@-FMAINV %VA V INF
+64	in	in	loc:&gt;63	@ADVL %EH PREP
+65	an	an	det:&gt;66	@DN&gt; %&gt;N DET SG
+66	accumulation	accumulation	pcomp:&gt;64	@&lt;P %NH N NOM SG
+67	of	of	mod:&gt;66	@&lt;NOM-OF %N&lt; PREP
+68	VLCFAS	vlcfas	pcomp:&gt;67	@&lt;P %NH N NOM SG
+69	in	in	phr:&gt;63	@ADVL %EH PREP
+70	the	the	det:&gt;73	@DN&gt; %&gt;N DET
+71	central	central	attr:&gt;72	@A&gt; %&gt;N A ABS
+72	nervous	nervous	attr:&gt;73	@A&gt; %&gt;N A ABS
+73	system	system	pcomp:&gt;69	@&lt;P %NH N NOM SG
+74	,	,
+75	adrenal	adrenal	attr:&gt;76	@A&gt; %&gt;N A ABS
+76	gland	gland	cc:&gt;73	@&lt;P %NH N NOM SG
+77	and	and	cc:&gt;76	@CC %CC CC
+78	blood	blood	cc:&gt;76	@&lt;P %NH N NOM SG
+79	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="12">
+<text>
+The splice mutation in 5 end of intron 5 leading to abnormal splice in exon 5 and exon 6 appears to be one of the causes of X-linked recessive adrenoleukodystrophy.
+
+</text>
+       <arg n="0">The splice mutation in 5 end of intron 5
+</arg>
+       <arg n="1">abnormal splice in exon 5 and exon 6
+</arg>
+<fdg>
+3	The	the	det:&gt;5	@DN&gt; %&gt;N DET
+4	splice	splice	attr:&gt;5	@A&gt; %&gt;N N NOM SG
+5	mutation	mutation	main:&gt;2	@NH %NH N NOM SG
+6	in	in	mod:&gt;5	@&lt;NOM %N&lt; PREP
+7	5	5	pcomp:&gt;6	@&lt;P %NH NUM CARD
+8	&apos;	&apos;
+9	end	end		@NH %NH N NOM SG	@SUBJ %NH N NOM SG
+10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+11	intron	intron	pcomp:&gt;10	@&lt;P %NH N NOM SG
+12	5	5		@QN&gt; %&gt;N NUM CARD
+13	leading	lead		@&lt;P-FMAINV %VA ING	@-FMAINV %VA ING
+14	to	to	ha:&gt;13	@ADVL %EH PREP
+15	abnormal	abnormal	attr:&gt;16	@A&gt; %&gt;N A ABS
+16	splice	splice	pcomp:&gt;14	@&lt;P %NH N NOM SG
+17	in	in	mod:&gt;16	@&lt;NOM %N&lt; PREP
+18	exon	exon	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	5	5	pcomp:&gt;17	@&lt;P %NH NUM CARD
+20	and	and		@CC %CC CC
+21	exon	exon	subj:&gt;23	@SUBJ %NH N NOM SG
+22	6	6	mod:&gt;21	@&lt;NOM %N&lt; NUM CARD
+23	appears	appear		@+FMAINV %VA V PRES SG3
+24	to	to	pm:&gt;25	@INFMARK&gt; %AUX INFMARK&gt;
+25	be	be	comp:&gt;23	@-FMAINV %VA V INF
+26	one	one	comp:&gt;25	@PCOMPL-S %NH NUM CARD
+27	of	of	mod:&gt;26	@&lt;NOM-OF %N&lt; PREP
+28	the	the	det:&gt;29	@DN&gt; %&gt;N DET
+29	causes	cause	pcomp:&gt;27	@&lt;P %NH N NOM PL
+30	of	of	mod:&gt;29	@&lt;NOM-OF %N&lt; PREP
+31	X-linked	x-linked	attr:&gt;32	@A&gt; %&gt;N A ABS
+32	recessive	recessive	attr:&gt;33	@A&gt; %&gt;N A ABS
+33	adrenoleukodystrophy	adrenoleukodystrophy	pcomp:&gt;30	@&lt;P %NH &lt;?&gt; N NOM SG
+34	.     .
+</fdg>
+</example>
+<example src="MEDLINE" no="13">
+<text>
+This leads to a substantial diversity of nebulin and nebulette isoforms.
+
+</text>
+       <arg n="0">This
+</arg>
+       <arg n="1">a substantial diversity of nebulin and nebulette isoforms
+</arg>
+<fdg>
+1	This	this	subj:&gt;2	@SUBJ %NH PRON DEM SG
+2	leads	lead	main:&gt;0	@+FMAINV %VA V PRES SG3
+3	to	to	ha:&gt;2	@ADVL %EH PREP
+4	a	a	det:&gt;6	@DN&gt; %&gt;N DET SG
+5	substantial	substantial	attr:&gt;6	@A&gt; %&gt;N A ABS
+6	diversity	diversity	pcomp:&gt;3	@&lt;P %NH N NOM SG
+7	of	of	mod:&gt;6	@&lt;NOM-OF %N&lt; PREP
+8	nebulin	nebulin	cc:&gt;10	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+9	and	and	cc:&gt;10	@CC %CC CC
+10	nebulette	nebulette	attr:&gt;11	@A&gt; %&gt;N &lt;?&gt; N NOM SG
+11	isoforms	isoform	pcomp:&gt;7	@&lt;P %NH &lt;?&gt; N NOM PL
+12	.     .
+</fdg>
+</example>
+<example src="EMBO" no="1">
+<text>
+In mice, inactivation of the MEF2C gene, which is the first MEF2 isoform expressed during embryonic development, leads to cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5 (Lin et al., 1997, 1998; Bi et al., 1999).
+
+</text>
+       <arg n="0">inactivation of the MEF2C gene
+</arg>
+       <arg n="1">cardiac morphogenetic defects, vascular abnormalities and lethality by embryonic day 9.5
+</arg>
+<fdg>
+1	In	in	cla:&gt;21	@ADVL %EH PREP
+2	mice	mouse	pcomp:&gt;1	@&lt;P %NH N NOM PL
+3	,	,
+4	inactivation	inactivation	subj:&gt;21	@SUBJ %NH N NOM SG
+5	of	of	mod:&gt;4	@&lt;NOM-OF %N&lt; PREP
+6	the	the	det:&gt;8	@DN&gt; %&gt;N DET
+7	MEF2C	mef2c	attr:&gt;8	@A&gt; %&gt;N N NOM SG
+8	gene	gene	pcomp:&gt;5	@&lt;P %NH N NOM SG
+9	,	,
+10	which	which		@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+11	is	be	v-ch:&gt;16	@+FAUXV %AUX V PRES SG3
+12	the	the	det:&gt;15	@DN&gt; %&gt;N DET
+13	first	first	attr:&gt;14	@A&gt; %&gt;N NUM ORD
+14	MEF2	mef2	attr:&gt;15	@A&gt; %&gt;N N NOM SG
+15	isoform	isoform	subj:&gt;11	@SUBJ %NH &lt;?&gt; N NOM SG
+16	expressed	express	mod:&gt;8	@-FMAINV %VP EN
+17	during	during	ha:&gt;16	@ADVL %EH PREP
+18	embryonic	embryonic	attr:&gt;19	@A&gt; %&gt;N A ABS
+19	development	development	pcomp:&gt;17	@&lt;P %NH N NOM SG
+20	,	,
+21	leads	lead	main:&gt;0	@+FMAINV %VA V PRES SG3
+22	to	to	ha:&gt;21	@ADVL %EH PREP
+23	cardiac	cardiac	attr:&gt;24	@A&gt; %&gt;N A ABS
+24	morphogenetic	morphogenetic	attr:&gt;25	@A&gt; %&gt;N A ABS
+25	defects	defect	pcomp:&gt;22	@&lt;P %NH N NOM PL
+26	,	,
+27	vascular	vascular	attr:&gt;28	@A&gt; %&gt;N A ABS
+28	abnormalities	abnormality	cc:&gt;25	@&lt;P %NH N NOM PL
+29	and	and	cc:&gt;28	@CC %CC CC
+30	lethality	lethality	cc:&gt;28	@&lt;P %NH N NOM SG
+31	by	by		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+32	embryonic	embryonic	attr:&gt;33	@A&gt; %&gt;N A ABS
+33	day	day	pcomp:&gt;31	@&lt;P %NH N NOM SG
+34	9.5	9.5	mod:&gt;33	@&lt;NOM %N&lt; NUM CARD
+35	(	(
+36	Lin	lin	main:&gt;35	@APP %NH N NOM SG
+37	et	et	cc:&gt;36	@CC %CC CC
+38	al.	al.	cc:&gt;36	@APP %NH ABBR NOM SG
+39	,	,
+40	1997	1997		@ADVL %EH NUM CARD
+41	,	,
+42	1998	1998		@NH %NH NUM CARD	@&lt;P %NH NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+43	;	;
+44	Bi	bi	main:&gt;43	@NH %NH N NOM SG
+45	et	et	cc:&gt;44	@CC %CC CC
+46	al.	al.	cc:&gt;44	@NH %NH ABBR NOM SG
+47	,	,
+48	1999	1999	cc:&gt;46	@NH %NH NUM CARD
+49	)	)
+50	.     .
+</fdg>
+</example>
+<example src="EMBO" no="2">
+<text>
+Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D leads to a synergistic 40-to 50-fold activation of the ANF promoter (Figure 3A).
+
+</text>
+       <arg n="0">Cotransfection of GATA-4 with MEF2A, MEF2C or MEF2D
+</arg>
+       <arg n="1">a synergistic 40-to 50-fold activation of the ANF promoter
+</arg>
+<fdg>
+1	Cotransfection	cotransfection	subj:&gt;10	@SUBJ %NH &lt;?&gt; N NOM SG
+2	of	of	mod:&gt;1	@&lt;NOM-OF %N&lt; PREP
+3	GATA-4	gata-4	pcomp:&gt;2	@&lt;P %NH N NOM SG
+4	with	with	mod:&gt;3	@&lt;NOM %N&lt; PREP
+5	MEF2A	mef2a	pcomp:&gt;4	@&lt;P %NH N NOM SG
+6	,	,
+7	MEF2C	mef2c	cc:&gt;5	@&lt;P %NH N NOM SG
+8	or	or	cc:&gt;7	@CC %CC CC
+9	MEF2D	mef2d	cc:&gt;7	@&lt;P %NH N NOM SG
+10	leads	lead	main:&gt;0	@+FMAINV %VA V PRES SG3
+11	to	to	ha:&gt;10	@ADVL %EH PREP
+12	a	a	det:&gt;14	@DN&gt; %&gt;N DET SG
+13	synergistic	synergistic	attr:&gt;14	@A&gt; %&gt;N A ABS
+14	40-	40-	pcomp:&gt;11	@&lt;P %NH NUM CARD
+15	to	to		@&lt;NOM %N&lt; PREP	@ADVL %EH PREP
+16	50-fold	50-fold	attr:&gt;17	@A&gt; %&gt;N A ABS
+17	activation	activation	pcomp:&gt;15	@&lt;P %NH N NOM SG
+18	of	of	mod:&gt;17	@&lt;NOM-OF %N&lt; PREP
+19	the	the	det:&gt;21	@DN&gt; %&gt;N DET
+20	ANF	anf	attr:&gt;21	@A&gt; %&gt;N N NOM SG
+21	promoter	promoter	pcomp:&gt;18	@&lt;P %NH N NOM SG
+22	(	(
+23	Figure	figure	attr:&gt;24	@A&gt; %&gt;N N NOM SG
+24	3A	3a		@NH %NH NUM CARD	@APP %NH NUM CARD	@A&gt; %&gt;N NUM CARD
+25	)	)
+26	.     .
+</fdg>
+</example>
+<example src="EMBO" no="3">
+<text>
+This, in turn, leads to synergistic activation of the ANF and other MEF2 target promoters independently of the DNA-binding activity of MEF2.
+
+</text>
+       <arg n="0">This
+</arg>
+       <arg n="1">synergistic activation of the ANF and other MEF2 target promoters
+</arg>
+<fdg>
+1	This	this	subj:&gt;6	@SUBJ %NH PRON DEM SG
+2	,	,
+3	in	in	mod:&gt;1	@ADVL %EH PREP
+4	turn	turn	pcomp:&gt;3	@&lt;P %NH N NOM SG
+5	,	,
+6	leads	lead	main:&gt;0	@+FMAINV %VA V PRES SG3
+7	to	to	ha:&gt;6	@ADVL %EH PREP
+8	synergistic	synergistic	attr:&gt;9	@A&gt; %&gt;N A ABS
+9	activation	activation	pcomp:&gt;7	@&lt;P %NH N NOM SG
+10	of	of	mod:&gt;9	@&lt;NOM-OF %N&lt; PREP
+11	the	the	det:&gt;12	@DN&gt; %&gt;N DET
+12	ANF	anf	pcomp:&gt;10	@&lt;P %NH N NOM SG
+13	and	and	cc:&gt;6	@CC %CC CC
+14	other	other	det:&gt;15	@DN&gt; %&gt;N DET
+15	MEF2	mef2	subj:&gt;16	@SUBJ %NH N NOM SG
+16	target	target	cc:&gt;6	@+FMAINV %VA V PRES
+17	promoters	promoter	obj:&gt;16	@OBJ %NH N NOM PL
+18	independently	independently	man:&gt;16	@ADVL %EH ADV
+19	of	of		@&lt;NOM-OF %N&lt; PREP
+20	the	the	det:&gt;22	@DN&gt; %&gt;N DET
+21	DNA-binding	dna-binding	attr:&gt;22	@A&gt; %&gt;N N NOM SG
+22	activity	activity	pcomp:&gt;19	@&lt;P %NH N NOM SG
+23	of	of	mod:&gt;22	@&lt;NOM-OF %N&lt; PREP
+24	MEF2	mef2	pcomp:&gt;23	@&lt;P %NH N NOM SG
+25	.     .
+</fdg>
+</example>
+<example src="EMBO" no="4">
+<text>
+This G:C base pair is also the strongest determinant in the sequence selection experiment, which led to the identification of the BRE (Lagrange et al., 1998).
+
+</text>
+       <arg n="0">the sequence selection experiment
+</arg>
+       <arg n="1">the identification of the BRE
+</arg>
+<fdg>
+1	This	this	det:&gt;4	@DN&gt; %&gt;N DET DEM SG
+2	G:C	g:c	attr:&gt;3	@A&gt; %&gt;N N NOM SG
+3	base	base	attr:&gt;4	@A&gt; %&gt;N N NOM SG
+4	pair	pair	subj:&gt;5	@SUBJ %NH N NOM
+5	is	be		@+FMAINV %VA V PRES SG3
+6	also	also	meta:&gt;5	@ADVL %EH ADV
+7	the	the	det:&gt;9	@DN&gt; %&gt;N DET
+8	strongest	strong	attr:&gt;9	@A&gt; %&gt;N A SUP
+9	determinant	determinant	comp:&gt;5	@PCOMPL-S %NH N NOM SG
+10	in	in	loc:&gt;5	@ADVL %EH PREP
+11	the	the	det:&gt;14	@DN&gt; %&gt;N DET
+12	sequence	sequence	attr:&gt;13	@A&gt; %&gt;N N NOM SG
+13	selection	selection	attr:&gt;14	@A&gt; %&gt;N N NOM SG
+14	experiment	experiment	pcomp:&gt;10	@&lt;P %NH N NOM SG
+15	,	,
+16	which	which	subj:&gt;17	@SUBJ %NH &lt;Rel&gt; PRON WH NOM
+17	led	lead	mod:&gt;14	@+FMAINV %VA V PAST
+18	to	to	ha:&gt;17	@ADVL %EH PREP
+19	the	the	det:&gt;20	@DN&gt; %&gt;N DET
+20	identification	identification	pcomp:&gt;18	@&lt;P %NH N NOM SG
+21	of	of	mod:&gt;20	@&lt;NOM-OF %N&lt; PREP
+22	the	the	det:&gt;23	@DN&gt; %&gt;N DET
+23	BRE	bre	pcomp:&gt;21	@&lt;P %NH ABBR NOM SG
+24	(	(
+25	Lagrange	lagrange	main:&gt;24	@APP %NH N NOM SG
+26	et	et		@CC %CC CC
+27	al.	al.		@APP %NH ABBR NOM SG	@A&gt; %&gt;N ABBR NOM SG	@&lt;P %NH ABBR NOM SG	@NH %NH ABBR NOM SG	@&lt;NOM %N&lt; ABBR NOM SG	@ADVL %EH ABBR NOM SG
+28	,	,
+29	1998	1998		@NH %NH NUM CARD	@&lt;P %NH NUM CARD	@A&gt; %&gt;N NUM CARD	@&lt;NOM %N&lt; NUM CARD	@ADVL %EH NUM CARD
+30	)	)
+31	.     .
+</fdg>
+</example>
+<example src="EMBO" no="5">
+<text>
+These data suggest that phosphorylation of the MuSK NPXY site leads to recruitment of a phosphotyrosine-binding domain-containing protein that functions to stimulate phosphorylation and clustering of AchRs.
+
+</text>
+       <arg n="0">phosphorylation of the MuSK NPXY site
+</arg>
+       <arg n="1">recruitment of a phosphotyrosine-binding domain-containing protein
+</arg>
+<fdg>
+1	These	this	det:&gt;2	@DN&gt; %&gt;N DET DEM PL
+2	data	data	subj:&gt;3	@SUBJ %NH N NOM
+3	suggest	suggest	main:&gt;0	@+FMAINV %VA V PRES
+4	that	that	pm:&gt;11	@CS %CS CS
+5	phosphorylation	phosphorylation	subj:&gt;11	@SUBJ %NH N NOM SG
+6	of	of	mod:&gt;5	@&lt;NOM-OF %N&lt; PREP
+7	the	the	det:&gt;10	@DN&gt; %&gt;N DET
+8	MuSK	musk	attr:&gt;9	@A&gt; %&gt;N N NOM SG
+9	NPXY	npxy	attr:&gt;10	@A&gt; %&gt;N N NOM SG
+10	site	site	pcomp:&gt;6	@&lt;P %NH N NOM SG
+11	leads	lead	obj:&gt;3	@+FMAINV %VA V PRES SG3
+12	to	to	ha:&gt;11	@ADVL %EH PREP
+13	recruitment	recruitment	pcomp:&gt;12	@&lt;P %NH N NOM SG
+14	of	of	mod:&gt;13	@&lt;NOM-OF %N&lt; PREP
+15	a	a	det:&gt;16	@DN&gt; %&gt;N DET SG
+16	phosphotyrosine	phosphotyrosine	pcomp:&gt;14	@&lt;P %NH &lt;?&gt; N NOM SG
+17	-	-
+18	binding	binding	attr:&gt;19	@A&gt; %&gt;N N NOM SG
+19	domain-containing	domain-containing	attr:&gt;20	@A&gt; %&gt;N &lt;?&gt; A ABS
+20	protein	protein	mod:&gt;16	@APP %NH N NOM SG
+21	that	that	subj:&gt;22	@SUBJ %NH &lt;Rel&gt; PRON
+22	functions	function	mod:&gt;20	@+FMAINV %VA V PRES SG3
+23	to	to	pm:&gt;24	@INFMARK&gt; %AUX INFMARK&gt;
+24	stimulate	stimulate	cnt:&gt;22	@-FMAINV %VA V INF
+25	phosphorylation	phosphorylation	obj:&gt;24	@OBJ %NH N NOM SG
+26	and	and	cc:&gt;25	@CC %CC CC
+27	clustering	clustering	cc:&gt;25	@OBJ %NH A ABS
+28	of	of	mod:&gt;27	@&lt;NOM-OF %N&lt; PREP
+29	AChRs	achrs	pcomp:&gt;28	@&lt;P %NH N NOM SG
+30	.     .
+</fdg>
+</example>
+</roleset>
+</predicate>
+</frameset>

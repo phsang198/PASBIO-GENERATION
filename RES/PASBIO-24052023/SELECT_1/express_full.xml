@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<PASBIO>
+    <framesest>
+        <predicate lemma="express">
+            <roleset id="express.01" name="" wordnet="5">
+                <roles>
+                    <role n="0" descr="named entity being expressed&#x09;&#x09;&#x09;&#x09;&#x09;// gene or gene products//&#x0A;" />
+                    <role n="1" descr="property of the existing name entity&#x0A;" />
+                    <role n="2" descr="location refering to organelle, cell or tissue&#x0A;" />
+                </roles>
+                <example src="EGRAM" no="0">
+                    <text>RNA and protein for all four transgenic TCR proteins is shown to be expressed by T cells.</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="EGRAM" no="1">
+                    <text>most of the Ty3/gypsy animal retroelements, on the other hand, encoded gag and pole in separate reading frames, and had the ability to express pol through +1 or -1 frame shift.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+                </example>
+                <example src="EGRAM" no="2">
+                    <text>transgenic-encoded TCR proteins were expressed predominantly by T cells in mice on the cell surface.</text>
+                    <arg n="0">transgenic-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice on the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="1">
+                    <text>Analysis of the northern stain with the mRNA of eight different human tissues showed that mRNAs for il8ra is expressed exclusively in neutrophils, with 2 and 2.4 kilograms in length.</text>
+                    <arg n="0">mRNAs for il8ra</arg>
+                    <arg n="1">2 and 2.4 kilograms in length</arg>
+                    <arg n="2">neutrophils</arg>
+                </example>
+                <example src="PERMUTATE" no="2">
+                    <text>BD73 messenger RNA is able to expressed itself as in a wide variety of tissues and cellular lines.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="1">in a wide variety of tissues and cellular lines</arg>
+                </example>
+                <example src="PERMUTATE" no="3">
+                    <text>FGM is cloned and expressed in Distrophic muscles, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+                    <arg n="0">FGM</arg>
+                    <arg n="2">Distrophic muscles</arg>
+                </example>
+                <example src="PERMUTATE" no="4">
+                    <text>FGM is ectopically expressed by tropical muscle.</text>
+                    <arg n="0">FGM</arg>
+                    <arg n="2">tropical muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="5">
+                    <text>FGM is expressed only by Distrophic muscles.</text>
+                    <arg n="0">FGM</arg>
+                    <arg n="2">Distrophic muscles</arg>
+                </example>
+                <example src="PERMUTATE" no="6">
+                    <text>FGM would be expressed and cloned into tropical muscle, and two alternative precursors of the protein were imported into mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">FGM</arg>
+                    <arg n="2">tropical muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="7">
+                    <text>Human mitochondrial transcription ending factor (mTERF) cDNA is expressed and cloned into vitro, and two alternative precursors of the protein have been imported into mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">Human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="8">
+                    <text>Human mitochondrial transcription ending factor (mTERF) cDNA is likely to be expressed through +1 or -1 frame offset for vitro.</text>
+                    <arg n="0">Human mitochondrial transcription ending factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="9">
+                    <text>In dystrophic muscle, two MGF were produced, but only one was expressed.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="10">
+                    <text>In short, MGF has been expressed in dystropheric muscle and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystropheric muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="11">
+                    <text>In short, MGF has been induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in dystrophic muscle.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="12">
+                    <text>In short, NNT-1/BSF-3 has been expressed in PtT/GF follicles of follicle cells and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF follicles of follicle cells</arg>
+                </example>
+                <example src="PERMUTATE" no="13">
+                    <text>In short, NNT-1/BSF-3 has been expressed in TtT/GF pituitary blood cells and induced by PKC, PKA and ERK1/2 dependent mechanisms.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">TtT/GF pituitary blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="14">
+                    <text>In short, NNT-1/BSF-3 was expressed in PtT/GF follicles of piliculoske blood cells and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF follicles of piliculoske blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="15">
+                    <text>In short, the human mitochondrial termination factor (mTERF) cDNA was expressed in vitro and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">the human mitochondrial termination factor (mTERF) cDNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="16">
+                    <text>In summary, FGM will be expressed in Distropical muscles and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">FGM</arg>
+                    <arg n="2">Distropical muscles</arg>
+                </example>
+                <example src="PERMUTATE" no="17">
+                    <text>In summary, NNT-1/BSF-3 was expressed as PtT/GF follicles of piliculoske blood cells and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF follicles of piliculoske blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="18">
+                    <text>In summary, NNT-1/BSF-3 was expressed in ttT/GF blood cells and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">ttT/GF blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="19">
+                    <text>In summary, NNT-1/BSF-3 will be expressed in PtT/GF follicles of follicle cells and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF follicles of follicle cells</arg>
+                </example>
+                <example src="PERMUTATE" no="20">
+                    <text>In summary, Pol was induced by PKC, PKA and ERK1/2 dependent mechanisms and expressed in most Ty3/snakeback elements.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">most Ty3/snakeback elements</arg>
+                </example>
+                <example src="PERMUTATE" no="21">
+                    <text>In summary, a complementary DNA clone was expressed in vitro and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">a complementary DNA clone</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="22">
+                    <text>In summary, one or the other of the two available CRTs was expressed as T-cells of double-transgenic CRT mice on the cell surface and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">one or the other of the two available CRTs</arg>
+                    <arg n="2">T-cells of double-transgenic CRT mice on the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="23">
+                    <text>In summary, pol was expressed as most Ty3/ gypsy animal back-elements and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most Ty3/ gypsy animal back-elements</arg>
+                </example>
+                <example src="PERMUTATE" no="24">
+                    <text>In the adult animal cortex, high anaerobically tier is able to expressed primarily in A2 neurons (³-aminobutyric acid (GABA) and is secreted in perineuronal networks.</text>
+                    <arg n="0">high anaerobically tier</arg>
+                </example>
+                <example src="PERMUTATE" no="25">
+                    <text>It has been assumed that this peptide exerts its mitochondrial influences through the V1a vasopressin receptor, and we have previously shown that NNT-1/BSF-3 has been expressed by PtT/GF folliculostellated pituitary blood cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF folliculostellated pituitary blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="26">
+                    <text>It has been assumed that this peptide exerts its mitochondrial influences through the V1a vasopressin receptor, and we have previously shown that RNA and protein for all four transgenic TCR proteins has been expressed by T cells.</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="27">
+                    <text>It has been assumed that this peptide exerts its mitochondrial influences through the V1a vasopressin receptor, and we have previously shown that retroviral avian receptor may have been expressed by cells.</text>
+                    <arg n="0">retroviral avian receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="28">
+                    <text>It has mainly expressed the avian retroviral receptor, which is secreted into perineuronal networks, in neurons cells infected by RCAS virus.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells infected by RCAS virus</arg>
+                </example>
+                <example src="PERMUTATE" no="29">
+                    <text>It was shown that NNT-1/BSF-3 was expressed and cloned in pituitary follicle TtT/GF cells, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary follicle TtT/GF cells</arg>
+                </example>
+                <example src="PERMUTATE" no="30">
+                    <text>It was shown that avian retroviral receptor was expressed and cloned in cells, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+                    <arg n="0">avian retroviral receptor</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="31">
+                    <text>NN and protein for the four transgenic proteins TCR were expressed predominantly by T cells.</text>
+                    <arg n="0">NN and protein for the four transgenic proteins TCR</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="32">
+                    <text>NNT-1/BSF-3 has been shown to be expressed and cloned into TtT/GF folliculostellated pituitary blood cells, and two alternative protein precursors were imported to mitochondrial isolation and processed to mature protein.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">TtT/GF folliculostellated pituitary blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="33">
+                    <text>NNT-1/BSF-3 is cloned and expressed in pytuited follicle cells TtT/GF, and two alternative precursors of the protein have been imported into mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pytuited follicle cells TtT/GF</arg>
+                </example>
+                <example src="PERMUTATE" no="34">
+                    <text>NNT-1/BSF-3 is expressed and cloned into ttT/GF blood cells, and two alternative precursors of the protein have been imported into mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">ttT/GF blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="35">
+                    <text>NNT-1/BSF-3 is expressed only by TtT/GF pituitary blood cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">TtT/GF pituitary blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="36">
+                    <text>NNT-1/BSF-3 is shown to expressed only for pytuited follicle cells TtT/GF.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pytuited follicle cells TtT/GF</arg>
+                </example>
+                <example src="PERMUTATE" no="37">
+                    <text>NNT-1/BSF-3 may have been expressed probably through +1 or -1 frame shift for ttT/GF blood cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">ttT/GF blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="38">
+                    <text>NNT-1/BSF-3 that codes the large subunit of the essential component of the premessenger RNA of U2 snRNP auxiliary component U2 may have been isolated and expressed in TtT/GF follicles of follicle pituitary blood cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">TtT/GF follicles of follicle pituitary blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="39">
+                    <text>NNT-1/BSF-3 was cloned and expressed in pytuitary folliculary blood cells TtT/GF, and two alternative precursors of the protein were imported to mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pytuitary folliculary blood cells TtT/GF</arg>
+                </example>
+                <example src="PERMUTATE" no="40">
+                    <text>NNT-1/BSF-3 was ectopically expressed by pytuitary folliculary blood cells TtT/GF.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pytuitary folliculary blood cells TtT/GF</arg>
+                </example>
+                <example src="PERMUTATE" no="41">
+                    <text>NNT-1/BSF-3 was expressed only for TtT/GF pituitary blood cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">TtT/GF pituitary blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="42">
+                    <text>NNT-1/BSF-3 was shown to be cloned and expressed in TtT/GF of pituitary blood cells, and two alternative precursors of the protein were imported to mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">TtT/GF of pituitary blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="43">
+                    <text>NNT-1/BSF-3 were expressed by PtT/GF follicles of piliculoske blood cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF follicles of piliculoske blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="44">
+                    <text>NNT-1/BSF-3 would be cloned and expressed in PtT/GF follicles of follicle blood cells, and two alternative precursors of the protein were imported into mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF follicles of follicle blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="45">
+                    <text>Pol are expressed predominantly by most Ty3/snakeback elements.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">most Ty3/snakeback elements</arg>
+                </example>
+                <example src="PERMUTATE" no="46">
+                    <text>Pol has been expressed by most Ty3/snakeback elements.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">most Ty3/snakeback elements</arg>
+                </example>
+                <example src="PERMUTATE" no="47">
+                    <text>Pol would be cloned and expressed in most of the Ty3/gypsy animal retroelements, and two alternative precursors of the protein were imported into mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+                </example>
+                <example src="PERMUTATE" no="48">
+                    <text>RCAS viruses infect only Distropical muscles and engineering is used to express ectopia FGM, AVT.</text>
+                    <arg n="0">FGM</arg>
+                    <arg n="2">Distropical muscles</arg>
+                </example>
+                <example src="PERMUTATE" no="49">
+                    <text>RCAS viruses infect only PtT/GF follicles of piliculoske blood cells engendered to expressing ectopia NNT-1/BSF-3, AVT.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF follicles of piliculoske blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="50">
+                    <text>RCAS viruses infect only classic and SCCL variant and are expressing in the expression of ectopia this receptor, AVT.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classic and SCCL variant</arg>
+                </example>
+                <example src="PERMUTATE" no="51">
+                    <text>RCAS viruses infect only classical and SCCL variant and engineering is used to express ectopy this receptor, AVT.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and SCCL variant</arg>
+                </example>
+                <example src="PERMUTATE" no="52">
+                    <text>RCAS viruses infect only these cells on the cell surface and engineering is used to express ectopy in the transcription structure of the ± chain, AVT.</text>
+                    <arg n="0">in the transcription structure of the ± chain</arg>
+                    <arg n="2">these cells on the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="53">
+                    <text>RNA and protein for all four transgenic TCR proteins was shown to be cloned and expressed in T cells, and two alternative precursors of the protein were imported to mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">RNA and protein for all four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="54">
+                    <text>RNA and protein for the four transgenic TCR proteins has been shown to be expressed predominantly by T cells.</text>
+                    <arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="55">
+                    <text>RNA and protein for the four transgenic TCR proteins was cloned and expressed in T cells, and two alternative precursors of the protein were imported to mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="56">
+                    <text>Reln may have been predominantly expressed by a ³-aminobutyric acid (GABA) erogenic neurons.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">a ³-aminobutyric acid (GABA) erogenic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="57">
+                    <text>T cells in mice on the cell surface, which carry transgenes that code TCR ± and ² proteins, mainly, may have expressed high anaerobically tier.</text>
+                    <arg n="0">high anaerobically tier</arg>
+                </example>
+                <example src="PERMUTATE" no="58">
+                    <text>The analysis of northern cutoff points reveals that BD73 messenger RNA is able to expressed itself ubiquitously in in a wide variety of tissues and cellular lines.</text>
+                    <arg n="0">BD73 messenger RNA</arg>
+                    <arg n="1">in a wide variety of tissues and cellular lines</arg>
+                </example>
+                <example src="PERMUTATE" no="59">
+                    <text>The analysis of the northern spot with the RNAm of eight different human tissues showed that mRNAs for il8ra is expressed exclusively in neutrophils, with 2 and 2.4 kilograms in length.</text>
+                    <arg n="0">mRNAs for il8ra</arg>
+                    <arg n="1">2 and 2.4 kilograms in length</arg>
+                    <arg n="2">neutrophils</arg>
+                </example>
+                <example src="PERMUTATE" no="60">
+                    <text>The mechanical transduction mechanism for this signaling can directly or indirectly involve the distrophin complex, since NNT-1/BSF-3 cannot be expressed in response to the overcharge for PtT/GF folliculostellated pituitary blood cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF folliculostellated pituitary blood cells</arg>
+                </example>
+                <example src="PERMUTATE" no="61">
+                    <text>The mechanical transduction mechanism for this signaling may directly or indirectly involve the distrophin complex as PtT/GF follicles of follicle cells, unlike the normal muscle, was not able to express NNT-1/BSF-3 in response to overcharge.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">PtT/GF follicles of follicle cells</arg>
+                </example>
+                <example src="PERMUTATE" no="62">
+                    <text>The mechanical transduction mechanism for this signaling may directly or indirectly involve the distrophin complex, since Pol was not able to be expressed in response to the overload for most Ty3/ gypsy animal back-elements.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">most Ty3/ gypsy animal back-elements</arg>
+                </example>
+                <example src="PERMUTATE" no="63">
+                    <text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystrophin complex, since RNA and protein for the four transgenic TCR proteins is not able to be expressed in response to the overload by T.</text>
+                    <arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+                    <arg n="2">T</arg>
+                </example>
+                <example src="PERMUTATE" no="64">
+                    <text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystrophin complex, since pol was not able to be expressed in response to the overload by most animal backelements Ty3/gypsum.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most animal backelements Ty3/gypsum</arg>
+                </example>
+                <example src="PERMUTATE" no="65">
+                    <text>The mechanical transduction mechanism for this signaling may involve directly or indirectly the dystrophin complex, since the avian retroviral receptor could not be expressed in response to the overload by cells infected by RCAS virus.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">cells infected by RCAS virus</arg>
+                </example>
+                <example src="PERMUTATE" no="66">
+                    <text>The mechanical transduction mechanism of this signaling may directly or indirectly involve the dystrophic complex such as most of the Ty3/gypsy animal retroelements, unlike the normal muscle, it does not have the ability to express Pol in response to overload.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+                </example>
+                <example src="PERMUTATE" no="67">
+                    <text>The mechanical transduction mechanism of this signaling may directly or indirectly involve the dystrophin complex, as it has been shown that RNA and protein for the four transgenic TCR proteins is not expressed in response to the overload for T cells.</text>
+                    <arg n="0">RNA and protein for the four transgenic TCR proteins</arg>
+                    <arg n="2">T cells</arg>
+                </example>
+                <example src="PERMUTATE" no="68">
+                    <text>The mechanotransduction mechanism of this signaling can directly or indirectly involve the distrophin complex, since transgenic-encoded TCR proteins cannot be expressed in response to the overload for T cells in mice on the cell surface.</text>
+                    <arg n="0">transgenic-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice on the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="69">
+                    <text>The pfl operon was expressed at Reln.</text>
+                    <arg n="0">Reln</arg>
+                </example>
+                <example src="PERMUTATE" no="70">
+                    <text>Two equally abundant the enzyme, two isoforms of mRNA of 2.4 and 4.0 kb, are expressed in brain and arise from the use of two alternative polyadnylation signals.</text>
+                    <arg n="0">the enzyme</arg>
+                    <arg n="1">two isoforms of mRNA of 2.4 and 4.0 kb</arg>
+                    <arg n="2">brain</arg>
+                </example>
+                <example src="PERMUTATE" no="71">
+                    <text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously demonstrated that Reln was expressed by Aminobutyric acid ³-aminobutyric acid (GABA).</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">Aminobutyric acid ³-aminobutyric acid (GABA)</arg>
+                </example>
+                <example src="PERMUTATE" no="72">
+                    <text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously demonstrated that a complementary DNA clone was able to be expressed by vitro.</text>
+                    <arg n="0">a complementary DNA clone</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="PERMUTATE" no="73">
+                    <text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously demonstrated that pol was expressed by most Ty3/ gypsy animal back-elements.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most Ty3/ gypsy animal back-elements</arg>
+                </example>
+                <example src="PERMUTATE" no="74">
+                    <text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously shown that MGF was expressed by dystrophic muscle.</text>
+                    <arg n="0">MGF</arg>
+                    <arg n="2">dystrophic muscle</arg>
+                </example>
+                <example src="PERMUTATE" no="75">
+                    <text>We suppose that this peptide exerts its mitochondrial influences through the vasopressin receptor V1a, and we have previously shown that TCR transgenic cells was expressed by T cells in mice on the cell surface.</text>
+                    <arg n="0">TCR transgenic cells</arg>
+                    <arg n="2">T cells in mice on the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="76">
+                    <text>We suppose that this peptide exerts its mitogenic influences through the vasopressin receptor V1a, and we have previously demonstrated that NNT-1/BSF-3 was expressed by pituitary follicle TtT/GF cells.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary follicle TtT/GF cells</arg>
+                </example>
+                <example src="PERMUTATE" no="77">
+                    <text>We suppose that this peptide exerts its mitogenic influences through the vasopressin receptor V1a, and we have previously demonstrated that Reln was expressed by a ³-aminobutyric acid (GABA) erogenic neurons.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">a ³-aminobutyric acid (GABA) erogenic neurons</arg>
+                </example>
+                <example src="PERMUTATE" no="78">
+                    <text>We suppose that this peptide exerts its mitogenic influences through the vasopressin receptor V1a, and we have previously demonstrated that the retroviral receptor avian was expressed by cells.</text>
+                    <arg n="0">the retroviral receptor avian</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="79">
+                    <text>in the transcription structure of the ± chain was cloned and expressed in these cells on the cell surface, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+                    <arg n="0">in the transcription structure of the ± chain</arg>
+                    <arg n="2">these cells on the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="80">
+                    <text>mainly expressed transgen-encoded TCR proteins, which was secreted in perineuronal networks, in neurons T cells in mice on the cell surface.</text>
+                    <arg n="0">transgen-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice on the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="81">
+                    <text>mainly expressed transgenic-encoded TCR proteins, which was secreted in perineuronal networks, in erogenic neurons T cells in mice on the cell surface.</text>
+                    <arg n="0">transgenic-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice on the cell surface</arg>
+                </example>
+                <example src="PERMUTATE" no="82">
+                    <text>most Ty3/ gypsy animal back-elements, on the other hand, coded gags and Poles in separate reading frames, and it was likely to express pol by +1 or -1 frames.</text>
+                    <arg n="0">Pol</arg>
+                    <arg n="2">most Ty3/ gypsy animal back-elements</arg>
+                </example>
+                <example src="PERMUTATE" no="83">
+                    <text>pol is probably expressed by +1 or -1 compensation schemes for most animal backelements Ty3/gypsum.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most animal backelements Ty3/gypsum</arg>
+                </example>
+                <example src="PERMUTATE" no="84">
+                    <text>pol is shown to be expressed predominantly by most of the Ty3/gypsy animal retroelements.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most of the Ty3/gypsy animal retroelements</arg>
+                </example>
+                <example src="PERMUTATE" no="85">
+                    <text>the avian retroviral receptor was cloned and expressed in clonal virus-infected cells, and two alternative precursors of the protein were imported to mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">the avian retroviral receptor</arg>
+                    <arg n="2">clonal virus-infected cells</arg>
+                </example>
+                <example src="PERMUTATE" no="86">
+                    <text>the retroviral receptor avian would be cloned and expressed in cells, and two alternative precursors of the protein were imported into mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">the retroviral receptor avian</arg>
+                    <arg n="2">cells</arg>
+                </example>
+                <example src="PERMUTATE" no="87">
+                    <text>this receptor is expressed and cloned into classical variant and SCCL, and two alternative precursors of the protein have been imported into mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical variant and SCCL</arg>
+                </example>
+                <example src="PERMUTATE" no="88">
+                    <text>this receptor was expressed and cloned in classical and SCCL variant, and two alternative precursors of the protein were imported to mitochondrial isolation and processed to mature protein.</text>
+                    <arg n="0">this receptor</arg>
+                    <arg n="2">classical and SCCL variant</arg>
+                </example>
+                <example src="REPLACE" no="1">
+                    <text>In summary, isoform identical to Ran/TC4 was expressed as both somatic and testicle and induced by mechanisms dependent on PKC, PKA and ERK1/2.</text>
+                    <arg n="0">isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic and testicle</arg>
+                </example>
+                <example src="REPLACE" no="2">
+                    <text>In the cortex of adult animals, isoform identical to the Ran/TC4 was expressed mainly in A2 (³-aminobutyric acid (GABA) and is secreted in perineuronal nets.</text>
+                    <arg n="0">isoform identical to the Ran/TC4</arg>
+                </example>
+                <example src="REPLACE" no="3">
+                    <text>NNT-1/BSF-3 is probably expressed by +1 or -1 compensation schemes for pituitary folliar cells TtT/GF.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">pituitary folliar cells TtT/GF</arg>
+                </example>
+                <example src="REPLACE" no="4">
+                    <text>T cells in mice on the cell surface carry transgenic acids that codify TCR ± and ² proteins expressed predominantly ±-chain transcribed in frame.</text>
+                    <arg n="0">±-chain transcribed in frame</arg>
+                </example>
+                <example src="REPLACE" no="5">
+                    <text>T cells in mice on the cell surfacehe mechanical transduction mechanism for this signaling may involve directly or indirectly the dystropin complex, since transgen-encoded TCR proteins was not able to be expressed in response to the overload by T.</text>
+                    <arg n="0">transgen-encoded TCR proteins</arg>
+                    <arg n="2">T cells in mice on the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="6">
+                    <text>The mechanical transduction mechanism for this signaling may directly or indirectly involve the dystrophin complex such as both somatic tissues and testis, unlike the normal muscle, it has shown not to express the isoform identical to Ran/TC4 in response to overload.</text>
+                    <arg n="0">the isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic tissues and testis</arg>
+                </example>
+                <example src="REPLACE" no="7">
+                    <text>The mechanical transduction mechanism of this signaling may directly or indirectly involve the dystrophin complex, as it has been shown that pol is not expressed in response to the overload for most of the later elements of Ty3/animal plasters.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most of the later elements of Ty3/animal plasters</arg>
+                </example>
+                <example src="REPLACE" no="8">
+                    <text>This functional allelic exclusion is apparently due to control of the TCR assembly process because these both somatic and testicle are able to express isoform identical to the Ran/TC4.</text>
+                    <arg n="0">isoform identical to the Ran/TC4</arg>
+                    <arg n="2">both somatic and testicle</arg>
+                </example>
+                <example src="REPLACE" no="9">
+                    <text>TtT/GF folliculostellated pituitary blood cellshe mechanical transduction mechanism of this signaling may directly or indirectly involve the dystrophic complex as T, unlike the normal muscle, it has been shown not to express NNT-1/BSF-3 in response to overload.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">TtT/GF folliculostellated pituitary blood cells</arg>
+                </example>
+                <example src="REPLACE" no="10">
+                    <text>TtT/GF folliculostellated pituitary blood cellshis functional allelic exclusion is apparently due to control of the TCR assembly process because these T are able to express NNT-1/BSF-3.</text>
+                    <arg n="0">NNT-1/BSF-3</arg>
+                    <arg n="2">TtT/GF folliculostellated pituitary blood cells</arg>
+                </example>
+                <example src="REPLACE" no="11">
+                    <text>a complementary clone of DNA may have been predominantly expressed by vitro.</text>
+                    <arg n="0">a complementary clone of DNA</arg>
+                    <arg n="2">vitro</arg>
+                </example>
+                <example src="REPLACE" no="12">
+                    <text>both somatic and testicle testicles with transgenic cells TCR ± and ² expressed predominantly isoform identical to Ran/TC4.</text>
+                    <arg n="0">isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic and testicle testicles</arg>
+                </example>
+                <example src="REPLACE" no="13">
+                    <text>both somatic and testicle testicles, on the other hand, coded gags and isoform identical to Ran/TC4es in separate reading frames, and it was likely to express pol by +1 or -1 frames.</text>
+                    <arg n="0">isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic and testicle testicles</arg>
+                </example>
+                <example src="REPLACE" no="14">
+                    <text>in the ± transcription structure of the chain codes the large subunit of the essential component of defocused DNA U2 snRNP auxiliary factor U2AF65 will be isolated and expressed in these cells on the cell surface.</text>
+                    <arg n="0">in the ± transcription structure of the chain</arg>
+                    <arg n="2">these cells on the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="15">
+                    <text>in the ± transcription structure of the chain was shown to be cloned and expressed in these cells on the cell surface, and two alternative protein precursors have been imported into isolated mitochondria and processed into the mature protein.</text>
+                    <arg n="0">in the ± transcription structure of the chain</arg>
+                    <arg n="2">these cells on the cell surface</arg>
+                </example>
+                <example src="REPLACE" no="16">
+                    <text>isoform identical to Ran/TC4 is shown to expressed only for both somatic and testicle testicles.</text>
+                    <arg n="0">isoform identical to Ran/TC4</arg>
+                    <arg n="2">both somatic and testicle testicles</arg>
+                </example>
+                <example src="REPLACE" no="17">
+                    <text>isoform identical to the Ran/TC4 is cloned and expressed in both somatic and testicle, and two alternative precursors of the protein have been imported into mitochondria alone and processed to mature protein.</text>
+                    <arg n="0">isoform identical to the Ran/TC4</arg>
+                    <arg n="2">both somatic and testicle</arg>
+                </example>
+                <example src="REPLACE" no="18">
+                    <text>most of the elements Girapsum Ty3/animal with transgenic cells TCR ± and ² expressed predominantly pol.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most of the elements Girapsum Ty3/animal</arg>
+                </example>
+                <example src="REPLACE" no="19">
+                    <text>pol may have been expressed probably through +1 or -1 frame shift for most of the elements Girapsum Ty3/animal.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most of the elements Girapsum Ty3/animal</arg>
+                </example>
+                <example src="REPLACE" no="20">
+                    <text>pol will be expressed by most of the elements Girapsum Ty3/animal.</text>
+                    <arg n="0">pol</arg>
+                    <arg n="2">most of the elements Girapsum Ty3/animal</arg>
+                </example>
+                <example src="REPLACE" no="21">
+                    <text>³-aminobutyric acid (GABA)he mechanical transduction mechanism for this signaling may involve directly or indirectly the dystropin complex, since Reln has not been demonstrated to be expressed in response to the overload by T.</text>
+                    <arg n="0">Reln</arg>
+                    <arg n="2">³-aminobutyric acid (GABA)</arg>
+                </example>
+            </roleset>
+        </predicate>
+    </framesest>
+</PASBIO>
